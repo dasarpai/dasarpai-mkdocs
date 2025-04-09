@@ -13,7 +13,7 @@ tags:
   - AI Roadmap Consulting
 
 header:
-  teaser: "/assets/images/dscourses/dsc319-AI-Roadmap-Consulting.jpg"
+  teaser: "../assets/images/dscourses/dsc319-AI-Roadmap-Consulting.jpg"
 
 author_profile: true
 last_modified_at: 2021-10-02T15:46:43-04:00

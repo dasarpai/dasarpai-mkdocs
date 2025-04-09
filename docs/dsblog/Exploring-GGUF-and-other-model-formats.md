@@ -16,7 +16,7 @@ tags:
 categories:
   - dsblog
 header:
-  teaser: /assets/images/dspost/dsp6180-exploring-gguf.jpg
+  teaser: ../assets/images/dspost/dsp6180-exploring-gguf.jpg
 excerpt_separator: "<!--more-->"
 author: Hari Thapliyaal
 layout: dspost-layout

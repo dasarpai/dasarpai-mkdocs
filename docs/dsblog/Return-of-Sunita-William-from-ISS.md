@@ -16,7 +16,7 @@ categories:
   - Media and AI
 
 header:
-  teaser: /assets/images/dspost/dsp6245-return-of-sunita-william-from-iss.jpg
+  teaser: ../assets/images/dspost/dsp6245-return-of-sunita-william-from-iss.jpg
 excerpt_separator: "<!--more-->"
 author: Hari Thapliyaal
 layout: dspost-layout

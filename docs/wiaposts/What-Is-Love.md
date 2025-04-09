@@ -7,7 +7,7 @@ tags: [ 'My Views', Philosophy, 'Pleasure & Joy']
 keywords: ["philosophical exploration of love", "understanding love in philosophy", "poetic insights on love and joy", "philosophy of love and relationships", "exploring love in philosophical context"]  
 categories: [wiaposts] 
 header:
-     teaser: /assets/images/wiapost/5139-What-Is-Love.jpg
+     teaser: ../assets/images/wiapost/5139-What-Is-Love.jpg
 author: Hari Thapliyaal 
 layout:   wiaposts-layout
 excerpt: A philosophical and poetic exploration of love, delving into insights on relationships and joy.

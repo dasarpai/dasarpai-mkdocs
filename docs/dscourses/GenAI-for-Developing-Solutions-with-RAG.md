@@ -15,7 +15,7 @@ tags:
   - LlamaIndex
 
 header:
-  teaser: /assets/images/dscourses/dsc327-GenAI-for-Developing-Solutions-with-RAG.jpg
+  teaser: ../assets/images/dscourses/dsc327-GenAI-for-Developing-Solutions-with-RAG.jpg
 
 author_profile: true
 

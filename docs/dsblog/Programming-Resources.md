@@ -9,7 +9,7 @@ categories:
   - dsblog
 keywords: [Programming Resources, Coding Tutorials, Software Development Tools, Learning Platforms, Technical Interview Preparation, Developer Career Guide, Coding Practice, Programming Languages, Development Best Practices]
 header:
-    teaser: /assets/images/dspost/dsp6136-Programming-Resources.jpg
+    teaser: ../assets/images/dspost/dsp6136-Programming-Resources.jpg
 excerpt_separator: "<!--more-->"   
 author: Hari Thapliyaal   
 layout: dspost-layout   

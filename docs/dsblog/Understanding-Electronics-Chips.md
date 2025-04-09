@@ -16,7 +16,7 @@ categories:
   - Electronics
 
 header:
-  teaser: /assets/images/dspost/dsp6254-understanding-electronics-chips.jpg
+  teaser: ../assets/images/dspost/dsp6254-understanding-electronics-chips.jpg
 excerpt_separator: "<!--more-->"
 author: Hari Thapliyaal
 layout: dspost-layout

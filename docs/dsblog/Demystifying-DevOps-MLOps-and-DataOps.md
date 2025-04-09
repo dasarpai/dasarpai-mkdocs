@@ -18,7 +18,7 @@ categories:
   - dsblog    
     
 header:    
-    teaser: /assets/images/dspost/dsp6066-Demystifying-DevOps-MLOps-and-DataOps.jpg    
+    teaser: ../assets/images/dspost/dsp6066-Demystifying-DevOps-MLOps-and-DataOps.jpg    
 excerpt_separator: "<!--more-->"   
 author: Hari Thapliyaal   
 layout: dspost-layout   

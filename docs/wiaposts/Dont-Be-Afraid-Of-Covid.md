@@ -7,7 +7,7 @@ tags: [ Education, Life, Mind, 'My Views', Nature, Philosophy]
 
 categories: [wiaposts] 
 header:
-     teaser: /assets/images/wiapost/5122-Dont-Be-Afraid-Of-Covid.jpg
+     teaser: ../assets/images/wiapost/5122-Dont-Be-Afraid-Of-Covid.jpg
 author: Hari Thapliyaal 
 layout:   wiaposts-layout
 excerpt:  

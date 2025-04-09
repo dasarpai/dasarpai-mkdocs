@@ -8,7 +8,7 @@ tags: ["Generative AI", "Text Generation", "AI Conversation", "Content Creation"
 categories:
   - dsblog
 header:
-    teaser: /assets/images/dspost/dsp6169-Applications-of-GenAI.jpg
+    teaser: ../assets/images/dspost/dsp6169-Applications-of-GenAI.jpg
 excerpt_separator: "<!--more-->"   
 author: Hari Thapliyaal   
 layout: dspost-layout   

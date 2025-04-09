@@ -13,7 +13,7 @@ tags:
   - Data Consulting
 
 header:
-  teaser: "/assets/images/dscourses/dsc317-Data-Consulting.jpg"
+  teaser: "../assets/images/dscourses/dsc317-Data-Consulting.jpg"
 
 author_profile: true
 last_modified_at: 2021-10-01T15:46:43-04:00

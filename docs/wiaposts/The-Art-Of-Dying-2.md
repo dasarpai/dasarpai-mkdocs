@@ -7,7 +7,7 @@ tags: [ Death, Life, 'My Views', Yoga]
 
 categories: [wiaposts] 
 header:
-     teaser: /assets/images/wiapost/5147-The-Art-Of-Dying-2.jpg
+     teaser: ../assets/images/wiapost/5147-The-Art-Of-Dying-2.jpg
 author: Hari Thapliyaal 
 layout:   wiaposts-layout
 excerpt:  

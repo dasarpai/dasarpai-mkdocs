@@ -11,7 +11,7 @@ tags: [Bhagwat Gita]
 categories:    
     
 header:    
-   teaser: /assets/images/samskrut/BhagwatGita.jpg    
+   teaser: ../assets/images/samskrut/BhagwatGita.jpg    
     
 author: 'Hari Thapliyaal'    
     

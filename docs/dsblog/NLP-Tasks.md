@@ -9,7 +9,7 @@ categories:
   - dsblog 
 keywords: [Natural Language Processing, NLP Tasks, Text Analysis, Language Models, Machine Learning, Sentiment Analysis, Text Classification, Information Extraction]
 header:
-    teaser: /assets/images/dspost/dsp6085-NLP-Tasks.jpg
+    teaser: ../assets/images/dspost/dsp6085-NLP-Tasks.jpg
 excerpt_separator: "<!--more-->"   
 author: Hari Thapliyaal   
 layout: dspost-layout   

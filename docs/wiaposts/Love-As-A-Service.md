@@ -7,7 +7,7 @@ tags: [ Philosophy, Poetry]
 keywords: ["love as service", "understanding love through philosophy", "poetic insights on love and service", "philosophy of love and compassion", "exploring love as a service in philosophy"]  
 categories: [wiaposts] 
 header:
-     teaser: /assets/images/wiapost/5109-Love-As-A-Service.jpg
+     teaser: ../assets/images/wiapost/5109-Love-As-A-Service.jpg
 author: Hari Thapliyaal 
 layout:   wiaposts-layout
 excerpt: Exploration idea of love as a service, delving into insights on love, compassion, and service.

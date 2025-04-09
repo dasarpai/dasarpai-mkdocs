@@ -8,7 +8,7 @@ tags: ['Bhagwat Gita', 'Concepts', 'Vedanta', 'Maya']
 
 categories: [wiaposts] 
 header:
-     teaser: /assets/images/wiapost/5082-Understanding-Maya.jpg
+     teaser: ../assets/images/wiapost/5082-Understanding-Maya.jpg
 author: Hari Thapliyaal 
 layout:   wiaposts-layout
 excerpt: 'Delving into the concept of Maya and its implications in Vedantic philosophy.' 

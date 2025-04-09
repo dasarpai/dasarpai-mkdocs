@@ -8,7 +8,7 @@ tags: ['Annual Wishes']
 
 categories: [wiaposts] 
 header:
-     teaser: /assets/images/wiapost/5075-Happy-Deepawali-2019.jpg
+     teaser: ../assets/images/wiapost/5075-Happy-Deepawali-2019.jpg
 author: Hari Thapliyaal 
 layout:   wiaposts-layout
 excerpt: 'Extending warm wishes and reflections on the significance of Deepawali.'

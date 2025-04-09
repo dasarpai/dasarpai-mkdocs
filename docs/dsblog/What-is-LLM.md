@@ -9,7 +9,7 @@ categories:
   - dsblog
 keywords: [Large Language Models, LLM Architecture, Transformer Models, GPT, BERT, Neural Networks, AI Language Processing, Natural Language Understanding]
 header:
-    teaser: /assets/images/dspost/dsp6087-What-is-LLM.jpg
+    teaser: ../assets/images/dspost/dsp6087-What-is-LLM.jpg
 excerpt_separator: "<!--more-->"   
 author: Hari Thapliyaal   
 layout: dspost-layout   
@@ -22,7 +22,7 @@ mathjax: "true"
 ---
 
 
-![What is LLM]( /assets/images/dspost/dsp6087-What-is-LLM.jpg)
+![What is LLM]( ../assets/images/dspost/dsp6087-What-is-LLM.jpg)
 
 # What is Large Language Model
 

@@ -16,7 +16,7 @@ tags:
   - "Intelligent Workflows"
 categories:
 header:
-  teaser: /assets/images/booksummary/7538-Interview-What-is-Agentic-AI-Interview-Praveen-Akkiraji-at-CXOTalk.jpg
+  teaser: ../assets/images/booksummary/7538-Interview-What-is-Agentic-AI-Interview-Praveen-Akkiraji-at-CXOTalk.jpg
 author: Hari Thapliyaal
 layout: booksum-layout
 excerpt: "A summary of the interview between Praveen Akkiraju and Michael Krigsman on CXOTalk, discussing Agentic AI, its current state, and its potential future applications. "

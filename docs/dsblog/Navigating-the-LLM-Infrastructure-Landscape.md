@@ -16,7 +16,7 @@ tags:
 categories:
   - dsblog
 header:
-  teaser: /assets/images/dspost/dsp6181-llm-infrastructure.jpg
+  teaser: ../assets/images/dspost/dsp6181-llm-infrastructure.jpg
 excerpt_separator: "<!--more-->"
 author: Hari Thapliyaal
 layout: dspost-layout

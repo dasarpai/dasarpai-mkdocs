@@ -7,7 +7,7 @@ tags: [Education, My Views]
     
 categories: [wiaposts] 
 header:    
-    teaser: /assets/images/wiapost/5208-The-Way-of-Learning.jpg    
+    teaser: ../assets/images/wiapost/5208-The-Way-of-Learning.jpg    
 author: Hari Thapliyaal    
 layout:   wiaposts-layout
 excerpt:    

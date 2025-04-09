@@ -14,7 +14,7 @@ tags: [Process Consulting]
 
 
 header:
-  teaser: /assets/images/pmlogy/pmc523-cmmi-consulting.jpg
+  teaser: ../assets/images/pmlogy/pmc523-cmmi-consulting.jpg
 
 layout: single
 author_profile: true

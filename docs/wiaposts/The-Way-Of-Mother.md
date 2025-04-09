@@ -8,7 +8,7 @@ tags: ['My Story', 'Philosophy']
 
 categories: [wiaposts] 
 header:
-     teaser: /assets/images/wiapost/5016-The-Way-Of-Mother.jpg
+     teaser: ../assets/images/wiapost/5016-The-Way-Of-Mother.jpg
 author: Hari Thapliyaal 
 layout:   wiaposts-layout
 excerpt: 'A heartfelt story exploring the nurturing and guiding role of a mother.' 

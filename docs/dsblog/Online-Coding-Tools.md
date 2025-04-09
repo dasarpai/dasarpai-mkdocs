@@ -17,7 +17,7 @@ categories:
   - dsresources
 
 header:
-  teaser: /assets/images/dspost/dsp6232-Online-Coding-Tools.jpg
+  teaser: ../assets/images/dspost/dsp6232-Online-Coding-Tools.jpg
 excerpt_separator: "<!--more-->"
 author: Hari Thapliyaal
 layout: dspost-layout

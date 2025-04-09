@@ -8,7 +8,7 @@ tags: []
 categories:
   - pmblog
 header:
-    teaser: /assets/images/pmblog/1047-Leadership-Framework-of-Big-MNCs.jpg
+    teaser: ../assets/images/pmblog/1047-Leadership-Framework-of-Big-MNCs.jpg
 excerpt_separator: "<!--more-->"   
 author: Hari Thapliyaal   
 layout: pmblog-layout   

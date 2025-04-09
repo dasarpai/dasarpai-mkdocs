@@ -8,7 +8,7 @@ tags: ['Bhagwat Gita', 'Mind', 'Philosophy', 'Vedanta']
 
 categories: [wiaposts] 
 header:
-     teaser: /assets/images/wiapost/5032-Who-Is-The-Best-Friend.jpg
+     teaser: ../assets/images/wiapost/5032-Who-Is-The-Best-Friend.jpg
 author: Hari Thapliyaal 
 layout:   wiaposts-layout
 excerpt: 'Exploring the qualities that define a true friend through philosophical insights.' 

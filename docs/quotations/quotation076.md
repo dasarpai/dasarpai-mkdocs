@@ -8,7 +8,7 @@ tags: [WIA Quotations]
 categories: 
 
 header:
-    teaser: /assets/images/quotations/quotation076.jpg
+    teaser: ../assets/images/quotations/quotation076.jpg
 author: Hari Thapliyaal 
 excerpt:
 share: true 

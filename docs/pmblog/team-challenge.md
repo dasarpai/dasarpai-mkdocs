@@ -10,7 +10,7 @@ tags:
 categories:
   - pmblog
 header:
-  teaser: '/assets/images/pmblog/1024-Challenge-Team-min.jpg'
+  teaser: '../assets/images/pmblog/1024-Challenge-Team-min.jpg'
 author: 'Hari Thapliyaal'
 layout: pmblog-layout 
 

@@ -4,15 +4,14 @@
 
 - ![About Me](../assets/images/pages/default.jpg){ width="200" }
 
-    ### [About Me](pages/aboutme.md)
+    ### [About Me](aboutme)
     
     **Read time:** 5 min
     
     Image : Gallery
-
 - ![Book Summary & Interview summary Blog](../assets/images/banners/booksummary-thumbnail.jpg){ width="200" }
 
-    ### [Book Summary & Interview summary Blog](pages/booksummary.md)
+    ### [Book Summary & Interview summary Blog](booksummary)
     
     **Read time:** 5 min
     
@@ -24,15 +23,14 @@
 
 - ![Customer, Team, Participant Diversity](../assets/images/pages/default.jpg){ width="200" }
 
-    ### [Customer, Team, Participant Diversity](pages/clients.md)
+    ### [Customer, Team, Participant Diversity](clients)
     
     **Read time:** 5 min
     
     EXCERPT Not Found
-
 - ![Comment Policy](../assets/images/pages/default.jpg){ width="200" }
 
-    ### [Comment Policy](pages/comment-policy.md)
+    ### [Comment Policy](comment-policy)
     
     **Read time:** 5 min
     
@@ -44,15 +42,14 @@
 
 - ![Corpus](../assets/images/banners/corpus-thumbnail.jpg){ width="200" }
 
-    ### [Corpus](pages/corpus-home.md)
+    ### [Corpus](corpus-home)
     
     **Read time:** 5 min
     
     EXCERPT Not Found
-
 - ![Data Science Blog](../assets/images/banners/DS-thumbnail.jpg){ width="200" }
 
-    ### [Data Science Blog](pages/datascience-blog.md)
+    ### [Data Science Blog](datascience-blog)
     
     **Read time:** 5 min
     
@@ -64,15 +61,14 @@
 
 - ![Courses on Data Science, AI, ML, Deep Learning, NLP](../assets/images/banners/DS-Courses-thumbnail.jpg){ width="200" }
 
-    ### [Courses on Data Science, AI, ML, Deep Learning, NLP](pages/datascience-courses.md)
+    ### [Courses on Data Science, AI, ML, Deep Learning, NLP](datascience-courses)
     
     **Read time:** 5 min
     
     EXCERPT Not Found
-
 - ![Welcome to AI ML Resources from Data Science Blog](../assets/images/banners/ai-ml-resources-thumbnail.jpg){ width="200" }
 
-    ### [Welcome to AI ML Resources from Data Science Blog](pages/datascience-resources.md)
+    ### [Welcome to AI ML Resources from Data Science Blog](datascience-resources)
     
     **Read time:** 5 min
     
@@ -84,15 +80,14 @@
 
 - ![Data Science Tag - Posts](../assets/images/pages/default.jpg){ width="200" }
 
-    ### [Data Science Tag - Posts](pages/datascience-tags.md)
+    ### [Data Science Tag - Posts](datascience-tags)
     
     **Read time:** 5 min
     
     EXCERPT Not Found
-
 - ![Data Science Lexicon](../assets/images/banners/DS-Lexicon-thumbnail.jpg){ width="200" }
 
-    ### [Data Science Lexicon](pages/dslexicon.md)
+    ### [Data Science Lexicon](dslexicon)
     
     **Read time:** 5 min
     
@@ -104,15 +99,14 @@
 
 - ![General Knowledge Blog](../assets/images/banners/General-Knowledge-thumbnail.jpg){ width="200" }
 
-    ### [General Knowledge Blog](pages/gk-blog.md)
+    ### [General Knowledge Blog](gk-blog)
     
     **Read time:** 5 min
     
     EXCERPT Not Found
-
 - ![General Knowledge Tag - Posts](../assets/images/pages/default.jpg){ width="200" }
 
-    ### [General Knowledge Tag - Posts](pages/gk-tags.md)
+    ### [General Knowledge Tag - Posts](gk-tags)
     
     **Read time:** 5 min
     
@@ -124,15 +118,14 @@
 
 - ![Project Management Courses and Consulting](../assets/images/banners/pm-courses-thumbnail.jpg){ width="200" }
 
-    ### [Project Management Courses and Consulting](pages/management.md)
+    ### [Project Management Courses and Consulting](management)
     
     **Read time:** 5 min
     
     EXCERPT Not Found
-
 - ![Microsoft Project Management Templates](../assets/images/pages/default.jpg){ width="200" }
 
-    ### [Microsoft Project Management Templates](pages/micorosoft-pm-templates.md)
+    ### [Microsoft Project Management Templates](micorosoft-pm-templates)
     
     **Read time:** 5 min
     
@@ -144,15 +137,14 @@
 
 - ![AI and Business News Blog](../assets/images/banners/News-thumbnail.jpg){ width="200" }
 
-    ### [AI and Business News Blog](pages/news-blog.md)
+    ### [AI and Business News Blog](news-blog)
     
     **Read time:** 5 min
     
     EXCERPT Not Found
-
 - ![PMBOK 6 Processes](../assets/images/pages/default.jpg){ width="200" }
 
-    ### [PMBOK 6 Processes](pages/pmbok6-summary.md)
+    ### [PMBOK 6 Processes](pmbok6-summary)
     
     **Read time:** 5 min
     
@@ -164,15 +156,14 @@
 
 - ![PMBOK6 Topics](../assets/images/pages/default.jpg){ width="200" }
 
-    ### [PMBOK6 Topics](pages/pmbok6-tags.md)
+    ### [PMBOK6 Topics](pmbok6-tags)
     
     **Read time:** 5 min
     
     EXCERPT Not Found
-
 - ![PMBOK Explorer](../assets/images/banners/pmbok-general-thumbnail.jpg){ width="200" }
 
-    ### [PMBOK Explorer](pages/pmbok6.md)
+    ### [PMBOK Explorer](pmbok6)
     
     **Read time:** 5 min
     
@@ -184,15 +175,14 @@
 
 - ![PMBOK 6 Processes - Hindi Edition](../assets/images/pages/default.jpg){ width="200" }
 
-    ### [PMBOK 6 Processes - Hindi Edition](pages/pmbok6hi-summary.md)
+    ### [PMBOK 6 Processes - Hindi Edition](pmbok6hi-summary)
     
     **Read time:** 6 min
     
     EXCERPT Not Found
-
 - ![PMBOK6 Hindi Topics](../assets/images/pages/default.jpg){ width="200" }
 
-    ### [PMBOK6 Hindi Topics](pages/pmbok6hi-tags.md)
+    ### [PMBOK6 Hindi Topics](pmbok6hi-tags)
     
     **Read time:** 5 min
     
@@ -204,15 +194,14 @@
 
 - ![PMBOK Explorer Hindi](../assets/images/banners/pm-hindi-thumbnail.jpg){ width="200" }
 
-    ### [PMBOK Explorer Hindi](pages/pmbok6hi.md)
+    ### [PMBOK Explorer Hindi](pmbok6hi)
     
     **Read time:** 5 min
     
     EXCERPT Not Found
-
 - ![Project Management Glossary](../assets/images/pages/default.jpg){ width="200" }
 
-    ### [Project Management Glossary](pages/pmglossary.md)
+    ### [Project Management Glossary](pmglossary)
     
     **Read time:** 76 min
     
@@ -224,15 +213,14 @@
 
 - ![PMI Templates](../assets/images/pages/default.jpg){ width="200" }
 
-    ### [PMI Templates](pages/pmi-templates.md)
+    ### [PMI Templates](pmi-templates)
     
     **Read time:** 5 min
     
     EXCERPT Not Found
-
 - ![Project Management Blog](../assets/images/banners/PM-thumbnail.jpg){ width="200" }
 
-    ### [Project Management Blog](pages/pmlogy-blog.md)
+    ### [Project Management Blog](pmlogy-blog)
     
     **Read time:** 5 min
     
@@ -244,15 +232,14 @@
 
 - ![PMLOGY - My Journey](../assets/images/pages/default.jpg){ width="200" }
 
-    ### [PMLOGY - My Journey](pages/pmlogy-home.md)
+    ### [PMLOGY - My Journey](pmlogy-home)
     
     **Read time:** 5 min
     
     EXCERPT Not Found
-
 - ![PMLOGY Tag - Posts](../assets/images/pages/default.jpg){ width="200" }
 
-    ### [PMLOGY Tag - Posts](pages/pmlogy-tags.md)
+    ### [PMLOGY Tag - Posts](pmlogy-tags)
     
     **Read time:** 5 min
     
@@ -264,15 +251,14 @@
 
 - ![PMI Templates](../assets/images/pages/default.jpg){ width="200" }
 
-    ### [PMI Templates](pages/prince2-templates.md)
+    ### [PMI Templates](prince2-templates)
     
     **Read time:** 5 min
     
     EXCERPT Not Found
-
 - ![Privacy Policy](../assets/images/pages/default.jpg){ width="200" }
 
-    ### [Privacy Policy](pages/privacy-policy.md)
+    ### [Privacy Policy](privacy-policy)
     
     **Read time:** 5 min
     
@@ -284,15 +270,14 @@
 
 - ![Description of Business Domains](../assets/images/pages/default.jpg){ width="200" }
 
-    ### [Description of Business Domains](pages/project-domains.md)
+    ### [Description of Business Domains](project-domains)
     
     **Read time:** 5 min
     
     Image : Gallery
-
 - ![Project Index Page](../assets/images/pages/default.jpg){ width="200" }
 
-    ### [Project Index Page](pages/project-index-page.md)
+    ### [Project Index Page](project-index-page)
     
     **Read time:** 39 min
     
@@ -304,15 +289,14 @@
 
 - ![Summary of AI ML Project](../assets/images/pages/default.jpg){ width="200" }
 
-    ### [Summary of AI ML Project](pages/projects-aiml-all-verticals.md)
+    ### [Summary of AI ML Project](projects-aiml-all-verticals)
     
     **Read time:** 23 min
     
     Image : Gallery
-
 - ![Summary of Management Project](../assets/images/pages/default.jpg){ width="200" }
 
-    ### [Summary of Management Project](pages/projects-management.md)
+    ### [Summary of Management Project](projects-management)
     
     **Read time:** 5 min
     
@@ -324,15 +308,14 @@
 
 - ![Summary of My Technology Stacks](../assets/images/pages/default.jpg){ width="200" }
 
-    ### [Summary of My Technology Stacks](pages/projects-tech-stacks.md)
+    ### [Summary of My Technology Stacks](projects-tech-stacks)
     
     **Read time:** 14 min
     
     Image : Gallery
-
 - ![Books and Publications](../assets/images/banners/Publication-thumbnail.jpg){ width="200" }
 
-    ### [Books and Publications](pages/publications-home.md)
+    ### [Books and Publications](publications-home)
     
     **Read time:** 5 min
     
@@ -344,15 +327,14 @@
 
 - ![Wisdom in Awareness Quotations - Topics](../assets/images/pages/default.jpg){ width="200" }
 
-    ### [Wisdom in Awareness Quotations - Topics](pages/quotations-tags.md)
+    ### [Wisdom in Awareness Quotations - Topics](quotations-tags)
     
     **Read time:** 5 min
     
     These Qutations come from my reflection from the surface of lake called life. Great teachers like Mahatama Buddha, Lao Tzu, Adi Shankara, Ramakrushna 
-
 - ![WIA Quotations](../assets/images/banners/wia-thumbnail.jpg){ width="200" }
 
-    ### [WIA Quotations](pages/quotations.md)
+    ### [WIA Quotations](quotations)
     
     **Read time:** 5 min
     
@@ -364,15 +346,14 @@
 
 - ![Samskrut Yatra Blog](../assets/images/pages/default.jpg){ width="200" }
 
-    ### [Samskrut Yatra Blog](pages/samskrut-home.md)
+    ### [Samskrut Yatra Blog](samskrut-home)
     
     **Read time:** 5 min
     
     EXCERPT Not Found
-
 - ![Samskrut Yatra Topics](../assets/images/pages/default.jpg){ width="200" }
 
-    ### [Samskrut Yatra Topics](pages/samskrut-tags.md)
+    ### [Samskrut Yatra Topics](samskrut-tags)
     
     **Read time:** 5 min
     
@@ -384,15 +365,14 @@
 
 - ![Welcome to my Vedic Chanting Blog](../assets/images/banners/SamskrutYatra-thumbnail.jpg){ width="200" }
 
-    ### [Welcome to my Vedic Chanting Blog](pages/samskrutyatra-chanting.md)
+    ### [Welcome to my Vedic Chanting Blog](samskrutyatra-chanting)
     
     **Read time:** 5 min
     
     EXCERPT Not Found
-
 - ![Samskrut Yatra](../assets/images/banners/SamskrutYatra-thumbnail.jpg){ width="200" }
 
-    ### [Samskrut Yatra](pages/samskrutyatra.md)
+    ### [Samskrut Yatra](samskrutyatra)
     
     **Read time:** 5 min
     
@@ -404,15 +384,14 @@
 
 - ![My Courses on Data Science, AI, ML, Deep Learning, NLP & Project Management](../assets/images/banners/ai-ml-resources-thumbnail.jpg){ width="200" }
 
-    ### [My Courses on Data Science, AI, ML, Deep Learning, NLP & Project Management](pages/services.md)
+    ### [My Courses on Data Science, AI, ML, Deep Learning, NLP & Project Management](services)
     
     **Read time:** 5 min
     
     EXCERPT Not Found
-
 - ![Sitemap](../assets/images/pages/default.jpg){ width="200" }
 
-    ### [Sitemap](pages/sitemap.md)
+    ### [Sitemap](sitemap)
     
     **Read time:** 5 min
     
@@ -424,15 +403,14 @@
 
 - ![Splash Page](../assets/images/pages/default.jpg){ width="200" }
 
-    ### [Splash Page](pages/splash-page.md)
+    ### [Splash Page](splash-page)
     
     **Read time:** 5 min
     
     Bacon ipsum dolor sit amet salami ham hock ham, hamburger corned beef short ribs kielbasa biltong t-bone drumstick tri-tip tail sirloin pork chop.
-
 - ![Summary of My Work / Achievments](../assets/images/banners/ai-ml-resources-thumbnail.jpg){ width="200" }
 
-    ### [Summary of My Work / Achievments](pages/summary.md)
+    ### [Summary of My Work / Achievments](summary)
     
     **Read time:** 5 min
     
@@ -444,15 +422,14 @@
 
 - ![Posts by Tag](../assets/images/pages/default.jpg){ width="200" }
 
-    ### [Posts by Tag](pages/tag-archive.md)
+    ### [Posts by Tag](tag-archive)
     
     **Read time:** 5 min
     
     EXCERPT Not Found
-
 - ![Terms of Service](../assets/images/pages/default.jpg){ width="200" }
 
-    ### [Terms of Service](pages/terms-of-service.md)
+    ### [Terms of Service](terms-of-service)
     
     **Read time:** 5 min
     
@@ -464,15 +441,14 @@
 
 - ![Terms and Privacy Policy](../assets/images/pages/default.jpg){ width="200" }
 
-    ### [Terms and Privacy Policy](pages/terms.md)
+    ### [Terms and Privacy Policy](terms)
     
     **Read time:** 5 min
     
     EXCERPT Not Found
-
 - ![Testimonials : What My Customers/Learners Says](../assets/images/banners/Customer-feedback-thumnail.jpg){ width="200" }
 
-    ### [Testimonials : What My Customers/Learners Says](pages/tesimonials.md)
+    ### [Testimonials : What My Customers/Learners Says](tesimonials)
     
     **Read time:** 14 min
     
@@ -484,15 +460,14 @@
 
 - ![This is Experiment Page](../assets/images/pages/default.jpg){ width="200" }
 
-    ### [This is Experiment Page](pages/test.md)
+    ### [This is Experiment Page](test)
     
     **Read time:** 5 min
     
     EXCERPT Not Found
-
 - ![Wisdom in Awareness Blog](../assets/images/banners/wia-thumbnail.jpg){ width="200" }
 
-    ### [Wisdom in Awareness Blog](pages/wia-blog.md)
+    ### [Wisdom in Awareness Blog](wia-blog)
     
     **Read time:** 5 min
     
@@ -504,15 +479,14 @@
 
 - ![Wisdom in Awareness - My Journey](../assets/images/pages/default.jpg){ width="200" }
 
-    ### [Wisdom in Awareness - My Journey](pages/wia-home.md)
+    ### [Wisdom in Awareness - My Journey](wia-home)
     
     **Read time:** 5 min
     
     EXCERPT Not Found
-
 - ![Wisdom in Awareness Tag - Posts](../assets/images/pages/default.jpg){ width="200" }
 
-    ### [Wisdom in Awareness Tag - Posts](pages/wia-tags.md)
+    ### [Wisdom in Awareness Tag - Posts](wia-tags)
     
     **Read time:** 5 min
     
@@ -524,10 +498,9 @@
 
 - ![Posts by Year](../assets/images/pages/default.jpg){ width="200" }
 
-    ### [Posts by Year](pages/year-archive.md)
+    ### [Posts by Year](year-archive)
     
     **Read time:** 5 min
     
     EXCERPT Not Found
-
 </div>

@@ -11,7 +11,7 @@ tags:
 categories:
   - dsblog
 header:
-  teaser: /assets/images/dspost/dsp6196-the-complete-ecosystem-of-software-development.jpg
+  teaser: ../assets/images/dspost/dsp6196-the-complete-ecosystem-of-software-development.jpg
 excerpt_separator: "<!--more-->"
 author: Hari Thapliyaal
 layout: dspost-layout

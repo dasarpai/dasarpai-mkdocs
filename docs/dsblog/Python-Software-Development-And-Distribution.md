@@ -9,7 +9,7 @@ tags:
   - Python Software Development 
   - Software Distribution
 header:
-  teaser: "/assets/images/dspost/dsp6012-Python-Software-Development-and-Distribution.jpg"
+  teaser: "../assets/images/dspost/dsp6012-Python-Software-Development-and-Distribution.jpg"
 excerpt_separator: "<!--more-->"   
 author: Hari Thapliyaal   
 layout: dspost-layout   

@@ -9,7 +9,7 @@ categories:
   - dsblog
 keywords: [AI in Healthcare, Medical AI Applications, Healthcare Innovation, Clinical Decision Support, Medical Diagnosis, Patient Care Technology, Healthcare Analytics, Medical AI Tools]
 header:
-    teaser: /assets/images/dspost/dsp6124-AI-in-Health-Care.jpg
+    teaser: ../assets/images/dspost/dsp6124-AI-in-Health-Care.jpg
 excerpt_separator: "<!--more-->"   
 author: Hari Thapliyaal   
 layout: dspost-layout   

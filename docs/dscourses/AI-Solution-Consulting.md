@@ -13,7 +13,7 @@ tags:
   - AI Solution Consulting
 
 header:
-  teaser: "/assets/images/dscourses/dsc318-AI-Solution-Consulting.jpg"
+  teaser: "../assets/images/dscourses/dsc318-AI-Solution-Consulting.jpg"
 
 author_profile: true
 last_modified_at: 2021-10-02T15:46:43-04:00

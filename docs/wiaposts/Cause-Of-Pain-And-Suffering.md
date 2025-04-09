@@ -7,7 +7,7 @@ tags: [ Life, Mind, 'My Views', Philosophy]
 keywords: ["exploration of pain and suffering", "understanding causes of suffering in philosophy", "poetic insights on pain and human experience", "philosophy of suffering and healing", "exploring pain and suffering in philosophical context"]  
 categories: [wiaposts] 
 header:
-     teaser: /assets/images/wiapost/5124-Cause-Of-Pain-And-Suffering.jpg
+     teaser: ../assets/images/wiapost/5124-Cause-Of-Pain-And-Suffering.jpg
 author: Hari Thapliyaal 
 layout:   wiaposts-layout
 excerpt: Exploration of the causes of pain and suffering, delving into insights on human experience and healing.

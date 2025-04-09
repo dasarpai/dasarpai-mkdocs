@@ -8,7 +8,7 @@ tags: ['Concepts', 'Indian Culture']
 
 categories: [wiaposts] 
 header:
-     teaser: /assets/images/wiapost/5088-About-Indian-Secularism.jpg
+     teaser: ../assets/images/wiapost/5088-About-Indian-Secularism.jpg
 author: Hari Thapliyaal 
 layout:   wiaposts-layout
 excerpt: 'Exploring the principles and challenges of secularism in India.' 

@@ -11,7 +11,7 @@ tags:
   - "India's Global Rise"
 categories:
 header:
-  teaser: /assets/images/booksummary/7546-Dr-Jaishankdar-Interview-with-HT-after-US-Election.jpg
+  teaser: ../assets/images/booksummary/7546-Dr-Jaishankdar-Interview-with-HT-after-US-Election.jpg
 author: Hari Thapliyaal
 layout: booksum-layout
 excerpt: "Dr. S. Jaishankar's Interview with Bronwen Maddox about Geopolitics and India's Global Rise after US Election"

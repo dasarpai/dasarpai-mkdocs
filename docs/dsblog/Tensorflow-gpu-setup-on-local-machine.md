@@ -9,7 +9,7 @@ categories:
   - dsblog
 keywords: [TensorFlow GPU Setup, CUDA Installation, Deep Learning Environment, Docker Configuration, GPU Computing, NVIDIA Drivers, Development Setup, Machine Learning Tools]
 header:
-    teaser: /assets/images/dspost/dsp6140-Tensorflow-gpu-setup-on-local-machine.jpg
+    teaser: ../assets/images/dspost/dsp6140-Tensorflow-gpu-setup-on-local-machine.jpg
 excerpt_separator: "<!--more-->"   
 author: Hari Thapliyaal   
 layout: dspost-layout   

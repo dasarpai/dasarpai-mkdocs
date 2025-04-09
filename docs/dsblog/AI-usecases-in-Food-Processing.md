@@ -20,7 +20,7 @@ tags:
   - Food Technology
    
 header:  
-  teaser: "/assets/images/dspost/dsp6036-AI-Use-Cases-in-Food-Processing.jpg"  
+  teaser: "../assets/images/dspost/dsp6036-AI-Use-Cases-in-Food-Processing.jpg"  
 excerpt_separator: "<!--more-->"   
 author: Hari Thapliyaal   
 layout: dspost-layout   

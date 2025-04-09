@@ -7,7 +7,7 @@ tags: [Education ]
 
 categories: [wiaposts] 
 header:
-     teaser: /assets/images/wiapost/5165-How-To-Evaluate-Iq.jpg
+     teaser: ../assets/images/wiapost/5165-How-To-Evaluate-Iq.jpg
 author: Hari Thapliyaal 
 layout:   wiaposts-layout
 excerpt:  

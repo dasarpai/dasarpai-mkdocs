@@ -8,7 +8,7 @@ tags: ['Concepts', 'Education', 'Philosophy']
 
 categories: [wiaposts] 
 header:
-     teaser: /assets/images/wiapost/5060-Rider-On-Freedom.jpg
+     teaser: ../assets/images/wiapost/5060-Rider-On-Freedom.jpg
 author: Hari Thapliyaal 
 layout:   wiaposts-layout
 excerpt: 'Exploring the concept of freedom and its implications on education and society.' 

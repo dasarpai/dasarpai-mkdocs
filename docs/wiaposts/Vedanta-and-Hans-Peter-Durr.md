@@ -7,7 +7,7 @@ permalink: /wiaposts/Vedanta-and-Hans-Peter-Durr
 tags:  [Vedanta,  Science, "Hans Peter Durr"]         
 categories: [wiaposts] 
 header:        
-    teaser: /assets/images/wiapost/5272-Vedanta-and-Hans-Peter-Durr.jpg               
+    teaser: ../assets/images/wiapost/5272-Vedanta-and-Hans-Peter-Durr.jpg               
 author: Hari Thapliyaal        
 layout:   wiaposts-layout        
 excerpt:        

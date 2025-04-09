@@ -5,7 +5,7 @@ title:  "How to Overcome the Ego and Find Joy in Life?"
 date: "2025-03-16"        
 permalink: /wiaposts/overcome-ego-and-find-joy-in-life
 header:        
-    teaser: /assets/images/wiapost/5290-overcome-ego-and-find-joy-in-life.jpg               
+    teaser: ../assets/images/wiapost/5290-overcome-ego-and-find-joy-in-life.jpg               
 author: Hari Thapliyaal        
 layout:   wiaposts-layout        
 author_profile: true        

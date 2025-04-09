@@ -8,7 +8,7 @@ tags: ['Mind', 'My Views', 'Philosophy', 'Poetry']
 
 categories: [wiaposts] 
 header:
-     teaser: /assets/images/wiapost/5014-Prisoner-Of-The-Mind.jpg
+     teaser: ../assets/images/wiapost/5014-Prisoner-Of-The-Mind.jpg
 author: Hari Thapliyaal 
 layout:   wiaposts-layout
 excerpt: 'A poetic reflection on the constraints imposed by the mind and the journey to liberation.' 

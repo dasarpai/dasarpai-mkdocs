@@ -7,7 +7,7 @@ tags: [ Vedanta, My Views]
 
 categories: [wiaposts] 
 header:
-     teaser: /assets/images/wiapost/5181-Awareness-And-Who-Am-I.jpg
+     teaser: ../assets/images/wiapost/5181-Awareness-And-Who-Am-I.jpg
 author: Hari Thapliyaal 
 layout:   wiaposts-layout
 excerpt:  

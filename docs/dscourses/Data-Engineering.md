@@ -15,7 +15,7 @@ tags:
   - ML Courses
 
 header:
-  teaser: /assets/images/dscourses/dsc309-Data-Engineering.jpg
+  teaser: ../assets/images/dscourses/dsc309-Data-Engineering.jpg
 
 author_profile: true
 last_modified_at: 2021-09-23T15:46:43-04:00

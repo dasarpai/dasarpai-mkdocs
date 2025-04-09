@@ -11,7 +11,7 @@ tags: [Hindi Bhajan]
 categories:    
     
 header:    
-   teaser: /assets/images/samskrut/Sri-Ramakrishna.jpg    
+   teaser: ../assets/images/samskrut/Sri-Ramakrishna.jpg    
     
 author: 'Hari Thapliyaal'    
     

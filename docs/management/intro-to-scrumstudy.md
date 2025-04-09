@@ -13,7 +13,7 @@ tags:
   - 'ScrumStudy Certification'
 
 header:
-  teaser: /assets/images/pmlogy/pmc507-intro-to-scrumstudy.jpg
+  teaser: ../assets/images/pmlogy/pmc507-intro-to-scrumstudy.jpg
 
 author_profile: true
 last_modified_at: 2020-08-09T15:46:43-04:00

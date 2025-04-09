@@ -8,7 +8,7 @@ tags: [SQL, GraphQL, Programming]
 categories:
   - dsblog
 header:
-    teaser: /assets/images/dspost/dsp6162-Exploring-SQL-and-GraphQL-Commands.jpg
+    teaser: ../assets/images/dspost/dsp6162-Exploring-SQL-and-GraphQL-Commands.jpg
 excerpt_separator: "<!--more-->"   
 author: Hari Thapliyaal   
 layout: dspost-layout   

@@ -11,7 +11,7 @@ categories:
   - pmblog
 
 header:
-  teaser: '/assets/images/pmblog/1000-Time-Waste-min.png'
+  teaser: '../assets/images/pmblog/1000-Time-Waste-min.png'
 author: 'Hari Thapliyaal'
 layout: pmblog-layout 
 

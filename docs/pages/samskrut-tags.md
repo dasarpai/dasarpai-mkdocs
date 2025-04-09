@@ -7,7 +7,7 @@ author_profile: true
 toc: true
 toc_sticky: true
 header:
-  image: /assets/images/samskrut/SanskritYatra-Sloka.jpg
+  image: ../assets/images/samskrut/SanskritYatra-Sloka.jpg
 sidebar:
    nav: "docs"
 ---

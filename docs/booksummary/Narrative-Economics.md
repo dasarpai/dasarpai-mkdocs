@@ -9,7 +9,7 @@ tags:  [Book Summary, Economics]
     
 categories:    
 header:    
-    teaser: /assets/images/booksummary/7519-Book-Summary-Narrative-Economics.jpg    
+    teaser: ../assets/images/booksummary/7519-Book-Summary-Narrative-Economics.jpg    
 author: Hari Thapliyaal    
 layout: booksum-layout    
 excerpt:    

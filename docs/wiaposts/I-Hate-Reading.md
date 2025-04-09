@@ -7,7 +7,7 @@ tags: [ Life, 'My Story', 'My Views']
 keywords: ["why some people dislike reading books", "personal story about reading habits", "life experiences with reading", "views on reading culture", "challenges of enjoying reading"]  
 categories: [wiaposts] 
 header:
-     teaser: /assets/images/wiapost/5098-I-Hate-Reading.jpg
+     teaser: ../assets/images/wiapost/5098-I-Hate-Reading.jpg
 author: Hari Thapliyaal 
 layout:   wiaposts-layout
 excerpt: A personal reflection on the challenges and experiences of not enjoying reading, exploring cultural and personal perspectives.

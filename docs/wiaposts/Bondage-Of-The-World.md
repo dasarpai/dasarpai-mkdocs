@@ -7,7 +7,7 @@ tags: [ Life, Karma]
 
 categories: [wiaposts] 
 header:
-     teaser: /assets/images/wiapost/5168-Bondage-Of-The-World.jpg
+     teaser: ../assets/images/wiapost/5168-Bondage-Of-The-World.jpg
 author: Hari Thapliyaal 
 layout:   wiaposts-layout
 excerpt:  

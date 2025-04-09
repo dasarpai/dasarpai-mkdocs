@@ -7,7 +7,7 @@ tags: [ Concepts, Education, Poetry]
 keywords: ["challenges of cultural translation", "impact of translation on education", "poetry inspired by translation issues", "understanding cultural nuisances", "insights from Rajiv Malhotra's work"]  
 categories: [wiaposts] 
 header:
-     teaser: /assets/images/wiapost/5101-Nuisance-Of-Translation.jpg
+     teaser: ../assets/images/wiapost/5101-Nuisance-Of-Translation.jpg
 author: Hari Thapliyaal 
 layout:   wiaposts-layout
 excerpt: "An exploration of the challenges and nuisances in translating cultural concepts, inspired by Rajiv Malhotra's insights."  

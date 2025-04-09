@@ -8,7 +8,7 @@ tags: ['Annual Wishes']
 
 categories: [wiaposts] 
 header:
-     teaser: /assets/images/wiapost/5000-Greetings-For-New-Year-2012.jpg
+     teaser: ../assets/images/wiapost/5000-Greetings-For-New-Year-2012.jpg
 author: Hari Thapliyaal 
 layout:   wiaposts-layout
 excerpt: 'A warm greeting for the New Year 2012, reflecting on past achievements and future aspirations.' 

@@ -11,7 +11,7 @@ tags:
 categories:
   - dsblog
 header:
-  teaser: /assets/images/dspost/dsp6212-Power-of-Chinese-AI-Models.jpg
+  teaser: ../assets/images/dspost/dsp6212-Power-of-Chinese-AI-Models.jpg
 excerpt_separator: "<!--more-->"
 author: Jane Smith
 layout: dspost-layout

@@ -9,7 +9,7 @@ tags:  [Book Summary, Economics]
     
 categories:    
 header:    
-    teaser: /assets/images/booksummary/7522-Arthashastra-of-Kautilya.jpg    
+    teaser: ../assets/images/booksummary/7522-Arthashastra-of-Kautilya.jpg    
 author: Hari Thapliyaal    
 layout: booksum-layout    
 excerpt:    

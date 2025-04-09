@@ -17,7 +17,7 @@ categories:
   - video editing
 
 header:
-  teaser: /assets/images/dspost/dsp6248-video-editing-concepts.jpg
+  teaser: ../assets/images/dspost/dsp6248-video-editing-concepts.jpg
 excerpt_separator: "<!--more-->"
 author: Hari Thapliyaal
 layout: dspost-layout

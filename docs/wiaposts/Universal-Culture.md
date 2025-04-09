@@ -7,7 +7,7 @@ tags: [ Concepts, Education, 'Indian Culture']
 keywords: ["philosophical exploration of universal culture", "understanding cultural integration in philosophy", "poetic insights on global culture and identity", "philosophy of culture and diversity", "exploring universal culture in philosophical context"]  
 categories: [wiaposts] 
 header:
-     teaser: /assets/images/wiapost/5134-Universal-Culture.jpg
+     teaser: ../assets/images/wiapost/5134-Universal-Culture.jpg
 author: Hari Thapliyaal 
 layout:   wiaposts-layout
 excerpt: A philosophical and poetic exploration of universal culture, delving into insights on cultural integration and identity.

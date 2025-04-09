@@ -19,7 +19,7 @@ categories:
   - dsresources
 
 header:
-  teaser: /assets/images/dspost/dsp6231-Mybookmark-Blog-Articles.jpg
+  teaser: ../assets/images/dspost/dsp6231-Mybookmark-Blog-Articles.jpg
 excerpt_separator: "<!--more-->"
 author: Hari Thapliyaal
 layout: dspost-layout

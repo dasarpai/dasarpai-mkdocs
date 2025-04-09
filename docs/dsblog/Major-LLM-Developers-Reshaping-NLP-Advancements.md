@@ -8,7 +8,7 @@ tags: [LLM, NLP, Machine Learning, AI Companies, Language Models, AI Research]
 categories:
   - dsblog
 header:
-    teaser: /assets/images/dspost/dsp6075-Major-LLM-Developers-Reshaping-NLP-Advancements.jpg
+    teaser: ../assets/images/dspost/dsp6075-Major-LLM-Developers-Reshaping-NLP-Advancements.jpg
 excerpt_separator: "<!--more-->"   
 author: Hari Thapliyaal   
 layout: dspost-layout   

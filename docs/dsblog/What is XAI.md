@@ -14,7 +14,7 @@ tags:
   - AI Ethics
 keywords: explainable artificial intelligence, interpretable ML, AI transparency, model interpretability, LIME, SHAP, model explanation, AI accountability, responsible AI, AI black box
 header:
-  teaser: "/assets/images/dspost/dsp6003-XAI.jpg"
+  teaser: "../assets/images/dspost/dsp6003-XAI.jpg"
 excerpt_separator: "<!--more-->"   
 author: Hari Thapliyaal   
 layout: dspost-layout   

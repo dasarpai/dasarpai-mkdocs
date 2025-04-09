@@ -10,7 +10,7 @@ tags:
   - "Inspiring People"
 categories:
 header:
-  teaser: /assets/images/booksummary/7535-Masayoshi-Son.jpg
+  teaser: ../assets/images/booksummary/7535-Masayoshi-Son.jpg
 excerpt_separator: "<!--more-->"
 author: Hari Thapliyaal
 layout: booksum-layout

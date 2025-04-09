@@ -7,7 +7,7 @@ tags: [My Views, Life, Society]
                                 
 categories: [wiaposts] 
 header:                                
-    teaser: /assets/images/wiapost/5218-The-Real-Hell-of-False-Ego.jpg                               
+    teaser: ../assets/images/wiapost/5218-The-Real-Hell-of-False-Ego.jpg                               
 author: Hari Thapliyaal                                
 layout:   wiaposts-layout
 excerpt:                                

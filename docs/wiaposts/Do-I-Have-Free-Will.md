@@ -7,7 +7,7 @@ tags: [ Vedanta]
 keywords: ["Exploration of free will", "understanding free will in vedanta", "poetic insights on free will and choice", "philosophy of free will and determinism", "exploring free will in philosophical context"]  
 categories: [wiaposts] 
 header:
-     teaser: /assets/images/wiapost/5118-Do-I-Have-Free-Will.jpg
+     teaser: ../assets/images/wiapost/5118-Do-I-Have-Free-Will.jpg
 author: Hari Thapliyaal 
 layout:   wiaposts-layout
 excerpt: Exploration of free will, delving into insights from Vedanta and philosophical contexts.

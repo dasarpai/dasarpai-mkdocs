@@ -5,7 +5,7 @@ title:  "Life, Death, and the Illusion of Reasons"
 date: "2025-03-30"        
 permalink: /wiaposts/life-death-and-illusion-of-reasons
 header:        
-    teaser: /assets/images/wiapost/5294-life-death-and-illusion-of-reasons.jpg               
+    teaser: ../assets/images/wiapost/5294-life-death-and-illusion-of-reasons.jpg               
 author: Hari Thapliyaal        
 layout:   wiaposts-layout        
 author_profile: true        

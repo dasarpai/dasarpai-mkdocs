@@ -7,7 +7,7 @@ tags: [ Life, God, Miracle]
 
 categories: [wiaposts] 
 header:
-     teaser: /assets/images/wiapost/5194-What-Is-The-Miracle.jpg
+     teaser: ../assets/images/wiapost/5194-What-Is-The-Miracle.jpg
 author: Hari Thapliyaal 
 layout:   wiaposts-layout
 excerpt:  

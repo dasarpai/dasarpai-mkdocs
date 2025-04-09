@@ -16,7 +16,7 @@ categories:
   - dsresources
 
 header:
-  teaser: /assets/images/dspost/dsp6256-aibenchmarks-for-2025.jpg # Keeping existing teaser, update if needed
+  teaser: ../assets/images/dspost/dsp6256-aibenchmarks-for-2025.jpg # Keeping existing teaser, update if needed
 excerpt_separator: "<!--more-->"
 author: Hari Thapliyaal
 layout: dspost-layout

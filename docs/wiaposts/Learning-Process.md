@@ -7,7 +7,7 @@ tags: [ Education, 'My Views']
 
 categories: [wiaposts] 
 header:
-     teaser: /assets/images/wiapost/5152-Learning-Process.jpg
+     teaser: ../assets/images/wiapost/5152-Learning-Process.jpg
 author: Hari Thapliyaal 
 layout:   wiaposts-layout
 excerpt:  

@@ -7,7 +7,7 @@ tags: [ 'My Views', Philosophy]
 keywords: ["Exploration of uncertainty", "understanding the unknown in philosophy", "poetic insights on not knowing", "philosophy of uncertainty and exploration", "exploring the unknown in philosophical context"]  
 categories: [wiaposts] 
 header:
-     teaser: /assets/images/wiapost/5120-I-Dont-Know.jpg
+     teaser: ../assets/images/wiapost/5120-I-Dont-Know.jpg
 author: Hari Thapliyaal 
 layout:   wiaposts-layout
 excerpt: Exploration of uncertainty and the unknown, delving into insights on exploration and not knowing.

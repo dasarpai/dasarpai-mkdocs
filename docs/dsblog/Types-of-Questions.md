@@ -9,7 +9,7 @@ categories:
   - dsblog
 keywords: [Question Types, Communication Skills, Research Methods, Interview Questions, Critical Thinking, Survey Design, Question Techniques, Effective Questioning]
 header:
-    teaser: /assets/images/dspost/dsp6083-Types-of-Questions.jpg
+    teaser: ../assets/images/dspost/dsp6083-Types-of-Questions.jpg
 excerpt_separator: "<!--more-->"   
 author: Hari Thapliyaal   
 layout: dspost-layout   

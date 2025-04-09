@@ -7,7 +7,7 @@ tags: [ 'Mad Thinking', 'My Views', Philosophy]
 
 categories: [wiaposts] 
 header:
-     teaser: /assets/images/wiapost/5151-Earnings-Of-Life.jpg
+     teaser: ../assets/images/wiapost/5151-Earnings-Of-Life.jpg
 author: Hari Thapliyaal 
 layout:   wiaposts-layout
 excerpt:  

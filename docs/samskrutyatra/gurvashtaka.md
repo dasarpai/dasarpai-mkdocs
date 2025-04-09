@@ -11,7 +11,7 @@ tags: [Guru, Chanting]
 categories: [Chanting]
     
 header:    
-   teaser: /assets/images/samskrut/Sri-Ramakrishna.jpg    
+   teaser: ../assets/images/samskrut/Sri-Ramakrishna.jpg    
     
 author: 'Hari Thapliyaal'    
     

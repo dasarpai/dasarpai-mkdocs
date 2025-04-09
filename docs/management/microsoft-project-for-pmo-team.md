@@ -12,7 +12,7 @@ categories:
 tags: [Microsoft Project Courses]
 
 header:
-  teaser: /assets/images/pmlogy/pmc520-microsoft-project-for-pmo-team.jpg
+  teaser: ../assets/images/pmlogy/pmc520-microsoft-project-for-pmo-team.jpg
 
 author_profile: true
 last_modified_at: 2020-08-08T15:46:43-04:00

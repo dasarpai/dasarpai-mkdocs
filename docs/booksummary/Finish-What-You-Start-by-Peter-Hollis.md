@@ -8,7 +8,7 @@ tags: [Book Summary]
                             
 categories:                            
 header:                            
-    teaser: /assets/images/booksummary/7505-Finish-What-You-Start-by-Peter-Hollis.jpg                         
+    teaser: ../assets/images/booksummary/7505-Finish-What-You-Start-by-Peter-Hollis.jpg                         
 author: Hari Thapliyaal                            
 layout: booksum-layout                            
 excerpt:                            

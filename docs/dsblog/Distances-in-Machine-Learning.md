@@ -9,7 +9,7 @@ categories:
   - dsblog
 keywords: [Distance Metrics, Machine Learning Distance, Similarity Measures, Mathematical Distance, ML Algorithms, Data Analysis Methods, Statistical Distance, Vector Space Metrics]
 header:
-    teaser: /assets/images/dspost/dsp6093-Distances-in-Machine-Learning.jpg
+    teaser: ../assets/images/dspost/dsp6093-Distances-in-Machine-Learning.jpg
 excerpt_separator: "<!--more-->"   
 author: Hari Thapliyaal   
 layout: dspost-layout   

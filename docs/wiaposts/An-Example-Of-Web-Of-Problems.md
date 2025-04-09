@@ -8,7 +8,7 @@ tags: ['My Story']
 
 categories: [wiaposts] 
 header:
-     teaser: /assets/images/wiapost/5011-An-Example-Of-Web-Of-Problems.jpg
+     teaser: ../assets/images/wiapost/5011-An-Example-Of-Web-Of-Problems.jpg
 author: Hari Thapliyaal 
 layout:   wiaposts-layout
 excerpt: 'A personal narrative exploring the interconnected challenges of life.' 

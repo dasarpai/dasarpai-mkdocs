@@ -9,7 +9,7 @@ tags:  [Book Summary, Science, Spirituality]
     
 categories:    
 header:    
-    teaser: /assets/images/booksummary/7525-God-Human-Animal-Machine.jpg    
+    teaser: ../assets/images/booksummary/7525-God-Human-Animal-Machine.jpg    
 author: Hari Thapliyaal    
 layout: booksum-layout    
 excerpt:    

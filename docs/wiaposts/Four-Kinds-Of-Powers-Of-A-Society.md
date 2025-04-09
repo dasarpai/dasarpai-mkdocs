@@ -7,7 +7,7 @@ tags: [Indian Culture ]
 
 categories: [wiaposts] 
 header:
-     teaser: /assets/images/wiapost/5201-Four-Kinds-Of-Powers-Of-A-Society.jpg
+     teaser: ../assets/images/wiapost/5201-Four-Kinds-Of-Powers-Of-A-Society.jpg
 author: Hari Thapliyaal 
 layout:   wiaposts-layout
 excerpt:  

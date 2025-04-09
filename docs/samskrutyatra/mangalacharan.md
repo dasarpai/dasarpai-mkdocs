@@ -11,7 +11,7 @@ tags: [Vishnu]
 categories:    
     
 header:    
-   teaser: /assets/images/samskrut/Vishnu.jpg    
+   teaser: ../assets/images/samskrut/Vishnu.jpg    
     
 author: 'Hari Thapliyaal'    
     

@@ -6,7 +6,7 @@ date: '2021-02-15T03:09:21+00:00'
 author: 'Hari Thapliyaal'
 
 header:
-   teaser: /assets/images/pmlogy/PMBOK-TT-Expert-Judgement-min.png
+   teaser: ../assets/images/pmlogy/PMBOK-TT-Expert-Judgement-min.png
 categories:
     - 'English Terms'
     - 'PMBOK Tools and Techniques'

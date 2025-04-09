@@ -10,7 +10,7 @@ categories:
  
 keywords: machine learning datasets, data science resources, public datasets, research data, training datasets, image datasets, NLP datasets, computer vision data, open data repositories, dataset collections
 header:
-  teaser: /assets/images/dsresources/dsr115-Datasets.jpg 
+  teaser: ../assets/images/dsresources/dsr115-Datasets.jpg 
 excerpt_separator: "<!--more-->"  
 author: Hari Thapliyaal  
 layout: dspost-layout  

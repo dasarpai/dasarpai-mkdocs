@@ -14,7 +14,7 @@ tags:
 categories:
   - dsblog
 header:
-  teaser: /assets/images/dspost/dsp6179-exploring-anythingllm.jpg
+  teaser: ../assets/images/dspost/dsp6179-exploring-anythingllm.jpg
 excerpt_separator: "<!--more-->"
 author: Hari Thapliyaal
 layout: dspost-layout

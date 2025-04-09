@@ -9,7 +9,7 @@ categories:
   - dsblog
 
 header:
-    teaser: /assets/images/dspost/dsp6060-Unraveling-the-Google-Web.jpg
+    teaser: ../assets/images/dspost/dsp6060-Unraveling-the-Google-Web.jpg
 excerpt_separator: "<!--more-->"   
 author: Hari Thapliyaal   
 layout: dspost-layout   

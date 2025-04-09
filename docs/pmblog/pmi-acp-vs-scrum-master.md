@@ -9,7 +9,7 @@ tags:
 categories:
   - pmblog
 header:
-  teaser: '/assets/images/pmblog/1019-PMI-ACP-Scrum-min.png'
+  teaser: '../assets/images/pmblog/1019-PMI-ACP-Scrum-min.png'
 author: 'Hari Thapliyaal'
 layout: pmblog-layout 
 

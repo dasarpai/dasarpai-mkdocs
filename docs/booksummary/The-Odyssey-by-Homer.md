@@ -12,7 +12,7 @@ tags:
   - "Ancient Greece"
 categories:
 header:
-  teaser: /assets/images/default/summaryblog.jpg
+  teaser: ../assets/images/default/summaryblog.jpg
 author: Hari Thapliyaal
 layout: booksum-layout
 excerpt: "Book summary and analysis of The Odyssey by Homer, an epic poem from ancient Greece that explores human resilience, wisdom, and the longing for home."

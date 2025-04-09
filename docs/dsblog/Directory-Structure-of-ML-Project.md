@@ -12,7 +12,7 @@ tags:
   - MLOps
 keywords: machine learning project structure, project organization, MLOps best practices, code organization, model deployment, project management, configuration management, development workflow, production deployment, testing framework
 header:
-  teaser: "/assets/images/dspost/dsp6010-Directory-Strucutre-of-ML-Project.jpg"
+  teaser: "../assets/images/dspost/dsp6010-Directory-Strucutre-of-ML-Project.jpg"
 excerpt_separator: "<!--more-->"   
 author: Hari Thapliyaal   
 layout: dspost-layout   

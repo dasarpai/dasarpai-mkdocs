@@ -14,7 +14,7 @@ tags:
   - Industry Applications
 keywords: artificial intelligence applications, AI use cases, future of AI, machine learning applications, industry 4.0, AI innovation, business transformation, AI implementation, AI solutions, digital transformation
 header:
-  teaser: "/assets/images/dspost/dsp6002-High-Level-UsesCases-AI.jpg"
+  teaser: "../assets/images/dspost/dsp6002-High-Level-UsesCases-AI.jpg"
 excerpt_separator: "<!--more-->"   
 author: Hari Thapliyaal   
 layout: dspost-layout   

@@ -11,7 +11,7 @@ tags:
   - "Japan"
 categories:
 header:
-  teaser: /assets/images/booksummary/7536-Jenson-Huang-Masayoshi-Son.jpg
+  teaser: ../assets/images/booksummary/7536-Jenson-Huang-Masayoshi-Son.jpg
 excerpt_separator: "<!--more-->"
 author: Hari Thapliyaal
 layout: booksum-layout

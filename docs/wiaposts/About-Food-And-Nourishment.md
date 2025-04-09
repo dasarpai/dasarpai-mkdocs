@@ -7,7 +7,7 @@ tags: [ Life, 'My Views', 'Pleasure &amp; Joy', Yoga]
 
 categories: [wiaposts] 
 header:
-     teaser: /assets/images/wiapost/5143-About-Food-And-Nourishment.jpg
+     teaser: ../assets/images/wiapost/5143-About-Food-And-Nourishment.jpg
 author: Hari Thapliyaal 
 layout:   wiaposts-layout
 excerpt:  

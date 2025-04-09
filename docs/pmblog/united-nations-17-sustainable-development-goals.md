@@ -11,7 +11,7 @@ tags:
 categories:
   - pmblog
 header:
-   teaser: /assets/images/pmblog/1042-SustaintableDevelopmentGoal.png
+   teaser: ../assets/images/pmblog/1042-SustaintableDevelopmentGoal.png
 layout: pmblog-layout 
 
 tags:

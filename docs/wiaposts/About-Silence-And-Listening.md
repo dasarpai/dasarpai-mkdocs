@@ -8,7 +8,7 @@ tags: ['Mind', 'Philosophy']
 
 categories: [wiaposts] 
 header:
-     teaser: /assets/images/wiapost/5031-About-Silence-And-Listening.jpg
+     teaser: ../assets/images/wiapost/5031-About-Silence-And-Listening.jpg
 author: Hari Thapliyaal 
 layout:   wiaposts-layout
 excerpt: 'A deep dive into the power of silence and the art of listening.' 

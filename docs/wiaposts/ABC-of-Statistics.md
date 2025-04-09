@@ -7,7 +7,7 @@ tags:  [Science]
         
 categories: [wiaposts] 
 header:        
-    teaser: /assets/images/wiapost/5237-ABC-of-Statistics.jpg        
+    teaser: ../assets/images/wiapost/5237-ABC-of-Statistics.jpg        
 author: Hari Thapliyaal        
 layout:   wiaposts-layout
 excerpt:        

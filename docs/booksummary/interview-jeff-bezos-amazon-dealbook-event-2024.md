@@ -11,7 +11,7 @@ tags:
   - "Jeff Bezos"
 categories:
 header:
-  teaser: /assets/images/booksummary/7531-Interview-Jeff-Bezos-Amazon-Dealbook-Event-2024.jpg
+  teaser: ../assets/images/booksummary/7531-Interview-Jeff-Bezos-Amazon-Dealbook-Event-2024.jpg
 excerpt_separator: "<!--more-->"
 author: Hari Thapliyaal
 layout: booksum-layout

@@ -6,7 +6,7 @@ date: '2022-12-16T15:50:00+05:30'
 categories: 
 tags: [DS Resources, AI Diary] 
 header:
-   teaser: "/assets/images/dsresources/dsr121-AI-ML-Resources-from-My-Diary.jpg"
+   teaser: "../assets/images/dsresources/dsr121-AI-ML-Resources-from-My-Diary.jpg"
 author: Hari Thapliyaal   
 layout: single   
 excerpt:   

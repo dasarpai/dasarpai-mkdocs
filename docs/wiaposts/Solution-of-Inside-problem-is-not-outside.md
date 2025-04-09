@@ -8,7 +8,7 @@ tags:  [My Views, Life, Philosophy]
         
 categories: [wiaposts] 
 header:        
-    teaser: /assets/images/wiapost/5256-Solution-of-Inside-problem-is-not-outside.jpg        
+    teaser: ../assets/images/wiapost/5256-Solution-of-Inside-problem-is-not-outside.jpg        
 author: Hari Thapliyaal        
 layout:   wiaposts-layout
 excerpt:        

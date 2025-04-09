@@ -18,7 +18,7 @@ tags:
 categories:
   - dsblog
 header:
-    teaser: /assets/images/dspost/dsp6152-Machine-Learning-Key-Concepts.jpg
+    teaser: ../assets/images/dspost/dsp6152-Machine-Learning-Key-Concepts.jpg
 excerpt_separator: "<!--more-->"   
 author: Hari Thapliyaal   
 layout: dspost-layout   

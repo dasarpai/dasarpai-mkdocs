@@ -11,7 +11,7 @@ tags:
   - Statistics for Data Science
 keywords: statistical terminology, data science statistics, probability concepts, statistical analysis, statistical measures, data distribution, hypothesis testing, statistical inference, statistical methods, data analysis terms
 header:
-  teaser: "/assets/images/dspost/dsp6011-300+Important-Statitical-Terms.jpg"
+  teaser: "../assets/images/dspost/dsp6011-300+Important-Statitical-Terms.jpg"
 excerpt_separator: "<!--more-->"   
 author: Hari Thapliyaal   
 layout: dspost-layout   

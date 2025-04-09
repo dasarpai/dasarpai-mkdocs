@@ -7,7 +7,7 @@ tags:  [My Views, Life, Philosophy]
         
 categories: [wiaposts] 
 header:        
-    teaser: /assets/images/wiapost/5228-Pain-and-Suffering.jpg        
+    teaser: ../assets/images/wiapost/5228-Pain-and-Suffering.jpg        
 author: Hari Thapliyaal        
 layout:   wiaposts-layout
 excerpt:        

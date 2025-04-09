@@ -9,7 +9,7 @@ categories:
   - dsblog
 keywords: Python Project Structure, Development Environment Setup, Virtual Environments, Project Configuration, Development Best Practices, Python Architecture, Project Organization
 header:
-    teaser: /assets/images/dspost/dsp6145-Python-Project-Folders-and-Files.jpg
+    teaser: ../assets/images/dspost/dsp6145-Python-Project-Folders-and-Files.jpg
 excerpt_separator: "<!--more-->"   
 author: Hari Thapliyaal   
 layout: dspost-layout   

@@ -9,7 +9,7 @@ date: 2020-09-08
 tags: [Customer, Team, Participant Diversity]
 excerpt: ""
 header:
-  overlay_image: /assets/images/dspost/common/clients.jpg
+  overlay_image: ../assets/images/dspost/common/clients.jpg
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
 author_profile: true
 last_modified_at: 2022-09-11T15:46:43-04:00

@@ -9,7 +9,7 @@ categories:
   - dsblog
 keywords: [LLM Memory Requirements, GPU Memory, Hardware Specifications, AI Computing Infrastructure, Deep Learning Hardware, Memory Management, Computing Resources, Model Deployment]
 header:
-    teaser: /assets/images/dspost/dsp6133-How-Much-Memory-Needed-for-LLM.jpg
+    teaser: ../assets/images/dspost/dsp6133-How-Much-Memory-Needed-for-LLM.jpg
 excerpt_separator: "<!--more-->"   
 author: Hari Thapliyaal   
 layout: dspost-layout   

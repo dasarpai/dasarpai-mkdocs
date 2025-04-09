@@ -9,7 +9,7 @@ categories:
   - dsblog
 keywords: [FastText, Word Embeddings, Natural Language Processing, Text Analysis, Vector Representations, Word Vectors, Text Classification, Multilingual NLP]
 header:
-    teaser: /assets/images/dspost/dsp6073-Embedding-with-FastText.jpg
+    teaser: ../assets/images/dspost/dsp6073-Embedding-with-FastText.jpg
 excerpt_separator: "<!--more-->"   
 author: Hari Thapliyaal   
 layout: dspost-layout   

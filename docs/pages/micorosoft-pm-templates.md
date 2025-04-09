@@ -8,7 +8,7 @@ permalink: /microsoft-pm-templates
 date: 2020-09-08                
 tags: [Project Management Templates, Microsoft Templates]                
 header:                
-  image: /assets/images/pmlogy/PM-Templates.jpg                
+  image: ../assets/images/pmlogy/PM-Templates.jpg                
               
                 
 author_profile: true                

@@ -8,7 +8,7 @@ tags: ['Bhagwat Gita', 'Concepts', 'Indian Culture', 'Philosophy']
 
 categories: [wiaposts] 
 header:
-     teaser: /assets/images/wiapost/5072-Product-Focus-Vs-Process-Focus.jpg
+     teaser: ../assets/images/wiapost/5072-Product-Focus-Vs-Process-Focus.jpg
 author: Hari Thapliyaal 
 layout:   wiaposts-layout
 excerpt: 'Analyzing the differences between focusing on the product versus the process in various contexts.' 

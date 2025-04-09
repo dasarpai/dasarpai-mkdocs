@@ -8,7 +8,7 @@ tags:  [Book Summary, Selfhelp, Mind]
     
 categories:    
 header:    
-    teaser: /assets/images/booksummary/7517-Book-Summary-The-Power-of-Your-Subconscious-Mind.jpg    
+    teaser: ../assets/images/booksummary/7517-Book-Summary-The-Power-of-Your-Subconscious-Mind.jpg    
 author: Hari Thapliyaal    
 layout: booksum-layout    
 excerpt:    

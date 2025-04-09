@@ -9,7 +9,7 @@ tags:  [Book Summary, Economics]
     
 categories:    
 header:    
-    teaser: /assets/images/booksummary/7524-The-General-Theory-of-Employment-Interest-and-Money.jpg    
+    teaser: ../assets/images/booksummary/7524-The-General-Theory-of-Employment-Interest-and-Money.jpg    
 author: Hari Thapliyaal    
 layout: booksum-layout    
 excerpt:    

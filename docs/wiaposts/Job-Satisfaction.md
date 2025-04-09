@@ -8,7 +8,7 @@ tags: ['Concepts', 'Philosophy', 'Pleasure & Joy']
 
 categories: [wiaposts] 
 header:
-     teaser: /assets/images/wiapost/5057-Job-Satisfaction.jpg
+     teaser: ../assets/images/wiapost/5057-Job-Satisfaction.jpg
 author: Hari Thapliyaal 
 layout:   wiaposts-layout
 excerpt: 'Exploring the factors that contribute to job satisfaction and personal fulfillment.' 

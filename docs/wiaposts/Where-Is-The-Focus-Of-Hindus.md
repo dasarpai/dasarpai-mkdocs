@@ -8,7 +8,7 @@ tags: ['Education', 'Indian Culture', 'My Views']
 
 categories: [wiaposts] 
 header:
-     teaser: /assets/images/wiapost/5085-Where-Is-The-Focus-Of-Hindus.jpg
+     teaser: ../assets/images/wiapost/5085-Where-Is-The-Focus-Of-Hindus.jpg
 author: Hari Thapliyaal 
 layout:   wiaposts-layout
 excerpt: 'Examining the cultural and educational priorities within Hindu society.' 

@@ -11,7 +11,7 @@ tags: [Devi, Stotram, Chanting]
 categories: [Chanting]
     
 header:    
-   teaser: /assets/images/samskrut/LakshmiNrushimhan.jpg    
+   teaser: ../assets/images/samskrut/LakshmiNrushimhan.jpg    
     
 author: 'Hari Thapliyaal'    
     

@@ -8,7 +8,7 @@ tags: [My Favorite Poems, TS Eliot]
                             
 categories:                            
 header:                            
-    teaser: /assets/images/booksummary/7515-The-Waste-Land.jpg                           
+    teaser: ../assets/images/booksummary/7515-The-Waste-Land.jpg                           
 author: Hari Thapliyaal                            
 layout: booksum-layout                            
 excerpt:                            

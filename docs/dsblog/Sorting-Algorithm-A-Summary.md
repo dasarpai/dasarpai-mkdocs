@@ -9,7 +9,7 @@ categories:
   - dsblog
 keywords: [Sorting Algorithms, Algorithm Complexity, Data Structures, Time Complexity, Space Complexity, Quick Sort, Merge Sort, Bubble Sort, Algorithm Analysis]
 header:
-    teaser: /assets/images/dspost/dsp6071-Sorting-Algorithm-A-Summary.jpg
+    teaser: ../assets/images/dspost/dsp6071-Sorting-Algorithm-A-Summary.jpg
 excerpt_separator: "<!--more-->"   
 author: Hari Thapliyaal   
 layout: dspost-layout   

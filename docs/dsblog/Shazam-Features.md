@@ -12,7 +12,7 @@ tags:
 categories:
   - dsblog
 header:
-  teaser: /assets/images/dspost/dsp6186-Shazam-Features.jpg
+  teaser: ../assets/images/dspost/dsp6186-Shazam-Features.jpg
 excerpt_separator: "<!--more-->"
 author: Hari Thapliyaal
 layout: dspost-layout

@@ -17,7 +17,7 @@ categories:
   - Web Development
 
 header:
-  teaser: /assets/images/dspost/dsp6246-implementing-secure-authentication-and-authorization.jpg
+  teaser: ../assets/images/dspost/dsp6246-implementing-secure-authentication-and-authorization.jpg
 excerpt_separator: "<!--more-->"
 author: Hari Thapliyaal
 layout: dspost-layout

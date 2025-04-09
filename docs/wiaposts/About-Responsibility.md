@@ -8,7 +8,7 @@ tags: ['Concepts', 'Philosophy']
 
 categories: [wiaposts] 
 header:
-     teaser: /assets/images/wiapost/5013-About-Responsibility.jpg
+     teaser: ../assets/images/wiapost/5013-About-Responsibility.jpg
 author: Hari Thapliyaal 
 layout:   wiaposts-layout
 excerpt: 'An exploration of the philosophical underpinnings of responsibility and its impact on human behavior.' 

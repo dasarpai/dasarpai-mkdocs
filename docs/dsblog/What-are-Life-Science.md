@@ -17,7 +17,7 @@ categories:
   - life sciences
 
 header:
-  teaser: /assets/images/dspost/dsp6243-the-study-of-life.jpg
+  teaser: ../assets/images/dspost/dsp6243-the-study-of-life.jpg
 excerpt_separator: "<!--more-->"
 author: Hari Thapliyaal
 layout: dspost-layout

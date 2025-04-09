@@ -8,7 +8,7 @@ categories:
 tags: [NLP, Machine Learning, Natural Language Processing, ChatGPT, GPT3, OpenAI, AI Applications, Language Models]   
 keywords: ChatGPT applications, GPT use cases, AI language models, natural language processing, conversational AI, OpenAI technology, AI automation, business applications, content generation, AI assistant
 header:   
-  teaser: "/assets/images/dspost/dsp6019-ChatGPT-Usecases.jpg"   
+  teaser: "../assets/images/dspost/dsp6019-ChatGPT-Usecases.jpg"   
 excerpt_separator: "<!--more-->"   
 author: Hari Thapliyaal   
 layout: dspost-layout   

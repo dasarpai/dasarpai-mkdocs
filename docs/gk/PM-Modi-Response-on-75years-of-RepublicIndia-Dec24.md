@@ -8,7 +8,7 @@ tags: [Narendra Modi, PM Modi, Republic of India, India, Governance, Politics, B
 keywords: [Narendra Modi, PM Modi, Republic of India, India, Governance, Politics, Bharatiya Janata Party, BJP]
 categories: [Indian Politics, Governance, Narendra Modi, PM Modi, BJP, India, Republic of India]
 header:        
-    teaser: /assets/images/default/gkblog.jpg        
+    teaser: ../assets/images/default/gkblog.jpg        
 author: Hari Thapliyaal        
 layout: single        
 excerpt:        

@@ -8,7 +8,7 @@ tags: [Annual Wishes]
 
 categories: [wiaposts] 
 header:
-     teaser: /assets/images/wiapost/5001-Greetings-For-New-Year-2013.jpg
+     teaser: ../assets/images/wiapost/5001-Greetings-For-New-Year-2013.jpg
 author: Hari Thapliyaal 
 layout:   wiaposts-layout
 excerpt: 'A joyful message welcoming the New Year 2013, filled with hope and new beginnings.' 

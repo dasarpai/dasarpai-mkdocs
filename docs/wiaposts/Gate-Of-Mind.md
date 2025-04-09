@@ -8,7 +8,7 @@ tags: ['Mind', 'Philosophy', 'Vedanta']
 
 categories: [wiaposts] 
 header:
-     teaser: /assets/images/wiapost/5021-Gate-Of-Mind.jpg
+     teaser: ../assets/images/wiapost/5021-Gate-Of-Mind.jpg
 author: Hari Thapliyaal 
 layout:   wiaposts-layout
 excerpt: 'Exploring the philosophical and spiritual gateways of the mind.' 

@@ -5,7 +5,7 @@ permalink: /pmbok6/Develop-Project-Management-Plan
 date: '2021-02-14T17:54:54+00:00'
 author: 'Hari Thapliyaal'
 header:
-   teaser: /assets/images/pmlogy/PMBOK-Process-DPMP.png
+   teaser: ../assets/images/pmlogy/PMBOK-Process-DPMP.png
 tags:
     - 'English Terms'
     - 'PMBOK Planning PG'

@@ -7,7 +7,7 @@ tags:  [My Views, Life, Philosophy]
         
 categories: [wiaposts] 
 header:        
-    teaser: /assets/images/wiapost/5239-Language-Script-and-Devanagari.jpg        
+    teaser: ../assets/images/wiapost/5239-Language-Script-and-Devanagari.jpg        
 author: Hari Thapliyaal        
 layout:   wiaposts-layout
 excerpt:        

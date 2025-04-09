@@ -11,7 +11,7 @@ tags: [Devi, Stotram]
 categories:    
     
 header:    
-   teaser: /assets/images/samskrut/MeenakshiStotram.jpg    
+   teaser: ../assets/images/samskrut/MeenakshiStotram.jpg    
     
 author: 'Hari Thapliyaal'    
     

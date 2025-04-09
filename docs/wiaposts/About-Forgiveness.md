@@ -8,7 +8,7 @@ tags: ['Concepts', 'Philosophy']
 
 categories: [wiaposts] 
 header:
-     teaser: /assets/images/wiapost/5059-About-Forgiveness.jpg
+     teaser: ../assets/images/wiapost/5059-About-Forgiveness.jpg
 author: Hari Thapliyaal 
 layout:   wiaposts-layout
 excerpt: 'Exploring the concept of forgiveness and its impact on personal growth and relationships.' 

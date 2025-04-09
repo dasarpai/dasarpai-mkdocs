@@ -15,7 +15,7 @@ categories:
   - AI
 
 header:
-  teaser: /assets/images/dspost/dsp6251-A-Deep-Dive-into-AI-Model-Marketplaces.jpg
+  teaser: ../assets/images/dspost/dsp6251-A-Deep-Dive-into-AI-Model-Marketplaces.jpg
 excerpt_separator: "<!--more-->"
 author: Hari Thapliyaal
 layout: dspost-layout

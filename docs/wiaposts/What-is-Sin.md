@@ -8,7 +8,7 @@ tags:  [My Views, Life, Philosophy]
         
 categories: [wiaposts] 
 header:        
-    teaser: /assets/images/wiapost/5255-What-is-Sin.jpg        
+    teaser: ../assets/images/wiapost/5255-What-is-Sin.jpg        
 author: Hari Thapliyaal        
 layout:   wiaposts-layout
 excerpt:        

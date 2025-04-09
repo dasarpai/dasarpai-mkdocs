@@ -15,7 +15,7 @@ tags:
   - Marketing
 
 header:
-  teaser: /assets/images/dscourses/dsc326-GenAI-for-Sales-and-Marketing.jpg
+  teaser: ../assets/images/dscourses/dsc326-GenAI-for-Sales-and-Marketing.jpg
 
 author_profile: true
 

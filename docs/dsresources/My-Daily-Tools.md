@@ -7,7 +7,7 @@ categories:
 tags: [DS Resources, Daily Tools, Soft Tools, PM Tools, Design Tools, SEO Tools, AI Tools]
 
 header:
-  teaser:  /assets/images/dsresources/dsr112-My-Daily-Tools.jpg
+  teaser:  ../assets/images/dsresources/dsr112-My-Daily-Tools.jpg
 
 
 author_profile: true

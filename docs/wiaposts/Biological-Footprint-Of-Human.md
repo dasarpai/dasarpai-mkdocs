@@ -7,7 +7,7 @@ tags: [ My Views, Life]
 
 categories: [wiaposts] 
 header:
-     teaser: /assets/images/wiapost/5188-Biological-Footprint-Of-Human.jpg
+     teaser: ../assets/images/wiapost/5188-Biological-Footprint-Of-Human.jpg
 author: Hari Thapliyaal 
 layout:   wiaposts-layout
 excerpt:  

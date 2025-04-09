@@ -8,7 +8,7 @@ tags: [Github]
 categories:
   - dsblog
 header:
-    teaser: /assets/images/dspost/dsp6155-Comprehensive-Guide-to-Git-Commands.jpg
+    teaser: ../assets/images/dspost/dsp6155-Comprehensive-Guide-to-Git-Commands.jpg
 excerpt_separator: "<!--more-->"   
 author: Hari Thapliyaal   
 layout: dspost-layout   

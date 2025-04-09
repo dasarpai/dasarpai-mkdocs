@@ -19,7 +19,7 @@ categories:
   - dsblog
 
 header:
-    teaser: /assets/images/dspost/dsp6031-What-are-Transformers-in-AI.jpg
+    teaser: ../assets/images/dspost/dsp6031-What-are-Transformers-in-AI.jpg
 excerpt_separator: "<!--more-->"   
 author: Hari Thapliyaal   
 layout: dspost-layout   

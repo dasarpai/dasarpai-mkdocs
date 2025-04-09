@@ -8,7 +8,7 @@ tags: ['Education']
 
 categories: [wiaposts] 
 header:
-     teaser: /assets/images/wiapost/5070-What-Kind-Of-Education.jpg
+     teaser: ../assets/images/wiapost/5070-What-Kind-Of-Education.jpg
 author: Hari Thapliyaal 
 layout:   wiaposts-layout
 excerpt: 'Discussing the various approaches to education and their impact on learning.' 

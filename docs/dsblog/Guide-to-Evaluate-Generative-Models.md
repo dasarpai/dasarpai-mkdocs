@@ -19,7 +19,7 @@ categories:
   - computer-vision
 
 header:
-  teaser: /assets/images/dspost/dsp6240-Guide-to-Evaluate-Generative-Models.jpg
+  teaser: ../assets/images/dspost/dsp6240-Guide-to-Evaluate-Generative-Models.jpg
 excerpt_separator: "<!--more-->"
 author: Hari Thapliyaal
 layout: dspost-layout

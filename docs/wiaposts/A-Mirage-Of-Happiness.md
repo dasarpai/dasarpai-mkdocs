@@ -7,7 +7,7 @@ tags: [ Philosophy, 'Pleasure &amp; Joy', Poetry]
 keywords: ["philosophical exploration of happiness", "understanding mirages of joy", "poetic insights on pleasure and happiness", "philosophy of happiness and joy", "exploring illusions of happiness in philosophy"]
 categories: [wiaposts] 
 header:
-     teaser: /assets/images/wiapost/5108-A-Mirage-Of-Happiness.jpg
+     teaser: ../assets/images/wiapost/5108-A-Mirage-Of-Happiness.jpg
 author: Hari Thapliyaal 
 layout:   wiaposts-layout
 excerpt: The mirages of happiness, delving into insights on pleasure and joy.

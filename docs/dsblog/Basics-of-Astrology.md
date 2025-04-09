@@ -9,7 +9,7 @@ categories:
   - dsblog
 keywords: [Astrology Basics, Data Science in Astrology, Astronomical Calculations, Vedic Astrology, Celestial Patterns, Predictive Models, Ancient Sciences, Modern Astrology]
 header:
-    teaser: /assets/images/dspost/dsp6108-Basics-of-Astrology.jpg
+    teaser: ../assets/images/dspost/dsp6108-Basics-of-Astrology.jpg
 excerpt_separator: "<!--more-->"   
 author: Hari Thapliyaal   
 layout: dspost-layout   

@@ -9,7 +9,7 @@ categories:
   - dsblog
 keywords: [Dimensionality Reduction, Data Visualization, PCA Analysis, t-SNE, UMAP, Feature Selection, Data Analysis Methods, Machine Learning Techniques]
 header:
-    teaser: /assets/images/dspost/dsp6126-Dimensionality-Reduction-and-Visualization.jpg
+    teaser: ../assets/images/dspost/dsp6126-Dimensionality-Reduction-and-Visualization.jpg
 excerpt_separator: "<!--more-->"   
 author: Hari Thapliyaal   
 layout: dspost-layout   

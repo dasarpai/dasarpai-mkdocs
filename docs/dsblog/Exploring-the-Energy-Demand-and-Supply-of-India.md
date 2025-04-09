@@ -10,7 +10,7 @@ tags:
 categories:
   - dsblog
 header:
-  teaser: /assets/images/dspost/dsp6217-Exploring-the-Energy-Demand-and-Supply-of-India.jpg
+  teaser: ../assets/images/dspost/dsp6217-Exploring-the-Energy-Demand-and-Supply-of-India.jpg
 excerpt_separator: "<!--more-->"
 author: Jane Smith
 layout: dspost-layout

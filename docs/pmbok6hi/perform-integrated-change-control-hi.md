@@ -5,7 +5,7 @@ date: '2021-02-18T11:28:55+00:00'
 author: 'Hari Thapliyaal'
 permalink: /pmbok6hi/perform-integrated-change-control-hi/
 header:
-  teaser: /assets/images/pmlogy/picc.jpg
+  teaser: ../assets/images/pmlogy/picc.jpg
 
 tags:
     - 'Hindi Terms'

@@ -7,7 +7,7 @@ tags: [ 'Indian Culture', 'Motivational Stories']
 keywords: ["philosophical exploration of true friendship", "understanding value-based relationships in philosophy", "poetic insights on friendship and values", "philosophy of friendship and loyalty", "exploring true friendship in philosophical context"]  
 categories: [wiaposts] 
 header:
-     teaser: /assets/images/wiapost/5135-Value-Based-True-Friendship.jpg
+     teaser: ../assets/images/wiapost/5135-Value-Based-True-Friendship.jpg
 author: Hari Thapliyaal 
 layout:   wiaposts-layout
 excerpt: A philosophical and poetic exploration of true friendship, delving into insights on value-based relationships and loyalty.

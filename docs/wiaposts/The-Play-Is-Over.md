@@ -7,7 +7,7 @@ tags: [ Mindfulness, Philosophy]
 keywords: ["reflections on life's journey", "mindfulness and acceptance", "philosophical closure to experiences", "end of life's play metaphor", "understanding life's transitions"]  
 categories: [wiaposts] 
 header:
-     teaser: /assets/images/wiapost/5103-The-Play-Is-Over.jpg
+     teaser: ../assets/images/wiapost/5103-The-Play-Is-Over.jpg
 author: Hari Thapliyaal 
 layout:   wiaposts-layout
 excerpt: "A philosophical reflection on life's journey and transitions, exploring mindfulness and acceptance as the play of life comes to an end."  

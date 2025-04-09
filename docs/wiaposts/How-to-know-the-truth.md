@@ -8,7 +8,7 @@ tags:  [My Views, Life, Philosophy, Searching the Self]
         
 categories: [wiaposts] 
 header:        
-    teaser: /assets/images/wiapost/5267-How-to-know-the-truth.jpg        
+    teaser: ../assets/images/wiapost/5267-How-to-know-the-truth.jpg        
 author: Hari Thapliyaal        
 layout:   wiaposts-layout        
 excerpt:        

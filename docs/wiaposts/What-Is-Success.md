@@ -7,7 +7,7 @@ tags: [ Devotion, 'My Views']
 
 categories: [wiaposts] 
 header:
-     teaser: /assets/images/wiapost/5153-What-Is-Success.jpg
+     teaser: ../assets/images/wiapost/5153-What-Is-Success.jpg
 author: Hari Thapliyaal 
 layout:   wiaposts-layout
 excerpt:  

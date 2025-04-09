@@ -11,7 +11,7 @@ tags:
   - "Satire of Victorian Era"
 categories:
 header:
-  teaser: /assets/images/default/summaryblog.jpg
+  teaser: ../assets/images/default/summaryblog.jpg
 author: Hari Thapliyaal
 layout: booksum-layout
 excerpt: "Summary of Lewis Carroll's novel Alice's Adventures in Wonderland, a fantasy novel that satirizes the Victorian era with its absurdity and illogical events."

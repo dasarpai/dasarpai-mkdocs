@@ -8,7 +8,7 @@ tags: ['Dharma', 'Indian Culture', 'Philosophy']
 
 categories: [wiaposts] 
 header:
-     teaser: /assets/images/wiapost/5037-Who-Is-Ravana.jpg
+     teaser: ../assets/images/wiapost/5037-Who-Is-Ravana.jpg
 author: Hari Thapliyaal 
 layout:   wiaposts-layout
 excerpt: 'Exploring the complex character of Ravana through cultural and philosophical lenses.' 

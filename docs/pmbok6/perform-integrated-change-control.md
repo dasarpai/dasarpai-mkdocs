@@ -5,7 +5,7 @@ permalink: /pmbok6/Perform-Integrated-Change-Control
 date: '2021-02-14T17:28:44+00:00'
 author: 'Hari Thapliyaal'
 header:
-   teaser: /assets/images/pmlogy/PICC.jpg
+   teaser: ../assets/images/pmlogy/PICC.jpg
 tags:
     - 'English Terms'
     - 'PMBOK Monitoring and Controlling PG'

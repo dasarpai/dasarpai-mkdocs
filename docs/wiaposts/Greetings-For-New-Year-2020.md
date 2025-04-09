@@ -7,7 +7,7 @@ tags: [ 'Annual Wishes']
 keywords: ["new year greetings 2020", "philosophical reflections on new year", "poetic insights on new beginnings", "celebrating new year with philosophy", "exploring new year themes in philosophical context"]
 categories: [wiaposts] 
 header:
-     teaser: /assets/images/wiapost/5097-Greetings-For-New-Year-2020.jpg
+     teaser: ../assets/images/wiapost/5097-Greetings-For-New-Year-2020.jpg
 author: Hari Thapliyaal 
 layout:   wiaposts-layout
 excerpt: Reflection on the New Year 2020, celebrating new beginnings and insights.

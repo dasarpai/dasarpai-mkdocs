@@ -8,7 +8,7 @@ tags: [S Jaishankar, Indian Foreign Minister, Famous Quotes, International Relat
 keywords: [S Jaishankar Quotes, Indian Foreign Policy, International Relations Quotes, Diplomacy Quotes, Famous Diplomats]
 categories: [GK, Politics, International Relations]
 header:
-    teaser: /assets/images/default/gkblog.jpg    
+    teaser: ../assets/images/default/gkblog.jpg    
 author: Jane Doe
 layout: single
 excerpt: "This article covers some of the most remarkable statements made by Dr. S. Jaishankar, the Indian External Affairs Minister, providing insights into his thoughts on international relations and diplomacy."

@@ -8,7 +8,7 @@ tags: ["Generative AI", "Text Generation", "AI Conversation", "Content Creation"
 categories:
   - dsblog
 header:
-    teaser: /assets/images/dspost/dsp6170-Navigating-the-JavaScript-Ecosystem.jpg
+    teaser: ../assets/images/dspost/dsp6170-Navigating-the-JavaScript-Ecosystem.jpg
 excerpt_separator: "<!--more-->"   
 author: Hari Thapliyaal   
 layout: dspost-layout   

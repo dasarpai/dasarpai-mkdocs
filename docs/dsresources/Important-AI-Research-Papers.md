@@ -7,7 +7,7 @@ categories:
 tags: [DS Resources, AI Research Papers]
 
 header:
-  teaser: /assets/images/dsresources/dsr105-Important-AI-Research-Papers.jpg
+  teaser: ../assets/images/dsresources/dsr105-Important-AI-Research-Papers.jpg
 
 author_profile: true
 last_modified_at: 2021-09-25T15:46:43-04:00

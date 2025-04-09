@@ -9,7 +9,7 @@ tags:
 categories:
   - pmblog
 header:
-  teaser: '/assets/images/pmblog/1003-Project-management-terms-with-Construction.jpg'
+  teaser: '../assets/images/pmblog/1003-Project-management-terms-with-Construction.jpg'
 author: 'Hari Thapliyaal'
 layout: pmblog-layout 
 

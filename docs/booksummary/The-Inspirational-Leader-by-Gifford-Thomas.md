@@ -8,7 +8,7 @@ tags: [Book Summary]
                             
 categories:                            
 header:                            
-    teaser: /assets/images/booksummary/7501-The-Inspirational-Leader-by-Gifford-Thomas.jpg                     
+    teaser: ../assets/images/booksummary/7501-The-Inspirational-Leader-by-Gifford-Thomas.jpg                     
 author: Hari Thapliyaal                            
 layout: booksum-layout                            
 excerpt:                            

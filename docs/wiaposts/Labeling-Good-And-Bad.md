@@ -7,7 +7,7 @@ tags: [ Ethics and Morality, Education ]
 
 categories: [wiaposts] 
 header:
-     teaser: /assets/images/wiapost/5163-Labeling-Good-And-Bad.jpg
+     teaser: ../assets/images/wiapost/5163-Labeling-Good-And-Bad.jpg
 author: Hari Thapliyaal 
 layout:   wiaposts-layout
 excerpt:  

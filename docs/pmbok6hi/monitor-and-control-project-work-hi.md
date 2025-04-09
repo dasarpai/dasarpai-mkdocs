@@ -5,7 +5,7 @@ date: '2021-02-18T10:47:03+00:00'
 author: 'Hari Thapliyaal'
 permalink: /pmbok6hi/monitor-and-control-project-work-hi/
 header:
-    teaser: /assets/images/pmlogy/PMBOK-Process-MCPW.jpg
+    teaser: ../assets/images/pmlogy/PMBOK-Process-MCPW.jpg
 tags:
     - 'Hindi Terms'
     - 'PMBOK Monitoring and Controlling PG Hindi'

@@ -10,7 +10,7 @@ categories:
   - dsblog
 
 header:
-    teaser: /assets/images/dspost/dsp6051-Cognitive-Biases.jpg
+    teaser: ../assets/images/dspost/dsp6051-Cognitive-Biases.jpg
 excerpt_separator: "<!--more-->"   
 author: Hari Thapliyaal   
 layout: dspost-layout   

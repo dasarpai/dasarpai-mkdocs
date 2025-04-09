@@ -5,7 +5,7 @@ permalink: /pmbok6/Project-Communication-Management
 date: '2021-01-01T06:42:23+00:00'
 author: 'Hari Thapliyaal'
 header:
-  teaser: /assets/images/pmlogy/Project-Communication-Management-min.jpg
+  teaser: ../assets/images/pmlogy/Project-Communication-Management-min.jpg
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
 
 tags:

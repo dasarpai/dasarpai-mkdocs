@@ -8,7 +8,7 @@ date: 2018-01-28
 tags: [Hari Thapliyal, Aboutme]
 excerpt: "Image : Gallery"
 header:
-  # overlay_image: /assets/images/dasarpAI-Banner-LI.jpg
+  # overlay_image: ../assets/images/dasarpAI-Banner-LI.jpg
   overlay_filter: 0 # same as adding an opacity of 0.5 to a black background
   caption: "Photo credit: [**Gallery**](/gallery/)"
   actions:
@@ -52,7 +52,7 @@ Scan Me - ![QR Code](../assets/images/dasarpai-qrcode.png){: width="100"}
 
 # Resume – Dr. Hari Thapliyal
 
-<iframe src="/assets/docs/HariThapliyal_DS_CV.pdf" style="width:100%; height:900px;" frameborder="0" allowfullscreen></iframe>
+<iframe src="../assets/docs/HariThapliyal_DS_CV.pdf" style="width:100%; height:900px;" frameborder="0" allowfullscreen></iframe>
 
 # Download Resume
 

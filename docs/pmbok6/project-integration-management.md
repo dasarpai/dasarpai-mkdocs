@@ -6,7 +6,7 @@ date: '2021-02-16T16:35:41+00:00'
 author: 'Hari Thapliyaal'
   
 header:
-    teaser: /assets/images/pmlogy/Project-Integration-Management.jpg
+    teaser: ../assets/images/pmlogy/Project-Integration-Management.jpg
 tags:
     - 'English Terms'
     - 'PMBOK Knowledge Areas'

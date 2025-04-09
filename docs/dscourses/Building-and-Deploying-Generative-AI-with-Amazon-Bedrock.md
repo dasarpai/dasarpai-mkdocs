@@ -14,7 +14,7 @@ tags:
   - ML Courses
 
 header:
-  teaser: /assets/images/dscourses/dsc322-Building-and-Deploying-Generative-AI-with-Amazon-Bedrock.jpg
+  teaser: ../assets/images/dscourses/dsc322-Building-and-Deploying-Generative-AI-with-Amazon-Bedrock.jpg
 
 author_profile: true
 

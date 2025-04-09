@@ -7,7 +7,7 @@ tags: [ My Views, Love, Relationship]
 
 categories: [wiaposts] 
 header:
-     teaser: /assets/images/wiapost/5182-Undying-Love.jpg
+     teaser: ../assets/images/wiapost/5182-Undying-Love.jpg
 author: Hari Thapliyaal 
 layout:   wiaposts-layout
 excerpt:  

@@ -7,7 +7,7 @@ categories:
 tags: [DS Resources, Resource for Python Learning, Python Resources]
 excerpt: #
 header:
-  teaser:  /assets/images/dsresources/dsr110-Best-Resources-to-Learn-Python.jpg
+  teaser:  ../assets/images/dsresources/dsr110-Best-Resources-to-Learn-Python.jpg
 
 
 author_profile: true

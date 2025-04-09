@@ -8,7 +8,7 @@ tags:  [My Views, Life, Philosophy]
         
 categories: [wiaposts] 
 header:        
-    teaser: /assets/images/wiapost/5251-The-Meaning-of-Understanding.jpg        
+    teaser: ../assets/images/wiapost/5251-The-Meaning-of-Understanding.jpg        
 author: Hari Thapliyaal        
 layout:   wiaposts-layout
 excerpt:        

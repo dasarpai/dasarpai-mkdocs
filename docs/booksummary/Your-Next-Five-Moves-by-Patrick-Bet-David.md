@@ -8,7 +8,7 @@ tags: [Book Summary]
                             
 categories:                            
 header:                            
-    teaser: /assets/images/booksummary/7511-Your-Next-Five-Moves-by-Patrick-Bet-David.jpg                         
+    teaser: ../assets/images/booksummary/7511-Your-Next-Five-Moves-by-Patrick-Bet-David.jpg                         
 author: Hari Thapliyaal                            
 layout: booksum-layout                            
 excerpt:                            

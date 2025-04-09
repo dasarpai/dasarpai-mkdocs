@@ -8,7 +8,7 @@ tags: [GCP, Machine Learning, IT Infrastructure, IT Security]
 categories:
   - dsblog
 header:
-    teaser: /assets/images/dspost/dsp6148-Everything-About-Developer-Console.jpg
+    teaser: ../assets/images/dspost/dsp6148-Everything-About-Developer-Console.jpg
 excerpt_separator: "<!--more-->"   
 author: Hari Thapliyaal   
 layout: dspost-layout   

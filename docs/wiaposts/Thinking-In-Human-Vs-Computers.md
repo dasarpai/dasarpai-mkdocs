@@ -7,7 +7,7 @@ tags: [ 'My Views']
 keywords: ["philosophical reflections on human vs computer thinking", "understanding cognitive differences in philosophy", "poetic insights on human and machine cognition", "philosophy of cognition and technology", "exploring human vs computer thinking in philosophical context"]  
 categories: [wiaposts] 
 header:
-     teaser: /assets/images/wiapost/5128-Thinking-In-Human-Vs-Computers.jpg
+     teaser: ../assets/images/wiapost/5128-Thinking-In-Human-Vs-Computers.jpg
 author: Hari Thapliyaal 
 layout:   wiaposts-layout
 excerpt: Reflection on the cognitive differences between humans and computers, exploring cognition and technology.

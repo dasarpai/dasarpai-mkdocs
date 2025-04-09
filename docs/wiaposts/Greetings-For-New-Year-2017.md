@@ -8,7 +8,7 @@ tags: ['Annual Wishes']
 
 categories: [wiaposts] 
 header:
-     teaser: /assets/images/wiapost/5007-Greetings-For-New-Year-2017.jpg
+     teaser: ../assets/images/wiapost/5007-Greetings-For-New-Year-2017.jpg
 author: Hari Thapliyaal 
 layout:   wiaposts-layout
 excerpt: 'Warm wishes and reflections for the New Year 2017.' 

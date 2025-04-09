@@ -7,7 +7,7 @@ tags: [ 'Indian Culture', 'Indian Sciences']
 keywords: ["philosophical exploration of Arjuna's arrows", "understanding Indian sciences in philosophy", "poetic insights on mythology and mathematics", "philosophy of Indian culture and knowledge", "exploring Arjuna's arrows in philosophical context"]  
 categories: [wiaposts] 
 header:
-     teaser: /assets/images/wiapost/5133-Equation-Of-Arjunas-Arrows.jpg
+     teaser: ../assets/images/wiapost/5133-Equation-Of-Arjunas-Arrows.jpg
 author: Hari Thapliyaal 
 layout:   wiaposts-layout
 excerpt: "A philosophical and poetic exploration of Arjuna's arrows, delving into insights on Indian sciences and mythology."  

@@ -11,7 +11,7 @@ tags:
   - "Philosophy"
 categories:
 header:
-  teaser: /assets/images/booksummary/7543-Interview-Yuval-Noah-Harari-with-BeerBiceps.jpg
+  teaser: ../assets/images/booksummary/7543-Interview-Yuval-Noah-Harari-with-BeerBiceps.jpg
 author: Hari Thapliyaal
 layout: booksum-layout
 excerpt: "Interview Questions for Yuval Noah Harari by BeerBiceps. And My Critiques on the responses of Yuval Noah Harari"

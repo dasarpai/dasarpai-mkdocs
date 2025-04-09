@@ -8,7 +8,7 @@ tags: ['Indian Culture']
 
 categories: [wiaposts] 
 header:
-     teaser: /assets/images/wiapost/5087-Who-Killed-Tantra.jpg
+     teaser: ../assets/images/wiapost/5087-Who-Killed-Tantra.jpg
 author: Hari Thapliyaal 
 layout:   wiaposts-layout
 excerpt: 'Investigating the decline of Tantra in Indian culture and its historical context.' 

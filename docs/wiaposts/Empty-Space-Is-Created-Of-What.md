@@ -8,7 +8,7 @@ tags: ['Concepts', 'Philosophy', 'Science']
 
 categories: [wiaposts] 
 header:
-     teaser: /assets/images/wiapost/5071-Empty-Space-Is-Created-Of-What.jpg
+     teaser: ../assets/images/wiapost/5071-Empty-Space-Is-Created-Of-What.jpg
 author: Hari Thapliyaal 
 layout:   wiaposts-layout
 excerpt: 'Exploring the composition and nature of empty space in the universe.' 

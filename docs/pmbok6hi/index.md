@@ -4,15 +4,14 @@
 
 - ![संसाधन अधिग्रहण](../assets/images/pmblog/1037-pmbok-general.jpg){ width="200" }
 
-    ### [संसाधन अधिग्रहण](pmbok6hi/acquire-resources-hi.md)
+    ### [संसाधन अधिग्रहण](acquire-resources-hi)
     
     **Read time:** 5 min
     
     EXCERPT Not Found
-
 - ![परियोजना या चरण का समापन](../assets/images/pmblog/1037-pmbok-general.jpg){ width="200" }
 
-    ### [परियोजना या चरण का समापन](pmbok6hi/close-project-or-phase-hi.md)
+    ### [परियोजना या चरण का समापन](close-project-or-phase-hi)
     
     **Read time:** 5 min
     
@@ -24,15 +23,14 @@
 
 - ![आवश्यकताएं एकत्रीकरण](../assets/images/pmblog/1037-pmbok-general.jpg){ width="200" }
 
-    ### [आवश्यकताएं एकत्रीकरण](pmbok6hi/collect-requirements-hi.md)
+    ### [आवश्यकताएं एकत्रीकरण](collect-requirements-hi)
     
     **Read time:** 5 min
     
     EXCERPT Not Found
-
 - ![आपूर्ति संचालन](../assets/images/pmblog/1037-pmbok-general.jpg){ width="200" }
 
-    ### [आपूर्ति संचालन](pmbok6hi/conduct-procurements-hi.md)
+    ### [आपूर्ति संचालन](conduct-procurements-hi)
     
     **Read time:** 5 min
     
@@ -44,15 +42,14 @@
 
 - ![लागत नियंत्रण](../assets/images/pmblog/1037-pmbok-general.jpg){ width="200" }
 
-    ### [लागत नियंत्रण](pmbok6hi/control-costs-hi.md)
+    ### [लागत नियंत्रण](control-costs-hi)
     
     **Read time:** 5 min
     
     EXCERPT Not Found
-
 - ![आपूर्ति नियंत्रण](../assets/images/pmblog/1037-pmbok-general.jpg){ width="200" }
 
-    ### [आपूर्ति नियंत्रण](pmbok6hi/control-procurements-hi.md)
+    ### [आपूर्ति नियंत्रण](control-procurements-hi)
     
     **Read time:** 5 min
     
@@ -64,15 +61,14 @@
 
 - ![गुणवत्ता नियंत्रण](../assets/images/pmblog/1037-pmbok-general.jpg){ width="200" }
 
-    ### [गुणवत्ता नियंत्रण](pmbok6hi/control-quality-hi.md)
+    ### [गुणवत्ता नियंत्रण](control-quality-hi)
     
     **Read time:** 5 min
     
     EXCERPT Not Found
-
 - ![संसाधन नियंत्रण](../assets/images/pmblog/1037-pmbok-general.jpg){ width="200" }
 
-    ### [संसाधन नियंत्रण](pmbok6hi/control-resources-hi.md)
+    ### [संसाधन नियंत्रण](control-resources-hi)
     
     **Read time:** 5 min
     
@@ -84,15 +80,14 @@
 
 - ![शेड्यूल नियंत्रण](../assets/images/pmblog/1037-pmbok-general.jpg){ width="200" }
 
-    ### [शेड्यूल नियंत्रण](pmbok6hi/control-schedule-hi.md)
+    ### [शेड्यूल नियंत्रण](control-schedule-hi)
     
     **Read time:** 5 min
     
     EXCERPT Not Found
-
 - ![कार्यक्षेत्र नियंत्रण](../assets/images/pmblog/1037-pmbok-general.jpg){ width="200" }
 
-    ### [कार्यक्षेत्र नियंत्रण](pmbok6hi/control-scope-hi.md)
+    ### [कार्यक्षेत्र नियंत्रण](control-scope-hi)
     
     **Read time:** 5 min
     
@@ -104,15 +99,14 @@
 
 - ![WBS रचना](../assets/images/pmblog/1037-pmbok-general.jpg){ width="200" }
 
-    ### [WBS रचना](pmbok6hi/create-wbs-hi.md)
+    ### [WBS रचना](create-wbs-hi)
     
     **Read time:** 5 min
     
     EXCERPT Not Found
-
 - ![गतिविधि निर्धारण](../assets/images/pmblog/1037-pmbok-general.jpg){ width="200" }
 
-    ### [गतिविधि निर्धारण](pmbok6hi/define-activities-hi.md)
+    ### [गतिविधि निर्धारण](define-activities-hi)
     
     **Read time:** 5 min
     
@@ -124,15 +118,14 @@
 
 - ![कार्यक्षेत्र निर्धारण](../assets/images/pmblog/1037-pmbok-general.jpg){ width="200" }
 
-    ### [कार्यक्षेत्र निर्धारण](pmbok6hi/define-scope-hi.md)
+    ### [कार्यक्षेत्र निर्धारण](define-scope-hi)
     
     **Read time:** 5 min
     
     EXCERPT Not Found
-
 - ![बजट निर्धारण](../assets/images/pmblog/1037-pmbok-general.jpg){ width="200" }
 
-    ### [बजट निर्धारण](pmbok6hi/determine-budget-hi.md)
+    ### [बजट निर्धारण](determine-budget-hi)
     
     **Read time:** 5 min
     
@@ -144,15 +137,14 @@
 
 - ![परियोजना अधिकारपत्र विकास](../assets/images/pmlogy/PMBOK-Process-DPC.png){ width="200" }
 
-    ### [परियोजना अधिकारपत्र विकास](pmbok6hi/develop-project-charter-hi.md)
+    ### [परियोजना अधिकारपत्र विकास](develop-project-charter-hi)
     
     **Read time:** 5 min
     
     EXCERPT Not Found
-
 - ![परियोजना प्रबंध योजना विकास](../assets/images/pmlogy/PMBOK-Process-DPMP.png){ width="200" }
 
-    ### [परियोजना प्रबंध योजना विकास](pmbok6hi/develop-project-management-plan-hi.md)
+    ### [परियोजना प्रबंध योजना विकास](develop-project-management-plan-hi)
     
     **Read time:** 5 min
     
@@ -164,15 +156,14 @@
 
 - ![शेड्यूल विकास](../assets/images/pmblog/1037-pmbok-general.jpg){ width="200" }
 
-    ### [शेड्यूल विकास](pmbok6hi/develop-schedule-hi.md)
+    ### [शेड्यूल विकास](develop-schedule-hi)
     
     **Read time:** 5 min
     
     EXCERPT Not Found
-
 - ![दल विकास](../assets/images/pmblog/1037-pmbok-general.jpg){ width="200" }
 
-    ### [दल विकास](pmbok6hi/develop-team-hi.md)
+    ### [दल विकास](develop-team-hi)
     
     **Read time:** 5 min
     
@@ -184,15 +175,14 @@
 
 - ![परियोजना कार्य का निर्देशन एवं प्रबंधन](../assets/images/pmblog/1037-pmbok-general.jpg){ width="200" }
 
-    ### [परियोजना कार्य का निर्देशन एवं प्रबंधन](pmbok6hi/direct-and-manage-project-work-hi.md)
+    ### [परियोजना कार्य का निर्देशन एवं प्रबंधन](direct-and-manage-project-work-hi)
     
     **Read time:** 5 min
     
     EXCERPT Not Found
-
 - ![गतिविधि अवधि आकलन](../assets/images/pmblog/1037-pmbok-general.jpg){ width="200" }
 
-    ### [गतिविधि अवधि आकलन](pmbok6hi/estimate-activity-durations-hi.md)
+    ### [गतिविधि अवधि आकलन](estimate-activity-durations-hi)
     
     **Read time:** 5 min
     
@@ -204,15 +194,14 @@
 
 - ![गतिविधि संसाधन आकलन](../assets/images/pmblog/1037-pmbok-general.jpg){ width="200" }
 
-    ### [गतिविधि संसाधन आकलन](pmbok6hi/estimate-activity-resources-hi.md)
+    ### [गतिविधि संसाधन आकलन](estimate-activity-resources-hi)
     
     **Read time:** 5 min
     
     EXCERPT Not Found
-
 - ![लागत आकलन](../assets/images/pmblog/1037-pmbok-general.jpg){ width="200" }
 
-    ### [लागत आकलन](pmbok6hi/estimate-costs-hi.md)
+    ### [लागत आकलन](estimate-costs-hi)
     
     **Read time:** 5 min
     
@@ -224,15 +213,14 @@
 
 - ![जोखिमों की पहचान](../assets/images/pmblog/1037-pmbok-general.jpg){ width="200" }
 
-    ### [जोखिमों की पहचान](pmbok6hi/identify-risks-hi.md)
+    ### [जोखिमों की पहचान](identify-risks-hi)
     
     **Read time:** 5 min
     
     EXCERPT Not Found
-
 - ![हितधारकों की पहचान](../assets/images/pmblog/1037-pmbok-general.jpg){ width="200" }
 
-    ### [हितधारकों की पहचान](pmbok6hi/identify-stakeholders-hi.md)
+    ### [हितधारकों की पहचान](identify-stakeholders-hi)
     
     **Read time:** 5 min
     
@@ -244,15 +232,14 @@
 
 - ![जोखिम प्रत्युत्तर क्रियान्वयन](../assets/images/pmblog/1037-pmbok-general.jpg){ width="200" }
 
-    ### [जोखिम प्रत्युत्तर क्रियान्वयन](pmbok6hi/implement-risk-responses-hi.md)
+    ### [जोखिम प्रत्युत्तर क्रियान्वयन](implement-risk-responses-hi)
     
     **Read time:** 5 min
     
     EXCERPT Not Found
-
 - ![संचार प्रबंधन](../assets/images/pmblog/1037-pmbok-general.jpg){ width="200" }
 
-    ### [संचार प्रबंधन](pmbok6hi/manage-communications-hi.md)
+    ### [संचार प्रबंधन](manage-communications-hi)
     
     **Read time:** 5 min
     
@@ -264,15 +251,14 @@
 
 - ![परियोजना ज्ञान प्रबंधन](../assets/images/pmblog/1037-pmbok-general.jpg){ width="200" }
 
-    ### [परियोजना ज्ञान प्रबंधन](pmbok6hi/manage-project-knowledge-hi.md)
+    ### [परियोजना ज्ञान प्रबंधन](manage-project-knowledge-hi)
     
     **Read time:** 5 min
     
     EXCERPT Not Found
-
 - ![गुणवत्ता प्रबंधन](../assets/images/pmblog/1037-pmbok-general.jpg){ width="200" }
 
-    ### [गुणवत्ता प्रबंधन](pmbok6hi/manage-quality-hi.md)
+    ### [गुणवत्ता प्रबंधन](manage-quality-hi)
     
     **Read time:** 5 min
     
@@ -284,15 +270,14 @@
 
 - ![हितधारक सहभागिता प्रबंधन](../assets/images/pmblog/1037-pmbok-general.jpg){ width="200" }
 
-    ### [हितधारक सहभागिता प्रबंधन](pmbok6hi/manage-stakeholder-engagement-hi.md)
+    ### [हितधारक सहभागिता प्रबंधन](manage-stakeholder-engagement-hi)
     
     **Read time:** 5 min
     
     EXCERPT Not Found
-
 - ![दल प्रबंधन](../assets/images/pmblog/1037-pmbok-general.jpg){ width="200" }
 
-    ### [दल प्रबंधन](pmbok6hi/manage-team-hi.md)
+    ### [दल प्रबंधन](manage-team-hi)
     
     **Read time:** 5 min
     
@@ -304,15 +289,14 @@
 
 - ![परियोजना कार्य की निगरानी एवं नियंत्रण](../assets/images/pmlogy/PMBOK-Process-MCPW.jpg){ width="200" }
 
-    ### [परियोजना कार्य की निगरानी एवं नियंत्रण](pmbok6hi/monitor-and-control-project-work-hi.md)
+    ### [परियोजना कार्य की निगरानी एवं नियंत्रण](monitor-and-control-project-work-hi)
     
     **Read time:** 5 min
     
     EXCERPT Not Found
-
 - ![संचार निगरानी](../assets/images/pmblog/1037-pmbok-general.jpg){ width="200" }
 
-    ### [संचार निगरानी](pmbok6hi/monitor-communications-hi.md)
+    ### [संचार निगरानी](monitor-communications-hi)
     
     **Read time:** 5 min
     
@@ -324,15 +308,14 @@
 
 - ![जोखिम निगरानी](../assets/images/pmblog/1037-pmbok-general.jpg){ width="200" }
 
-    ### [जोखिम निगरानी](pmbok6hi/monitor-risks-hi.md)
+    ### [जोखिम निगरानी](monitor-risks-hi)
     
     **Read time:** 5 min
     
     EXCERPT Not Found
-
 - ![हितधारक सहभागिता निगरानी](../assets/images/pmblog/1037-pmbok-general.jpg){ width="200" }
 
-    ### [हितधारक सहभागिता निगरानी](pmbok6hi/monitor-stakeholder-engagement-hi.md)
+    ### [हितधारक सहभागिता निगरानी](monitor-stakeholder-engagement-hi)
     
     **Read time:** 5 min
     
@@ -344,15 +327,14 @@
 
 - ![परिवर्तनों का एकीकृत नियंत्रण](../assets/images/pmlogy/picc.jpg){ width="200" }
 
-    ### [परिवर्तनों का एकीकृत नियंत्रण](pmbok6hi/perform-integrated-change-control-hi.md)
+    ### [परिवर्तनों का एकीकृत नियंत्रण](perform-integrated-change-control-hi)
     
     **Read time:** 5 min
     
     EXCERPT Not Found
-
 - ![गुणवत्तात्मक जोखिम विश्लेषण](../assets/images/pmblog/1037-pmbok-general.jpg){ width="200" }
 
-    ### [गुणवत्तात्मक जोखिम विश्लेषण](pmbok6hi/perform-qualitative-risk-analysis-hi.md)
+    ### [गुणवत्तात्मक जोखिम विश्लेषण](perform-qualitative-risk-analysis-hi)
     
     **Read time:** 5 min
     
@@ -364,15 +346,14 @@
 
 - ![मात्रात्मक जोखिम विश्लेषण](../assets/images/pmblog/1037-pmbok-general.jpg){ width="200" }
 
-    ### [मात्रात्मक जोखिम विश्लेषण](pmbok6hi/perform-quantitative-risk-analysis-hi.md)
+    ### [मात्रात्मक जोखिम विश्लेषण](perform-quantitative-risk-analysis-hi)
     
     **Read time:** 5 min
     
     EXCERPT Not Found
-
 - ![संचार प्रबंध नियोजन](../assets/images/pmblog/1037-pmbok-general.jpg){ width="200" }
 
-    ### [संचार प्रबंध नियोजन](pmbok6hi/plan-communications-management-hi.md)
+    ### [संचार प्रबंध नियोजन](plan-communications-management-hi)
     
     **Read time:** 5 min
     
@@ -384,15 +365,14 @@
 
 - ![लागत प्रबंध नियोजन](../assets/images/pmblog/1037-pmbok-general.jpg){ width="200" }
 
-    ### [लागत प्रबंध नियोजन](pmbok6hi/plan-cost-management-hi.md)
+    ### [लागत प्रबंध नियोजन](plan-cost-management-hi)
     
     **Read time:** 5 min
     
     EXCERPT Not Found
-
 - ![आपूर्ति प्रबंध नियोजन](../assets/images/pmblog/1037-pmbok-general.jpg){ width="200" }
 
-    ### [आपूर्ति प्रबंध नियोजन](pmbok6hi/plan-procurement-management-hi.md)
+    ### [आपूर्ति प्रबंध नियोजन](plan-procurement-management-hi)
     
     **Read time:** 5 min
     
@@ -404,15 +384,14 @@
 
 - ![गुणवत्ता प्रबंध नियोजन](../assets/images/pmblog/1037-pmbok-general.jpg){ width="200" }
 
-    ### [गुणवत्ता प्रबंध नियोजन](pmbok6hi/plan-quality-management-hi.md)
+    ### [गुणवत्ता प्रबंध नियोजन](plan-quality-management-hi)
     
     **Read time:** 5 min
     
     EXCERPT Not Found
-
 - ![संसाधन प्रबंध नियोजन](../assets/images/pmblog/1037-pmbok-general.jpg){ width="200" }
 
-    ### [संसाधन प्रबंध नियोजन](pmbok6hi/plan-resource-management-hi.md)
+    ### [संसाधन प्रबंध नियोजन](plan-resource-management-hi)
     
     **Read time:** 5 min
     
@@ -424,15 +403,14 @@
 
 - ![जोखिम प्रबंध नियोजन](../assets/images/pmblog/1037-pmbok-general.jpg){ width="200" }
 
-    ### [जोखिम प्रबंध नियोजन](pmbok6hi/plan-risk-management-hi.md)
+    ### [जोखिम प्रबंध नियोजन](plan-risk-management-hi)
     
     **Read time:** 5 min
     
     EXCERPT Not Found
-
 - ![Plan Risk Responses - Hindi](../assets/images/pmblog/1037-pmbok-general.jpg){ width="200" }
 
-    ### [Plan Risk Responses - Hindi](pmbok6hi/plan-risk-responses-hi.md)
+    ### [Plan Risk Responses - Hindi](plan-risk-responses-hi)
     
     **Read time:** 5 min
     
@@ -444,15 +422,14 @@
 
 - ![शेड्यूल प्रबंध नियोजन](../assets/images/pmblog/1037-pmbok-general.jpg){ width="200" }
 
-    ### [शेड्यूल प्रबंध नियोजन](pmbok6hi/plan-schedule-management-hi.md)
+    ### [शेड्यूल प्रबंध नियोजन](plan-schedule-management-hi)
     
     **Read time:** 5 min
     
     EXCERPT Not Found
-
 - ![कार्यक्षेत्र प्रबंध नियोजन](../assets/images/pmblog/1037-pmbok-general.jpg){ width="200" }
 
-    ### [कार्यक्षेत्र प्रबंध नियोजन](pmbok6hi/plan-scope-management-hi.md)
+    ### [कार्यक्षेत्र प्रबंध नियोजन](plan-scope-management-hi)
     
     **Read time:** 5 min
     
@@ -464,15 +441,14 @@
 
 - ![हितधारक सहभागिता नियोजन](../assets/images/pmblog/1037-pmbok-general.jpg){ width="200" }
 
-    ### [हितधारक सहभागिता नियोजन](pmbok6hi/plan-stakeholder-engagement-hi.md)
+    ### [हितधारक सहभागिता नियोजन](plan-stakeholder-engagement-hi)
     
     **Read time:** 5 min
     
     EXCERPT Not Found
-
 - ![गतिविधि अनुक्रमण](../assets/images/pmblog/1037-pmbok-general.jpg){ width="200" }
 
-    ### [गतिविधि अनुक्रमण](pmbok6hi/sequence-activities-hi.md)
+    ### [गतिविधि अनुक्रमण](sequence-activities-hi)
     
     **Read time:** 5 min
     
@@ -484,10 +460,9 @@
 
 - ![कार्यक्षेत्र अभिपुष्टि](../assets/images/pmblog/1037-pmbok-general.jpg){ width="200" }
 
-    ### [कार्यक्षेत्र अभिपुष्टि](pmbok6hi/validate-scope-hi.md)
+    ### [कार्यक्षेत्र अभिपुष्टि](validate-scope-hi)
     
     **Read time:** 5 min
     
     EXCERPT Not Found
-
 </div>

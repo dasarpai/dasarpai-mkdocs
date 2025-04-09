@@ -10,7 +10,7 @@ categories:
   - dsblog
 
 header:
-    teaser: /assets/images/dspost/dsp6045-Cost-Functions-and-Optimizers-in-Machine-Learning.jpg
+    teaser: ../assets/images/dspost/dsp6045-Cost-Functions-and-Optimizers-in-Machine-Learning.jpg
 excerpt_separator: "<!--more-->"   
 author: Hari Thapliyaal   
 layout: dspost-layout   

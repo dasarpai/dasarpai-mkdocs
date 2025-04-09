@@ -18,7 +18,7 @@ categories:
   - engineering
 
 header:
-  teaser: /assets/images/dspost/dsp6242-Real-Life-Applications-of-Mathematics.jpg
+  teaser: ../assets/images/dspost/dsp6242-Real-Life-Applications-of-Mathematics.jpg
 excerpt_separator: "<!--more-->"
 author: Hari Thapliyaal
 layout: dspost-layout

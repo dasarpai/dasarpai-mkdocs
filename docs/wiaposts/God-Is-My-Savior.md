@@ -8,7 +8,7 @@ tags: ['Devotion', 'Dharma', 'Vedanta']
 
 categories: [wiaposts] 
 header:
-     teaser: /assets/images/wiapost/5080-God-Is-My-Savior.jpg
+     teaser: ../assets/images/wiapost/5080-God-Is-My-Savior.jpg
 author: Hari Thapliyaal 
 layout:   wiaposts-layout
 excerpt: 'Reflecting on the role of divine guidance and protection in life.' 

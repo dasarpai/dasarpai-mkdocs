@@ -11,7 +11,7 @@ tags: [Sanskrit Grammar, Katha]
 categories:    
     
 header:    
-   teaser: /assets/images/samskrut/SanskritYatra-Story.jpg    
+   teaser: ../assets/images/samskrut/SanskritYatra-Story.jpg    
     
 author: 'Hari Thapliyaal'    
     

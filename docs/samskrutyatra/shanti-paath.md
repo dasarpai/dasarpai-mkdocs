@@ -12,7 +12,7 @@ tags: [Paatham, Prayers, Chanting]
 categories: [Chanting]
 
 header:
-   teaser: /assets/images/samskrut/SanskritYatra-Sloka.jpg
+   teaser: ../assets/images/samskrut/SanskritYatra-Sloka.jpg
 
 author: 'Hari Thapliyaal'
 

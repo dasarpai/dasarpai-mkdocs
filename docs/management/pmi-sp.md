@@ -13,7 +13,7 @@ tags:
   - 'PMI SP Courses'
 
 header:
-  teaser: /assets/images/pmlogy/pmc504-pmi-sp.jpg
+  teaser: ../assets/images/pmlogy/pmc504-pmi-sp.jpg
 
 author_profile: true
 last_modified_at: 2020-08-05T15:46:43-04:00

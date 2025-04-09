@@ -7,7 +7,7 @@ categories:
 tags: [DS Resources, AI, Data Science, Machine Learning, eBook, Data Science Books]
 
 header:
-  teaser: /assets/images/dsresources/dsr120-Data-Science-AI-ML-eBooks-PDF-Books.jpg
+  teaser: ../assets/images/dsresources/dsr120-Data-Science-AI-ML-eBooks-PDF-Books.jpg
 
 
 author_profile: true

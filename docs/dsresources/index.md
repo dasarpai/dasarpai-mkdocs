@@ -8,15 +8,14 @@ Whether you're a beginner looking for foundational tutorials or an expert search
 
 - ![AI, ML, DL Blogs Sites](../assets/images/dsresources/dsr109-AI-ML-DL-Blogs-Sites.jpg){ width="200" }
 
-    ### [AI, ML, DL Blogs Sites](dsresources/AI-ML-Blogs.md)
+    ### [AI, ML, DL Blogs Sites](AI-ML-Blogs)
     
     **Read time:** 5 min
     
     EXCERPT Not Found
-
 - ![AI, ML, Deep Learning, NLP Conferences & Journals](../assets/images/dsresources/dsr108-AI-ML-Deep-Learning-NLP-Conferences-Journals.jpg){ width="200" }
 
-    ### [AI, ML, Deep Learning, NLP Conferences & Journals](dsresources/AI-ML-Conferences-and-Journals.md)
+    ### [AI, ML, Deep Learning, NLP Conferences & Journals](AI-ML-Conferences-and-Journals)
     
     **Read time:** 5 min
     
@@ -28,15 +27,14 @@ Whether you're a beginner looking for foundational tutorials or an expert search
 
 - ![AI ML Resources from My Diary](../assets/images/dsresources/dsr121-AI-ML-Resources-from-My-Diary.jpg){ width="200" }
 
-    ### [AI ML Resources from My Diary](dsresources/AI-ML-Resources-from-My-Diary.md)
+    ### [AI ML Resources from My Diary](AI-ML-Resources-from-My-Diary)
     
     **Read time:** 5 min
     
     EXCERPT Not Found
-
 - ![Basic Statistics for Data Science](../assets/images/dsresources/dsr118-Basic-Statistics-for-Data-Science.jpg){ width="200" }
 
-    ### [Basic Statistics for Data Science](dsresources/Basic-Statistics-for-Data-Science.md)
+    ### [Basic Statistics for Data Science](Basic-Statistics-for-Data-Science)
     
     **Read time:** 5 min
     
@@ -48,15 +46,14 @@ Whether you're a beginner looking for foundational tutorials or an expert search
 
 - ![Best Resources to Learn Python](../assets/images/dsresources/dsr110-Best-Resources-to-Learn-Python.jpg){ width="200" }
 
-    ### [Best Resources to Learn Python](dsresources/Best-Resources-to-Learn-Python.md)
+    ### [Best Resources to Learn Python](Best-Resources-to-Learn-Python)
     
     **Read time:** 5 min
     
     EXCERPT Not Found
-
 - ![Best YouTube Channels to Learn Data Science](../assets/images/dsresources/dsr107-Best-YouTube-Channels-to-Learn-Data-Science.jpg){ width="200" }
 
-    ### [Best YouTube Channels to Learn Data Science](dsresources/Best-Youtube-Channels-to-Learn-Data-Science.md)
+    ### [Best YouTube Channels to Learn Data Science](Best-Youtube-Channels-to-Learn-Data-Science)
     
     **Read time:** 5 min
     
@@ -68,15 +65,14 @@ Whether you're a beginner looking for foundational tutorials or an expert search
 
 - ![Data Science, AI, ML, eBooks, PDF Books](../assets/images/dsresources/dsr120-Data-Science-AI-ML-eBooks-PDF-Books.jpg){ width="200" }
 
-    ### [Data Science, AI, ML, eBooks, PDF Books](dsresources/Data-Science-Books.md)
+    ### [Data Science, AI, ML, eBooks, PDF Books](Data-Science-Books)
     
     **Read time:** 5 min
     
     EXCERPT Not Found
-
 - ![Data Science Cheatsheets](../assets/images/dsresources/dsr103-Data-Science-Cheatsheets.jpg){ width="200" }
 
-    ### [Data Science Cheatsheets](dsresources/Data-Science-Cheatsheets.md)
+    ### [Data Science Cheatsheets](Data-Science-Cheatsheets)
     
     **Read time:** 5 min
     
@@ -88,15 +84,14 @@ Whether you're a beginner looking for foundational tutorials or an expert search
 
 - ![Data Science Interview Question Answers](../assets/images/dsresources/dsr102-Data-Science-Interview-Question-Answers.jpg){ width="200" }
 
-    ### [Data Science Interview Question Answers](dsresources/Data-Science-Interview-Question-Answers.md)
+    ### [Data Science Interview Question Answers](Data-Science-Interview-Question-Answers)
     
     **Read time:** 5 min
     
     EXCERPT Not Found
-
 - ![Data Scientists and AI, ML Researchers](../assets/images/dsresources/dsr117-Data-Scientists-and-AI-ML-Researchers.jpg){ width="200" }
 
-    ### [Data Scientists and AI, ML Researchers](dsresources/Data-Scientists-and-AI-ML-Researchers.md)
+    ### [Data Scientists and AI, ML Researchers](Data-Scientists-and-AI-ML-Researchers)
     
     **Read time:** 5 min
     
@@ -108,15 +103,14 @@ Whether you're a beginner looking for foundational tutorials or an expert search
 
 - ![Navigating the Data Landscape: Exploring Data Sources, Databases, and ETL Tools for Machine Learning Projects](../assets/images/dsresources/dsr116-Data-Sources-Databases-ETL-Tools.jpg){ width="200" }
 
-    ### [Navigating the Data Landscape: Exploring Data Sources, Databases, and ETL Tools for Machine Learning Projects](dsresources/Data-Sources-Databases-ETL-Tools.md)
+    ### [Navigating the Data Landscape: Exploring Data Sources, Databases, and ETL Tools for Machine Learning Projects](Data-Sources-Databases-ETL-Tools)
     
     **Read time:** 5 min
     
     EXCERPT Not Found
-
 - ![Datasets](../assets/images/dsresources/dsr115-Datasets.jpg){ width="200" }
 
-    ### [Datasets](dsresources/Datasets.md)
+    ### [Datasets](Datasets)
     
     **Read time:** 5 min
     
@@ -128,15 +122,14 @@ Whether you're a beginner looking for foundational tutorials or an expert search
 
 - ![DS, AI, ML Online Course, Tutorial, Videos](../assets/images/dsresources/dsr119-DS-AI-ML-Online-Course-Tutorial-Videos.jpg){ width="200" }
 
-    ### [DS, AI, ML Online Course, Tutorial, Videos](dsresources/DS-AI-ML-Online-Course-Tutorial-Videos.md)
+    ### [DS, AI, ML Online Course, Tutorial, Videos](DS-AI-ML-Online-Course-Tutorial-Videos)
     
     **Read time:** 5 min
     
     EXCERPT Not Found
-
 - ![Github Repos for Data Science](../assets/images/dsresources/dsr122-Github-Repos-to-Learn-DataScience.jpg){ width="200" }
 
-    ### [Github Repos for Data Science](dsresources/Github-Repos-for-DataScience.md)
+    ### [Github Repos for Data Science](Github-Repos-for-DataScience)
     
     **Read time:** 5 min
     
@@ -148,15 +141,14 @@ Whether you're a beginner looking for foundational tutorials or an expert search
 
 - ![High School Maths for Data Science](../assets/images/dsresources/dsr106-High-School-Maths-for-Data-Science.jpg){ width="200" }
 
-    ### [High School Maths for Data Science](dsresources/High-School-Maths-for-Data-Science.md)
+    ### [High School Maths for Data Science](High-School-Maths-for-Data-Science)
     
     **Read time:** 5 min
     
     EXCERPT Not Found
-
 - ![Important AI Research Papers](../assets/images/dsresources/dsr105-Important-AI-Research-Papers.jpg){ width="200" }
 
-    ### [Important AI Research Papers](dsresources/Important-AI-Research-Papers.md)
+    ### [Important AI Research Papers](Important-AI-Research-Papers)
     
     **Read time:** 5 min
     
@@ -168,15 +160,14 @@ Whether you're a beginner looking for foundational tutorials or an expert search
 
 - ![Mathematics for Data Scientist](../assets/images/dsresources/dsr104-Mathematics-for-Data-Scientist.jpg){ width="200" }
 
-    ### [Mathematics for Data Scientist](dsresources/Mathematics-in-Data-Science.md)
+    ### [Mathematics for Data Scientist](Mathematics-in-Data-Science)
     
     **Read time:** 5 min
     
     EXCERPT Not Found
-
 - ![Machine Learning Framework, Library, Tools](../assets/images/dsresources/dsr113-Machine-Learning-Framework-Library-Tools.jpg){ width="200" }
 
-    ### [Machine Learning Framework, Library, Tools](dsresources/ML-Frameworks-Libraries-Tools.md)
+    ### [Machine Learning Framework, Library, Tools](ML-Frameworks-Libraries-Tools)
     
     **Read time:** 5 min
     
@@ -188,15 +179,14 @@ Whether you're a beginner looking for foundational tutorials or an expert search
 
 - ![Machine Learning Tasks and Model Evaluation](../assets/images/dsresources/dsr114-ml-tasks-and-model-evaluation.jpg){ width="200" }
 
-    ### [Machine Learning Tasks and Model Evaluation](dsresources/ML-Tasks-and-Model-Evaluation.md)
+    ### [Machine Learning Tasks and Model Evaluation](ML-Tasks-and-Model-Evaluation)
     
     **Read time:** 5 min
     
     EXCERPT Not Found
-
 - ![My Daily Tools](../assets/images/dsresources/dsr112-My-Daily-Tools.jpg){ width="200" }
 
-    ### [My Daily Tools](dsresources/My-Daily-Tools.md)
+    ### [My Daily Tools](My-Daily-Tools)
     
     **Read time:** 5 min
     
@@ -208,15 +198,14 @@ Whether you're a beginner looking for foundational tutorials or an expert search
 
 - ![My Favorite Chrome Extensions](../assets/images/dsresources/dsr111-My-Favorite-Chrome-Extensions.jpg){ width="200" }
 
-    ### [My Favorite Chrome Extensions](dsresources/My-Favorite-Chrome-Extensions.md)
+    ### [My Favorite Chrome Extensions](My-Favorite-Chrome-Extensions)
     
     **Read time:** 5 min
     
     EXCERPT Not Found
-
 - ![Reinforcement Learning Git Repositories](../assets/images/dsresources/dsr101-Reinforcement-Learning-Git-Repositories.jpg){ width="200" }
 
-    ### [Reinforcement Learning Git Repositories](dsresources/Reinforcement-Learning-Repositories.md)
+    ### [Reinforcement Learning Git Repositories](Reinforcement-Learning-Repositories)
     
     **Read time:** 5 min
     

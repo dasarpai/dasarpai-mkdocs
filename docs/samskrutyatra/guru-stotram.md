@@ -11,7 +11,7 @@ tags: [Devi, Stotram, Guru, Chanting]
 categories: [Chanting]
     
 header:    
-   teaser: /assets/images/samskrut/durga.jpg    
+   teaser: ../assets/images/samskrut/durga.jpg    
     
 author: 'Hari Thapliyaal'    
     

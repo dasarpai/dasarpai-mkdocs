@@ -11,7 +11,7 @@ tags: [Ramcharit Manas Chandas]
 categories:    
     
 header:    
-   teaser: /assets/images/samskrut/RamcharaitMaanas.jpg    
+   teaser: ../assets/images/samskrut/RamcharaitMaanas.jpg    
     
 author: 'Hari Thapliyaal'    
     

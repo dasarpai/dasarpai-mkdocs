@@ -5,7 +5,7 @@ title:  "Bhagwat Gita Oneliner Lessons Chapterwise"
 date: "2025-03-06"        
 permalink: /wiaposts/bhagwat-gita-oneliner-lessons-chapterwise
 header:        
-    teaser: /assets/images/wiapost/5285-bhagwat-gita-oneliner-lessons-chapterwise.jpg               
+    teaser: ../assets/images/wiapost/5285-bhagwat-gita-oneliner-lessons-chapterwise.jpg               
 author: Hari Thapliyaal        
 layout:   wiaposts-layout        
 author_profile: true        

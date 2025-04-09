@@ -7,7 +7,7 @@ tags: [ Mind, 'My Views', Philosophy]
 keywords: ["exploration of self-discovery", "understanding self-awareness in philosophy", "poetic insights on introspection and growth", "philosophy of self-discovery and awareness", "exploring self-discovery in philosophical context"]  
 categories: [wiaposts] 
 header:
-     teaser: /assets/images/wiapost/5127-Knocking-Your-Own-Door.jpg
+     teaser: ../assets/images/wiapost/5127-Knocking-Your-Own-Door.jpg
 author: Hari Thapliyaal 
 layout:   wiaposts-layout
 excerpt: "Exploration of self-discovery, delving into insights on introspection and growth."  

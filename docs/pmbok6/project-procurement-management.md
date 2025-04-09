@@ -6,7 +6,7 @@ date: '2021-02-15T06:26:44+00:00'
 author: 'Hari Thapliyaal'
 
 header:
-   overlay_image: /assets/images/pmblog/1037-pmbok-general.jpg
+   overlay_image: ../assets/images/pmblog/1037-pmbok-general.jpg
 tags:
     - 'English Terms'
     - 'PMBOK Knowledge Areas'

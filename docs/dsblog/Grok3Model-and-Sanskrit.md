@@ -16,7 +16,7 @@ categories:
   - Sanskrit and AI
 
 header:
-  teaser: /assets/images/dspost/dsp6247-grok3model-and-sanskrit.jpg
+  teaser: ../assets/images/dspost/dsp6247-grok3model-and-sanskrit.jpg
 excerpt_separator: "<!--more-->"
 author: Hari Thapliyaal
 layout: dspost-layout

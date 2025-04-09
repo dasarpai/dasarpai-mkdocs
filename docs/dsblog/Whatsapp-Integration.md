@@ -13,7 +13,7 @@ tags:
 categories:
   - dsblog
 header:
-  teaser: /assets/images/dspost/dsp6204-Whatsapp-Integration.jpg
+  teaser: ../assets/images/dspost/dsp6204-Whatsapp-Integration.jpg
 excerpt_separator: "<!--more-->"
 author: Hari Thapliyaal
 layout: dspost-layout

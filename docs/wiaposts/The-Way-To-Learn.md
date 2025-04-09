@@ -8,7 +8,7 @@ tags: ['Education', 'Philosophy']
 
 categories: [wiaposts] 
 header:
-     teaser: /assets/images/wiapost/5033-The-Way-To-Learn.jpg
+     teaser: ../assets/images/wiapost/5033-The-Way-To-Learn.jpg
 author: Hari Thapliyaal 
 layout:   wiaposts-layout
 excerpt: 'Insights into effective learning methods and the philosophy of education.' 

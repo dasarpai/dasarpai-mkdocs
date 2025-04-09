@@ -8,7 +8,7 @@ tags: ['Dharma', 'Ethics & Morality', 'My Views']
 
 categories: [wiaposts] 
 header:
-     teaser: /assets/images/wiapost/5051-Religion-Of-Humanity.jpg
+     teaser: ../assets/images/wiapost/5051-Religion-Of-Humanity.jpg
 author: Hari Thapliyaal 
 layout:   wiaposts-layout
 excerpt: 'Examining the concept of humanity as a universal religion.' 

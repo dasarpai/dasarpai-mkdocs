@@ -9,7 +9,7 @@ tags:
 categories:
   - pmblog
 header:
-  teaser: '/assets/images/pmblog/1017-Responsibilties-of-Project-Manager-min.jpg'
+  teaser: '../assets/images/pmblog/1017-Responsibilties-of-Project-Manager-min.jpg'
 layout: pmblog-layout 
 
 author: 'Hari Thapliyaal'

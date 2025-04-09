@@ -11,7 +11,7 @@ tags: [Bhajan, Ramchandra]
 categories:    
     
 header:    
-   teaser: /assets/images/samskrut/Ramchandraji.jpg    
+   teaser: ../assets/images/samskrut/Ramchandraji.jpg    
     
 author: 'Hari Thapliyaal'    
     

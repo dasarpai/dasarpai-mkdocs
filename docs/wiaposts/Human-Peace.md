@@ -7,7 +7,7 @@ tags: [ Peace, Education, Wisdom]
 
 categories: [wiaposts] 
 header:
-     teaser: /assets/images/wiapost/5164-Human-Peace.jpg
+     teaser: ../assets/images/wiapost/5164-Human-Peace.jpg
 author: Hari Thapliyaal 
 layout:   wiaposts-layout
 excerpt:  

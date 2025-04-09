@@ -11,7 +11,7 @@ tags:
 categories:
   - dsblog
 header:
-  teaser: /assets/images/dspost/dsp6211-Computer-Vision-Research-Work.jpg
+  teaser: ../assets/images/dspost/dsp6211-Computer-Vision-Research-Work.jpg
 excerpt_separator: "<!--more-->"
 author: John Doe
 layout: dspost-layout

@@ -12,7 +12,7 @@ tags:
 categories:
   - dsblog
 header:
-  teaser: /assets/images/dspost/dsp6184-Microsoft-AI-Products.jpg
+  teaser: ../assets/images/dspost/dsp6184-Microsoft-AI-Products.jpg
 excerpt_separator: "<!--more-->"
 author: Hari Thapliyaal
 layout: dspost-layout

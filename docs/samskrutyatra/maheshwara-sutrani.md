@@ -11,7 +11,7 @@ tags: [Shiva]
 categories:    
     
 header:    
-   teaser: /assets/images/samskrut/Maheshsutrani.jpg    
+   teaser: ../assets/images/samskrut/Maheshsutrani.jpg    
     
 author: 'Hari Thapliyaal'    
     

@@ -9,7 +9,7 @@ categories:
   - dsblog
 keywords: [BERTopic, Topic Modeling, BERT Applications, Text Analysis, Document Classification, Natural Language Processing, Text Mining, Content Analysis]
 header:
-    teaser: /assets/images/dspost/dsp6105-Topic-Modeling-with-BERT.jpg
+    teaser: ../assets/images/dspost/dsp6105-Topic-Modeling-with-BERT.jpg
     
 excerpt_separator: "<!--more-->"   
 author: Hari Thapliyaal   

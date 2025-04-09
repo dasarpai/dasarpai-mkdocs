@@ -10,7 +10,7 @@ date: 2020-08-01
 categories:
 tags: [Software Project Management]
 header:
-  teaser: /assets/images/pmlogy/pmc526-fpa.jpg
+  teaser: ../assets/images/pmlogy/pmc526-fpa.jpg
 
 author_profile: true
 last_modified_at: 2020-08-01T15:46:43-04:00

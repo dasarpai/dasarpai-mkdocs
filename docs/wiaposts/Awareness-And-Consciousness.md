@@ -7,7 +7,7 @@ tags: [Meditation, Awareness, Consciousness ]
 
 categories: [wiaposts] 
 header:
-     teaser: /assets/images/wiapost/5171-Awareness-And-Consciousness.jpg
+     teaser: ../assets/images/wiapost/5171-Awareness-And-Consciousness.jpg
 author: Hari Thapliyaal 
 layout:   wiaposts-layout
 excerpt:  

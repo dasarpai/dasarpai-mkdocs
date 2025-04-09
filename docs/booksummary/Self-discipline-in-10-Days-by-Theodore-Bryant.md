@@ -8,7 +8,7 @@ tags: [Book Summary]
                             
 categories:                            
 header:                            
-    teaser: /assets/images/booksummary/7504-Self-discipline-in-10-Days-by-Theodore-Bryant.jpg                         
+    teaser: ../assets/images/booksummary/7504-Self-discipline-in-10-Days-by-Theodore-Bryant.jpg                         
 author: Hari Thapliyaal                            
 layout: booksum-layout                            
 excerpt:                            

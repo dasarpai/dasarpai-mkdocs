@@ -8,7 +8,7 @@ tags: ['Concepts', 'Philosophy', 'Science', 'Vedanta']
 
 categories: [wiaposts] 
 header:
-     teaser: /assets/images/wiapost/5065-Raw-Material-To-Create-Space-And-Time.jpg
+     teaser: ../assets/images/wiapost/5065-Raw-Material-To-Create-Space-And-Time.jpg
 author: Hari Thapliyaal 
 layout:   wiaposts-layout
 excerpt: 'Investigating the fundamental elements that constitute space and time.' 

@@ -8,7 +8,7 @@ tags: ["Package Management", Programming]
 categories:
   - dsblog
 header:
-    teaser: /assets/images/dspost/dsp6158-Exploring-Bundler.jpg
+    teaser: ../assets/images/dspost/dsp6158-Exploring-Bundler.jpg
 excerpt_separator: "<!--more-->"   
 author: Hari Thapliyaal   
 layout: dspost-layout   

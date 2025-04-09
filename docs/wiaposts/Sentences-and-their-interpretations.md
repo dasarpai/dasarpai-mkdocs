@@ -8,7 +8,7 @@ tags:  [My Views, Life, Philosophy]
         
 categories: [wiaposts] 
 header:        
-    teaser: /assets/images/wiapost/5252-Sentences-and-Their-Interpretations.jpg        
+    teaser: ../assets/images/wiapost/5252-Sentences-and-Their-Interpretations.jpg        
 author: Hari Thapliyaal        
 layout:   wiaposts-layout
 excerpt:        

@@ -11,7 +11,7 @@ tags: [Shiva]
 categories:    
     
 header:    
-   teaser: /assets/images/samskrut/Rudra.jpg    
+   teaser: ../assets/images/samskrut/Rudra.jpg    
     
 author: 'Hari Thapliyaal'    
     

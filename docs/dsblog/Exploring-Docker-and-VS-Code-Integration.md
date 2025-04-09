@@ -17,7 +17,7 @@ tags:
 categories:
   - dsblog
 header:
-    teaser: /assets/images/dspost/dsp6151-Exploring-Docker-and-VS-Code-Integration.jpg
+    teaser: ../assets/images/dspost/dsp6151-Exploring-Docker-and-VS-Code-Integration.jpg
 excerpt_separator: "<!--more-->"   
 author: Hari Thapliyaal   
 layout: dspost-layout   

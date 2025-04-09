@@ -8,7 +8,7 @@ tags: [Indian Culture, Philosophy, Thirukkural]
 
 categories: [wiaposts] 
 header:
-     teaser: /assets/images/wiapost/5002-Thirukkural-In-Hindi.jpg
+     teaser: ../assets/images/wiapost/5002-Thirukkural-In-Hindi.jpg
 author: Hari Thapliyaal 
 layout:   wiaposts-layout
 excerpt: 'An exploration of Thirukkural translated into Hindi, highlighting its cultural and philosophical significance.' 

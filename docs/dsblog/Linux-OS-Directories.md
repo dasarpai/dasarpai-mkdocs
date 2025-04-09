@@ -19,7 +19,7 @@ categories:
   - dsblog     
     
 header:    
-    teaser: /assets/images/dspost/dsp6055-Linux-OS-Directories.jpg    
+    teaser: ../assets/images/dspost/dsp6055-Linux-OS-Directories.jpg    
 excerpt_separator: "<!--more-->"   
 author: Hari Thapliyaal   
 layout: dspost-layout   

@@ -9,7 +9,7 @@ categories:
   - dsblog
 keywords: [Docker Images, Container Creation, Dockerfile, Image Building, Docker Configuration, Container Development, DevOps Tools, Docker Best Practices]
 header:
-    teaser: /assets/images/dspost/dsp6122-Creating-Docker-Image.jpg
+    teaser: ../assets/images/dspost/dsp6122-Creating-Docker-Image.jpg
 excerpt_separator: "<!--more-->"   
 author: Hari Thapliyaal   
 layout: dspost-layout   

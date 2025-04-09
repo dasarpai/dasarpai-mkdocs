@@ -11,7 +11,7 @@ tags:
 categories:
   - dsblog
 header:
-  teaser: /assets/images/dspost/dsp6193-OpenAI-12-Days-2024-Announcements.jpg
+  teaser: ../assets/images/dspost/dsp6193-OpenAI-12-Days-2024-Announcements.jpg
 excerpt_separator: "<!--more-->"
 author: Hari Thapliyaal
 layout: dspost-layout

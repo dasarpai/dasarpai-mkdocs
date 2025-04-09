@@ -8,7 +8,7 @@ tags: ["Package Management", Programming, Python]
 categories:
   - dsblog
 header:
-    teaser: /assets/images/dspost/dsp6161-Exploring-Python-Package-Managers.jpg
+    teaser: ../assets/images/dspost/dsp6161-Exploring-Python-Package-Managers.jpg
 excerpt_separator: "<!--more-->"   
 author: Hari Thapliyaal   
 layout: dspost-layout   

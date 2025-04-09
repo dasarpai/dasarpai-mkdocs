@@ -8,7 +8,7 @@ tags: ['Indian Culture', 'Mindfulness', 'Philosophy']
 
 categories: [wiaposts] 
 header:
-     teaser: /assets/images/wiapost/5041-Journey-Of-The-Siddhartha.jpg
+     teaser: ../assets/images/wiapost/5041-Journey-Of-The-Siddhartha.jpg
 author: Hari Thapliyaal 
 layout:   wiaposts-layout
 excerpt: 'A reflective journey through the life and teachings of Siddhartha.' 

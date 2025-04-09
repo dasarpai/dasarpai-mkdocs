@@ -9,7 +9,7 @@ categories:
   - dsblog
 keywords: [Machine Learning Metrics, Model Evaluation, Performance Measurement, ML Model Assessment, Evaluation Metrics, Model Performance, Statistical Metrics, ML Evaluation]
 header:
-    teaser: /assets/images/dspost/dsp6092-Machine-Learning-Metrics.jpg
+    teaser: ../assets/images/dspost/dsp6092-Machine-Learning-Metrics.jpg
 excerpt_separator: "<!--more-->"   
 author: Hari Thapliyaal   
 layout: dspost-layout   

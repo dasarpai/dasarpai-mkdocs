@@ -15,7 +15,7 @@ tags:
   - ML Courses
 
 header:
-  teaser: /assets/images/dscourses/dsc305-Mathematics-for-Data-Scientist.jpg
+  teaser: ../assets/images/dscourses/dsc305-Mathematics-for-Data-Scientist.jpg
 
 author_profile: true
 last_modified_at: 2021-09-19T15:46:43-04:00

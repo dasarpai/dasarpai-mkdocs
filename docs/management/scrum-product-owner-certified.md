@@ -13,7 +13,7 @@ tags:
   - 'Scrum Master Certified'
 
 header:
-  teaser: /assets/images/pmlogy/pmc510-scrumstudy-product-owner-certified.jpg
+  teaser: ../assets/images/pmlogy/pmc510-scrumstudy-product-owner-certified.jpg
 
 author_profile: true
 last_modified_at: 2020-08-10T15:46:43-04:00

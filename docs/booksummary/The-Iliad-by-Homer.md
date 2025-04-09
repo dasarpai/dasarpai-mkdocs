@@ -13,7 +13,7 @@ tags:
   - "Greek Mythology"
 categories:
 header:
-  teaser: /assets/images/default/summaryblog.jpg
+  teaser: ../assets/images/default/summaryblog.jpg
 author: Hari Thapliyaal
 layout: booksum-layout
 excerpt: "Summary of The Iliad, a long epic poem written by Homer, an ancient Greek poet. The Iliad is a classic piece of literature from the 8th century BCE, which tells the story of the Trojan War."

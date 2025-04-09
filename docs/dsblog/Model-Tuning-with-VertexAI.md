@@ -9,7 +9,7 @@ categories:
   - dsblog
 
 header:
-    teaser: /assets/images/dspost/dsp6081-Model-Tuning-with-VertexAI.jpg
+    teaser: ../assets/images/dspost/dsp6081-Model-Tuning-with-VertexAI.jpg
 excerpt_separator: "<!--more-->"   
 author: Hari Thapliyaal   
 layout: dspost-layout   
@@ -22,7 +22,7 @@ mathjax: "true"
 keywords: [VertexAI, Google Cloud AI, Model Tuning, Machine Learning Platform, AI Model Optimization, Cloud ML, Model Training, Google AI]
 ---
 
-![Model Tuning with VertexAI]( /assets/images/dspost/dsp6081-Model-Tuning-with-VertexAI.jpg)
+![Model Tuning with VertexAI]( ../assets/images/dspost/dsp6081-Model-Tuning-with-VertexAI.jpg)
 # Tuning Large Language Model with VertexAI
 
 ## Why Model Tuning?

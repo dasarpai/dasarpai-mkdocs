@@ -15,7 +15,7 @@ tags:
   - ML Courses
 
 header:
-  teaser: /assets/images/dscourses/dsc304-Deep-Learning-for-Computer-Vision.jpg
+  teaser: ../assets/images/dscourses/dsc304-Deep-Learning-for-Computer-Vision.jpg
 
 author_profile: true
 last_modified_at: 2021-09-18T15:46:43-04:00

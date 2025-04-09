@@ -12,7 +12,7 @@ categories:
 tags: [Agile Courses]
 
 header:
-  teaser: /assets/images/pmlogy/pmc525-agile-scrum.jpg
+  teaser: ../assets/images/pmlogy/pmc525-agile-scrum.jpg
 
 author_profile: true
 last_modified_at: 2020-08-01T15:46:43-04:00

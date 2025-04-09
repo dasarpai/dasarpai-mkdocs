@@ -4,15 +4,14 @@
 
 - ![Agile Practices](../assets/images/pmblog/1038-pmlogy-post.jpg){ width="200" }
 
-    ### [Agile Practices](pmblog/agile-practices.md)
+    ### [Agile Practices](agile-practices)
     
     **Read time:** 7 min
     
     EXCERPT Not Found
-
 - ![Agile Project Management for HR Professionals](../assets/images/pmblog/1035-Agile-HR-min.png){ width="200" }
 
-    ### [Agile Project Management for HR Professionals](pmblog/agile-project-management-for-hr-professionals.md)
+    ### [Agile Project Management for HR Professionals](agile-project-management-for-hr-professionals)
     
     **Read time:** 8 min
     
@@ -24,15 +23,14 @@
 
 - ![Agility vs Scale in Business](../assets/images/pmblog/1043-BusinessAgilityVsScale2.jpg){ width="200" }
 
-    ### [Agility vs Scale in Business](pmblog/agility-vs-scale-in-business.md)
+    ### [Agility vs Scale in Business](agility-vs-scale-in-business)
     
     **Read time:** 6 min
     
     EXCERPT Not Found
-
 - ![Bad Meetings](../assets/images/pmblog/1000-Time-Waste-min.png){ width="200" }
 
-    ### [Bad Meetings](pmblog/bad-meetings.md)
+    ### [Bad Meetings](bad-meetings)
     
     **Read time:** 5 min
     
@@ -44,15 +42,14 @@
 
 - ![Understanding Balanced Score Card](../assets/images/pmblog/1028-Balance-Scorecard-min.jpg){ width="200" }
 
-    ### [Understanding Balanced Score Card](pmblog/balanced-score-card.md)
+    ### [Understanding Balanced Score Card](balanced-score-card)
     
     **Read time:** 5 min
     
     EXCERPT Not Found
-
 - ![Behaviors that lead to Exceptional Performance](../assets/images/pmblog/1001-Exceptional-Performance-min.jpg){ width="200" }
 
-    ### [Behaviors that lead to Exceptional Performance](pmblog/behaviors-that-lead-to-exceptional-performance.md)
+    ### [Behaviors that lead to Exceptional Performance](behaviors-that-lead-to-exceptional-performance)
     
     **Read time:** 5 min
     
@@ -64,15 +61,14 @@
 
 - ![Best Practices of Project Management](../assets/images/pmblog/1022-IT-PM-Best-Practices-min.png){ width="200" }
 
-    ### [Best Practices of Project Management](pmblog/best-practices-of-project-management.md)
+    ### [Best Practices of Project Management](best-practices-of-project-management)
     
     **Read time:** 6 min
     
     EXCERPT Not Found
-
 - ![Change Request in Project Management](../assets/images/pmblog/1008-ChangeRequestManagement.jpg){ width="200" }
 
-    ### [Change Request in Project Management](pmblog/change-request-in-project-management.md)
+    ### [Change Request in Project Management](change-request-in-project-management)
     
     **Read time:** 5 min
     
@@ -84,15 +80,14 @@
 
 - ![CMMI Version 1.3](../assets/images/pmblog/1012-SEI-CMMI.jpg){ width="200" }
 
-    ### [CMMI Version 1.3](pmblog/cmmi-version-1-3.md)
+    ### [CMMI Version 1.3](cmmi-version-1-3)
     
     **Read time:** 5 min
     
     EXCERPT Not Found
-
 - ![Confusing Terminologies in Software Testing](../assets/images/pmblog/1021-Software-Bug-min.png){ width="200" }
 
-    ### [Confusing Terminologies in Software Testing](pmblog/confusing-terminologies-in-software-testing.md)
+    ### [Confusing Terminologies in Software Testing](confusing-terminologies-in-software-testing)
     
     **Read time:** 5 min
     
@@ -104,15 +99,14 @@
 
 - ![Customer is King](../assets/images/pmblog/1020-Customer-Vendor-Relation.jpg){ width="200" }
 
-    ### [Customer is King](pmblog/customer-is-king.md)
+    ### [Customer is King](customer-is-king)
     
     **Read time:** 5 min
     
     EXCERPT Not Found
-
 - ![Difference between PMP and PRINCE2](../assets/images/pmblog/1013-PMP-PRINCE2-min.png){ width="200" }
 
-    ### [Difference between PMP and PRINCE2](pmblog/difference-between-pmp-and-prince2.md)
+    ### [Difference between PMP and PRINCE2](difference-between-pmp-and-prince2)
     
     **Read time:** 7 min
     
@@ -124,15 +118,14 @@
 
 - ![Enterprise Project Server 2016](../assets/images/pmblog/1014-MicrosoftProject-Security.jpg){ width="200" }
 
-    ### [Enterprise Project Server 2016](pmblog/enterprise-project-server-2016.md)
+    ### [Enterprise Project Server 2016](enterprise-project-server-2016)
     
     **Read time:** 5 min
     
     EXCERPT Not Found
-
 - ![GenAI Usecases for Project Managers](../assets/images/pmblog/1046-GenAI-Usecases-for-Project-Managers.jpg){ width="200" }
 
-    ### [GenAI Usecases for Project Managers](pmblog/GenAI-Usecases-for-Project-Managers.md)
+    ### [GenAI Usecases for Project Managers](GenAI-Usecases-for-Project-Managers)
     
     **Read time:** 22 min
     
@@ -144,15 +137,14 @@
 
 - ![How to Measure Project Success Criteria](../assets/images/pmblog/1016-Project_Success_Criteria.jpg){ width="200" }
 
-    ### [How to Measure Project Success Criteria](pmblog/how-to-measure-project-success-criteria.md)
+    ### [How to Measure Project Success Criteria](how-to-measure-project-success-criteria)
     
     **Read time:** 5 min
     
     EXCERPT Not Found
-
 - ![Interpersonal Skills for a project manager](../assets/images/pmblog/1027-Softskills-Project-Manger-min.jpg){ width="200" }
 
-    ### [Interpersonal Skills for a project manager](pmblog/interpersonal-skills-for-a-project-manager.md)
+    ### [Interpersonal Skills for a project manager](interpersonal-skills-for-a-project-manager)
     
     **Read time:** 5 min
     
@@ -164,15 +156,14 @@
 
 - ![Leadership Framework of Big MNCs](../assets/images/pmblog/1047-Leadership-Framework-of-Big-MNCs.jpg){ width="200" }
 
-    ### [Leadership Framework of Big MNCs](pmblog/Leadership-Framework-of-Big-MNCs.md)
+    ### [Leadership Framework of Big MNCs](Leadership-Framework-of-Big-MNCs)
     
     **Read time:** 5 min
     
     EXCERPT Not Found
-
 - ![Managing Virtual Teams](../assets/images/pmblog/1006-Virtual-Team-min.jpg){ width="200" }
 
-    ### [Managing Virtual Teams](pmblog/managing-virtual-teams.md)
+    ### [Managing Virtual Teams](managing-virtual-teams)
     
     **Read time:** 7 min
     
@@ -184,15 +175,14 @@
 
 - ![PMBOK 5 Process Groups & Processes (Acronyms)](../assets/images/pmblog/1010-PMBOK5.jpg){ width="200" }
 
-    ### [PMBOK 5 Process Groups & Processes (Acronyms)](pmblog/pmbok-5-process-groups-processes-acronyms.md)
+    ### [PMBOK 5 Process Groups & Processes (Acronyms)](pmbok-5-process-groups-processes-acronyms)
     
     **Read time:** 5 min
     
     EXCERPT Not Found
-
 - ![PMBOK 5 Processes](../assets/images/pmblog/1010-PMBOK5.jpg){ width="200" }
 
-    ### [PMBOK 5 Processes](pmblog/pmbok-5-processes.md)
+    ### [PMBOK 5 Processes](pmbok-5-processes)
     
     **Read time:** 5 min
     
@@ -204,15 +194,14 @@
 
 - ![PMBOK 6 Processes](../assets/images/pmblog/1033-PMBOK6.jpg){ width="200" }
 
-    ### [PMBOK 6 Processes](pmblog/pmbok-6-processes.md)
+    ### [PMBOK 6 Processes](pmbok-6-processes)
     
     **Read time:** 5 min
     
     EXCERPT Not Found
-
 - ![PMBOK Knowledge Areas](../assets/images/pmblog/1004-PMBOK-KA-min.jpg){ width="200" }
 
-    ### [PMBOK Knowledge Areas](pmblog/pmbok-knowledge-areas.md)
+    ### [PMBOK Knowledge Areas](pmbok-knowledge-areas)
     
     **Read time:** 5 min
     
@@ -224,15 +213,14 @@
 
 - ![PMI-ACP Exam Preparation Books](../assets/images/pmblog/1030-PMI-ACP-Exam-Prep-min.png){ width="200" }
 
-    ### [PMI-ACP Exam Preparation Books](pmblog/pmi-acp-exam-preparation-books.md)
+    ### [PMI-ACP Exam Preparation Books](pmi-acp-exam-preparation-books)
     
     **Read time:** 5 min
     
     EXCERPT Not Found
-
 - ![PMI ACP Exam](../assets/images/pmblog/1030-PMI-ACP-Exam-Prep-min.png){ width="200" }
 
-    ### [PMI ACP Exam](pmblog/pmi-acp-exam.md)
+    ### [PMI ACP Exam](pmi-acp-exam)
     
     **Read time:** 6 min
     
@@ -244,15 +232,14 @@
 
 - ![PMI ACP vs Scrum Master](../assets/images/pmblog/1019-PMI-ACP-Scrum-min.png){ width="200" }
 
-    ### [PMI ACP vs Scrum Master](pmblog/pmi-acp-vs-scrum-master.md)
+    ### [PMI ACP vs Scrum Master](pmi-acp-vs-scrum-master)
     
     **Read time:** 7 min
     
     EXCERPT Not Found
-
 - ![PMI Exam Change Schedule 2013](../assets/images/pmblog/1006-Virtual-Team-min.jpg){ width="200" }
 
-    ### [PMI Exam Change Schedule 2013](pmblog/pmi-exam-change-schedule-2013.md)
+    ### [PMI Exam Change Schedule 2013](pmi-exam-change-schedule-2013)
     
     **Read time:** 5 min
     
@@ -264,15 +251,14 @@
 
 - ![PMI Standards and Credentials](../assets/images/pmblog/1007-PMI-Standards-Certification-min.jpg){ width="200" }
 
-    ### [PMI Standards and Credentials](pmblog/pmi-standards-and-credentials.md)
+    ### [PMI Standards and Credentials](pmi-standards-and-credentials)
     
     **Read time:** 5 min
     
     EXCERPT Not Found
-
 - ![Popular Business Process Frameworks](../assets/images/pmblog/1045-Popular-Business-Process-Frameworks.jpg){ width="200" }
 
-    ### [Popular Business Process Frameworks](pmblog/Popular-Business-Process-Frameworks.md)
+    ### [Popular Business Process Frameworks](Popular-Business-Process-Frameworks)
     
     **Read time:** 10 min
     
@@ -284,15 +270,14 @@
 
 - ![Power BI Reporting for Project Online](../assets/images/pmblog/1031-powerBI-projectOnline.jpg){ width="200" }
 
-    ### [Power BI Reporting for Project Online](pmblog/power-bi-reporting-project-online.md)
+    ### [Power BI Reporting for Project Online](power-bi-reporting-project-online)
     
     **Read time:** 5 min
     
     EXCERPT Not Found
-
 - ![PMBOK 6th Edition Process Groups](../assets/images/pmblog/1033-PMBOK6.jpg){ width="200" }
 
-    ### [PMBOK 6th Edition Process Groups](pmblog/process-groups-and-processes-in-pmbok6.md)
+    ### [PMBOK 6th Edition Process Groups](process-groups-and-processes-in-pmbok6)
     
     **Read time:** 5 min
     
@@ -304,15 +289,14 @@
 
 - ![Project Manager Responsibilities](../assets/images/pmblog/1017-Responsibilties-of-Project-Manager-min.jpg){ width="200" }
 
-    ### [Project Manager Responsibilities](pmblog/project-manager-responsibilities.md)
+    ### [Project Manager Responsibilities](project-manager-responsibilities)
     
     **Read time:** 8 min
     
     EXCERPT Not Found
-
 - ![Project Professional 2016 Reporting](../assets/images/pmblog/1032-project-online-2016-reporting.jpg){ width="200" }
 
-    ### [Project Professional 2016 Reporting](pmblog/project-professional-2016-reporting.md)
+    ### [Project Professional 2016 Reporting](project-professional-2016-reporting)
     
     **Read time:** 5 min
     
@@ -324,15 +308,14 @@
 
 - ![Structure of Business Dialogues](../assets/images/pmblog/1029-Structure-of-Dialogue-min.png){ width="200" }
 
-    ### [Structure of Business Dialogues](pmblog/structure-of-business-dialogues.md)
+    ### [Structure of Business Dialogues](structure-of-business-dialogues)
     
     **Read time:** 6 min
     
     EXCERPT Not Found
-
 - ![Summary of Chaos Report 1995](../assets/images/pmblog/1009-ChaosReport.png){ width="200" }
 
-    ### [Summary of Chaos Report 1995](pmblog/summary-of-chaos-report-1995.md)
+    ### [Summary of Chaos Report 1995](summary-of-chaos-report-1995)
     
     **Read time:** 5 min
     
@@ -344,15 +327,14 @@
 
 - ![Team Challenge](../assets/images/pmblog/1024-Challenge-Team-min.jpg){ width="200" }
 
-    ### [Team Challenge](pmblog/team-challenge.md)
+    ### [Team Challenge](team-challenge)
     
     **Read time:** 5 min
     
     EXCERPT Not Found
-
 - ![Understanding Project Management like a Kid](../assets/images/pmblog/1003-Project-management-terms-with-Construction.jpg){ width="200" }
 
-    ### [Understanding Project Management like a Kid](pmblog/understanding-project-management-like-a-kid.md)
+    ### [Understanding Project Management like a Kid](understanding-project-management-like-a-kid)
     
     **Read time:** 12 min
     
@@ -364,15 +346,14 @@
 
 - ![United Nations 17 Sustainable Development Goals?](../assets/images/pmblog/1042-SustaintableDevelopmentGoal.png){ width="200" }
 
-    ### [United Nations 17 Sustainable Development Goals?](pmblog/united-nations-17-sustainable-development-goals.md)
+    ### [United Nations 17 Sustainable Development Goals?](united-nations-17-sustainable-development-goals)
     
     **Read time:** 5 min
     
     EXCERPT Not Found
-
 - ![User Story](../assets/images/pmblog//1036-UserStory.jpg){ width="200" }
 
-    ### [User Story](pmblog/user-story.md)
+    ### [User Story](user-story)
     
     **Read time:** 5 min
     
@@ -384,15 +365,14 @@
 
 - ![Waterfall Methodology vs Agile](../assets/images/pmblog/1015-Agile-Waterfall-min.png){ width="200" }
 
-    ### [Waterfall Methodology vs Agile](pmblog/waterfall-methodology-vs-agile.md)
+    ### [Waterfall Methodology vs Agile](waterfall-methodology-vs-agile)
     
     **Read time:** 10 min
     
     EXCERPT Not Found
-
 - ![What are PMI Certifications?](../assets/images/pmblog/1023-PMI-Certification-min.jpg){ width="200" }
 
-    ### [What are PMI Certifications?](pmblog/what-are-pmi-certifications.md)
+    ### [What are PMI Certifications?](what-are-pmi-certifications)
     
     **Read time:** 5 min
     
@@ -404,15 +384,14 @@
 
 - ![What is a Technical Spike?](../assets/images/pmblog/1037-pmbok-general.jpg){ width="200" }
 
-    ### [What is a Technical Spike?](pmblog/what-is-a-technical-spike.md)
+    ### [What is a Technical Spike?](what-is-a-technical-spike)
     
     **Read time:** 5 min
     
     EXCERPT Not Found
-
 - ![What is Project Management?](../assets/images/pmblog/1025-pmbok.png){ width="200" }
 
-    ### [What is Project Management?](pmblog/what-is-project-management.md)
+    ### [What is Project Management?](what-is-project-management)
     
     **Read time:** 5 min
     
@@ -424,15 +403,14 @@
 
 - ![What is Six Sigma?](../assets/images/pmblog/1038-pmlogy-post.jpg){ width="200" }
 
-    ### [What is Six Sigma?](pmblog/what-is-six-sigma.md)
+    ### [What is Six Sigma?](what-is-six-sigma)
     
     **Read time:** 7 min
     
     EXCERPT Not Found
-
 - ![When to Kill a Project?](../assets/images/pmblog/1026-Killing-a-Project-min.png){ width="200" }
 
-    ### [When to Kill a Project?](pmblog/when-to-kill-a-project.md)
+    ### [When to Kill a Project?](when-to-kill-a-project)
     
     **Read time:** 5 min
     
@@ -444,15 +422,14 @@
 
 - ![Why 6sigmastudy Certification?](../assets/images/pmblog/1038-pmlogy-post.jpg){ width="200" }
 
-    ### [Why 6sigmastudy Certification?](pmblog/why-6sigmastudy-certification.md)
+    ### [Why 6sigmastudy Certification?](why-6sigmastudy-certification)
     
     **Read time:** 5 min
     
     EXCERPT Not Found
-
 - ![Why Agile is popular in project management?](../assets/images/pmblog/1018-Why-APM-is-Popular-min.png){ width="200" }
 
-    ### [Why Agile is popular in project management?](pmblog/why-agile-is-popular-in-project-management.md)
+    ### [Why Agile is popular in project management?](why-agile-is-popular-in-project-management)
     
     **Read time:** 7 min
     
@@ -464,10 +441,9 @@
 
 - ![ZED Best Practices v2](../assets/images/pmblog/1044-ZED-V1.jpg){ width="200" }
 
-    ### [ZED Best Practices v2](pmblog/Zed-Best-Practices-v2.md)
+    ### [ZED Best Practices v2](Zed-Best-Practices-v2)
     
     **Read time:** 7 min
     
     EXCERPT Not Found
-
 </div>

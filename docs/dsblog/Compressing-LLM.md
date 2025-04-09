@@ -9,7 +9,7 @@ categories:
   - dsblog
 keywords: [LLM Compression, Model Optimization, Neural Network Compression, AI Efficiency, Model Quantization, Knowledge Distillation, Model Pruning, Efficient AI]
 header:
-    teaser: /assets/images/dspost/dsp6099-Compressing-LLM.jpg
+    teaser: ../assets/images/dspost/dsp6099-Compressing-LLM.jpg
 excerpt_separator: "<!--more-->"   
 author: Hari Thapliyaal   
 layout: dspost-layout   

@@ -9,7 +9,7 @@ categories:
   - dsblog   
     
 header:    
-    teaser: /assets/images/dspost/dsp6065-Model-Garden-of-VertexAI.jpg    
+    teaser: ../assets/images/dspost/dsp6065-Model-Garden-of-VertexAI.jpg    
 excerpt_separator: "<!--more-->"   
 author: Hari Thapliyaal   
 layout: dspost-layout   

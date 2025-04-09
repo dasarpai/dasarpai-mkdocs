@@ -7,7 +7,7 @@ tags: [ 'My Views', Philosophy]
 keywords: ["philosophical exploration of attitude", "understanding mindset in philosophy", "poetic insights on choice and perspective", "philosophy of attitude and perception", "exploring attitude in philosophical context"]  
 categories: [wiaposts] 
 header:
-     teaser: /assets/images/wiapost/5132-Choose-Your-Attitude.jpg
+     teaser: ../assets/images/wiapost/5132-Choose-Your-Attitude.jpg
 author: Hari Thapliyaal 
 layout:   wiaposts-layout
 excerpt: A philosophical and poetic exploration of attitude, delving into insights on mindset and choice.

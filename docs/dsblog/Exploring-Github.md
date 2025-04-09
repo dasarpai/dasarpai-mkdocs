@@ -9,7 +9,7 @@ categories:
   - dsblog
 keywords: [GitHub Platform, Version Control System, Git Commands, Repository Management, Code Collaboration, DevOps Tools, Software Development Workflow, Git Best Practices]
 header:
-    teaser: /assets/images/dspost/dsp6142-Exploring-Github.jpg
+    teaser: ../assets/images/dspost/dsp6142-Exploring-Github.jpg
 excerpt_separator: "<!--more-->"   
 author: Hari Thapliyaal   
 layout: dspost-layout   

@@ -6,12 +6,12 @@ date: '2021-02-16T17:51:15+00:00'
 author: 'Hari Thapliyaal'
 
 header:  
-  teaser: /assets/images/pmlogy/Project-Schedule-Management.jpg
+  teaser: ../assets/images/pmlogy/Project-Schedule-Management.jpg
 tags:
     - 'English Terms'
     - 'PMBOK Knowledge Areas'
 ---
-![](/pmbok6//assets/images/pmlogy/Project-Schedule-Management.jpg)
+![](/pmbok6/../assets/images/pmlogy/Project-Schedule-Management.jpg)
 
 ## Project Schedule Management
 

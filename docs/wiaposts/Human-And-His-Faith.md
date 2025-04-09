@@ -8,7 +8,7 @@ tags: ['Philosophy', 'Poetry']
 
 categories: [wiaposts] 
 header:
-     teaser: /assets/images/wiapost/5035-Human-And-His-Faith.jpg
+     teaser: ../assets/images/wiapost/5035-Human-And-His-Faith.jpg
 author: Hari Thapliyaal 
 layout:   wiaposts-layout
 excerpt: 'A poetic exploration of the relationship between humanity and faith.' 

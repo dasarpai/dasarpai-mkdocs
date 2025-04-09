@@ -8,7 +8,7 @@ tags: ['Mindfulness', 'Philosophy']
 
 categories: [wiaposts] 
 header:
-     teaser: /assets/images/wiapost/5025-My-Creator.jpg
+     teaser: ../assets/images/wiapost/5025-My-Creator.jpg
 author: Hari Thapliyaal 
 layout:   wiaposts-layout
 excerpt: 'A reflective piece on the concept of creation and the creator within mindfulness and philosophy.' 

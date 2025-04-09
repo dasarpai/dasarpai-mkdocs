@@ -9,7 +9,7 @@ categories:
   - dsblog
 keywords: [AI Government Applications, Digital Government, Public Sector Innovation, Smart Governance, Government Services, Public Administration Technology, E-Government Solutions, Government Automation]
 header:
-    teaser: /assets/images/dspost/dsp6110-AI-Usecases-in-Goverment.jpg
+    teaser: ../assets/images/dspost/dsp6110-AI-Usecases-in-Goverment.jpg
 excerpt_separator: "<!--more-->"   
 author: Hari Thapliyaal   
 layout: dspost-layout   

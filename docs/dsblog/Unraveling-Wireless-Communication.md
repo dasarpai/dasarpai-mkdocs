@@ -12,7 +12,7 @@ tags:
 categories:
   - dsblog
 header:
-  teaser: /assets/images/dspost/dsp6203-Unraveling-Wireless-Communication.jpg
+  teaser: ../assets/images/dspost/dsp6203-Unraveling-Wireless-Communication.jpg
 excerpt_separator: "<!--more-->"
 author: Hari Thapliyaal
 layout: dspost-layout

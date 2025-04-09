@@ -7,7 +7,7 @@ tags: [ Philosophy, Poetry]
 keywords: ["philosophical insights on desire", "renunciation and self-limitation", "poetic exploration of self and desire", "teachings from the Upanishads", "understanding self through philosophy"]  
 categories: [wiaposts] 
 header:
-     teaser: /assets/images/wiapost/5104-Desire-Renunciation-And-A-Limited-Self.jpg
+     teaser: ../assets/images/wiapost/5104-Desire-Renunciation-And-A-Limited-Self.jpg
 author: Hari Thapliyaal 
 layout:   wiaposts-layout
 excerpt: A poetic and philosophical exploration of desire, renunciation, and the concept of a limited self, inspired by teachings from the Upanishads.

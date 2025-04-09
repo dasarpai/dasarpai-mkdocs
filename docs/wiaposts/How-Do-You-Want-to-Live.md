@@ -8,7 +8,7 @@ tags:  [My Views, Life, Philosophy]
 
 categories: [wiaposts] 
 header:
-    teaser: /assets/images/wiapost/5225-How-Do-You-Want-to-Live.jpg
+    teaser: ../assets/images/wiapost/5225-How-Do-You-Want-to-Live.jpg
 author: Hari Thapliyaal
 layout:   wiaposts-layout
 excerpt:

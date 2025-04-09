@@ -18,7 +18,7 @@ categories:
   - dsblog
 
 header:
-    teaser: /assets/images/dspost/dsp6043-gan.jpg
+    teaser: ../assets/images/dspost/dsp6043-gan.jpg
 excerpt_separator: "<!--more-->"   
 author: Hari Thapliyaal   
 layout: dspost-layout   

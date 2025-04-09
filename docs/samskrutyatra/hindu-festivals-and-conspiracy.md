@@ -11,7 +11,7 @@ tags: [Rastra Vandan]
 categories:    
     
 header:    
-   teaser: /assets/images/samskrut/BharatMata.jpg    
+   teaser: ../assets/images/samskrut/BharatMata.jpg    
     
 author: 'Hari Thapliyaal'    
     

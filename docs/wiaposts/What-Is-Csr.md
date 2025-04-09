@@ -8,7 +8,7 @@ tags: ['Bhagwat Gita', 'Ethics & Morality', 'My Views', 'Philosophy', 'Philosoph
 
 categories: [wiaposts] 
 header:
-     teaser: /assets/images/wiapost/5056-What-Is-Csr.jpg
+     teaser: ../assets/images/wiapost/5056-What-Is-Csr.jpg
 author: Hari Thapliyaal 
 layout:   wiaposts-layout
 excerpt: "This article explores the concept of Corporate Social Responsibility (CSR) and its significance in modern business practices, drawing insights from ancient wisdom and contemporary examples."

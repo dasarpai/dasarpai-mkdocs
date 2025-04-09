@@ -7,7 +7,7 @@ tags:  [My Views, Life, Philosophy]
         
 categories: [wiaposts] 
 header:        
-    teaser: /assets/images/wiapost/5240-The-Meaning-of-Success.jpg        
+    teaser: ../assets/images/wiapost/5240-The-Meaning-of-Success.jpg        
 author: Hari Thapliyaal        
 layout:   wiaposts-layout
 excerpt:        

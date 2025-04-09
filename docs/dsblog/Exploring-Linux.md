@@ -8,7 +8,7 @@ tags: ["Shell Commands", "Linux Distributions", "CLI", "Programming"]
 categories:
   - dsblog
 header:
-    teaser: /assets/images/dspost/dsp6160-Exploring-Linux-Distributions.jpg
+    teaser: ../assets/images/dspost/dsp6160-Exploring-Linux-Distributions.jpg
 excerpt_separator: "<!--more-->"   
 author: Hari Thapliyaal   
 layout: dspost-layout   

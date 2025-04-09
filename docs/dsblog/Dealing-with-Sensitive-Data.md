@@ -18,7 +18,7 @@ tags:
   - Cybersecurity
 keywords: data security, data privacy, sensitive data handling, data protection, data governance, data anonymization, data encryption, GDPR compliance, data masking, secure data management, PII protection, data classification, access control, data privacy regulations, information security, cybersecurity best practices, data breach prevention, secure data storage, data compliance, risk management
 header:
-  teaser: "/assets/images/dspost/dsp6001-Dealing-with-Sensitive-Data.jpg"
+  teaser: "../assets/images/dspost/dsp6001-Dealing-with-Sensitive-Data.jpg"
 excerpt_separator: "<!--more-->"   
 author: Hari Thapliyaal   
 layout: dspost-layout   

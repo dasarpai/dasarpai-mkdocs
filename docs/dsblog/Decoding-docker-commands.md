@@ -9,7 +9,7 @@ categories:
   - dsblog
 keywords: [Docker Commands, Container Management, DevOps Tools, Docker Images, Containerization, Docker Compose, Container Deployment, Docker Configuration]
 header:
-    teaser: /assets/images/dspost/dsp6117-Decoding-docker-commands.jpg
+    teaser: ../assets/images/dspost/dsp6117-Decoding-docker-commands.jpg
 excerpt_separator: "<!--more-->"   
 author: Hari Thapliyaal   
 layout: dspost-layout   

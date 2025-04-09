@@ -9,7 +9,7 @@ categories:
   - dsblog
 
 header:
-    teaser: /assets/images/dspost/dsp6076-AWS-SageMaker-Jumpstart-Models.jpg
+    teaser: ../assets/images/dspost/dsp6076-AWS-SageMaker-Jumpstart-Models.jpg
 excerpt_separator: "<!--more-->"   
 author: Hari Thapliyaal   
 layout: dspost-layout   

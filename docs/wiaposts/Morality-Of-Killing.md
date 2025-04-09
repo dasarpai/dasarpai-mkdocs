@@ -7,7 +7,7 @@ tags: [ 'Ethics and Morality', Philosophy, Poetry]
 keywords: ["ethical implications of taking life", "philosophical views on morality", "poetry on life and death", "cultural perspectives on killing", "moral dilemmas in society"]  
 categories: [wiaposts] 
 header:
-     teaser: /assets/images/wiapost/5099-Morality-Of-Killing.jpg
+     teaser: ../assets/images/wiapost/5099-Morality-Of-Killing.jpg
 author: Hari Thapliyaal 
 layout:   wiaposts-layout
 excerpt: A philosophical exploration of the moral and ethical implications of taking life, through poetry and cultural perspectives.

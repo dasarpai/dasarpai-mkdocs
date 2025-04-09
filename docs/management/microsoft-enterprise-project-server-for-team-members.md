@@ -12,7 +12,7 @@ categories:
 tags: [Microsoft Project Courses]
 
 header:
-  teaser: /assets/images/pmlogy/pmc517-microsoft-enterprise-project-server-for-team-members.jpg
+  teaser: ../assets/images/pmlogy/pmc517-microsoft-enterprise-project-server-for-team-members.jpg
 
 author_profile: true
 last_modified_at: 2020-08-08T15:46:43-04:00

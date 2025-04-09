@@ -5,7 +5,7 @@ title:  "Questions in Bhagavad Gita: A Comprehensive List"
 date: "2025-03-02"        
 permalink: /wiaposts/questions-in-bhagavad-gita
 header:        
-    teaser: /assets/images/wiapost/5282-questions-in-bhagavad-gita.jpg               
+    teaser: ../assets/images/wiapost/5282-questions-in-bhagavad-gita.jpg               
 author: Hari Thapliyaal        
 layout:   wiaposts-layout        
 author_profile: true        

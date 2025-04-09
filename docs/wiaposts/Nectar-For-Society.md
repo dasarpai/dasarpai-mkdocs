@@ -8,7 +8,7 @@ tags: ['Indian Culture', 'Philosophy']
 
 categories: [wiaposts] 
 header:
-     teaser: /assets/images/wiapost/5017-Nectar-For-Society.jpg
+     teaser: ../assets/images/wiapost/5017-Nectar-For-Society.jpg
 author: Hari Thapliyaal 
 layout:   wiaposts-layout
 excerpt: 'Exploring the cultural and philosophical ideals that serve as a foundation for society.' 

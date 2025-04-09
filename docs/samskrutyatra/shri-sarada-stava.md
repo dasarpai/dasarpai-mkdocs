@@ -11,7 +11,7 @@ tags: [Devi, Chanting]
 categories: [Chanting]
     
 header:    
-   teaser: /assets/images/samskrut/SaradaMaa.jpg    
+   teaser: ../assets/images/samskrut/SaradaMaa.jpg    
     
 author: 'Hari Thapliyaal'    
     

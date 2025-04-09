@@ -7,7 +7,7 @@ tags: [Philosophy, My Views, Life]
    
 categories: [wiaposts] 
 header:   
-    teaser: /assets/images/wiapost/5214-Continuum-of-life.jpg   
+    teaser: ../assets/images/wiapost/5214-Continuum-of-life.jpg   
 author: Hari Thapliyaal   
 layout:   wiaposts-layout
 excerpt:   

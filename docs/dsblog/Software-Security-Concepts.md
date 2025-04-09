@@ -9,7 +9,7 @@ categories:
   - dsblog
 keywords: [Software Security, Cybersecurity Concepts, Information Security, Security Protocols, Data Protection, Network Security, Security Architecture, Security Standards]
 header:
-    teaser: /assets/images/dspost/dsp6132-Software-Security-Concepts.jpg
+    teaser: ../assets/images/dspost/dsp6132-Software-Security-Concepts.jpg
 excerpt_separator: "<!--more-->"   
 author: Hari Thapliyaal   
 layout: dspost-layout   

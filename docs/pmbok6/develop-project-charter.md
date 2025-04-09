@@ -5,7 +5,7 @@ permalink: /pmbok6/Develop-Project-Charter
 date: '2021-02-14T17:51:20+00:00'
 author: 'Hari Thapliyaal'
 header:
-   teaser: /assets/images/pmlogy/PMBOK-Process-DPC.png
+   teaser: ../assets/images/pmlogy/PMBOK-Process-DPC.png
 tags:
     - 'English Terms'
     - 'PMBOK Initiating PG'

@@ -9,7 +9,7 @@ categories:
   - dsblog
 keywords: [Stanford Alpaca, Language Models, LLM Training, Open Source AI, Model Fine-tuning, AI Development, Natural Language Processing, Machine Learning]
 header:
-    teaser: /assets/images/dspost/dsp6116-Stanford-Alpaca.jpg
+    teaser: ../assets/images/dspost/dsp6116-Stanford-Alpaca.jpg
 excerpt_separator: "<!--more-->"   
 author: Hari Thapliyaal   
 layout: dspost-layout   

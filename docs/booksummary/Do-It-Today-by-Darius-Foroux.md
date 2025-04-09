@@ -8,7 +8,7 @@ tags: [Book Summary]
                             
 categories:                            
 header:                            
-    teaser: /assets/images/booksummary/7506-Do-It-Today-by-Darius-Foroux.jpg                         
+    teaser: ../assets/images/booksummary/7506-Do-It-Today-by-Darius-Foroux.jpg                         
 author: Hari Thapliyaal                            
 layout: booksum-layout                            
 excerpt:                            

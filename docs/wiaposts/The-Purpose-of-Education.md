@@ -7,7 +7,7 @@ tags:  [My Views, Life, Philosophy]
         
 categories: [wiaposts] 
 header:        
-    teaser: /assets/images/wiapost/5232-The-Purpose-of-Education.jpg        
+    teaser: ../assets/images/wiapost/5232-The-Purpose-of-Education.jpg        
 author: Hari Thapliyaal        
 layout:   wiaposts-layout
 excerpt:        

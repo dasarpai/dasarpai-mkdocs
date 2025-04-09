@@ -7,7 +7,7 @@ tags: [ Life, Karma]
 
 categories: [wiaposts] 
 header:
-     teaser: /assets/images/wiapost/5195-The-Meaning-Of-Nishkam-Karma.jpg
+     teaser: ../assets/images/wiapost/5195-The-Meaning-Of-Nishkam-Karma.jpg
 author: Hari Thapliyaal 
 layout:   wiaposts-layout
 excerpt:  

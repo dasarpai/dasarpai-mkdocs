@@ -11,7 +11,7 @@ tags: [Ramcharit Manas Chandas, Chanting]
 categories: [Chanting]
     
 header:    
-   teaser: /assets/images/samskrut/RamcharaitMaanas.png    
+   teaser: ../assets/images/samskrut/RamcharaitMaanas.png    
     
 author: 'Hari Thapliyaal'    
     

@@ -8,7 +8,7 @@ categories:
 tags: [Linear Regression, Statistical Analysis, Machine Learning, Model Evaluation, Data Science, Predictive Modeling, Regression Analysis]   
 keywords: [Linear Regression, Statistical Models, Regression Analysis, Model Evaluation, Predictive Analytics, Data Science Interview, Machine Learning Algorithms, Statistical Methods]
 header:   
-  teaser: "/assets/images/dspost/dsp6022-Linear-Regression-Interview-Questions.jpg"   
+  teaser: "../assets/images/dspost/dsp6022-Linear-Regression-Interview-Questions.jpg"   
 excerpt_separator: "<!--more-->"   
 author: Hari Thapliyaal   
 layout: dspost-layout   

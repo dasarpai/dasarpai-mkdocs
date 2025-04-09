@@ -8,7 +8,7 @@ tags: [Education, Indian-Economy]
 
 categories:        
 header:        
-    teaser: /assets/images/default/gkblog.jpg        
+    teaser: ../assets/images/default/gkblog.jpg        
 author: Hari Thapliyaal        
 layout: single        
 excerpt:        

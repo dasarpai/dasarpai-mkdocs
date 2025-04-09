@@ -7,7 +7,7 @@ tags: [DS Resources, Data Sources, Databases, ETL Tools]
 categories: 
 
 header:
-   teaser: /assets/images/dsresources/dsr116-Data-Sources-Databases-ETL-Tools.jpg
+   teaser: ../assets/images/dsresources/dsr116-Data-Sources-Databases-ETL-Tools.jpg
 author: Hari Thapliyaal   
 layout: single   
 excerpt:   

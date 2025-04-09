@@ -15,7 +15,7 @@ tags:
   - ML Courses
 
 header:
-  teaser: /assets/images/dscourses/dsc306-Statistics-For-Data-Science.jpg
+  teaser: ../assets/images/dscourses/dsc306-Statistics-For-Data-Science.jpg
 
 author_profile: true
 last_modified_at: 2021-09-20T15:46:43-04:00

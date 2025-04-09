@@ -6,7 +6,7 @@ date: '2021-02-14T11:30:27+00:00'
 author: 'Hari Thapliyaal'
 
 header:
-   teaser: /assets/images/pmlogy/PMBOK-Process-MCPW.jpg
+   teaser: ../assets/images/pmlogy/PMBOK-Process-MCPW.jpg
 tags:
     - 'English Terms'
     - 'PMBOK Monitoring and Controlling PG'

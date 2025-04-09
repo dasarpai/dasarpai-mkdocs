@@ -7,7 +7,7 @@ tags: [Vedanta, Life ]
 
 categories: [wiaposts] 
 header:
-     teaser: /assets/images/wiapost/5191-Young-Generation-And-Vedanta.jpg
+     teaser: ../assets/images/wiapost/5191-Young-Generation-And-Vedanta.jpg
 author: Hari Thapliyaal 
 layout:   wiaposts-layout
 excerpt:  

@@ -9,7 +9,7 @@ tags:
 categories:
   - pmblog
 header:
-  teaser: '/assets/images/pmblog/1008-ChangeRequestManagement.jpg'
+  teaser: '../assets/images/pmblog/1008-ChangeRequestManagement.jpg'
 author: 'Hari Thapliyaal'
 layout: pmblog-layout 
 

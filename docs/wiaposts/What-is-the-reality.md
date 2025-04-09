@@ -7,7 +7,7 @@ tags:  [My Views, Life, Philosophy]
         
 categories: [wiaposts] 
 header:        
-    teaser: /assets/images/wiapost/5231-What-is-the-Reality.jpg        
+    teaser: ../assets/images/wiapost/5231-What-is-the-Reality.jpg        
 author: Hari Thapliyaal        
 layout:   wiaposts-layout
 excerpt:        

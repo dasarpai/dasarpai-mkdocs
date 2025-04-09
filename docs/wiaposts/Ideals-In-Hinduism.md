@@ -7,7 +7,7 @@ tags: [ Hinduism, Ethics and Morality]
 
 categories: [wiaposts] 
 header:
-     teaser: /assets/images/wiapost/5176-Ideals-In-Hinduism.jpg
+     teaser: ../assets/images/wiapost/5176-Ideals-In-Hinduism.jpg
 author: Hari Thapliyaal 
 layout:   wiaposts-layout
 excerpt:  

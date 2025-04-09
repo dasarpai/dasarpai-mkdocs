@@ -7,7 +7,7 @@ categories:
 tags: [DS Resources, Basic Statistics, Statistics for Data Science]
 
 header:
-  teaser: /assets/images/dsresources/dsr118-Basic-Statistics-for-Data-Science.jpg
+  teaser: ../assets/images/dsresources/dsr118-Basic-Statistics-for-Data-Science.jpg
 
 
 author_profile: true

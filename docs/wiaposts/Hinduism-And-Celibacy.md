@@ -7,7 +7,7 @@ tags: [ 'Ethics & Morality', 'Indian Culture', 'My Views', 'Pleasure & Joy']
 keywords: ["Hinduism and celibacy", "understanding celibacy in Indian culture", "poetic insights on ethics and morality", "philosophy of celibacy and spirituality", "exploring Hinduism and celibacy in philosophical context"]  
 categories: [wiaposts] 
 header:
-     teaser: /assets/images/wiapost/5140-Hinduism-And-Celibacy.jpg
+     teaser: ../assets/images/wiapost/5140-Hinduism-And-Celibacy.jpg
 author: Hari Thapliyaal 
 layout:   wiaposts-layout
 excerpt: "An exploration of celibacy inHinduism, delving into insights on ethics and spirituality."  

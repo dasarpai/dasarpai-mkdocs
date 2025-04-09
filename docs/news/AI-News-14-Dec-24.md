@@ -9,7 +9,7 @@ tags:
 categories:
   - news
 header:
-  teaser: /assets/images/news/8001-AI-News-14-Dec-2024.jpg
+  teaser: ../assets/images/news/8001-AI-News-14-Dec-2024.jpg
 excerpt_separator: "<!--more-->"
 author: Hari Thapliyaal
 layout: news-layout

@@ -7,7 +7,7 @@ tags:  [My Views, Life, Philosophy]
         
 categories: [wiaposts] 
 header:        
-    teaser: /assets/images/wiapost/5235-Ways-to-Experience-the-Bliss.jpg        
+    teaser: ../assets/images/wiapost/5235-Ways-to-Experience-the-Bliss.jpg        
 author: Hari Thapliyaal        
 layout:   wiaposts-layout
 excerpt:        

@@ -14,7 +14,7 @@ tags:
 categories:
   - dsblog
 header:
-  teaser: /assets/images/dspost/dsp6226-Unlocking-the-Power-of-Prompting.jpg
+  teaser: ../assets/images/dspost/dsp6226-Unlocking-the-Power-of-Prompting.jpg
 excerpt_separator: "<!--more-->"
 author: Hari Thapliyaal
 layout: dspost-layout

@@ -9,7 +9,7 @@ tags:  [Book Summary, Economics]
     
 categories:    
 header:    
-   teaser: /assets/images/booksummary/7527-The-Intelligent-Investor.jpg    
+   teaser: ../assets/images/booksummary/7527-The-Intelligent-Investor.jpg    
 author: Hari Thapliyaal    
 layout: booksum-layout    
 excerpt:    

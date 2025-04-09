@@ -68,10 +68,10 @@ def get_image_path(frontmatter, blog):
             return frontmatter['header']['teaser']
         else:
             # Return a default image path if header or teaser is missing
-            return f"/assets/images/{blog}/default.jpg"
+            return f"../assets/images/{blog}/default.jpg"
     except (TypeError, KeyError):
         # Handle any other errors
-        return f"/assets/images/{blog}/default.jpg"
+        return f"../assets/images/{blog}/default.jpg"
 
 def generate_index(blog, index_content):
     """Generate the index.md file with article summaries."""
@@ -88,6 +88,7 @@ def generate_index(blog, index_content):
     for file_path in files:
         try:
             filename = file_path.stem
+
             frontmatter = extract_frontmatter(file_path)
             
             # Skip files without proper frontmatter
@@ -112,6 +113,7 @@ def generate_index(blog, index_content):
                 'excerpt': excerpt,
                 'read_time': read_time
             })
+
         except Exception as e:
             print(f"Error processing {file_path}: {e}")
             continue

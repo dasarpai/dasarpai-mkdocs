@@ -7,7 +7,7 @@ tags: ['Concepts', 'Philosophy']
 
 categories: [wiaposts] 
 header:
-     teaser: /assets/images/wiapost/5009-Who-Is-The-Doer.jpg
+     teaser: ../assets/images/wiapost/5009-Who-Is-The-Doer.jpg
 
 author: Hari Thapliyaal 
 layout:   wiaposts-layout

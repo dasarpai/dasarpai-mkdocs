@@ -12,7 +12,7 @@ tags:
 categories:
   - dsblog
 header:
-  teaser: /assets/images/dspost/dsp6185-Serverless-LLM-Deployment.jpg
+  teaser: ../assets/images/dspost/dsp6185-Serverless-LLM-Deployment.jpg
 excerpt_separator: "<!--more-->"
 author: Hari Thapliyaal
 layout: dspost-layout

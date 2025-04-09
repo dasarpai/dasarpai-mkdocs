@@ -12,7 +12,7 @@ categories:
 tags: [Project Consulting]
 
 header:
-  teaser: /assets/images/pmlogy/pmc521-pmo-setup.jpg
+  teaser: ../assets/images/pmlogy/pmc521-pmo-setup.jpg
 
 author_profile: true
 last_modified_at: 2020-08-12T15:46:43-04:00

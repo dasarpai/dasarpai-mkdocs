@@ -7,7 +7,7 @@ author_profile: true
 toc: true
 toc_sticky: true
 header:
-  image: /assets/images/banners/pm-hindi-Banner.jpg
+  image: ../assets/images/banners/pm-hindi-Banner.jpg
 sidebar:
    nav: "docs"
 ---

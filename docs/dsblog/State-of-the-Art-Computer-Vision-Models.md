@@ -15,7 +15,7 @@ tags:
 categories:
   - dsblog
 header:
-  teaser: /assets/images/dspost/dsp6219-State-of-the-Art-Computer-Vision-Models.jpg
+  teaser: ../assets/images/dspost/dsp6219-State-of-the-Art-Computer-Vision-Models.jpg
 excerpt_separator: "<!--more-->"
 author: Hari Thapliyaal
 layout: dspost-layout

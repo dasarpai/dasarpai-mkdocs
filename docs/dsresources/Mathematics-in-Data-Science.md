@@ -7,7 +7,7 @@ categories:
 tags: [DS Resources, Mathematics for Data Scientist]
 
 header:
-  teaser: /assets/images/dsresources/dsr104-Mathematics-for-Data-Scientist.jpg
+  teaser: ../assets/images/dsresources/dsr104-Mathematics-for-Data-Scientist.jpg
 
 author_profile: true
 last_modified_at: 2021-09-28T15:46:43-04:00

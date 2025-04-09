@@ -8,7 +8,7 @@ tags: [ Concepts, Dharma, 'Ethics and Morality', Philosophy]
 
 categories: [wiaposts] 
 header:
-     teaser: /assets/images/wiapost/5020-About-Peace-Or-The-Peace.jpg
+     teaser: ../assets/images/wiapost/5020-About-Peace-Or-The-Peace.jpg
 author: Hari Thapliyaal 
 layout:   wiaposts-layout
 excerpt:  

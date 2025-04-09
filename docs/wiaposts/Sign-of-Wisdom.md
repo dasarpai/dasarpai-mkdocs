@@ -7,7 +7,7 @@ tags:  [My Views, Life, Philosophy]
     
 categories: [wiaposts] 
 header:    
-    teaser: /assets/images/wiapost/5229-Sign-of-Wisdom.jpg    
+    teaser: ../assets/images/wiapost/5229-Sign-of-Wisdom.jpg    
 author: Hari Thapliyaal    
 layout:   wiaposts-layout
 excerpt:    

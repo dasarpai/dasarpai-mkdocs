@@ -5,7 +5,7 @@ title:  "Why Arguments Are Important for Personal Growth and Spirituality?"
 date: "2025-03-17"        
 permalink: /wiaposts/is-argument-bad
 header:        
-    teaser: /assets/images/wiapost/5291-is-argument-bad.jpg               
+    teaser: ../assets/images/wiapost/5291-is-argument-bad.jpg               
 author: Hari Thapliyaal        
 layout:   wiaposts-layout        
 author_profile: true        

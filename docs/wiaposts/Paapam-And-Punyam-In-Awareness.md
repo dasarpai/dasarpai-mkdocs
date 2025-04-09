@@ -7,7 +7,7 @@ tags: [ My Views, Ethics and Morality, Awareness]
 
 categories: [wiaposts] 
 header:
-     teaser: /assets/images/wiapost/5185-Paapam-And-Punyam-In-Awareness.jpg
+     teaser: ../assets/images/wiapost/5185-Paapam-And-Punyam-In-Awareness.jpg
 author: Hari Thapliyaal 
 layout:   wiaposts-layout
 excerpt:  

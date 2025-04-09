@@ -8,7 +8,7 @@ tags: [Education]
         
 categories:        
 header:        
-    teaser: /assets/images/gk/7005-What-is-Philosophy.jpg        
+    teaser: ../assets/images/gk/7005-What-is-Philosophy.jpg        
 author: Hari Thapliyaal        
 layout: single        
 excerpt:        

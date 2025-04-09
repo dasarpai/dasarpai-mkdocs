@@ -9,7 +9,7 @@ tags: [OshoTalks]
 categories:    
     
 header:    
-   teaser: /assets/images/samskrut/Osho.avif    
+   teaser: ../assets/images/samskrut/Osho.avif    
     
 author: 'Hari Thapliyaal'    
     

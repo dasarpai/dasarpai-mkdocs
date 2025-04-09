@@ -11,7 +11,7 @@ categories:
 tags: [Axelos, PRINCE2]
 
 header:
-  teaser: /assets/images/pmlogy/pmc505-prince2.jpg
+  teaser: ../assets/images/pmlogy/pmc505-prince2.jpg
   
 author_profile: true
 last_modified_at: 2020-08-06T15:46:43-04:00

@@ -8,7 +8,7 @@ tags: ["Container Registry", "Docker", "Kubernetes", "OCI", "Oracle Cloud", "Con
 categories:
   - dsblog
 header:
-    teaser: /assets/images/dspost/dsp6167-Introduction-to-Container-Registry.jpg
+    teaser: ../assets/images/dspost/dsp6167-Introduction-to-Container-Registry.jpg
 excerpt_separator: "<!--more-->"   
 author: Hari Thapliyaal   
 layout: dspost-layout   

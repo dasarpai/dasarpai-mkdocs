@@ -9,7 +9,7 @@ categories:
   - dsblog
 keywords: [CAPTCHA, Web Security, Bot Prevention, Authentication Systems, Human Verification, reCAPTCHA, Security Measures, Web Protection]
 header:
-    teaser: /assets/images/dspost/dsp6070-What-is-Captcha.jpg
+    teaser: ../assets/images/dspost/dsp6070-What-is-Captcha.jpg
 excerpt_separator: "<!--more-->"   
 author: Hari Thapliyaal   
 layout: dspost-layout   

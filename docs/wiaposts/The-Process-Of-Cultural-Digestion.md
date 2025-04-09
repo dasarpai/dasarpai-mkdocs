@@ -8,7 +8,7 @@ tags: ['Concepts', 'Education', 'Indian Culture']
 
 categories: [wiaposts] 
 header:
-     teaser: /assets/images/wiapost/5078-The-Process-Of-Cultural-Digestion.jpg
+     teaser: ../assets/images/wiapost/5078-The-Process-Of-Cultural-Digestion.jpg
 author: Hari Thapliyaal 
 layout:   wiaposts-layout
 excerpt: 'Understanding how cultures assimilate and transform through education and interaction.' 

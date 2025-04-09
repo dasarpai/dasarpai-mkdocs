@@ -9,7 +9,7 @@ categories:
   - dsblog
 keywords: [LLM Fine-tuning, Model Training, AI Model Customization, Transfer Learning, Language Model Adaptation, Few-Shot Learning, Model Optimization, AI Training]
 header:
-    teaser: /assets/images/dspost/dsp6115-why-to-finetune-llm.jpg
+    teaser: ../assets/images/dspost/dsp6115-why-to-finetune-llm.jpg
 excerpt_separator: "<!--more-->"   
 author: Hari Thapliyaal   
 layout: dspost-layout   

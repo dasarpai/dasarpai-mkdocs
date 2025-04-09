@@ -9,7 +9,7 @@ tags:
 categories:
   - pmblog
 header:
-  teaser: '/assets/images/pmblog/1014-MicrosoftProject-Security.jpg'
+  teaser: '../assets/images/pmblog/1014-MicrosoftProject-Security.jpg'
 layout: pmblog-layout 
 
 author: 'Hari Thapliyaal'

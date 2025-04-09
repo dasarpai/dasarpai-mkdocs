@@ -9,7 +9,7 @@ tags:  [Book Summary, Economics]
     
 categories:    
 header:    
-    teaser: /assets/images/booksummary/7528-The-Wealth-of-Nations.jpg    
+    teaser: ../assets/images/booksummary/7528-The-Wealth-of-Nations.jpg    
 author: Hari Thapliyaal    
 layout: booksum-layout    
 excerpt:    

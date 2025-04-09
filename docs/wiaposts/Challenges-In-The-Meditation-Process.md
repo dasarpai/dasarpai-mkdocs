@@ -7,7 +7,7 @@ tags: [ Meditation, Mind, Mindfulness]
 
 categories: [wiaposts] 
 header:
-     teaser: /assets/images/wiapost/5150-Challenges-In-The-Meditation-Process.jpg
+     teaser: ../assets/images/wiapost/5150-Challenges-In-The-Meditation-Process.jpg
 author: Hari Thapliyaal 
 layout:   wiaposts-layout
 excerpt:  

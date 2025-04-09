@@ -11,7 +11,7 @@ tags: [Suktam]
 categories:    
     
 header:    
-   teaser: /assets/images/samskrut/Vipasana.jpg    
+   teaser: ../assets/images/samskrut/Vipasana.jpg    
     
 author: 'Hari Thapliyaal'    
     

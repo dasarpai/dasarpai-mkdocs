@@ -9,7 +9,7 @@ categories:
   - dsblog
 keywords: [Cloud AI Platforms, AWS AI Services, Azure AI, Google Cloud AI, Generative AI Tools, Cloud Machine Learning, AI Infrastructure Comparison]
 header:
-    teaser: /assets/images/dspost/dsp6144-GenAI-Capabilities-from-AWS+GCP+Azure.jpg
+    teaser: ../assets/images/dspost/dsp6144-GenAI-Capabilities-from-AWS+GCP+Azure.jpg
 excerpt_separator: "<!--more-->"   
 author: Hari Thapliyaal   
 layout: dspost-layout   

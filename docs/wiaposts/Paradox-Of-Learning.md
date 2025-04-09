@@ -7,7 +7,7 @@ tags: ['Education', 'Mind']
 
 categories: [wiaposts] 
 header:
-     teaser: /assets/images/wiapost/5090-Paradox-Of-Learning.jpg
+     teaser: ../assets/images/wiapost/5090-Paradox-Of-Learning.jpg
 author: Hari Thapliyaal 
 layout:   wiaposts-layout
 excerpt: 'Analyzing the complexities and contradictions within the learning process.' 

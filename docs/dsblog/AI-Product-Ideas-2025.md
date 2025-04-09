@@ -12,7 +12,7 @@ tags:
 categories:
   - dsblog
 header:
-  teaser: /assets/images/dspost/dsp6206-AI-Product-Ideas.jpg
+  teaser: ../assets/images/dspost/dsp6206-AI-Product-Ideas.jpg
 excerpt_separator: "<!--more-->"
 author: Hari Thapliyaal
 layout: dspost-layout

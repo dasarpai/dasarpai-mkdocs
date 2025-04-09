@@ -8,7 +8,7 @@ tags: ['Bhagwat Gita', 'Indian Culture', 'Philosophy']
 
 categories: [wiaposts] 
 header:
-     teaser: /assets/images/wiapost/5023-About-Yagnya.jpg
+     teaser: ../assets/images/wiapost/5023-About-Yagnya.jpg
 author: Hari Thapliyaal 
 layout:   wiaposts-layout
 excerpt: 'An exploration of the concept of Yagnya in Indian culture and its philosophical significance.' 

@@ -6,7 +6,7 @@ date: '2022-06-09T15:50:00+05:30'
 categories: 
 tags: [DS Resources, Github Repos] 
 header:
-   teaser: "/assets/images/dsresources/dsr122-Github-Repos-to-Learn-DataScience.jpg"
+   teaser: "../assets/images/dsresources/dsr122-Github-Repos-to-Learn-DataScience.jpg"
 author: Hari Thapliyaal   
 layout: single   
 excerpt:   

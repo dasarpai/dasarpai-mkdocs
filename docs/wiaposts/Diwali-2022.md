@@ -7,7 +7,7 @@ tags: [ 'Annual Wishes']
 
 categories: [wiaposts] 
 header:
-     teaser: /assets/images/wiapost/5155-Diwali-2022.jpg
+     teaser: ../assets/images/wiapost/5155-Diwali-2022.jpg
 author: Hari Thapliyaal 
 layout:   wiaposts-layout
 excerpt:  

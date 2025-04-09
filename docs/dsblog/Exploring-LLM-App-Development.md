@@ -8,7 +8,7 @@ tags: ["Generative AI", "Text Generation", "LLM App Development", "App Developme
 categories:
   - dsblog
 header:
-    teaser: /assets/images/dspost/dsp6174-Exploring-LLM-App-Development.jpg
+    teaser: ../assets/images/dspost/dsp6174-Exploring-LLM-App-Development.jpg
 excerpt: "A comprehensive guide to developing applications with Large Language Models (LLMs), covering key aspects from architecture and scalability to security and user experience."   
 author: Hari Thapliyaal   
 layout: dspost-layout   

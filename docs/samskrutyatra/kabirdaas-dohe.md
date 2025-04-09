@@ -11,7 +11,7 @@ tags: [Devi]
 categories:    
     
 header:    
-   teaser: /assets/images/samskrut/saint-kabir-das.jpg    
+   teaser: ../assets/images/samskrut/saint-kabir-das.jpg    
     
 author: 'Hari Thapliyaal'    
     

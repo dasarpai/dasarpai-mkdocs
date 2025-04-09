@@ -15,7 +15,7 @@ tags:
   - ML Courses
 
 header:
-  teaser: "/assets/images/dscourses/dsc313-Power-BI.jpg"
+  teaser: "../assets/images/dscourses/dsc313-Power-BI.jpg"
 
 author_profile: true
 last_modified_at: 2021-09-27T15:46:43-04:00

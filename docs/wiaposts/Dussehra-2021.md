@@ -7,7 +7,7 @@ tags: [ 'Annual Wishes', 'Indian Culture', 'My Views', Philosophy, Prayers]
 
 categories: [wiaposts] 
 header:
-     teaser: /assets/images/wiapost/5142-Dussehra-2021.jpg
+     teaser: ../assets/images/wiapost/5142-Dussehra-2021.jpg
 author: Hari Thapliyaal 
 layout:   wiaposts-layout
 excerpt:  

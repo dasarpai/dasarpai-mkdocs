@@ -9,7 +9,7 @@ categories:
   - dsblog
 keywords: [AI Glossary, Machine Learning Terms, LLM Terminology, Deep Learning Concepts, NLP Definitions, Computer Vision Terms, AI Technical Terms, ML Vocabulary]
 header:
-    teaser: /assets/images/dspost/dsp6089-Comprehensive-Glossary-of-LLM.jpg
+    teaser: ../assets/images/dspost/dsp6089-Comprehensive-Glossary-of-LLM.jpg
 excerpt_separator: "<!--more-->"   
 author: Hari Thapliyaal   
 layout: dspost-layout   

@@ -9,7 +9,7 @@ categories:
   - dsblog
 keywords: [Pinecone Database, Vector Embeddings, Vector Search Engine, Similarity Search, Machine Learning Database, LLM Infrastructure, Vector Storage, AI Data Management]
 header:
-    teaser: /assets/images/dspost/dsp6097-What-is-Pinecone.jpg
+    teaser: ../assets/images/dspost/dsp6097-What-is-Pinecone.jpg
 excerpt_separator: "<!--more-->"   
 author: Hari Thapliyaal   
 layout: dspost-layout   

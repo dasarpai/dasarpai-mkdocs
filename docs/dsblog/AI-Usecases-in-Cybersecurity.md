@@ -8,7 +8,7 @@ tags: ["AI", "Cybersecurity", "Machine Learning", "Threat Detection", "Network S
 categories:
   - dsblog
 header:
-    teaser: /assets/images/dspost/dsp6135-AI-Usecases-in-Cybersecurity.jpg
+    teaser: ../assets/images/dspost/dsp6135-AI-Usecases-in-Cybersecurity.jpg
 excerpt_separator: "<!--more-->"   
 author: Hari Thapliyaal   
 layout: dspost-layout   

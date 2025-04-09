@@ -8,7 +8,7 @@ tags: ['Death', 'Life', 'Philosophy', 'Poetry', 'Vedanta']
 
 categories: [wiaposts] 
 header:
-     teaser: /assets/images/wiapost/5084-The-Art-Of-Dying.jpg
+     teaser: ../assets/images/wiapost/5084-The-Art-Of-Dying.jpg
 author: Hari Thapliyaal 
 layout:   wiaposts-layout
 excerpt: 'Exploring the philosophical and spiritual perspectives on death and dying.' 

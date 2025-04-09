@@ -14,7 +14,7 @@ tags:
   - AI Education
 
 header:
-  teaser: /assets/images/dscourses/dsc323-GenAI-for-ALL.jpg
+  teaser: ../assets/images/dscourses/dsc323-GenAI-for-ALL.jpg
 
 author_profile: true
 

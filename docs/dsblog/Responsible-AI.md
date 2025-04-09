@@ -18,7 +18,7 @@ categories:
   - dsblog 
 
 header:
-    teaser: /assets/images/dspost/dsp6047-Responsible-AI.jpg
+    teaser: ../assets/images/dspost/dsp6047-Responsible-AI.jpg
 excerpt_separator: "<!--more-->"   
 author: Hari Thapliyaal   
 layout: dspost-layout   

@@ -7,7 +7,7 @@ categories:
 tags: [DS Resources, AI, Data Science, Machine Learning, Online Tutorial, Online Video]
 excerpt: #
 header:
-  teaser:  /assets/images/dsresources/dsr119-DS-AI-ML-Online-Course-Tutorial-Videos.jpg
+  teaser:  ../assets/images/dsresources/dsr119-DS-AI-ML-Online-Course-Tutorial-Videos.jpg
 
 
 author_profile: true

@@ -8,7 +8,7 @@ tags: ["Generative AI", "Text Generation", "AI Model Evaluation Benchmarks", "Ev
 categories:
   - dsblog
 header:
-    teaser: /assets/images/dspost/dsp6173-AI-Benchmarks-Explained.jpg
+    teaser: ../assets/images/dspost/dsp6173-AI-Benchmarks-Explained.jpg
 excerpt_separator: "<!--more-->"   
 author: Hari Thapliyaal   
 layout: dspost-layout   

@@ -13,7 +13,7 @@ tags:
   - Machine Learning
 keywords: exploratory data analysis, feature engineering, data preprocessing, data cleaning, feature selection, data visualization, statistical analysis, data transformation, outlier detection, data preparation
 header:
-  teaser: "/assets/images/dspost/dsp6008-EDA101.jpg"
+  teaser: "../assets/images/dspost/dsp6008-EDA101.jpg"
 excerpt_separator: "<!--more-->"   
 author: Hari Thapliyaal   
 layout: dspost-layout   

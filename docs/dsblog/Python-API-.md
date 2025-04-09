@@ -9,7 +9,7 @@ categories:
   - dsblog
 keywords: [Python APIs, Data Integration, Web Services, API Development, Data Collection Tools, Python Libraries, Web APIs, Data Access]
 header:
-    teaser: /assets/images/dspost/dsp6094-Python-APIs-for-Data.jpg
+    teaser: ../assets/images/dspost/dsp6094-Python-APIs-for-Data.jpg
 excerpt_separator: "<!--more-->"   
 author: Hari Thapliyaal   
 layout: dspost-layout   

@@ -8,7 +8,7 @@ tags: ['Concepts', 'Philosophy', 'Prayers']
 
 categories: [wiaposts] 
 header:
-     teaser: /assets/images/wiapost/5064-Most-Prayer-Worthy-Self-Mind.jpg
+     teaser: ../assets/images/wiapost/5064-Most-Prayer-Worthy-Self-Mind.jpg
 author: Hari Thapliyaal 
 layout:   wiaposts-layout
 excerpt: 'Exploring the significance of prayer and self-awareness in personal growth.' 

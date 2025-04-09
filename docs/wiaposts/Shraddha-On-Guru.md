@@ -7,7 +7,7 @@ tags: [ Guru, Poetry]
 keywords: ["philosophical exploration of shraddha on guru", "understanding devotion in philosophy", "poetic insights on guru and disciple relationship", "philosophy of devotion and guidance", "exploring shraddha in philosophical context"]  
 categories: [wiaposts] 
 header:
-     teaser: /assets/images/wiapost/5130-Shraddha-On-Guru.jpg
+     teaser: ../assets/images/wiapost/5130-Shraddha-On-Guru.jpg
 author: Hari Thapliyaal 
 layout:   wiaposts-layout
 excerpt: A philosophical and poetic exploration of shraddha on guru, delving into insights on devotion and guidance.  

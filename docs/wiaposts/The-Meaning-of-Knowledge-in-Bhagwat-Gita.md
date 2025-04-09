@@ -5,7 +5,7 @@ title:  "The Meaning of Word Knowledge or Gyan or Jnyana in Bhagwat Gita"
 date: "2025-03-10"        
 permalink: /wiaposts/meaning-of-knowledge-in-bhagavad-gita
 header:        
-    teaser: /assets/images/wiapost/5286-meaning-of-knowledge-in-bhagavad-gita.jpg               
+    teaser: ../assets/images/wiapost/5286-meaning-of-knowledge-in-bhagavad-gita.jpg               
 author: Hari Thapliyaal        
 layout:   wiaposts-layout        
 author_profile: true        

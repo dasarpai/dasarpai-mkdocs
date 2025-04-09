@@ -7,7 +7,7 @@ tags: [ 'Bhagwat Gita', Education, 'Philosophy for Business', Vedanta]
 keywords: ["Exploration of happiness", "understanding happiness in vedanta", "poetic insights on the way of happiness", "philosophy of happiness and fulfillment", "exploring happiness in philosophical context"]  
 categories: [wiaposts] 
 header:
-     teaser: /assets/images/wiapost/5119-The-Way-Of-Happiness.jpg
+     teaser: ../assets/images/wiapost/5119-The-Way-Of-Happiness.jpg
 author: Hari Thapliyaal 
 layout:   wiaposts-layout
 excerpt: "Exploration of the way of happiness, delving into insights from Vedanta and philosophical contexts."  

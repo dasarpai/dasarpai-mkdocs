@@ -8,7 +8,7 @@ tags: ['Philosophy']
 
 categories: [wiaposts] 
 header:
-     teaser: /assets/images/wiapost/5044-No-Universal-Teachings.jpg
+     teaser: ../assets/images/wiapost/5044-No-Universal-Teachings.jpg
 author: Hari Thapliyaal 
 layout:   wiaposts-layout
 excerpt: 'A discussion on the limitations of universal teachings and their adaptability.' 

@@ -10,7 +10,7 @@ tags:
   - "Digital Intelligence"
 categories:
 header:
-  teaser: /assets/images/booksummary/7545-Geff-Hilton-Talk-Will-Digital-Intelligence-Replace-Biological-Intelligence.jpg
+  teaser: ../assets/images/booksummary/7545-Geff-Hilton-Talk-Will-Digital-Intelligence-Replace-Biological-Intelligence.jpg
 author: Hari Thapliyaal
 layout: booksum-layout
 excerpt: "Jeff Hinton, introduces several key concepts in his talk, primarily focusing on the implications of artificial intelligence (AI) and its evolving capabilities."

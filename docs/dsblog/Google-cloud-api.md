@@ -9,7 +9,7 @@ categories:
   - dsblog
 keywords: [Google Cloud APIs, Cloud Services, API Integration, Google Cloud Platform, Cloud Development, GCP APIs, Cloud Computing, Developer Tools]
 header:
-    teaser: /assets/images/dspost/dsp6082-Google-API-Services.jpg
+    teaser: ../assets/images/dspost/dsp6082-Google-API-Services.jpg
 excerpt_separator: "<!--more-->"   
 author: Hari Thapliyaal   
 layout: dspost-layout   

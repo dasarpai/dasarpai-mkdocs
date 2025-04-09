@@ -7,7 +7,7 @@ tags: [ 'Philosophy for Business', Poetry]
 keywords: ["poetic insights on lunar themes", "philosophy of celestial bodies and metaphors", "exploring lunar themes in philosophical context"]  
 categories: [wiaposts] 
 header:
-     teaser: /assets/images/wiapost/5113-Saving-The-Moon.jpg
+     teaser: ../assets/images/wiapost/5113-Saving-The-Moon.jpg
 author: Hari Thapliyaal 
 layout:   wiaposts-layout
 excerpt: A philosophical and poetic exploration of saving the moon, delving into metaphors and insights on lunar themes.

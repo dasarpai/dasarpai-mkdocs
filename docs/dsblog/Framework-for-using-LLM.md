@@ -11,7 +11,7 @@ tags:
 categories:
   - dsblog
 header:
-  teaser: /assets/images/dspost/dsp6192-Framework-for-using-LLM.jpg
+  teaser: ../assets/images/dspost/dsp6192-Framework-for-using-LLM.jpg
 excerpt_separator: "<!--more-->"
 author: Hari Thapliyaal
 layout: dspost-layout

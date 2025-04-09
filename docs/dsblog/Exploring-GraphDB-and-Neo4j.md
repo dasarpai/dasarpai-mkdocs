@@ -16,7 +16,7 @@ categories:
   - databases
 
 header:
-  teaser: /assets/images/dspost/dsp6237-Exploring-GraphDB-and-Neo4j.jpg
+  teaser: ../assets/images/dspost/dsp6237-Exploring-GraphDB-and-Neo4j.jpg
 excerpt_separator: "<!--more-->"
 author: Hari Thapliyaal
 layout: dspost-layout

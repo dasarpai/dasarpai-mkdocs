@@ -8,7 +8,7 @@ tags: ['Concepts', 'Indian Culture', 'Mind', 'Philosophy']
 
 categories: [wiaposts] 
 header:
-     teaser: /assets/images/wiapost/5010-About-Experience.jpg
+     teaser: ../assets/images/wiapost/5010-About-Experience.jpg
 author: Hari Thapliyaal 
 layout:   wiaposts-layout
 excerpt: 'Understanding the role of experience in shaping human perception and philosophy.' 

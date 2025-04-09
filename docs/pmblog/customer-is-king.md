@@ -12,7 +12,7 @@ tags:
 categories:
   - pmblog
 header:
-  teaser: '/assets/images/pmblog/1020-Customer-Vendor-Relation.jpg'
+  teaser: '../assets/images/pmblog/1020-Customer-Vendor-Relation.jpg'
 layout: pmblog-layout 
 
 author: 'Hari Thapliyaal'

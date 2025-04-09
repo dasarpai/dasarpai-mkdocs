@@ -14,7 +14,7 @@ tags:
   - Account Management
 
 header:
-  teaser: /assets/images/dscourses/dsc329-GenAI-for-Account-Management-Strategies.jpg
+  teaser: ../assets/images/dscourses/dsc329-GenAI-for-Account-Management-Strategies.jpg
 
 author_profile: true
 

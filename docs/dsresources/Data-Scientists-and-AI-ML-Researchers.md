@@ -7,7 +7,7 @@ categories:
 tags: [DS Resources, AI Researchers, ML Researchers, NLP Researchers]
 
 header:
-  teaser: /assets/images/dsresources/dsr117-Data-Scientists-and-AI-ML-Researchers.jpg
+  teaser: ../assets/images/dsresources/dsr117-Data-Scientists-and-AI-ML-Researchers.jpg
 
 author_profile: true
 last_modified_at: 2021-06-15T15:46:43-04:00

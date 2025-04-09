@@ -9,7 +9,7 @@ tags:
 categories:
   - pmblog
 header:
-  teaser: '/assets/images/pmblog/1023-PMI-Certification-min.jpg'
+  teaser: '../assets/images/pmblog/1023-PMI-Certification-min.jpg'
 author: 'Hari Thapliyaal'
 layout: pmblog-layout 
 

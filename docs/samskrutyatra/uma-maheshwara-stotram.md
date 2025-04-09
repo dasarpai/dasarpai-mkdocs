@@ -11,7 +11,7 @@ tags: [Shiva, Chanting, Stotram]
 categories: [Chanting]   
     
 header:    
-   teaser: /assets/images/samskrut/Umamaheshwar.jpg    
+   teaser: ../assets/images/samskrut/Umamaheshwar.jpg    
     
 author: 'Hari Thapliyaal'    
     

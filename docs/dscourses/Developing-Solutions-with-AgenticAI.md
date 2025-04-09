@@ -14,7 +14,7 @@ tags:
   - Android Development
 
 header:
-  teaser: /assets/images/dscourses/dsc330-Developing-Solutions-with-AgenticAI.jpg
+  teaser: ../assets/images/dscourses/dsc330-Developing-Solutions-with-AgenticAI.jpg
 
 author_profile: true
 

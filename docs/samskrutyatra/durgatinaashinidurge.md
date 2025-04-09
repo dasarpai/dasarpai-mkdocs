@@ -11,7 +11,7 @@ tags: [Bhajan, Devi]
 categories:    
     
 header:    
-   teaser: /assets/images/samskrut/durga.jpg    
+   teaser: ../assets/images/samskrut/durga.jpg    
     
 author: 'Hari Thapliyaal'    
     

@@ -8,7 +8,7 @@ tags: ['Concepts', 'Indian Culture', 'Philosophy', 'Poetry']
 
 categories: [wiaposts] 
 header:
-     teaser: /assets/images/wiapost/5081-When-To-Reincarnate.jpg
+     teaser: ../assets/images/wiapost/5081-When-To-Reincarnate.jpg
 author: Hari Thapliyaal 
 layout:   wiaposts-layout
 excerpt: 'Exploring the philosophical and cultural perspectives on reincarnation.' 

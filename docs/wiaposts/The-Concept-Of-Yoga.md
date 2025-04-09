@@ -8,7 +8,7 @@ tags: ['Concepts', 'Indian Culture', 'Yoga']
 
 categories: [wiaposts] 
 header:
-     teaser: /assets/images/wiapost/5067-The-Concept-Of-Yoga.jpg
+     teaser: ../assets/images/wiapost/5067-The-Concept-Of-Yoga.jpg
 author: Hari Thapliyaal 
 layout:   wiaposts-layout
 excerpt: 'Understanding the essence of yoga and its role in Indian culture.' 

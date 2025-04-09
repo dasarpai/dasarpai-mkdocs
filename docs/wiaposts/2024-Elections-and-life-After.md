@@ -7,7 +7,7 @@ tags:  [Vedanta]
   
 categories: [wiaposts] 
 header:  
-  teaser: /assets/images/wiapost/5250-2024-World-Poltics-and-Life-Beyond.jpg  
+  teaser: ../assets/images/wiapost/5250-2024-World-Poltics-and-Life-Beyond.jpg  
 author: Hari Thapliyaal  
 layout:   wiaposts-layout
 excerpt:  

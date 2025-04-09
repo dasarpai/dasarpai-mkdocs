@@ -9,7 +9,7 @@ categories:
   - dsblog
 keywords: [pip install, Python Package Management, Dependencies Management, Virtual Environments, requirements.txt, Package Installation, Python Development, pip Commands]
 header:
-    teaser: /assets/images/dspost/dsp6118-Decoding-pip-install-operations.jpg
+    teaser: ../assets/images/dspost/dsp6118-Decoding-pip-install-operations.jpg
 excerpt_separator: "<!--more-->"   
 author: Hari Thapliyaal   
 layout: dspost-layout   

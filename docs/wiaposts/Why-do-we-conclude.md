@@ -8,7 +8,7 @@ tags:  [My Views, Life, Philosophy]
         
 categories: [wiaposts] 
 header:        
-    teaser: /assets/images/wiapost/5262-why-do-we-conclude.jpg        
+    teaser: ../assets/images/wiapost/5262-why-do-we-conclude.jpg        
 author: Hari Thapliyaal        
 layout:   wiaposts-layout        
 excerpt:        

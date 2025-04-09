@@ -11,7 +11,7 @@ tags:
 categories:
   - dsblog
 header:
-  teaser: /assets/images/dspost/dsp6194-How-AlphaFold-is-Revolutionizing-Protein-Science.jpg
+  teaser: ../assets/images/dspost/dsp6194-How-AlphaFold-is-Revolutionizing-Protein-Science.jpg
 excerpt_separator: "<!--more-->"
 author: Hari Thapliyaal
 layout: dspost-layout

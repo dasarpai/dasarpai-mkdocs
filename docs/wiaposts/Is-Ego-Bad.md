@@ -7,7 +7,7 @@ permalink: /wiaposts/Is-Ego-Bad
 tags:  [Vedanta,  Mindfulness]         
 categories: [wiaposts] 
 header:        
-    teaser: /assets/images/wiapost/5274-Is-Ego-Bad.jpg               
+    teaser: ../assets/images/wiapost/5274-Is-Ego-Bad.jpg               
 author: Hari Thapliyaal        
 layout:   wiaposts-layout              
 author_profile: true        

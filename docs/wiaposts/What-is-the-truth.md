@@ -7,7 +7,7 @@ tags:  [My Views, Life, Philosophy]
         
 categories: [wiaposts] 
 header:        
-    teaser: /assets/images/wiapost/5242-What-is-the-Truth.jpg        
+    teaser: ../assets/images/wiapost/5242-What-is-the-Truth.jpg        
 author: Hari Thapliyaal        
 layout:   wiaposts-layout
 excerpt:        

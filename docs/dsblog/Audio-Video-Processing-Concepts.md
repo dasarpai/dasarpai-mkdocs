@@ -16,7 +16,7 @@ categories:
   - Technology
 
 header:
-  teaser: /assets/images/dspost/dsp6252-audio-video-processing-concepts.jpg
+  teaser: ../assets/images/dspost/dsp6252-audio-video-processing-concepts.jpg
 excerpt_separator: "<!--more-->"
 author: Hari Thapliyaal
 layout: dspost-layout

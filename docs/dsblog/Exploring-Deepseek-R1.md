@@ -15,7 +15,7 @@ tags:
 categories:
   - dsblog
 header:
-  teaser: /assets/images/dspost/dsp6228-Exploring-DeepSeek-R1.jpg
+  teaser: ../assets/images/dspost/dsp6228-Exploring-DeepSeek-R1.jpg
 excerpt_separator: "<!--more-->"
 author: Hari Thapliyaal
 layout: dspost-layout

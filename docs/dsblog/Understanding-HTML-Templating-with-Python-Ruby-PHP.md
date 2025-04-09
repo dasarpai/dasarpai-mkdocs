@@ -8,7 +8,7 @@ tags: [HTML, Templating, "Python", "Ruby", "PHP"]
 categories:
   - dsblog
 header:
-    teaser: /assets/images/dspost/dsp6164-Understanding-HTML-Templating-with-Python-Ruby-PHP.jpg
+    teaser: ../assets/images/dspost/dsp6164-Understanding-HTML-Templating-with-Python-Ruby-PHP.jpg
 excerpt_separator: "<!--more-->"   
 author: Hari Thapliyaal   
 layout: dspost-layout   

@@ -7,7 +7,7 @@ tags: [Indian Culture, Yoga, Meditation, Tantra, Upanishad ]
 
 categories: [wiaposts] 
 header:
-     teaser: /assets/images/wiapost/5183-The-Biggest-Gift-Of-Bharat.jpg
+     teaser: ../assets/images/wiapost/5183-The-Biggest-Gift-Of-Bharat.jpg
 author: Hari Thapliyaal 
 layout:   wiaposts-layout
 excerpt:  

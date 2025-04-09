@@ -8,7 +8,7 @@ tags: ['Concepts', 'Dharma', 'Philosophy']
 
 categories: [wiaposts] 
 header:
-     teaser: /assets/images/wiapost/5019-About-Astika.jpg
+     teaser: ../assets/images/wiapost/5019-About-Astika.jpg
 author: Hari Thapliyaal 
 layout:   wiaposts-layout
 excerpt: 'An exploration of the concept of Astika within the framework of Dharma and philosophy.' 

@@ -5,7 +5,7 @@ title:  "The Meaning of Word Dharma in Bhagwat Gita"
 date: "2025-03-03"        
 permalink: /wiaposts/meaning-of-dharma-in-bhagavad-gita
 header:        
-    teaser: /assets/images/wiapost/5283-meaning-of-dharma-in-bhagavad-gita.jpg               
+    teaser: ../assets/images/wiapost/5283-meaning-of-dharma-in-bhagavad-gita.jpg               
 author: Hari Thapliyaal        
 layout:   wiaposts-layout        
 author_profile: true        

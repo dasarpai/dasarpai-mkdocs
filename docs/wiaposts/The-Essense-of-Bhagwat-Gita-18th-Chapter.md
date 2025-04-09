@@ -5,7 +5,7 @@ title:  "The Essence of Bhagwat Gita: 18th Chapter"
 date: "2025-02-09T08:33:00+05:30"        
 permalink: /wiaposts/essence-of-bhagwat-gita-18th-chapter
 header:        
-    teaser: /assets/images/wiapost/5276-Essence-of-Bhagwat-Gita-18th-chapter.jpg               
+    teaser: ../assets/images/wiapost/5276-Essence-of-Bhagwat-Gita-18th-chapter.jpg               
 author: Hari Thapliyaal        
 layout:   wiaposts-layout        
 author_profile: true        

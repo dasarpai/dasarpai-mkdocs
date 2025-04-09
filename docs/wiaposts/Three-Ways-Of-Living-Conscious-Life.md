@@ -7,7 +7,7 @@ tags: [Life, Meditation]
 
 categories: [wiaposts] 
 header:
-     teaser: /assets/images/wiapost/5199-Three-Ways-Of-Living-Conscious-Life.jpg
+     teaser: ../assets/images/wiapost/5199-Three-Ways-Of-Living-Conscious-Life.jpg
 author: Hari Thapliyaal 
 layout:   wiaposts-layout
 excerpt:  

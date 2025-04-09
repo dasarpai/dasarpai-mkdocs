@@ -8,7 +8,7 @@ tags: ['Concepts', 'Mindfulness', 'Yoga']
 
 categories: [wiaposts] 
 header:
-     teaser: /assets/images/wiapost/5058-Meditation-Perspective-Of-A-Practitioner.jpg
+     teaser: ../assets/images/wiapost/5058-Meditation-Perspective-Of-A-Practitioner.jpg
 author: Hari Thapliyaal 
 layout:   wiaposts-layout
 excerpt: 'Insights from a practitioner on the personal journey and benefits of meditation.' 

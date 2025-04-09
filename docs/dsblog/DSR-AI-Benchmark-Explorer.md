@@ -16,7 +16,7 @@ categories:
   - dsresources
 
 header:
-  teaser: /assets/images/dspost/dsp6255-dsr-aibenchmark-explorer.jpg
+  teaser: ../assets/images/dspost/dsp6255-dsr-aibenchmark-explorer.jpg
 excerpt_separator: "<!--more-->"
 author: Hari Thapliyaal
 layout: dspost-layout

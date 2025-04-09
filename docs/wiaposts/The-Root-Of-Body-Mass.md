@@ -8,7 +8,7 @@ tags: ['Concepts', 'Philosophy', 'Science']
 
 categories: [wiaposts] 
 header:
-     teaser: /assets/images/wiapost/5069-The-Root-Of-Body-Mass.jpg
+     teaser: ../assets/images/wiapost/5069-The-Root-Of-Body-Mass.jpg
 author: Hari Thapliyaal 
 layout:   wiaposts-layout
 excerpt: 'Investigating the fundamental principles behind body mass and its formation.' 

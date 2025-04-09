@@ -7,7 +7,7 @@ tags: [ Philosophy, Poetry]
 keywords: ["Exploration of reality and relativity", "understanding relativity through philosophy", "poetic insights on reality and relativity", "philosophy of reality and perception", "exploring relativity in philosophical context"]
 categories: [wiaposts] 
 header:
-     teaser: /assets/images/wiapost/5110-Reality-And-Relativity.jpg
+     teaser: ../assets/images/wiapost/5110-Reality-And-Relativity.jpg
 author: Hari Thapliyaal 
 layout:   wiaposts-layout
 excerpt: Exploration of reality and relativity, delving into insights on perception and philosophical context.

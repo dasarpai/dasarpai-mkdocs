@@ -15,7 +15,7 @@ tags:
   - ML Courses
 
 header:
-  teaser: /assets/images/dscourses/dsc302-Machine-Learning-for-Timeseries.jpg
+  teaser: ../assets/images/dscourses/dsc302-Machine-Learning-for-Timeseries.jpg
 
 author_profile: true
 last_modified_at: 2021-09-16T15:46:43-04:00

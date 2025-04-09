@@ -14,7 +14,7 @@ tags:
   - ML Courses
 
 header:
-  teaser: /assets/images/dscourses/dsc321-Train-Tensorflow-Lite-Models-for-Android.jpg
+  teaser: ../assets/images/dscourses/dsc321-Train-Tensorflow-Lite-Models-for-Android.jpg
 
 author_profile: true
 

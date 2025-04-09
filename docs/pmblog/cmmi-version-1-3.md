@@ -10,7 +10,7 @@ tags:
 categories:
   - pmblog
 header:
-  teaser: '/assets/images/pmblog/1012-SEI-CMMI.jpg'
+  teaser: '../assets/images/pmblog/1012-SEI-CMMI.jpg'
 layout: pmblog-layout 
 
 author: 'Hari Thapliyaal'

@@ -13,7 +13,7 @@ tags:
   - "AI Innovation"
 categories:
 header:
-  teaser: /assets/images/booksummary/7532-Interview-Sundar-Pichai-Google-Dealbook-Event-2024.jpg
+  teaser: ../assets/images/booksummary/7532-Interview-Sundar-Pichai-Google-Dealbook-Event-2024.jpg
 excerpt_separator: "<!--more-->"
 author: Hari Thapliyaal
 layout: booksum-layout

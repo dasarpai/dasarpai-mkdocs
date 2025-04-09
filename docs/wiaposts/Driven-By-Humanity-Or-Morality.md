@@ -8,7 +8,7 @@ tags: ['Ethics & Morality', 'Philosophy']
 
 categories: [wiaposts] 
 header:
-     teaser: /assets/images/wiapost/5050-Driven-By-Humanity-Or-Morality.jpg
+     teaser: ../assets/images/wiapost/5050-Driven-By-Humanity-Or-Morality.jpg
 author: Hari Thapliyaal 
 layout:   wiaposts-layout
 excerpt: 'A philosophical exploration of the driving forces of humanity and morality.' 

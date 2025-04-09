@@ -8,7 +8,7 @@ categories:
 tags: [OpenAI, NLP, Machine Learning, Natural Language Processing, GPT3, Language Models, AI Technology, Transformer Architecture]   
 keywords: GPT applications, language models, transformer architecture, OpenAI technology, natural language processing, GPT use cases, AI text generation, machine learning models, GPT fine-tuning, industry applications
 header:   
-  teaser: "/assets/images/dspost/dsp6020-GPT-Usecases.jpg"   
+  teaser: "../assets/images/dspost/dsp6020-GPT-Usecases.jpg"   
 excerpt_separator: "<!--more-->"   
 author: Hari Thapliyaal   
 layout: dspost-layout   

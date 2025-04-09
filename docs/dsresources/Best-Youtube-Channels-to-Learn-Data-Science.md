@@ -7,7 +7,7 @@ categories:
 tags: [DS Resources, YouTube Channels for Data Scientist, YouTube Channels for AI]
 
 header:
-  teaser:  /assets/images/dsresources/dsr107-Best-YouTube-Channels-to-Learn-Data-Science.jpg
+  teaser:  ../assets/images/dsresources/dsr107-Best-YouTube-Channels-to-Learn-Data-Science.jpg
 
 layout: single
 author_profile: true

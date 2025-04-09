@@ -7,7 +7,7 @@ tags: [Concepts, Information ]
 
 categories: [wiaposts] 
 header:
-     teaser: /assets/images/wiapost/5177-Business-Of-Quotations.jpg
+     teaser: ../assets/images/wiapost/5177-Business-Of-Quotations.jpg
 author: Hari Thapliyaal 
 layout:   wiaposts-layout
 excerpt:  

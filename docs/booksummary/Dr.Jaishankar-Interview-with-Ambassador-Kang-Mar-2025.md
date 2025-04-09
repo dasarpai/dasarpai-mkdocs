@@ -13,7 +13,7 @@ tags:
   - "HT Leadership Summit"
 categories:
 header:
-  teaser: /assets/images/default/summaryblog.jpg
+  teaser: ../assets/images/default/summaryblog.jpg
 author: Hari Thapliyaal
 layout: booksum-layout
 excerpt: "Summary and analysis of Dr. Jaishankar's interview with the South Korean Diplomat Ms. Kang at Hindustan Times Leadership Summit 2025 on India-South Korea relations, Indo-Pacific strategy, and India's foreign policy."

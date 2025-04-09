@@ -9,7 +9,7 @@ categories:
   - dsblog 
 keywords: [Python Decorators, Function Decorators, Python Programming, Metaprogramming, Design Patterns, Code Reusability, Function Wrappers, Python Advanced]
 header:
-    teaser: /assets/images/dspost/dsp6074-Python-Decorator-Function.jpg
+    teaser: ../assets/images/dspost/dsp6074-Python-Decorator-Function.jpg
 excerpt_separator: "<!--more-->"   
 author: Hari Thapliyaal   
 layout: dspost-layout   

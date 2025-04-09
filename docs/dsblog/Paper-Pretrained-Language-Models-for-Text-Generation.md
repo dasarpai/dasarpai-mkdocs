@@ -9,7 +9,7 @@ categories:
   - dsblog
 keywords: Pretrained Language Models, Text Generation, NLP Research, Machine Translation, Text Summarization, Language Model Architecture, AI Text Generation, Research Survey
 header:
-    teaser: /assets/images/dspost/dsp6088-rps-Pretrained-Language-Models-for-Text-Generation.jpg
+    teaser: ../assets/images/dspost/dsp6088-rps-Pretrained-Language-Models-for-Text-Generation.jpg
 excerpt_separator: "<!--more-->"   
 author: Hari Thapliyaal   
 layout: dspost-layout   

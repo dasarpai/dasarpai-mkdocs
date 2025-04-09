@@ -8,7 +8,7 @@ tags: [ Education, Seeking ]
    
 categories:    
 header:   
-     teaser: /assets/images/gk/7003-Classical-Literature.jpg   
+     teaser: ../assets/images/gk/7003-Classical-Literature.jpg   
 author: Hari Thapliyaal    
 layout: single    
 excerpt:     

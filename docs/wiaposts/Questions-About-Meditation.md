@@ -8,7 +8,7 @@ tags: ['Mind', 'Mindfulness', 'Poetry', 'Vedanta']
 
 categories: [wiaposts] 
 header:
-     teaser: /assets/images/wiapost/5018-Questions-About-Meditation.jpg
+     teaser: ../assets/images/wiapost/5018-Questions-About-Meditation.jpg
 author: Hari Thapliyaal 
 layout:   wiaposts-layout
 excerpt: 'A contemplative inquiry into the practice and philosophy of meditation.' 

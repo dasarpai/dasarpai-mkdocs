@@ -8,7 +8,7 @@ categories:
 tags: [Machine Learning, Domain Expertise, Industry Knowledge, ML Applications, Feature Engineering, Model Development]
 keywords: domain knowledge, machine learning expertise, industry-specific ML, feature engineering, business understanding, model development, data science applications, domain-driven ML, subject matter expertise, ML implementation
 header:
-  teaser: "/assets/images/dspost/dsp6015-domain-knowledge-in-machine-learning.jpg"
+  teaser: "../assets/images/dspost/dsp6015-domain-knowledge-in-machine-learning.jpg"
 excerpt_separator: "<!--more-->"   
 author: Hari Thapliyaal   
 layout: dspost-layout   

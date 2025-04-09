@@ -12,7 +12,7 @@ tags:
   - MSME
   - QCI
 header:
-  teaser: "/assets/images/pmblog/1044-ZED-V1.jpg"
+  teaser: "../assets/images/pmblog/1044-ZED-V1.jpg"
 excerpt_separator: "<!--more-->"
 excerpt:
 layout: pmblog-layout 

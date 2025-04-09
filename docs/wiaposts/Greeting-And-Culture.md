@@ -7,7 +7,7 @@ tags: [Namaste, My Views, Indian Culture ]
 
 categories: [wiaposts] 
 header:
-     teaser: /assets/images/wiapost/5190-Greeting-And-Culture.jpg
+     teaser: ../assets/images/wiapost/5190-Greeting-And-Culture.jpg
 author: Hari Thapliyaal 
 layout:   wiaposts-layout
 excerpt:  

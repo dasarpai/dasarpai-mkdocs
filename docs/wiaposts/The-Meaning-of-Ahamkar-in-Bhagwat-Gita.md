@@ -5,7 +5,7 @@ title:  "The Meaning of Ahamkar in Bhagwat Gita"
 date: "2025-03-18"        
 permalink: /wiaposts/meaning-of-ahamkar-in-bhagavad-gita
 header:        
-    teaser: /assets/images/wiapost/5292-meaning-of-ahamkar-in-bhagavad-gita.jpg               
+    teaser: ../assets/images/wiapost/5292-meaning-of-ahamkar-in-bhagavad-gita.jpg               
 author: Hari Thapliyaal        
 layout:   wiaposts-layout        
 author_profile: true        

@@ -12,7 +12,7 @@ tags:
   - "Personal Growth"
 categories:
 header:
-  teaser: /assets/images/default/summaryblog.jpg
+  teaser: ../assets/images/default/summaryblog.jpg
 author: Hari Thapliyaal
 layout: booksum-layout
 excerpt: "Pride and Prejudice by Jane Austen is about self-growth, overcoming misunderstandings, and finding love through respect and honesty. It’s a timeless story with valuable life lessons!"

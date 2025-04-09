@@ -15,7 +15,7 @@ categories:
   - entrepreneurship
 
 header:
-  teaser: /assets/images/dspost/dsp6236-Understanding-the-Business-of-Marketplaces.jpg
+  teaser: ../assets/images/dspost/dsp6236-Understanding-the-Business-of-Marketplaces.jpg
 excerpt_separator: "<!--more-->"
 author: Hari Thapliyaal
 layout: dspost-layout

@@ -9,7 +9,7 @@ categories:
   - dsblog
 keywords: [Package Managers, Software Dependencies, System Package Management, NPM, PIP, APT, YUM, Homebrew, Software Installation Tools, Dependency Resolution]
 header:
-    teaser: /assets/images/dspost/dsp6141-What-is-Package-Manager.jpg
+    teaser: ../assets/images/dspost/dsp6141-What-is-Package-Manager.jpg
 excerpt_separator: "<!--more-->"   
 author: Hari Thapliyaal   
 layout: dspost-layout   

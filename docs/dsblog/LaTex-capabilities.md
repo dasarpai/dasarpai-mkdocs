@@ -9,7 +9,7 @@ categories:
   - dsblog
 keywords: [LaTeX Document System, Technical Writing, Academic Publishing, Document Formatting, Scientific Writing, Mathematical Typesetting, Research Documentation, Academic Tools]
 header:
-    teaser: /assets/images/dspost/dsp6098-Latex-capabilities.jpg
+    teaser: ../assets/images/dspost/dsp6098-Latex-capabilities.jpg
 excerpt_separator: "<!--more-->"   
 author: Hari Thapliyaal   
 layout: dspost-layout   

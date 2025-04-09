@@ -12,7 +12,7 @@ categories:
 tags: [Microsoft Project Courses]
 
 header:
-  teaser: /assets/images/pmlogy/pmc516-microsoft-enterprise-project-server-for-project-managers.jpg
+  teaser: ../assets/images/pmlogy/pmc516-microsoft-enterprise-project-server-for-project-managers.jpg
 
 author_profile: true
 last_modified_at: 2020-08-08T15:46:43-04:00

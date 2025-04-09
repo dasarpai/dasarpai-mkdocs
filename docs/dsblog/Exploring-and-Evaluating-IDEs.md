@@ -15,7 +15,7 @@ categories:
   - dsblog
 
 header:
-  teaser: /assets/images/dspost/dsp6235-Exploring-and-Evaluating-IDEs.jpg
+  teaser: ../assets/images/dspost/dsp6235-Exploring-and-Evaluating-IDEs.jpg
 excerpt_separator: "<!--more-->"
 author: Hari Thapliyaal
 layout: dspost-layout

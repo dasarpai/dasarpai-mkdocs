@@ -9,7 +9,7 @@ categories:
   - dsblog
 keywords: [Mahabharata Corpus, KM Ganguli Translation, Sanskrit Text Analysis, Digital Humanities, Ancient Indian Literature, Text Digitization, Historical Text Processing, Indian Epic Studies]
 header:
-    teaser: /assets/images/dspost/dsp6111-KM-Ganguli-Mahabharata-Corpus.jpg
+    teaser: ../assets/images/dspost/dsp6111-KM-Ganguli-Mahabharata-Corpus.jpg
 excerpt_separator: "<!--more-->"   
 author: Hari Thapliyaal   
 layout: dspost-layout   

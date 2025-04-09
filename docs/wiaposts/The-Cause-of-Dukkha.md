@@ -8,7 +8,7 @@ tags:  [My Views, Life, Philosophy]
         
 categories: [wiaposts] 
 header:        
-    teaser: /assets/images/wiapost/5253-The-Cause-of-Dukkha.jpg        
+    teaser: ../assets/images/wiapost/5253-The-Cause-of-Dukkha.jpg        
 author: Hari Thapliyaal        
 layout:   wiaposts-layout
 excerpt:        

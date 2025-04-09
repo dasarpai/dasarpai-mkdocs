@@ -8,7 +8,7 @@ tags: ['Concepts', 'Philosophy', 'Vedanta']
 
 categories: [wiaposts] 
 header:
-     teaser: /assets/images/wiapost/5024-About-Relationship.jpg
+     teaser: ../assets/images/wiapost/5024-About-Relationship.jpg
 author: Hari Thapliyaal 
 layout:   wiaposts-layout
 excerpt: 'An insightful exploration of relationships through the lens of philosophy and Vedanta.' 

@@ -8,7 +8,7 @@ tags: ['Indian Culture', 'Poetry']
 
 categories: [wiaposts] 
 header:
-     teaser: /assets/images/wiapost/5083-Where-Are-Todays-Rishis.jpg
+     teaser: ../assets/images/wiapost/5083-Where-Are-Todays-Rishis.jpg
 author: Hari Thapliyaal 
 layout:   wiaposts-layout
 excerpt: 'A poetic inquiry into the presence and role of Rishis in modern times.' 

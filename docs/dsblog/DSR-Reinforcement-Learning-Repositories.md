@@ -18,7 +18,7 @@ categories:
   - dsresources
   
 header:
-    teaser:  /assets/images/dsresources/dsr101-Reinforcement-Learning-Git-Repositories.jpg
+    teaser:  ../assets/images/dsresources/dsr101-Reinforcement-Learning-Git-Repositories.jpg
 excerpt_separator: "<!--more-->"   
 author: Hari Thapliyaal   
 layout: dspost-layout   

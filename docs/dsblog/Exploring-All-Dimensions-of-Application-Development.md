@@ -8,7 +8,7 @@ tags: ["Generative AI", "Text Generation", "LLM App Development", "App Developme
 categories:
   - dsblog
 header:
-    teaser: /assets/images/dspost/dsp6175-Exploring-All-Dimensions-of-Application-Development.jpg
+    teaser: ../assets/images/dspost/dsp6175-Exploring-All-Dimensions-of-Application-Development.jpg
 excerpt_separator: "<!--more-->"   
 author: Hari Thapliyaal   
 layout: dspost-layout   

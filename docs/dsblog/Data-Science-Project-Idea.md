@@ -16,7 +16,7 @@ tags:
   - NLP Project Ideas
 keywords: data science projects, machine learning applications, AI project examples, deep learning implementations, NLP use cases, computer vision projects, time series analysis, predictive modeling, classification projects, real-world AI applications
 header:
-  teaser: /assets/images/dspost/dsp6013-Data-Science-Project-Ideas.jpg
+  teaser: ../assets/images/dspost/dsp6013-Data-Science-Project-Ideas.jpg
 excerpt_separator: "<!--more-->"   
 author: Hari Thapliyaal   
 layout: dspost-layout   

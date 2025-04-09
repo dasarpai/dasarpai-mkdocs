@@ -7,7 +7,7 @@ tags: [ Education, Guru, 'Indian Culture']
 keywords: ["Exploration of guru relevance", "understanding the role of guru in education", "poetic insights on guru and learning", "philosophy of guru and guidance", "exploring guru's role in philosophical context"]  
 categories: [wiaposts] 
 header:
-     teaser: /assets/images/wiapost/5115-Relevance-Of-Guru.jpg
+     teaser: ../assets/images/wiapost/5115-Relevance-Of-Guru.jpg
 author: Hari Thapliyaal 
 layout:   wiaposts-layout
 excerpt: Exploration of the relevance of guru, delving into insights on education and guidance.

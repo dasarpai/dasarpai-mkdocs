@@ -8,7 +8,7 @@ tags: ['New Year', 'Greetings', '2015']
 
 categories: [wiaposts] 
 header:
-     teaser: /assets/images/wiapost/5004-Greetings-For-New-Year-2015.jpg
+     teaser: ../assets/images/wiapost/5004-Greetings-For-New-Year-2015.jpg
 author: Hari Thapliyaal 
 layout:   wiaposts-layout
 excerpt: 'Celebrating the arrival of 2015 with joy and optimism for the future.' 

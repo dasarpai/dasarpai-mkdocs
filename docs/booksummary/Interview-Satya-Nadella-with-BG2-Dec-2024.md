@@ -11,7 +11,7 @@ tags:
   - "Microsoft"
 categories:
 header:
-  teaser: /assets/images/booksummary/7542-Interview-Satya-Nadella-with--BG2-Dec-2024.jpg
+  teaser: ../assets/images/booksummary/7542-Interview-Satya-Nadella-with--BG2-Dec-2024.jpg
 author: Hari Thapliyaal
 layout: booksum-layout
 excerpt: "Interview Questions for Satya Nadella by BG2, Dec-2024. "

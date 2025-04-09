@@ -7,7 +7,7 @@ tags: [Life, Vedanta, My Views ]
 
 categories: [wiaposts] 
 header:
-     teaser: /assets/images/wiapost/5200-Jeevan-Mukta.jpg
+     teaser: ../assets/images/wiapost/5200-Jeevan-Mukta.jpg
 author: Hari Thapliyaal 
 layout:   wiaposts-layout
 excerpt:  

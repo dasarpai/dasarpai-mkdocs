@@ -8,7 +8,7 @@ categories:
 tags: [Type of Reasoning, Logic, Critical Thinking, Argumentation, Fallacies, Analytical Thinking]
 keywords: logical reasoning, critical thinking, fallacies, argument analysis, deductive reasoning, inductive reasoning, logical fallacies, cognitive biases, rational thinking, decision making
 header:
-  teaser: "/assets/images/dspost/dsp6017-The-Science-of-Reasoning.jpg"
+  teaser: "../assets/images/dspost/dsp6017-The-Science-of-Reasoning.jpg"
 excerpt_separator: "<!--more-->"   
 author: Hari Thapliyaal   
 layout: dspost-layout   

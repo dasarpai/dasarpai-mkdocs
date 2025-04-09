@@ -8,7 +8,7 @@ tags: ['My Views', 'Science']
 
 categories: [wiaposts] 
 header:
-     teaser: /assets/images/wiapost/5043-How-To-Acquire-New-Skills.jpg
+     teaser: ../assets/images/wiapost/5043-How-To-Acquire-New-Skills.jpg
 author: Hari Thapliyaal 
 layout:   wiaposts-layout
 excerpt: 'Strategies and insights on acquiring new skills effectively.' 

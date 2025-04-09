@@ -14,7 +14,7 @@ tags:
   - Programming
 
 header:
-  teaser: /assets/images/dscourses/dsc324-GenAI-for-AI-Assisted-Programming.jpg
+  teaser: ../assets/images/dscourses/dsc324-GenAI-for-AI-Assisted-Programming.jpg
 
 author_profile: true
 

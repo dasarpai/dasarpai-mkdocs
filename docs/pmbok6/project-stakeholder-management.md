@@ -6,13 +6,13 @@ date: '2021-02-16T18:49:23+00:00'
 author: 'Hari Thapliyaal'
 
 header:  
-  teaser: /assets/images/pmlogy/Project-Stakeholder-Management.jpg
+  teaser: ../assets/images/pmlogy/Project-Stakeholder-Management.jpg
 tags:
     - 'English Terms'
     - 'PMBOK Knowledge Areas'
 ---
 
-![](/pmbok6//assets/images/pmlogy/Project-Stakeholder-Management.jpg)
+![](/pmbok6/../assets/images/pmlogy/Project-Stakeholder-Management.jpg)
 
 ## Project Stakeholder Management
 

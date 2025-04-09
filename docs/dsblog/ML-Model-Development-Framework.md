@@ -9,7 +9,7 @@ categories:
   - dsblog
 keywords: [Machine Learning Framework, Model Development, ML Architecture, Development Best Practices, MLOps, Model Lifecycle, AI Development, ML Engineering]
 header:
-    teaser: /assets/images/dspost/dsp6096-ML-Model-Development-Framework.jpg
+    teaser: ../assets/images/dspost/dsp6096-ML-Model-Development-Framework.jpg
 excerpt_separator: "<!--more-->"   
 author: Hari Thapliyaal   
 layout: dspost-layout   

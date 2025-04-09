@@ -7,7 +7,7 @@ tags:  [My Views, Life, Philosophy]
         
 categories: [wiaposts] 
 header:        
-    teaser: /assets/images/wiapost/5243-Layers-of-Identities-and-Bondage.jpg        
+    teaser: ../assets/images/wiapost/5243-Layers-of-Identities-and-Bondage.jpg        
 author: Hari Thapliyaal        
 layout:   wiaposts-layout
 excerpt:        

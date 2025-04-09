@@ -9,7 +9,7 @@ tags:
 categories:
   - pmblog
 header:
-  teaser: '/assets/images/pmblog/1006-Virtual-Team-min.jpg'
+  teaser: '../assets/images/pmblog/1006-Virtual-Team-min.jpg'
 author: 'Hari Thapliyaal'
 layout: pmblog-layout 
 

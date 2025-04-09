@@ -14,7 +14,7 @@ tags:
   - Error Rate
 keywords: confusion matrix, bayesian theorem, classification metrics, model evaluation, precision recall, F1 score, accuracy metrics, false positives, true negatives, model performance
 header:
-  teaser: "/assets/images/dspost/dsp6006-Confusion-Matrix-Bayesian-Theorem.jpg"
+  teaser: "../assets/images/dspost/dsp6006-Confusion-Matrix-Bayesian-Theorem.jpg"
 excerpt_separator: "<!--more-->"
 author: Hari Thapliyaal   
 mathjax: true

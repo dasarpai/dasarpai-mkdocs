@@ -8,7 +8,7 @@ tags: ['Indian Culture', 'Philosophy']
 
 categories: [wiaposts] 
 header:
-     teaser: /assets/images/wiapost/5066-The-Concept-Of-Six-Sins.jpg
+     teaser: ../assets/images/wiapost/5066-The-Concept-Of-Six-Sins.jpg
 author: Hari Thapliyaal 
 layout:   wiaposts-layout
 excerpt: 'An exploration of the six sins within Indian cultural and philosophical contexts.' 

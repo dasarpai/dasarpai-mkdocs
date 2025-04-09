@@ -7,7 +7,7 @@ tags:  [My Views, Life, Philosophy]
     
 categories: [wiaposts] 
 header:    
-    teaser: /assets/images/wiapost/5230-Is-old-really-Gold.jpg    
+    teaser: ../assets/images/wiapost/5230-Is-old-really-Gold.jpg    
 author: Hari Thapliyaal    
 layout:   wiaposts-layout
 excerpt:    

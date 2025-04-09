@@ -7,7 +7,7 @@ tags: [ 'Annual Wishes']
 
 categories: [wiaposts] 
 header:
-     teaser: /assets/images/wiapost/5008-Greetings-For-New-Year-2019.jpg
+     teaser: ../assets/images/wiapost/5008-Greetings-For-New-Year-2019.jpg
 author: Hari Thapliyaal 
 layout:   wiaposts-layout
 excerpt: 'Extending warm wishes and reflections for the new year 2019.'

@@ -8,7 +8,7 @@ tags: ['Atheist']
 
 categories: [wiaposts] 
 header:
-     teaser: /assets/images/wiapost/5026-Who-Is-Athiest.jpg
+     teaser: ../assets/images/wiapost/5026-Who-Is-Athiest.jpg
 author: Hari Thapliyaal 
 layout:   wiaposts-layout
 excerpt: 'A thoughtful exploration of atheism and the quest for truth.' 

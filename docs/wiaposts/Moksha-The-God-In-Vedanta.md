@@ -7,7 +7,7 @@ tags: [ 'Indian Culture', 'Moksha', 'Philosophy', 'Vedanta', 'Maya']
 
 categories: [wiaposts] 
 header:
-     teaser: /assets/images/wiapost/5091-Moksha-The-God-In-Vedanta.jpg
+     teaser: ../assets/images/wiapost/5091-Moksha-The-God-In-Vedanta.jpg
 author: Hari Thapliyaal 
 layout:   wiaposts-layout
 excerpt: 'Exploring the concept of Moksha and its significance in Vedantic philosophy.' 

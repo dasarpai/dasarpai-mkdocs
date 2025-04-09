@@ -11,7 +11,7 @@ tags: [Suktam]
 categories:    
     
 header:    
-   teaser: /assets/images/samskrut/SanskritYatra-Sloka.jpg    
+   teaser: ../assets/images/samskrut/SanskritYatra-Sloka.jpg    
     
 author: 'Hari Thapliyaal'    
     

@@ -11,7 +11,7 @@ tags:
 categories:
   - pmblog
 header:
-  teaser: '/assets/images/pmblog/1026-Killing-a-Project-min.png'
+  teaser: '../assets/images/pmblog/1026-Killing-a-Project-min.png'
 author: 'Hari Thapliyaal'
 layout: pmblog-layout 
 

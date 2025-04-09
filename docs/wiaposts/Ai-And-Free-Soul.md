@@ -7,7 +7,7 @@ tags: [ Science, Vedanta]
 
 categories: [wiaposts] 
 header:
-     teaser: /assets/images/wiapost/5148-Ai-And-Free-Soul.jpg
+     teaser: ../assets/images/wiapost/5148-Ai-And-Free-Soul.jpg
 author: Hari Thapliyaal 
 layout:   wiaposts-layout
 excerpt:  

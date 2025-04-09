@@ -5,7 +5,7 @@ title:  "The Meaning of Word Yoga in Bhagwat Gita"
 date: "2025-03-04"        
 permalink: /wiaposts/meaning-of-yoga-in-bhagavad-gita
 header:        
-    teaser: /assets/images/wiapost/5284-meaning-of-yoga-in-bhagavad-gita.jpg               
+    teaser: ../assets/images/wiapost/5284-meaning-of-yoga-in-bhagavad-gita.jpg               
 author: Hari Thapliyaal        
 layout:   wiaposts-layout        
 author_profile: true        

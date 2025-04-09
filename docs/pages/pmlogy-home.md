@@ -9,14 +9,14 @@ header:
     caption: # Some Moments with Professionals & Life Long Learners
 carousels:
   - images: 
-    - image: /assets/images/classes-selected/P1-min.jpg
-    - image: /assets/images/classes-selected/P2-min.jpg
-    - image: /assets/images/classes-selected/P3-min.jpg
-    - image: /assets/images/classes-selected/P4-min.jpg
-    - image: /assets/images/classes-selected/P5-min.jpg
-    - image: /assets/images/classes-selected/P6-min.jpg
-    - image: /assets/images/classes-selected/P7-min.jpg
-    - image: /assets/images/classes-selected/P8-min.jpg
+    - image: ../assets/images/classes-selected/P1-min.jpg
+    - image: ../assets/images/classes-selected/P2-min.jpg
+    - image: ../assets/images/classes-selected/P3-min.jpg
+    - image: ../assets/images/classes-selected/P4-min.jpg
+    - image: ../assets/images/classes-selected/P5-min.jpg
+    - image: ../assets/images/classes-selected/P6-min.jpg
+    - image: ../assets/images/classes-selected/P7-min.jpg
+    - image: ../assets/images/classes-selected/P8-min.jpg
 sidebar:
    nav: "docs"
 ---    

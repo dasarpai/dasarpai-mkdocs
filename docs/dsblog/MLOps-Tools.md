@@ -8,7 +8,7 @@ tags: ["MLOps", "DevOps", "Machine Learning", "CI/CD", "Model Deployment", "Mode
 categories:
   - dsblog
 header:
-    teaser: /assets/images/dspost/dsp6137-MLOps-Tools.jpg
+    teaser: ../assets/images/dspost/dsp6137-MLOps-Tools.jpg
 excerpt_separator: "<!--more-->"   
 author: Hari Thapliyaal   
 layout: dspost-layout   

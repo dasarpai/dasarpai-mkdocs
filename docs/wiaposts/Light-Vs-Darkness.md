@@ -7,7 +7,7 @@ tags: [Concepts, My Views ]
 
 categories: [wiaposts] 
 header:
-     teaser: /assets/images/wiapost/5184-Light-Vs-Darkness.jpg
+     teaser: ../assets/images/wiapost/5184-Light-Vs-Darkness.jpg
 author: Hari Thapliyaal 
 layout:   wiaposts-layout
 excerpt:  

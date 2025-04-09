@@ -9,7 +9,7 @@ categories:
   - dsblog   
    
 header:   
-    teaser: /assets/images/dspost/dsp6057-The-Interconnectedness-of-Life-and-Data.jpg   
+    teaser: ../assets/images/dspost/dsp6057-The-Interconnectedness-of-Life-and-Data.jpg   
 excerpt_separator: "<!--more-->"   
 author: Hari Thapliyaal   
 layout: dspost-layout   

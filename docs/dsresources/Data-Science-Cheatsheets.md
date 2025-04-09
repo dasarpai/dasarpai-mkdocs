@@ -7,7 +7,7 @@ categories:
 tags: [DS Resources, DS Cheatsheet]
 
 header:
-  teaser: /assets/images/dsresources/dsr103-Data-Science-Cheatsheets.jpg
+  teaser: ../assets/images/dsresources/dsr103-Data-Science-Cheatsheets.jpg
 
 author_profile: true
 last_modified_at: 2022-09-11T15:46:43-04:00

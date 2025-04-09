@@ -8,7 +8,7 @@ tags: [GCP, Machine Learning, IT Infrastructure, IT Security]
 categories:
   - dsblog
 header:
-    teaser: /assets/images/dspost/dsp6147-Google-Cloud-Security-Components.jpg
+    teaser: ../assets/images/dspost/dsp6147-Google-Cloud-Security-Components.jpg
 excerpt_separator: "<!--more-->"   
 author: Hari Thapliyaal   
 layout: dspost-layout   

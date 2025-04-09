@@ -8,7 +8,7 @@ tags: ['Concepts', 'Indian Culture', 'Philosophy', 'Science']
 
 categories: [wiaposts] 
 header:
-     teaser: /assets/images/wiapost/5077-Nothing-Becoming-Everything.jpg
+     teaser: ../assets/images/wiapost/5077-Nothing-Becoming-Everything.jpg
 author: Hari Thapliyaal 
 layout:   wiaposts-layout
 excerpt: 'A philosophical exploration of the transition from nothingness to everything in cultural contexts.' 

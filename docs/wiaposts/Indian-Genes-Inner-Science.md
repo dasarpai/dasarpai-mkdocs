@@ -8,7 +8,7 @@ tags: ['Indian Culture', 'Philosophy']
 
 categories: [wiaposts] 
 header:
-     teaser: /assets/images/wiapost/5045-Indian-Genes-Inner-Science.jpg
+     teaser: ../assets/images/wiapost/5045-Indian-Genes-Inner-Science.jpg
 author: Hari Thapliyaal 
 layout:   wiaposts-layout
 excerpt: 'Exploring the cultural and philosophical aspects of Indian genetic heritage.' 

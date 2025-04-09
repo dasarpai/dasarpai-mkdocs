@@ -19,7 +19,7 @@ categories:
   - dsblog   
    
 header:   
-   teaser: /assets/images/dspost/dsp6049-Books-on-Conciousness.jpg   
+   teaser: ../assets/images/dspost/dsp6049-Books-on-Conciousness.jpg   
 excerpt_separator: "<!--more-->"   
 author: Hari Thapliyaal   
 layout: dspost-layout   

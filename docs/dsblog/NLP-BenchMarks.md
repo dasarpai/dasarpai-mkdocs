@@ -9,7 +9,7 @@ categories:
   - dsblog
 keywords: [NLP Benchmarks, Language Model Evaluation, AI Performance Metrics, GLUE Benchmark, SuperGLUE, Model Testing, Natural Language Understanding, Performance Assessment]
 header:
-    teaser: /assets/images/dspost/dsp6120-NLP-BenchMarks.jpg
+    teaser: ../assets/images/dspost/dsp6120-NLP-BenchMarks.jpg
 excerpt_separator: "<!--more-->"   
 author: Hari Thapliyaal   
 layout: dspost-layout   

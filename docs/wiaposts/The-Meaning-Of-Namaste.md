@@ -7,7 +7,7 @@ tags: [ Concepts, 'Indian Culture', Philosophy]
 keywords: [Namaste, Indian Culture, Greeting, Philosophy, Respect]  
 categories: [wiaposts] 
 header:
-     teaser: /assets/images/wiapost/5094-The-Meaning-Of-Namaste.jpg
+     teaser: ../assets/images/wiapost/5094-The-Meaning-Of-Namaste.jpg
 author: Hari Thapliyaal 
 layout:   wiaposts-layout
 excerpt:  

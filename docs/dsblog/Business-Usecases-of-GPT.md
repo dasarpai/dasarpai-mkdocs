@@ -19,7 +19,7 @@ categories:
   - dsblog
 
 header:
-    teaser: /assets/images/dspost/dsp6059-Business-Usecases-of-GPT.jpg
+    teaser: ../assets/images/dspost/dsp6059-Business-Usecases-of-GPT.jpg
 excerpt_separator: "<!--more-->"   
 author: Hari Thapliyaal   
 layout: dspost-layout   

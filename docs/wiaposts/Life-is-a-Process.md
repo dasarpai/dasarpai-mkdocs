@@ -7,7 +7,7 @@ tags:  [My Views, Life, Philosophy]
         
 categories: [wiaposts] 
 header:        
-    teaser: /assets/images/wiapost/5244-Life-Process.jpg        
+    teaser: ../assets/images/wiapost/5244-Life-Process.jpg        
 author: Hari Thapliyaal        
 layout:   wiaposts-layout
 excerpt:        

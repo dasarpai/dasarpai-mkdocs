@@ -8,7 +8,7 @@ tags: ['Concepts', 'Moksha', 'Philosophy', 'Vedanta']
 
 categories: [wiaposts] 
 header:
-     teaser: /assets/images/wiapost/5038-About-Free-Will.jpg
+     teaser: ../assets/images/wiapost/5038-About-Free-Will.jpg
 author: Hari Thapliyaal 
 layout:   wiaposts-layout
 excerpt: 'A philosophical discussion on the nature of free will and its implications.' 

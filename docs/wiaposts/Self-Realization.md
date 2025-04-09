@@ -7,7 +7,7 @@ tags: [ Moksha, Philosophy, Poetry]
 keywords: ["journey to self-realization", "moksha and self-discovery", "philosophical poetry on self-awareness", "exploring self through philosophy", "insights on self-realization in vedanta"]  
 categories: [wiaposts] 
 header:
-     teaser: /assets/images/wiapost/5106-Self-Realization.jpg
+     teaser: ../assets/images/wiapost/5106-Self-Realization.jpg
 author: Hari Thapliyaal 
 layout:   wiaposts-layout
 excerpt: A poetic and philosophical journey into self-realization and moksha, exploring self-awareness and insights from Vedanta.

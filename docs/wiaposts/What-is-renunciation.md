@@ -8,7 +8,7 @@ tags:  [My Views, Life, Philosophy, Renunciation]
         
 categories: [wiaposts] 
 header:        
-    teaser: /assets/images/wiapost/5265-What-is-renunciation.jpg        
+    teaser: ../assets/images/wiapost/5265-What-is-renunciation.jpg        
 author: Hari Thapliyaal        
 layout:   wiaposts-layout        
 excerpt:        

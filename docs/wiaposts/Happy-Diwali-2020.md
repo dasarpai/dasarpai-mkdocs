@@ -7,7 +7,7 @@ tags: [ 'Annual Wishes', Concepts]
 
 categories: [wiaposts] 
 header:
-     teaser: /assets/images/wiapost/5116-Happy-Diwali-2020.jpg
+     teaser: ../assets/images/wiapost/5116-Happy-Diwali-2020.jpg
 author: Hari Thapliyaal 
 layout:   wiaposts-layout
 excerpt:  

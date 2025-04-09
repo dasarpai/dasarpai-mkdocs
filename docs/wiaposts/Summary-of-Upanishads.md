@@ -7,7 +7,7 @@ tags:  [Vedanta]
             
 categories: [wiaposts] 
 header:            
-    teaser: /assets/images/wiapost/5247-Introduction-to-Upanishads.jpg            
+    teaser: ../assets/images/wiapost/5247-Introduction-to-Upanishads.jpg            
 author: Hari Thapliyaal            
 layout:   wiaposts-layout
 excerpt:            

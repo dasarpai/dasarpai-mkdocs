@@ -11,7 +11,7 @@ tags:
   - "Dealbook-Event"
 categories:
 header:
-  teaser: /assets/images/booksummary/7530-Interview-Jensen-Huang-NVIDIA-Dealbook-Event-2023.jpg
+  teaser: ../assets/images/booksummary/7530-Interview-Jensen-Huang-NVIDIA-Dealbook-Event-2023.jpg
 excerpt_separator: "<!--more-->"
 author: Hari Thapliyaal
 layout: booksum-layout

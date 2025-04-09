@@ -8,7 +8,7 @@ tags: [AI, ML, Oracle Cloud, "Artificial Intelligence", "Machine Learning"]
 categories:
   - dsblog
 header:
-    teaser: /assets/images/dspost/dsp6166-AI-ML-With-Oracle-Cloud.jpg
+    teaser: ../assets/images/dspost/dsp6166-AI-ML-With-Oracle-Cloud.jpg
 excerpt_separator: "<!--more-->"   
 author: Hari Thapliyaal   
 layout: dspost-layout   

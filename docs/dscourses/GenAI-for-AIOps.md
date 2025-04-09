@@ -14,7 +14,7 @@ tags:
   - AIOps
 
 header:
-  teaser: /assets/images/dscourses/dsc325-AI-Powered-DevOps-for-AIOps.jpg
+  teaser: ../assets/images/dscourses/dsc325-AI-Powered-DevOps-for-AIOps.jpg
 
 author_profile: true
 

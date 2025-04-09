@@ -7,7 +7,7 @@ permalink: /wiaposts/Happy-Vijayadashami-2024-Hindi
 tags: [My Views, Hinduism, Hindu Culture, Devi, "Annual Wishes"]         
 categories: [wiaposts] 
 header:        
-    teaser: /assets/images/wiapost/5271-Happy-Vijaydashmi-2024.jpg               
+    teaser: ../assets/images/wiapost/5271-Happy-Vijaydashmi-2024.jpg               
 author: हरि थपलियाल        
 layout:   wiaposts-layout        
 excerpt:        

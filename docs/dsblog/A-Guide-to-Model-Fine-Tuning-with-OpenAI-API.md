@@ -9,7 +9,7 @@ categories:
   - dsblog
 keywords: [OpenAI API, Model Fine-tuning, Transfer Learning, Language Models, API Integration, Machine Learning, GPT Models, Custom Models]
 header:
-    teaser: /assets/images/dspost/dsp6068-A-Guide-to-Model-Fine-Tuning-with-OpenAI-API.jpg
+    teaser: ../assets/images/dspost/dsp6068-A-Guide-to-Model-Fine-Tuning-with-OpenAI-API.jpg
 excerpt_separator: "<!--more-->"   
 author: Hari Thapliyaal   
 layout: dspost-layout   

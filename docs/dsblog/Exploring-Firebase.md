@@ -8,7 +8,7 @@ tags: ["Google Cloud","Application Integration", Programming]
 categories:
   - dsblog
 header:
-    teaser: /assets/images/dspost/dsp6159-Exploring-Firebase.jpg
+    teaser: ../assets/images/dspost/dsp6159-Exploring-Firebase.jpg
 excerpt_separator: "<!--more-->"   
 author: Hari Thapliyaal   
 layout: dspost-layout   

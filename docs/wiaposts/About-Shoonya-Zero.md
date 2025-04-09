@@ -8,7 +8,7 @@ tags: ['Concepts', 'Philosophy']
 
 categories: [wiaposts] 
 header:
-     teaser: /assets/images/wiapost/5012-About-Shoonya-Zero.jpg
+     teaser: ../assets/images/wiapost/5012-About-Shoonya-Zero.jpg
 author: Hari Thapliyaal 
 layout:   wiaposts-layout
 excerpt: 'Delving into the philosophical implications of Shoonya, or Zero, in various contexts.' 

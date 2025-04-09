@@ -77,7 +77,7 @@ image. It should be rectangular and have a transparent background.
     plugins:
     - social:
         cards_layout_options:
-          logo: docs/assets/images/ourlogo.png
+          logo: docs../assets/images/ourlogo.png
     ```
 
 ## Background images
@@ -160,7 +160,7 @@ the meta plugin to assign them a calendar icon.
     ```
 
     After running `mkdocs build`, you can see that the social card at
-    `site/assets/images/social/events/index.png` features the page icon.
+    `site../assets/images/social/events/index.png` features the page icon.
 
 Note that the icon will also appear next to the navigation element for the
 page. If that is not what you want then you will need to modify the social

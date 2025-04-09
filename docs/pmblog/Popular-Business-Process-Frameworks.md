@@ -8,7 +8,7 @@ tags: []
 categories:
   - pmblog
 header:
-    teaser: /assets/images/pmblog/1045-Popular-Business-Process-Frameworks.jpg
+    teaser: ../assets/images/pmblog/1045-Popular-Business-Process-Frameworks.jpg
 excerpt_separator: "<!--more-->"   
 author: Hari Thapliyaal   
 layout: pmblog-layout   

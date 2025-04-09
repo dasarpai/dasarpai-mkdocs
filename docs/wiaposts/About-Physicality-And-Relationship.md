@@ -8,7 +8,7 @@ tags: ['Philosophy']
 
 categories: [wiaposts] 
 header:
-     teaser: /assets/images/wiapost/5048-About-Physicality-And-Relationship.jpg
+     teaser: ../assets/images/wiapost/5048-About-Physicality-And-Relationship.jpg
 author: Hari Thapliyaal 
 layout:   wiaposts-layout
 excerpt: 'Exploring the dynamics of physicality and relationships through philosophical insights.' 

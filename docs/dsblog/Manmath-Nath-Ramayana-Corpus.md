@@ -9,7 +9,7 @@ categories:
   - dsblog
 keywords: [Ramayana Corpus, Manmath Nath Translation, Sanskrit Text Analysis, Digital Humanities, Ancient Indian Literature, Text Digitization, Epic Poetry Analysis, Indian Epic Studies]
 header:
-    teaser: /assets/images/dspost/dsp6112-Manmath-Nath-Ramayana-Corpus.jpg
+    teaser: ../assets/images/dspost/dsp6112-Manmath-Nath-Ramayana-Corpus.jpg
 excerpt_separator: "<!--more-->"   
 author: Hari Thapliyaal   
 layout: dspost-layout   

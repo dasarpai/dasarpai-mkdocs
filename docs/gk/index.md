@@ -4,15 +4,14 @@
 
 - ![100 Most Powerful Women 2023](../assets/images/default/gkblog.jpg){ width="200" }
 
-    ### [100 Most Powerful Women 2023](gk/100-Most-Powerful-Women-2023.md)
+    ### [100 Most Powerful Women 2023](100-Most-Powerful-Women-2023)
     
     **Read time:** 5 min
     
     EXCERPT Not Found
-
 - ![27 Nakshatra of Indian Astrology](../assets/images/default/gkblog.jpg){ width="200" }
 
-    ### [27 Nakshatra of Indian Astrology](gk/27-Nakshatra-of-Indian-Astrology.md)
+    ### [27 Nakshatra of Indian Astrology](27-Nakshatra-of-Indian-Astrology)
     
     **Read time:** 5 min
     
@@ -24,15 +23,14 @@
 
 - ![American Dilberts: The Funniest One Liners](../assets/images/default/gkblog.jpg){ width="200" }
 
-    ### [American Dilberts: The Funniest One Liners](gk/American-Dilberts.md)
+    ### [American Dilberts: The Funniest One Liners](American-Dilberts)
     
     **Read time:** 5 min
     
     Dilbert is an American comic strip and his one liners are famous. They are all classic! Here are a few of his one liners which are funny and make sens
-
 - ![Bans and Blocked Items by Nehru in India](../assets/images/default/gkblog.jpg){ width="200" }
 
-    ### [Bans and Blocked Items by Nehru in India](gk/Bans-by-Nehru.md)
+    ### [Bans and Blocked Items by Nehru in India](Bans-by-Nehru)
     
     **Read time:** 5 min
     
@@ -44,15 +42,14 @@
 
 - ![Classical Literature](../assets/images/gk/7003-Classical-Literature.jpg){ width="200" }
 
-    ### [Classical Literature](gk/Classical-Literature.md)
+    ### [Classical Literature](Classical-Literature)
     
     **Read time:** 25 min
     
     EXCERPT Not Found
-
 - ![What is Solstice and Equinox?](../assets/images/gk/7007-What-is-Solstice-and-Equinox.jpg){ width="200" }
 
-    ### [What is Solstice and Equinox?](gk/Equinox-and-Solstice.md)
+    ### [What is Solstice and Equinox?](Equinox-and-Solstice)
     
     **Read time:** 5 min
     
@@ -64,15 +61,14 @@
 
 - ![Exploring Human Body Systems and Subsystems](../assets/images/default/gkblog.jpg){ width="200" }
 
-    ### [Exploring Human Body Systems and Subsystems](gk/Exploring-Human-Body-Systems-and-Subsystems.md)
+    ### [Exploring Human Body Systems and Subsystems](Exploring-Human-Body-Systems-and-Subsystems)
     
     **Read time:** 5 min
     
     EXCERPT Not Found
-
 - ![Famous Statements of S. Jaishankar - Indian Foreign Minister](../assets/images/default/gkblog.jpg){ width="200" }
 
-    ### [Famous Statements of S. Jaishankar - Indian Foreign Minister](gk/Famous-Statements-of-SJaishankar.md)
+    ### [Famous Statements of S. Jaishankar - Indian Foreign Minister](Famous-Statements-of-SJaishankar)
     
     **Read time:** 6 min
     
@@ -84,15 +80,14 @@
 
 - ![Why Government Jobs in India are not Attractive](../assets/images/default/gkblog.jpg){ width="200" }
 
-    ### [Why Government Jobs in India are not Attractive](gk/Government-Jobs-in-India-are-not-Attractive.md)
+    ### [Why Government Jobs in India are not Attractive](Government-Jobs-in-India-are-not-Attractive)
     
     **Read time:** 5 min
     
     EXCERPT Not Found
-
 - ![How to Understand Government Systems](../assets/images/default/gkblog.jpg){ width="200" }
 
-    ### [How to Understand Government Systems](gk/How-to-Understand-Goverment-Systems.md)
+    ### [How to Understand Government Systems](How-to-Understand-Goverment-Systems)
     
     **Read time:** 9 min
     
@@ -104,15 +99,14 @@
 
 - ![Constitution of India - Summary](../assets/images/gk/7006-Constitution-of-India-Summary.jpg){ width="200" }
 
-    ### [Constitution of India - Summary](gk/Indian-Constituion-Summary.md)
+    ### [Constitution of India - Summary](Indian-Constituion-Summary)
     
     **Read time:** 26 min
     
     EXCERPT Not Found
-
 - ![The Indian Constitution](../assets/images/gk/7004-The-Indian-Constitution.jpg){ width="200" }
 
-    ### [The Indian Constitution](gk/Indian-Constitution.md)
+    ### [The Indian Constitution](Indian-Constitution)
     
     **Read time:** 60 min
     
@@ -124,15 +118,14 @@
 
 - ![Pakistan and Partition of India](../assets/images/default/gkblog.jpg){ width="200" }
 
-    ### [Pakistan and Partition of India](gk/Pakistan-and-Partition-of-India.md)
+    ### [Pakistan and Partition of India](Pakistan-and-Partition-of-India)
     
     **Read time:** 5 min
     
     The partition of India and the creation of Pakistan is one of the most significant events in the history of the Indian subcontinent. This article prov
-
 - ![PM Modi's Response on 75 years of Republic of India - Dec 2024](../assets/images/default/gkblog.jpg){ width="200" }
 
-    ### [PM Modi's Response on 75 years of Republic of India - Dec 2024](gk/PM-Modi-Response-on-75years-of-RepublicIndia-Dec24.md)
+    ### [PM Modi's Response on 75 years of Republic of India - Dec 2024](PM-Modi-Response-on-75years-of-RepublicIndia-Dec24)
     
     **Read time:** 5 min
     
@@ -144,15 +137,14 @@
 
 - ![Types Of Gitas](../assets/images/gk/7001-Types-Of-Gitas.jpg){ width="200" }
 
-    ### [Types Of Gitas](gk/Types-Of-Gitas.md)
+    ### [Types Of Gitas](Types-Of-Gitas)
     
     **Read time:** 10 min
     
     EXCERPT Not Found
-
 - ![Vantage News Summary - 08-Feb-24](../assets/images/gk/7011-Vantage-News-Summary.jpg){ width="200" }
 
-    ### [Vantage News Summary - 08-Feb-24](gk/Vantage_News_Summary-08-Feb-24.md)
+    ### [Vantage News Summary - 08-Feb-24](Vantage_News_Summary-08-Feb-24)
     
     **Read time:** 5 min
     
@@ -164,15 +156,14 @@
 
 - ![Vantage News Summary - 09-Feb-24](../assets/images/gk/7011-Vantage-News-Summary.jpg){ width="200" }
 
-    ### [Vantage News Summary - 09-Feb-24](gk/Vantage_News_Summary-09-Feb-24.md)
+    ### [Vantage News Summary - 09-Feb-24](Vantage_News_Summary-09-Feb-24)
     
     **Read time:** 9 min
     
     EXCERPT Not Found
-
 - ![What is Philosophy?](../assets/images/gk/7005-What-is-Philosophy.jpg){ width="200" }
 
-    ### [What is Philosophy?](gk/What-is-Philosophy.md)
+    ### [What is Philosophy?](What-is-Philosophy)
     
     **Read time:** 8 min
     
@@ -184,15 +175,14 @@
 
 - ![White-Paper-on-Indian-Economy](../assets/images/gk/7008-White-Paper-on-Indian-Economy.jpg){ width="200" }
 
-    ### [White-Paper-on-Indian-Economy](gk/White-Paper-on-Economy-2004-14.md)
+    ### [White-Paper-on-Indian-Economy](White-Paper-on-Economy-2004-14)
     
     **Read time:** 16 min
     
     EXCERPT Not Found
-
 - ![Why Indians Are Corrupt - a Rebuttal](../assets/images/gk/7002-Why-Indians-Are-Corrupt.jpg){ width="200" }
 
-    ### [Why Indians Are Corrupt - a Rebuttal](gk/Why-Indians-Are-Corrupt.md)
+    ### [Why Indians Are Corrupt - a Rebuttal](Why-Indians-Are-Corrupt)
     
     **Read time:** 19 min
     

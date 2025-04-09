@@ -4,15 +4,14 @@
 
 - ![My Gallery Links](../assets/images/gallery/default.jpg){ width="200" }
 
-    ### [My Gallery Links](gallery/gallary.md)
+    ### [My Gallery Links](gallary)
     
     **Read time:** 5 min
     
     EXCERPT Not Found
-
 - ![Online Conferences - Data Science, AI, ML](../assets/images/gallery/default.jpg){ width="200" }
 
-    ### [Online Conferences - Data Science, AI, ML](gallery/slider-online-conferences.md)
+    ### [Online Conferences - Data Science, AI, ML](slider-online-conferences)
     
     **Read time:** 5 min
     
@@ -24,15 +23,14 @@
 
 - ![Online Training- Data Science, AI, ML- Page 1](../assets/images/gallery/default.jpg){ width="200" }
 
-    ### [Online Training- Data Science, AI, ML- Page 1](gallery/slider-online-sessions1.md)
+    ### [Online Training- Data Science, AI, ML- Page 1](slider-online-sessions1)
     
     **Read time:** 5 min
     
     Few snapshots from the Online courses on Data Science, Machine Learning, Deep Learning, NLP, Project Management, Agile Management. 2000+ learners, 400
-
 - ![Online Training - Data Science, AI, ML - Page 2](../assets/images/gallery/default.jpg){ width="200" }
 
-    ### [Online Training - Data Science, AI, ML - Page 2](gallery/slider-online-sessions2.md)
+    ### [Online Training - Data Science, AI, ML - Page 2](slider-online-sessions2)
     
     **Read time:** 5 min
     
@@ -44,15 +42,14 @@
 
 - ![Online Training - Data Science, AI, ML - Page 3](../assets/images/gallery/default.jpg){ width="200" }
 
-    ### [Online Training - Data Science, AI, ML - Page 3](gallery/slider-online-sessions3.md)
+    ### [Online Training - Data Science, AI, ML - Page 3](slider-online-sessions3)
     
     **Read time:** 5 min
     
     Few snapshots from the Online courses on Data Science, Machine Learning, Deep Learning, NLP, Project Management, Agile Management. 2000+ learners, 400
-
 - ![Online Training - Data Science, AI, ML - Page 4](../assets/images/gallery/default.jpg){ width="200" }
 
-    ### [Online Training - Data Science, AI, ML - Page 4](gallery/slider-online-sessions4.md)
+    ### [Online Training - Data Science, AI, ML - Page 4](slider-online-sessions4)
     
     **Read time:** 5 min
     
@@ -64,15 +61,14 @@
 
 - ![Project Management Workshops - Selected Photos](../assets/images/gallery/default.jpg){ width="200" }
 
-    ### [Project Management Workshops - Selected Photos](gallery/slider-pm-selected-photos.md)
+    ### [Project Management Workshops - Selected Photos](slider-pm-selected-photos)
     
     **Read time:** 5 min
     
     EXCERPT Not Found
-
 - ![Data Science and Project Management Workshops - Select Worshops](../assets/images/gallery/default.jpg){ width="200" }
 
-    ### [Data Science and Project Management Workshops - Select Worshops](gallery/slider-pm-workshops.md)
+    ### [Data Science and Project Management Workshops - Select Worshops](slider-pm-workshops)
     
     **Read time:** 5 min
     

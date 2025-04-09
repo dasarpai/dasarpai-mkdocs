@@ -16,7 +16,7 @@ categories:
   - coderabbit
 
 header:
-  teaser: /assets/images/dspost/dsp6244-coderabbit-code-review-ai.jpg
+  teaser: ../assets/images/dspost/dsp6244-coderabbit-code-review-ai.jpg
 excerpt_separator: "<!--more-->"
 author: Hari Thapliyaal
 layout: dspost-layout

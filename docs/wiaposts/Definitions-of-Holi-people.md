@@ -7,7 +7,7 @@ tags:  [Vedanta]
   
 categories: [wiaposts] 
 header:  
-  teaser: /assets/images/wiapost/5248-Definition-of-Holi-people-institutions.jpg  
+  teaser: ../assets/images/wiapost/5248-Definition-of-Holi-people-institutions.jpg  
 author: Hari Thapliyaal  
 layout:   wiaposts-layout
 excerpt:  

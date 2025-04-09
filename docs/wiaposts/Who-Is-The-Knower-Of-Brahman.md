@@ -7,7 +7,7 @@ tags: [ 'Bhagwat Gita', Concepts, 'Indian Culture', Philosophy]
 keywords: [Brahma Gnyani, Indian society, Mukta Purusha, Wisdom, Philosophy]  
 categories: [wiaposts] 
 header:
-     teaser: /assets/images/wiapost/5093-Who-Is-The-Knower-Of-Brahman.jpg
+     teaser: ../assets/images/wiapost/5093-Who-Is-The-Knower-Of-Brahman.jpg
 author: Hari Thapliyaal 
 layout:   wiaposts-layout
 excerpt:  

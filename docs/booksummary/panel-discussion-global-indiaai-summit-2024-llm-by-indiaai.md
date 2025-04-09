@@ -11,7 +11,7 @@ tags:
   - "IndiaAI"
 categories:
 header:
-  teaser: /assets/images/booksummary/7534-Global-IndiaAI-Summit-2024-LLM-by-IndiaAI.jpg
+  teaser: ../assets/images/booksummary/7534-Global-IndiaAI-Summit-2024-LLM-by-IndiaAI.jpg
 excerpt_separator: "<!--more-->"
 author: Hari Thapliyaal
 layout: booksum-layout

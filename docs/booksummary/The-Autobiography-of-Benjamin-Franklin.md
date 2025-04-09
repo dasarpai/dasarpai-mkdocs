@@ -11,7 +11,7 @@ tags:
   - "Autobiography"
 categories:
 header:
-  teaser: /assets/images/booksummary/7540-The-Autobiography-of-Benjamin-Franklin.jpg
+  teaser: ../assets/images/booksummary/7540-The-Autobiography-of-Benjamin-Franklin.jpg
 author: Hari Thapliyaal
 layout: booksum-layout
 excerpt: "A summary of 'The Autobiography of Benjamin Franklin' in 11 key points. "

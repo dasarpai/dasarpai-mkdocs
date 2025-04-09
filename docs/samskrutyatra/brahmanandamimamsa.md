@@ -11,7 +11,7 @@ tags: [Chanting, Upanishad, तैत्तिरीयोपनिषत्]
 categories: [Chanting]   
     
 header:    
-   teaser: /assets/images/samskrut/Upanishad.jpg    
+   teaser: ../assets/images/samskrut/Upanishad.jpg    
     
 author: 'Hari Thapliyaal'    
     

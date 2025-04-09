@@ -11,7 +11,7 @@ tags:
 categories:
   - dsblog
 header:
-  teaser: /assets/images/dspost/dsp6202-Adapting-AI-Models-to-the-Latest-Information.jpg
+  teaser: ../assets/images/dspost/dsp6202-Adapting-AI-Models-to-the-Latest-Information.jpg
 excerpt_separator: "<!--more-->"
 author: Hari Thapliyaal
 layout: dspost-layout
@@ -25,7 +25,7 @@ comments: true
 keywords: ["adapting ai models to the latest information", "ai models methods and approaches", "keeping ai models up to date", "latest information in ai", "ai models update strategies", "ai information retrieval", "ai knowledge graph"]
 ---
 
-![]( /assets/images/dspost/dsp6202-Adapting-AI-Models-to-the-Latest-Information.jpg)
+![]( ../assets/images/dspost/dsp6202-Adapting-AI-Models-to-the-Latest-Information.jpg)
 
 # Adapting AI Models to the Latest Information: Methods and Approaches
 

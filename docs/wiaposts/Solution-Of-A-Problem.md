@@ -7,7 +7,7 @@ tags: [Life, Vedanta ]
 
 categories: [wiaposts] 
 header:
-     teaser: /assets/images/wiapost/5196-Solution-Of-A-Problem.jpg
+     teaser: ../assets/images/wiapost/5196-Solution-Of-A-Problem.jpg
 author: Hari Thapliyaal 
 layout:   wiaposts-layout
 excerpt:  

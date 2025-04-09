@@ -17,7 +17,7 @@ tags:
 categories:
   - dsblog
 header:
-    teaser: /assets/images/dspost/dsp6150-AutoML-Tools.jpg
+    teaser: ../assets/images/dspost/dsp6150-AutoML-Tools.jpg
 excerpt_separator: "<!--more-->"   
 author: Hari Thapliyaal   
 layout: dspost-layout   

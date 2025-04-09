@@ -8,7 +8,7 @@ tags: ["Web Development", "Web Servers", "HTML", "CSS", "Java Script", "Type Scr
 categories:
   - dsblog
 header:
-    teaser: /assets/images/dspost/dsp6177-Processors-for-HTML-CSS-JS-Code.jpg
+    teaser: ../assets/images/dspost/dsp6177-Processors-for-HTML-CSS-JS-Code.jpg
 excerpt_separator: "<!--more-->"   
 author: Hari Thapliyaal   
 layout: dspost-layout   

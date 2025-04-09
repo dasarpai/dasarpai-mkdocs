@@ -14,7 +14,7 @@ tags:
   - ML Courses
 
 header:
-  teaser: /assets/images/dscourses/dsc320-Design-for-Cloud-Computing-with-GCP.jpg
+  teaser: ../assets/images/dscourses/dsc320-Design-for-Cloud-Computing-with-GCP.jpg
 
 author_profile: true
 

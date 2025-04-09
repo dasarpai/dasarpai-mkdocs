@@ -8,7 +8,7 @@ categories:
 tags: [Machine Learning, Natural Language Processing, Text Analysis, Language Models, NLP Applications, Text Mining]
 keywords: natural language processing, NLP, text analysis, language models, word embeddings, text mining, sentiment analysis, machine translation, text classification, language understanding
 header:
-  teaser: "/assets/images/dspost/dsp6016-What-is-NLP.jpg"
+  teaser: "../assets/images/dspost/dsp6016-What-is-NLP.jpg"
 excerpt_separator: "<!--more-->"   
 author: Hari Thapliyaal   
 layout: dspost-layout   

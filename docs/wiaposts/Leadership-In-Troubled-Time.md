@@ -8,7 +8,7 @@ tags: ['Concepts', 'Philosophy', 'Philosophy for Business']
 
 categories: [wiaposts] 
 header:
-     teaser: /assets/images/wiapost/5061-Leadership-In-Troubled-Time.jpg
+     teaser: ../assets/images/wiapost/5061-Leadership-In-Troubled-Time.jpg
 author: Hari Thapliyaal 
 layout:   wiaposts-layout
 excerpt: 'Insights on leading effectively during challenging times and crises.' 

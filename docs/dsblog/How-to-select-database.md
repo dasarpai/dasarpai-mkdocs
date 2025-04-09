@@ -17,7 +17,7 @@ tags:
 categories:
   - dsblog
 header:
-    teaser: /assets/images/dspost/dsp6154-Selecting-Database-for-Project.jpg
+    teaser: ../assets/images/dspost/dsp6154-Selecting-Database-for-Project.jpg
 excerpt_separator: "<!--more-->"   
 author: Hari Thapliyaal   
 layout: dspost-layout   

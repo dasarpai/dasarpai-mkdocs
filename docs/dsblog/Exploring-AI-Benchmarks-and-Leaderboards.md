@@ -11,7 +11,7 @@ tags:
 categories:
   - dsblog
 header:
-  teaser: /assets/images/dspost/dsp6210-Exploring-AI-Benchmarks-and-Leaderboards.jpg
+  teaser: ../assets/images/dspost/dsp6210-Exploring-AI-Benchmarks-and-Leaderboards.jpg
 excerpt_separator: "<!--more-->"
 author: Hari Thapliyaal
 layout: dspost-layout

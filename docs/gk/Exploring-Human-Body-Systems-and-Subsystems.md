@@ -8,7 +8,7 @@ tags: [Human Body Systems, Human Body Subsystems, Human Body]
 keywords: [Human Body Systems, Human Body Subsystems, Human Body]
 categories: [GK, Human Body Systems, Human Body Subsystems, Human Body]
 header:        
-    teaser: /assets/images/default/gkblog.jpg        
+    teaser: ../assets/images/default/gkblog.jpg        
 author: Hari Thapliyaal        
 layout: single        
 excerpt:        

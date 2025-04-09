@@ -10,7 +10,7 @@ tags:
 categories:
   - pmblog
 header:
-  teaser: '/assets/images/pmblog/1015-Agile-Waterfall-min.png'
+  teaser: '../assets/images/pmblog/1015-Agile-Waterfall-min.png'
 author: 'Hari Thapliyaal'
 layout: pmblog-layout 
 

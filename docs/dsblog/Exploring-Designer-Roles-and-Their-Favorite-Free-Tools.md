@@ -18,7 +18,7 @@ categories:
   - Technology
 
 header:
-  teaser: /assets/images/dspost/dsp6250-exploring-designer-roles.jpg
+  teaser: ../assets/images/dspost/dsp6250-exploring-designer-roles.jpg
 excerpt_separator: "<!--more-->"
 author: Hari Thapliyaal
 layout: dspost-layout

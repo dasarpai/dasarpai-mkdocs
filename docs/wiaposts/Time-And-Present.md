@@ -7,7 +7,7 @@ tags: [Time, Kaala ]
 
 categories: [wiaposts] 
 header:
-     teaser: /assets/images/wiapost/5197-Time-And-Present.jpg
+     teaser: ../assets/images/wiapost/5197-Time-And-Present.jpg
 author: Hari Thapliyaal 
 layout:   wiaposts-layout
 excerpt:  

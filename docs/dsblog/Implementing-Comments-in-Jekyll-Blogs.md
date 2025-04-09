@@ -15,7 +15,7 @@ categories:
   - web-development
 
 header:
-  teaser: /assets/images/dspost/dsp6238-Implementing-Comments-in-Jekyll-Blogs.jpg
+  teaser: ../assets/images/dspost/dsp6238-Implementing-Comments-in-Jekyll-Blogs.jpg
 excerpt_separator: "<!--more-->"
 author: Hari Thapliyaal
 layout: dspost-layout

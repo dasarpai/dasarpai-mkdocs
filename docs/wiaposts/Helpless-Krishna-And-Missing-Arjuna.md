@@ -7,7 +7,7 @@ tags: [Bhagwat Gita, Life ]
 
 categories: [wiaposts] 
 header:
-     teaser: /assets/images/wiapost/5173-Helpless-Krishna-And-Missing-Arjuna.jpg
+     teaser: ../assets/images/wiapost/5173-Helpless-Krishna-And-Missing-Arjuna.jpg
 author: Hari Thapliyaal 
 layout:   wiaposts-layout
 excerpt:  

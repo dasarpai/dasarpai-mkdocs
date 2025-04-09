@@ -14,7 +14,7 @@ tags:
   - Stakeholder Engagement
 
 header:
-  teaser: /assets/images/dscourses/dsc328-GenAI-for-Client-and-Stakeholder-Engagement.jpg
+  teaser: ../assets/images/dscourses/dsc328-GenAI-for-Client-and-Stakeholder-Engagement.jpg
 
 author_profile: true
 

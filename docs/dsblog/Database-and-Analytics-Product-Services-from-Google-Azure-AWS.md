@@ -9,7 +9,7 @@ categories:
   - dsblog
 keywords: [Cloud Databases, Data Analytics Services, AWS Database, Google Cloud Database, Azure Database, Cloud Data Warehouse, Big Data Analytics, Cloud Storage]
 header:
-    teaser: /assets/images/dspost/dsp6079-Database-and-Analytics-Product-Services-from-Google-Azure-AWS.jpg
+    teaser: ../assets/images/dspost/dsp6079-Database-and-Analytics-Product-Services-from-Google-Azure-AWS.jpg
 excerpt_separator: "<!--more-->"   
 author: Hari Thapliyaal   
 layout: dspost-layout   
@@ -21,7 +21,7 @@ toc_sticky: true
 mathjax: "true"
 ---
 
-![Database and Analytics Product Services from Google Azure AWS]( /assets/images/dspost/dsp6079-Database-and-Analytics-Product-Services-from-Google-Azure-AWS.jpg)
+![Database and Analytics Product Services from Google Azure AWS]( ../assets/images/dspost/dsp6079-Database-and-Analytics-Product-Services-from-Google-Azure-AWS.jpg)
 
 # Database and Analytics Product Services from Google Azure AWS
 

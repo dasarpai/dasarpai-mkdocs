@@ -10,7 +10,7 @@ tags:
   - "Philosophy"
 categories:
 header:
-  teaser: /assets/images/booksummary/7544-The-Balancing-Act-AI-Regulation.jpg
+  teaser: ../assets/images/booksummary/7544-The-Balancing-Act-AI-Regulation.jpg
 author: Hari Thapliyaal
 layout: booksum-layout
 excerpt: "Interview Questions for Nicklas Lundblad by Professor Hannah Fry"

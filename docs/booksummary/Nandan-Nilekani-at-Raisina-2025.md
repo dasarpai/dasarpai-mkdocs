@@ -13,7 +13,7 @@ tags:
   - "India Development"
 categories:
 header:
-  teaser: /assets/images/default/summaryblog.jpg
+  teaser: ../assets/images/default/summaryblog.jpg
 author: Hari Thapliyaal
 layout: booksum-layout
 excerpt: "Summary and analysis of Nandan Nilekani's talk at Raisina 2025 on India's growth, Aadhaar ID, Digital India, and development."

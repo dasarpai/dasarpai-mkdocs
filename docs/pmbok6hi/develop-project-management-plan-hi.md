@@ -5,14 +5,14 @@ date: '2021-02-17T19:28:58+00:00'
 author: 'Hari Thapliyaal'
 permalink: /pmbok6hi/develop-project-management-plan-hi
 header:
-   teaser: /assets/images/pmlogy/PMBOK-Process-DPMP.png
+   teaser: ../assets/images/pmlogy/PMBOK-Process-DPMP.png
 tags:
     - 'Hindi Terms'
     - 'PMBOK Planning PG Hindi'
     - 'PMBOK Processes Hindi'
 ---
 
-[](/pmbok6hi/assets/images/pmlogy/PMBOK-Process-DPMP.png)
+[](/pmbok6hi../assets/images/pmlogy/PMBOK-Process-DPMP.png)
 
 ## परियोजना प्रबंध योजना विकास
 

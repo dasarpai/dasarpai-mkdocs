@@ -8,7 +8,7 @@ tags: ["AI", "Open Source", "Closed Source", "Machine Learning", "AI Development
 categories:
   - dsblog
 header:
-    teaser: /assets/images/dspost/dsp6134-Open-Source-vs-Closed-Source-AI.jpg
+    teaser: ../assets/images/dspost/dsp6134-Open-Source-vs-Closed-Source-AI.jpg
 excerpt_separator: "<!--more-->"   
 author: Hari Thapliyaal   
 layout: dspost-layout   

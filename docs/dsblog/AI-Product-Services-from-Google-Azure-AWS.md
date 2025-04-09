@@ -9,7 +9,7 @@ categories:
   - dsblog
 keywords: [Cloud AI Services, AWS AI, Google Cloud AI, Azure AI, Machine Learning Services, Cloud Computing, AI Products, Cloud Platforms]
 header:
-    teaser: /assets/images/dspost/dsp6078-AI-Product-and-Services-from-Google-Azure-and-AWS.jpg
+    teaser: ../assets/images/dspost/dsp6078-AI-Product-and-Services-from-Google-Azure-and-AWS.jpg
 excerpt_separator: "<!--more-->"   
 author: Hari Thapliyaal   
 layout: dspost-layout   

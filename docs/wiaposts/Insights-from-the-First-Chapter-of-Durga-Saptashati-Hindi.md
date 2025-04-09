@@ -7,7 +7,7 @@ permalink: /wiaposts/Insights-from-the-First-Chapter-of-Durga-Saptashati-hi
 tags:  [My Views, Hinduism, Hindu Culture, Searching the Self]         
 categories: [wiaposts] 
 header:        
-    teaser: /assets/images/wiapost/5268-Insights-from-the-First-Chapter-of-Durga-Saptashati.jpg        
+    teaser: ../assets/images/wiapost/5268-Insights-from-the-First-Chapter-of-Durga-Saptashati.jpg        
 author: Hari Thapliyaal        
 layout:   wiaposts-layout        
 excerpt:        

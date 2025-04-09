@@ -5,7 +5,7 @@ title:  "What Keeps Me Moving?"
 date: "2025-03-15"        
 permalink: /wiaposts/what-keeps-me-moving
 header:        
-    teaser: /assets/images/wiapost/5289-what-keeps-me-moving.jpg               
+    teaser: ../assets/images/wiapost/5289-what-keeps-me-moving.jpg               
 author: Hari Thapliyaal        
 layout:   wiaposts-layout        
 author_profile: true        

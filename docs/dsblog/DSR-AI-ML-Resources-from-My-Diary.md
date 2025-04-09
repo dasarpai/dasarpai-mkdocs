@@ -10,7 +10,7 @@ categories:
 tags: [DS Resources, AI Diary] 
 keywords: personal notes, AI resources, machine learning references, learning materials, research papers, technical articles, educational content, AI tools, ML frameworks, development resources
 header:
-   teaser: "/assets/images/dsresources/dsr121-AI-ML-Resources-from-My-Diary.jpg"
+   teaser: "../assets/images/dsresources/dsr121-AI-ML-Resources-from-My-Diary.jpg"
 excerpt_separator: "<!--more-->"   
 author: Hari Thapliyaal   
 layout: dspost-layout   
@@ -34,13 +34,13 @@ architecture, images etc. The Table of Content and Content of this diary is not 
 Whatever I was/am getting I keep adding into this, mostly towards the end but not always.
 
 **This is a 390 page personal learning diary and it contains approx 1000 resources. List of the resources available in this file are mentioned below. This diary is written between Mar-19 to Dec-22.**
-<object data="/assets/docs/Hari-Thapliyaal-AI-Diary1-by-15-Dec-22.pdf" width="1000" height="1000" scroll=True type='application/pdf'></object>
+<object data="../assets/docs/Hari-Thapliyaal-AI-Diary1-by-15-Dec-22.pdf" width="1000" height="1000" scroll=True type='application/pdf'></object>
 
 [Download Link to this Diary](../assets/docs/Hari-Thapliyaal-AI-Diary1-by-15-Dec-22.pdf)
 
 **This is a 144 page personal learning diary and it contains approx 329 resources. List of the resources available in this file are mentioned below. This diary is written between Dec-22 to Dec-23.**
 
-<object data="/assets/docs/Hari-Thapliyaal-AI-Diary2-Dec-22-to-Dec-23.pdf" width="1000" height="1000" scroll=True type='application/pdf'></object>
+<object data="../assets/docs/Hari-Thapliyaal-AI-Diary2-Dec-22-to-Dec-23.pdf" width="1000" height="1000" scroll=True type='application/pdf'></object>
 
 [Download Link to this Diary](../assets/docs/Hari-Thapliyaal-AI-Diary2-Dec-22-to-Dec-23.pdf)
 

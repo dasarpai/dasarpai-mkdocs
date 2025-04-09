@@ -11,7 +11,7 @@ tags:
 categories:
   - pmblog
 header:
-  teaser: '/assets/images/pmblog/1028-Balance-Scorecard-min.jpg'
+  teaser: '../assets/images/pmblog/1028-Balance-Scorecard-min.jpg'
 author: 'Hari Thapliyaal'
 layout: pmblog-layout 
 excerpt: #

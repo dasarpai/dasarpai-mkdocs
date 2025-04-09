@@ -8,7 +8,7 @@ tags: [Dilbert, American Comics, One Liners, Funny Quotes, Comic Strips]
 keywords: [Dilbert's one liners, American comics, Funny quotes, Comic strips, Dilbert's sayings]
 categories: [GK, Entertainment, Comics]
 header:
-    teaser: /assets/images/default/gkblog.jpg    
+    teaser: ../assets/images/default/gkblog.jpg    
 author: Jane Doe
 layout: single
 excerpt: "Dilbert is an American comic strip and his one liners are famous. They are all classic! Here are a few of his one liners which are funny and make sense."

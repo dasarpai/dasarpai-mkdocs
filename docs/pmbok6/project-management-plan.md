@@ -5,7 +5,7 @@ permalink: /pmbok6/Project-Management-Plan
 date: '2021-02-15T03:26:05+00:00'
 author: 'Hari Thapliyaal'
 header:
-   teaser: /assets/images/pmlogy/PMBOK-Process-DPMP.png
+   teaser: ../assets/images/pmlogy/PMBOK-Process-DPMP.png
 tags:
     - 'English Terms'
     - 'PMBOK Inputs Outputs'

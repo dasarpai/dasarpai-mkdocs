@@ -7,7 +7,7 @@ tags: [ Vedanta, Maya, Parenting]
 
 categories: [wiaposts] 
 header:
-     teaser: /assets/images/wiapost/5166-Understanding-Maya-2.jpg
+     teaser: ../assets/images/wiapost/5166-Understanding-Maya-2.jpg
 author: Hari Thapliyaal 
 layout:   wiaposts-layout
 excerpt:  

@@ -7,7 +7,7 @@ author_profile: true
 toc: true
 toc_sticky: true
 header:
-  image: /assets/images/banners/DS-Banner.jpg
+  image: ../assets/images/banners/DS-Banner.jpg
 ---
 
 ## Welcome to dasarpAI Data Science Blogs Posts!

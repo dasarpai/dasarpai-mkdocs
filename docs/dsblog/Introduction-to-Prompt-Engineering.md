@@ -9,7 +9,7 @@ categories:
   - dsblog
 keywords: Prompt Engineering, LLM Prompts, AI Interaction, Language Models, ChatGPT, Prompt Design, AI Communication, NLP
 header:
-    teaser: /assets/images/dspost/dsp6080-Introduction-to-Prompt-Engineering.jpg
+    teaser: ../assets/images/dspost/dsp6080-Introduction-to-Prompt-Engineering.jpg
 excerpt_separator: "<!--more-->"   
 author: Hari Thapliyaal   
 layout: dspost-layout   

@@ -9,7 +9,7 @@ categories:
   - dsblog
 keywords: [Windows User Folder, AppData Directory, System Configuration, User Profiles, Windows File System, File Management, Windows Settings, System Administration]
 header:
-    teaser: /assets/images/dspost/dsp6119-Decoding-Windows-User-Folder.jpg
+    teaser: ../assets/images/dspost/dsp6119-Decoding-Windows-User-Folder.jpg
 excerpt_separator: "<!--more-->"   
 author: Hari Thapliyaal   
 layout: dspost-layout   

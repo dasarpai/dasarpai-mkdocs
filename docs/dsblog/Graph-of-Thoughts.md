@@ -9,7 +9,7 @@ categories:
   - dsblog
 keywords: [Graph of Thoughts, LLM Reasoning, Neural Architectures, AI Cognition, Knowledge Graphs, Machine Learning Models, Thought Processing, AI Decision Making]
 header:
-    teaser: /assets/images/dspost/dsp6103-Graph-of-Thoughts.jpg
+    teaser: ../assets/images/dspost/dsp6103-Graph-of-Thoughts.jpg
 excerpt_separator: "<!--more-->"   
 author: Hari Thapliyaal   
 layout: dspost-layout   

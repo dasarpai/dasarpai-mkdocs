@@ -6,7 +6,7 @@ date: '2021-02-16T18:24:01+00:00'
 author: 'Hari Thapliyaal'
 
 header:
-  teaser: /assets/images/pmlogy/Project-Risk-Management.jpg
+  teaser: ../assets/images/pmlogy/Project-Risk-Management.jpg
 tags:
     - 'English Terms'
     - 'PMBOK Knowledge Areas'

@@ -12,7 +12,7 @@ tags:
   - 'PMI CAMP Courses'
 
 header:
-  teaser: /assets/images/pmlogy/pmc503-pmi-capm.jpg
+  teaser: ../assets/images/pmlogy/pmc503-pmi-capm.jpg
 
 author_profile: true
 last_modified_at: 2020-08-03T15:46:43-04:00

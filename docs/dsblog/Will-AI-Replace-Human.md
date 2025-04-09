@@ -17,7 +17,7 @@ keywords: [AI impact on jobs, future of work, industrial revolution, human-AI co
 categories:
   - dsblog
 header:   
-    teaser: /assets/images/dspost/dsp6038-Will-AI-Replace-Human.jpg   
+    teaser: ../assets/images/dspost/dsp6038-Will-AI-Replace-Human.jpg   
 excerpt_separator: "<!--more-->"   
 author: Hari Thapliyaal   
 layout: dspost-layout   

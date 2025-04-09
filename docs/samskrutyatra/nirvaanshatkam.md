@@ -11,7 +11,7 @@ tags: [आत्मषट्कम्, निर्वाणषट्कम्, 
 categories: [Chanting]
     
 header:    
-   teaser: /assets/images/samskrut/Upanishad.jpg    
+   teaser: ../assets/images/samskrut/Upanishad.jpg    
     
 author: 'Hari Thapliyaal'    
     

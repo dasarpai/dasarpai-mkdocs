@@ -17,7 +17,7 @@ tags:
 categories:
   - dsblog
 header:
-    teaser: /assets/images/dspost/dsp6153-Exploring-Apache-Hive.jpg
+    teaser: ../assets/images/dspost/dsp6153-Exploring-Apache-Hive.jpg
 excerpt_separator: "<!--more-->"   
 author: Hari Thapliyaal   
 layout: dspost-layout   

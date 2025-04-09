@@ -7,7 +7,7 @@ tags: [ Life, Nature]
 
 categories: [wiaposts] 
 header:
-     teaser: /assets/images/wiapost/5170-Searching-The-Creator.jpg
+     teaser: ../assets/images/wiapost/5170-Searching-The-Creator.jpg
 author: Hari Thapliyaal 
 layout:   wiaposts-layout
 excerpt:  

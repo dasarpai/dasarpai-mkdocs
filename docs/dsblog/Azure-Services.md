@@ -19,7 +19,7 @@ categories:
   - dsblog
 
 header:
-    teaser: /assets/images/dspost/dsp6062-Azure-Cloud-Service-Catalog.jpg
+    teaser: ../assets/images/dspost/dsp6062-Azure-Cloud-Service-Catalog.jpg
 excerpt_separator: "<!--more-->"   
 author: Hari Thapliyaal   
 layout: dspost-layout   

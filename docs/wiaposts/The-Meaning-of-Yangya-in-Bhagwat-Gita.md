@@ -5,7 +5,7 @@ title:  "The Meaning of Yagnya in Bhagwat gita"
 date: "2025-03-12"        
 permalink: /wiaposts/meaning-of-yagnya-in-bhagavad-gita
 header:        
-    teaser: /assets/images/wiapost/5287-meaning-of-yagnya-in-bhagavad-gita.jpg               
+    teaser: ../assets/images/wiapost/5287-meaning-of-yagnya-in-bhagavad-gita.jpg               
 author: Hari Thapliyaal        
 layout:   wiaposts-layout        
 author_profile: true        

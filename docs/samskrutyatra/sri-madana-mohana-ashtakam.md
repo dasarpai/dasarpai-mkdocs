@@ -11,7 +11,7 @@ tags: [Krishna, Chanting]
 categories: [Chanting]
     
 header:    
-   teaser: /assets/images/samskrut/Krishna.jpg    
+   teaser: ../assets/images/samskrut/Krishna.jpg    
     
 author: 'Hari Thapliyaal'    
     

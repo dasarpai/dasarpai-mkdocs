@@ -19,7 +19,7 @@ categories:
   - dsblog
 
 header:
-    teaser: /assets/images/dspost/dsp6034-Introduction-to-Neural-Network.jpg
+    teaser: ../assets/images/dspost/dsp6034-Introduction-to-Neural-Network.jpg
 excerpt_separator: "<!--more-->"   
 author: Hari Thapliyaal   
 layout: dspost-layout   

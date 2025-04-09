@@ -7,8 +7,8 @@ permalink: /mindful-project-management
 date: 2023-12-11
 tags: [Publications]
 header:
-  teaser: /assets/images/projects/mfpm-Coverpage1.jpg
-  # overlay_image: /assets/images/projects/mfpm-editation1.jpg
+  teaser: ../assets/images/projects/mfpm-Coverpage1.jpg
+  # overlay_image: ../assets/images/projects/mfpm-editation1.jpg
   # overlay_filter: 0 # same as adding an opacity of 0.5 to a black background
 author_profile: false
 last_modified_at: 2023-12-11T15:46:43-04:00

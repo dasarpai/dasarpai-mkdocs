@@ -12,7 +12,7 @@ categories:
 tags: [Microsoft Project Courses]
 
 header:
-  teaser: /assets/images/pmlogy/pmc515-microsoft-project.jpg
+  teaser: ../assets/images/pmlogy/pmc515-microsoft-project.jpg
 
 author_profile: true
 last_modified_at: 2020-08-08T15:46:43-04:00

@@ -8,7 +8,7 @@ tags:  [My Views, Life, Philosophy]
         
 categories: [wiaposts] 
 header:        
-    teaser: /assets/images/wiapost/5254-The-Power-Within.jpg        
+    teaser: ../assets/images/wiapost/5254-The-Power-Within.jpg        
 author: Hari Thapliyaal        
 layout:   wiaposts-layout
 excerpt:        

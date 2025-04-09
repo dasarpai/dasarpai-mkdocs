@@ -7,7 +7,7 @@ tags: [ Concepts, Life, 'My Views', Philosophy]
 keywords: ["Exploration of understanding", "understanding meaning in philosophy", "poetic insights on understanding and knowledge", "philosophy of understanding and perception", "exploring understanding in philosophical context"]  
 categories: [wiaposts] 
 header:
-     teaser: /assets/images/wiapost/5121-Meaning-Of-Understanding.jpg
+     teaser: ../assets/images/wiapost/5121-Meaning-Of-Understanding.jpg
 author: Hari Thapliyaal 
 layout:   wiaposts-layout
 excerpt: Exploration of understanding, delving into insights on meaning and perception.

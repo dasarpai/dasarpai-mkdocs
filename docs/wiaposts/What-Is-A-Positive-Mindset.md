@@ -8,7 +8,7 @@ tags: ['Mind', 'Philosophy', 'Poetry', 'Vedanta']
 
 categories: [wiaposts] 
 header:
-     teaser: /assets/images/wiapost/5034-What-Is-A-Positive-Mindset.jpg
+     teaser: ../assets/images/wiapost/5034-What-Is-A-Positive-Mindset.jpg
 author: Hari Thapliyaal 
 layout:   wiaposts-layout
 excerpt: 'Understanding the elements of a positive mindset through philosophical and poetic lenses.' 

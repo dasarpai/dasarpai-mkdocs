@@ -11,7 +11,7 @@ tags:
 categories:
   - dsblog
 header:
-  teaser: /assets/images/dspost/dsp6200-Exploring-Make-com-A-Comprehensive-Guide.jpg
+  teaser: ../assets/images/dspost/dsp6200-Exploring-Make-com-A-Comprehensive-Guide.jpg
 excerpt_separator: "<!--more-->"
 author: Hari Thapliyaal
 layout: dspost-layout

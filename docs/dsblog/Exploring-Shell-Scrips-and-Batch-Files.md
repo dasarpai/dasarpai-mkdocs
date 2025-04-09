@@ -14,7 +14,7 @@ tags:
 categories:
   - dsblog
 header:
-  teaser: /assets/images/dspost/dsp6221-Exploring-Shell-Scripting-and-Batch-Files.jpg
+  teaser: ../assets/images/dspost/dsp6221-Exploring-Shell-Scripting-and-Batch-Files.jpg
 excerpt_separator: "<!--more-->"
 author: Hari Thapliyaal
 layout: dspost-layout

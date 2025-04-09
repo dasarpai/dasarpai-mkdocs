@@ -11,7 +11,7 @@ tags:
   - "Year Million"
 categories:
 header:
-  teaser: /assets/images/booksummary/7533-Documentary-NGI-The-Age-of-Intelligent-Machines-Year-Million.jpg
+  teaser: ../assets/images/booksummary/7533-Documentary-NGI-The-Age-of-Intelligent-Machines-Year-Million.jpg
 excerpt_separator: "<!--more-->"
 author: Hari Thapliyaal
 layout: booksum-layout

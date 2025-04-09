@@ -9,7 +9,7 @@ tags:
 categories:
   - pmblog
 header:
-  teaser: '/assets/images/pmblog/1032-project-online-2016-reporting.jpg'
+  teaser: '../assets/images/pmblog/1032-project-online-2016-reporting.jpg'
 author: 'Hari Thapliyaal'
 layout: pmblog-layout 
 

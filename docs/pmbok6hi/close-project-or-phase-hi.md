@@ -5,7 +5,7 @@ date: '2021-02-18T11:34:47+00:00'
 author: 'Hari Thapliyaal'
 permalink: /pmbok6hi/close-project-or-phase-hi
 header:
-  teaser: /assets/images/pmblog/1037-pmbok-general.jpg
+  teaser: ../assets/images/pmblog/1037-pmbok-general.jpg
 tags:
     - 'Hindi Terms'
     - 'PMBOK Closing PG Hindi'

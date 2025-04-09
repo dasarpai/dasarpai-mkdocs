@@ -8,7 +8,7 @@ tags: [News Summary]
         
 categories:        
 header:        
-    teaser: /assets/images/gk/7011-Vantage-News-Summary.jpg        
+    teaser: ../assets/images/gk/7011-Vantage-News-Summary.jpg        
 author: Hari Thapliyaal        
 layout: single        
 excerpt:        

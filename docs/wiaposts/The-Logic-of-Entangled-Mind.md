@@ -7,7 +7,7 @@ tags: [Education, My Views]
             
 categories: [wiaposts] 
 header:            
-    teaser: /assets/images/wiapost/5211-The-Logic-of-Entangled-Mind.jpg            
+    teaser: ../assets/images/wiapost/5211-The-Logic-of-Entangled-Mind.jpg            
 author: Hari Thapliyaal            
 layout:   wiaposts-layout
 excerpt:            

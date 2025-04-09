@@ -12,15 +12,14 @@ Join me on this journey of intellectual liberation, where the power of thought b
 
 - ![Quotation 001](../assets/images/quotations/quotation001.jpg){ width="200" }
 
-    ### [Quotation 001](quotations/quotation001.md)
+    ### [Quotation 001](quotation001)
     
     **Read time:** 5 min
     
     EXCERPT Not Found
-
 - ![Quotation 002](../assets/images/quotations/quotation002.jpg){ width="200" }
 
-    ### [Quotation 002](quotations/quotation002.md)
+    ### [Quotation 002](quotation002)
     
     **Read time:** 5 min
     
@@ -32,15 +31,14 @@ Join me on this journey of intellectual liberation, where the power of thought b
 
 - ![Quotation 003](../assets/images/quotations/quotation003.jpg){ width="200" }
 
-    ### [Quotation 003](quotations/quotation003.md)
+    ### [Quotation 003](quotation003)
     
     **Read time:** 5 min
     
     EXCERPT Not Found
-
 - ![Quotation 004](../assets/images/quotations/quotation004.jpg){ width="200" }
 
-    ### [Quotation 004](quotations/quotation004.md)
+    ### [Quotation 004](quotation004)
     
     **Read time:** 5 min
     
@@ -52,15 +50,14 @@ Join me on this journey of intellectual liberation, where the power of thought b
 
 - ![Quotation 005](../assets/images/quotations/quotation005.jpg){ width="200" }
 
-    ### [Quotation 005](quotations/quotation005.md)
+    ### [Quotation 005](quotation005)
     
     **Read time:** 5 min
     
     EXCERPT Not Found
-
 - ![Quotation 006](../assets/images/quotations/quotation006.jpg){ width="200" }
 
-    ### [Quotation 006](quotations/quotation006.md)
+    ### [Quotation 006](quotation006)
     
     **Read time:** 5 min
     
@@ -72,15 +69,14 @@ Join me on this journey of intellectual liberation, where the power of thought b
 
 - ![Quotation 007](../assets/images/quotations/quotation007.jpg){ width="200" }
 
-    ### [Quotation 007](quotations/quotation007.md)
+    ### [Quotation 007](quotation007)
     
     **Read time:** 5 min
     
     EXCERPT Not Found
-
 - ![Quotation 008](../assets/images/quotations/quotation008.jpg){ width="200" }
 
-    ### [Quotation 008](quotations/quotation008.md)
+    ### [Quotation 008](quotation008)
     
     **Read time:** 5 min
     
@@ -92,15 +88,14 @@ Join me on this journey of intellectual liberation, where the power of thought b
 
 - ![Quotation 009](../assets/images/quotations/quotation009.jpg){ width="200" }
 
-    ### [Quotation 009](quotations/quotation009.md)
+    ### [Quotation 009](quotation009)
     
     **Read time:** 5 min
     
     EXCERPT Not Found
-
 - ![Quotation 010](../assets/images/quotations/quotation010.jpg){ width="200" }
 
-    ### [Quotation 010](quotations/quotation010.md)
+    ### [Quotation 010](quotation010)
     
     **Read time:** 5 min
     
@@ -112,15 +107,14 @@ Join me on this journey of intellectual liberation, where the power of thought b
 
 - ![Quotation 011](../assets/images/quotations/quotation011.jpg){ width="200" }
 
-    ### [Quotation 011](quotations/quotation011.md)
+    ### [Quotation 011](quotation011)
     
     **Read time:** 5 min
     
     EXCERPT Not Found
-
 - ![Quotation 012](../assets/images/quotations/quotation012.jpg){ width="200" }
 
-    ### [Quotation 012](quotations/quotation012.md)
+    ### [Quotation 012](quotation012)
     
     **Read time:** 5 min
     
@@ -132,15 +126,14 @@ Join me on this journey of intellectual liberation, where the power of thought b
 
 - ![Quotation 013](../assets/images/quotations/quotation013.jpg){ width="200" }
 
-    ### [Quotation 013](quotations/quotation013.md)
+    ### [Quotation 013](quotation013)
     
     **Read time:** 5 min
     
     EXCERPT Not Found
-
 - ![Quotation 014](../assets/images/quotations/quotation014.jpg){ width="200" }
 
-    ### [Quotation 014](quotations/quotation014.md)
+    ### [Quotation 014](quotation014)
     
     **Read time:** 5 min
     
@@ -152,15 +145,14 @@ Join me on this journey of intellectual liberation, where the power of thought b
 
 - ![Quotation 015](../assets/images/quotations/quotation015.jpg){ width="200" }
 
-    ### [Quotation 015](quotations/quotation015.md)
+    ### [Quotation 015](quotation015)
     
     **Read time:** 5 min
     
     EXCERPT Not Found
-
 - ![Quotation 016](../assets/images/quotations/quotation016.jpg){ width="200" }
 
-    ### [Quotation 016](quotations/quotation016.md)
+    ### [Quotation 016](quotation016)
     
     **Read time:** 5 min
     
@@ -172,15 +164,14 @@ Join me on this journey of intellectual liberation, where the power of thought b
 
 - ![Quotation 017](../assets/images/quotations/quotation017.jpg){ width="200" }
 
-    ### [Quotation 017](quotations/quotation017.md)
+    ### [Quotation 017](quotation017)
     
     **Read time:** 5 min
     
     EXCERPT Not Found
-
 - ![Quotation 018](../assets/images/quotations/quotation018.jpg){ width="200" }
 
-    ### [Quotation 018](quotations/quotation018.md)
+    ### [Quotation 018](quotation018)
     
     **Read time:** 5 min
     
@@ -192,15 +183,14 @@ Join me on this journey of intellectual liberation, where the power of thought b
 
 - ![Quotation 019](../assets/images/quotations/quotation019.jpg){ width="200" }
 
-    ### [Quotation 019](quotations/quotation019.md)
+    ### [Quotation 019](quotation019)
     
     **Read time:** 5 min
     
     EXCERPT Not Found
-
 - ![Quotation 020](../assets/images/quotations/quotation020.jpg){ width="200" }
 
-    ### [Quotation 020](quotations/quotation020.md)
+    ### [Quotation 020](quotation020)
     
     **Read time:** 5 min
     
@@ -212,15 +202,14 @@ Join me on this journey of intellectual liberation, where the power of thought b
 
 - ![Quotation 021](../assets/images/quotations/quotation021.jpg){ width="200" }
 
-    ### [Quotation 021](quotations/quotation021.md)
+    ### [Quotation 021](quotation021)
     
     **Read time:** 5 min
     
     EXCERPT Not Found
-
 - ![Quotation 022](../assets/images/quotations/quotation022.jpg){ width="200" }
 
-    ### [Quotation 022](quotations/quotation022.md)
+    ### [Quotation 022](quotation022)
     
     **Read time:** 5 min
     
@@ -232,15 +221,14 @@ Join me on this journey of intellectual liberation, where the power of thought b
 
 - ![Quotation 023](../assets/images/quotations/quotation023.jpg){ width="200" }
 
-    ### [Quotation 023](quotations/quotation023.md)
+    ### [Quotation 023](quotation023)
     
     **Read time:** 5 min
     
     EXCERPT Not Found
-
 - ![Quotation 024](../assets/images/quotations/quotation024.jpg){ width="200" }
 
-    ### [Quotation 024](quotations/quotation024.md)
+    ### [Quotation 024](quotation024)
     
     **Read time:** 5 min
     
@@ -252,15 +240,14 @@ Join me on this journey of intellectual liberation, where the power of thought b
 
 - ![Quotation 025](../assets/images/quotations/quotation025.jpg){ width="200" }
 
-    ### [Quotation 025](quotations/quotation025.md)
+    ### [Quotation 025](quotation025)
     
     **Read time:** 5 min
     
     EXCERPT Not Found
-
 - ![Quotation 026](../assets/images/quotations/quotation026.jpg){ width="200" }
 
-    ### [Quotation 026](quotations/quotation026.md)
+    ### [Quotation 026](quotation026)
     
     **Read time:** 5 min
     
@@ -272,15 +259,14 @@ Join me on this journey of intellectual liberation, where the power of thought b
 
 - ![Quotation 027](../assets/images/quotations/quotation027.jpg){ width="200" }
 
-    ### [Quotation 027](quotations/quotation027.md)
+    ### [Quotation 027](quotation027)
     
     **Read time:** 5 min
     
     EXCERPT Not Found
-
 - ![Quotation 028](../assets/images/quotations/quotation028.jpg){ width="200" }
 
-    ### [Quotation 028](quotations/quotation028.md)
+    ### [Quotation 028](quotation028)
     
     **Read time:** 5 min
     
@@ -292,15 +278,14 @@ Join me on this journey of intellectual liberation, where the power of thought b
 
 - ![Quotation 029](../assets/images/quotations/quotation029.jpg){ width="200" }
 
-    ### [Quotation 029](quotations/quotation029.md)
+    ### [Quotation 029](quotation029)
     
     **Read time:** 5 min
     
     EXCERPT Not Found
-
 - ![Quotation 030](../assets/images/quotations/quotation030.jpg){ width="200" }
 
-    ### [Quotation 030](quotations/quotation030.md)
+    ### [Quotation 030](quotation030)
     
     **Read time:** 5 min
     
@@ -312,15 +297,14 @@ Join me on this journey of intellectual liberation, where the power of thought b
 
 - ![Quotation 031](../assets/images/quotations/quotation031.jpg){ width="200" }
 
-    ### [Quotation 031](quotations/quotation031.md)
+    ### [Quotation 031](quotation031)
     
     **Read time:** 5 min
     
     EXCERPT Not Found
-
 - ![Quotation 032](../assets/images/quotations/quotation032.jpg){ width="200" }
 
-    ### [Quotation 032](quotations/quotation032.md)
+    ### [Quotation 032](quotation032)
     
     **Read time:** 5 min
     
@@ -332,15 +316,14 @@ Join me on this journey of intellectual liberation, where the power of thought b
 
 - ![Quotation 033](../assets/images/quotations/quotation033.jpg){ width="200" }
 
-    ### [Quotation 033](quotations/quotation033.md)
+    ### [Quotation 033](quotation033)
     
     **Read time:** 5 min
     
     EXCERPT Not Found
-
 - ![Quotation 034](../assets/images/quotations/quotation034.jpg){ width="200" }
 
-    ### [Quotation 034](quotations/quotation034.md)
+    ### [Quotation 034](quotation034)
     
     **Read time:** 5 min
     
@@ -352,15 +335,14 @@ Join me on this journey of intellectual liberation, where the power of thought b
 
 - ![Quotation 035](../assets/images/quotations/quotation035.jpg){ width="200" }
 
-    ### [Quotation 035](quotations/quotation035.md)
+    ### [Quotation 035](quotation035)
     
     **Read time:** 5 min
     
     EXCERPT Not Found
-
 - ![Quotation 036](../assets/images/quotations/quotation036.jpg){ width="200" }
 
-    ### [Quotation 036](quotations/quotation036.md)
+    ### [Quotation 036](quotation036)
     
     **Read time:** 5 min
     
@@ -372,15 +354,14 @@ Join me on this journey of intellectual liberation, where the power of thought b
 
 - ![Quotation 037](../assets/images/quotations/quotation037.jpg){ width="200" }
 
-    ### [Quotation 037](quotations/quotation037.md)
+    ### [Quotation 037](quotation037)
     
     **Read time:** 5 min
     
     EXCERPT Not Found
-
 - ![Quotation 038](../assets/images/quotations/quotation038.jpg){ width="200" }
 
-    ### [Quotation 038](quotations/quotation038.md)
+    ### [Quotation 038](quotation038)
     
     **Read time:** 5 min
     
@@ -392,15 +373,14 @@ Join me on this journey of intellectual liberation, where the power of thought b
 
 - ![Quotation 039](../assets/images/quotations/quotation039.jpg){ width="200" }
 
-    ### [Quotation 039](quotations/quotation039.md)
+    ### [Quotation 039](quotation039)
     
     **Read time:** 5 min
     
     EXCERPT Not Found
-
 - ![Quotation 040](../assets/images/quotations/quotation040.jpg){ width="200" }
 
-    ### [Quotation 040](quotations/quotation040.md)
+    ### [Quotation 040](quotation040)
     
     **Read time:** 5 min
     
@@ -412,15 +392,14 @@ Join me on this journey of intellectual liberation, where the power of thought b
 
 - ![Quotation 041](../assets/images/quotations/quotation041.jpg){ width="200" }
 
-    ### [Quotation 041](quotations/quotation041.md)
+    ### [Quotation 041](quotation041)
     
     **Read time:** 5 min
     
     EXCERPT Not Found
-
 - ![Quotation 042](../assets/images/quotations/quotation042.jpg){ width="200" }
 
-    ### [Quotation 042](quotations/quotation042.md)
+    ### [Quotation 042](quotation042)
     
     **Read time:** 5 min
     
@@ -432,15 +411,14 @@ Join me on this journey of intellectual liberation, where the power of thought b
 
 - ![Quotation 043](../assets/images/quotations/quotation043.jpg){ width="200" }
 
-    ### [Quotation 043](quotations/quotation043.md)
+    ### [Quotation 043](quotation043)
     
     **Read time:** 5 min
     
     EXCERPT Not Found
-
 - ![Quotation 044](../assets/images/quotations/quotation044.jpg){ width="200" }
 
-    ### [Quotation 044](quotations/quotation044.md)
+    ### [Quotation 044](quotation044)
     
     **Read time:** 5 min
     
@@ -452,15 +430,14 @@ Join me on this journey of intellectual liberation, where the power of thought b
 
 - ![Quotation 045](../assets/images/quotations/quotation045.jpg){ width="200" }
 
-    ### [Quotation 045](quotations/quotation045.md)
+    ### [Quotation 045](quotation045)
     
     **Read time:** 5 min
     
     EXCERPT Not Found
-
 - ![Quotation 046](../assets/images/quotations/quotation046.jpg){ width="200" }
 
-    ### [Quotation 046](quotations/quotation046.md)
+    ### [Quotation 046](quotation046)
     
     **Read time:** 5 min
     
@@ -472,15 +449,14 @@ Join me on this journey of intellectual liberation, where the power of thought b
 
 - ![Quotation 047](../assets/images/quotations/quotation047.jpg){ width="200" }
 
-    ### [Quotation 047](quotations/quotation047.md)
+    ### [Quotation 047](quotation047)
     
     **Read time:** 5 min
     
     EXCERPT Not Found
-
 - ![Quotation 048](../assets/images/quotations/quotation048.jpg){ width="200" }
 
-    ### [Quotation 048](quotations/quotation048.md)
+    ### [Quotation 048](quotation048)
     
     **Read time:** 5 min
     
@@ -492,15 +468,14 @@ Join me on this journey of intellectual liberation, where the power of thought b
 
 - ![Quotation 049](../assets/images/quotations/quotation049.jpg){ width="200" }
 
-    ### [Quotation 049](quotations/quotation049.md)
+    ### [Quotation 049](quotation049)
     
     **Read time:** 5 min
     
     EXCERPT Not Found
-
 - ![Quotation 050](../assets/images/quotations/quotation050.jpg){ width="200" }
 
-    ### [Quotation 050](quotations/quotation050.md)
+    ### [Quotation 050](quotation050)
     
     **Read time:** 5 min
     
@@ -512,15 +487,14 @@ Join me on this journey of intellectual liberation, where the power of thought b
 
 - ![Quotation 051](../assets/images/quotations/quotation051.jpg){ width="200" }
 
-    ### [Quotation 051](quotations/quotation051.md)
+    ### [Quotation 051](quotation051)
     
     **Read time:** 5 min
     
     EXCERPT Not Found
-
 - ![Quotation 052](../assets/images/quotations/quotation052.jpg){ width="200" }
 
-    ### [Quotation 052](quotations/quotation052.md)
+    ### [Quotation 052](quotation052)
     
     **Read time:** 5 min
     
@@ -532,15 +506,14 @@ Join me on this journey of intellectual liberation, where the power of thought b
 
 - ![Quotation 053](../assets/images/quotations/quotation053.jpg){ width="200" }
 
-    ### [Quotation 053](quotations/quotation053.md)
+    ### [Quotation 053](quotation053)
     
     **Read time:** 5 min
     
     EXCERPT Not Found
-
 - ![Quotation 054](../assets/images/quotations/quotation054.jpg){ width="200" }
 
-    ### [Quotation 054](quotations/quotation054.md)
+    ### [Quotation 054](quotation054)
     
     **Read time:** 5 min
     
@@ -552,15 +525,14 @@ Join me on this journey of intellectual liberation, where the power of thought b
 
 - ![Quotation 055](../assets/images/quotations/quotation055.jpg){ width="200" }
 
-    ### [Quotation 055](quotations/quotation055.md)
+    ### [Quotation 055](quotation055)
     
     **Read time:** 5 min
     
     EXCERPT Not Found
-
 - ![Quotation 056](../assets/images/quotations/quotation056.jpg){ width="200" }
 
-    ### [Quotation 056](quotations/quotation056.md)
+    ### [Quotation 056](quotation056)
     
     **Read time:** 5 min
     
@@ -572,15 +544,14 @@ Join me on this journey of intellectual liberation, where the power of thought b
 
 - ![Quotation 057](../assets/images/quotations/quotation057.jpg){ width="200" }
 
-    ### [Quotation 057](quotations/quotation057.md)
+    ### [Quotation 057](quotation057)
     
     **Read time:** 5 min
     
     EXCERPT Not Found
-
 - ![Quotation 058](../assets/images/quotations/quotation058.jpg){ width="200" }
 
-    ### [Quotation 058](quotations/quotation058.md)
+    ### [Quotation 058](quotation058)
     
     **Read time:** 5 min
     
@@ -592,15 +563,14 @@ Join me on this journey of intellectual liberation, where the power of thought b
 
 - ![Quotation 059](../assets/images/quotations/quotation059.jpg){ width="200" }
 
-    ### [Quotation 059](quotations/quotation059.md)
+    ### [Quotation 059](quotation059)
     
     **Read time:** 5 min
     
     EXCERPT Not Found
-
 - ![Quotation 060](../assets/images/quotations/quotation060.jpg){ width="200" }
 
-    ### [Quotation 060](quotations/quotation060.md)
+    ### [Quotation 060](quotation060)
     
     **Read time:** 5 min
     
@@ -612,15 +582,14 @@ Join me on this journey of intellectual liberation, where the power of thought b
 
 - ![Quotation 061](../assets/images/quotations/quotation061.jpg){ width="200" }
 
-    ### [Quotation 061](quotations/quotation061.md)
+    ### [Quotation 061](quotation061)
     
     **Read time:** 5 min
     
     EXCERPT Not Found
-
 - ![Quotation 062](../assets/images/quotations/quotation062.jpg){ width="200" }
 
-    ### [Quotation 062](quotations/quotation062.md)
+    ### [Quotation 062](quotation062)
     
     **Read time:** 5 min
     
@@ -632,15 +601,14 @@ Join me on this journey of intellectual liberation, where the power of thought b
 
 - ![Quotation 063](../assets/images/quotations/quotation063.jpg){ width="200" }
 
-    ### [Quotation 063](quotations/quotation063.md)
+    ### [Quotation 063](quotation063)
     
     **Read time:** 5 min
     
     EXCERPT Not Found
-
 - ![Quotation 064](../assets/images/quotations/quotation064.jpg){ width="200" }
 
-    ### [Quotation 064](quotations/quotation064.md)
+    ### [Quotation 064](quotation064)
     
     **Read time:** 5 min
     
@@ -652,15 +620,14 @@ Join me on this journey of intellectual liberation, where the power of thought b
 
 - ![Quotation 065](../assets/images/quotations/quotation065.jpg){ width="200" }
 
-    ### [Quotation 065](quotations/quotation065.md)
+    ### [Quotation 065](quotation065)
     
     **Read time:** 5 min
     
     EXCERPT Not Found
-
 - ![Quotation 066](../assets/images/quotations/quotation066.jpg){ width="200" }
 
-    ### [Quotation 066](quotations/quotation066.md)
+    ### [Quotation 066](quotation066)
     
     **Read time:** 5 min
     
@@ -672,15 +639,14 @@ Join me on this journey of intellectual liberation, where the power of thought b
 
 - ![Quotation 067](../assets/images/quotations/quotation067.jpg){ width="200" }
 
-    ### [Quotation 067](quotations/quotation067.md)
+    ### [Quotation 067](quotation067)
     
     **Read time:** 5 min
     
     EXCERPT Not Found
-
 - ![Quotation 068](../assets/images/quotations/quotation068.jpg){ width="200" }
 
-    ### [Quotation 068](quotations/quotation068.md)
+    ### [Quotation 068](quotation068)
     
     **Read time:** 5 min
     
@@ -692,15 +658,14 @@ Join me on this journey of intellectual liberation, where the power of thought b
 
 - ![Quotation 069](../assets/images/quotations/quotation069.jpg){ width="200" }
 
-    ### [Quotation 069](quotations/quotation069.md)
+    ### [Quotation 069](quotation069)
     
     **Read time:** 5 min
     
     EXCERPT Not Found
-
 - ![Quotation 070](../assets/images/quotations/quotation070.jpg){ width="200" }
 
-    ### [Quotation 070](quotations/quotation070.md)
+    ### [Quotation 070](quotation070)
     
     **Read time:** 5 min
     
@@ -712,15 +677,14 @@ Join me on this journey of intellectual liberation, where the power of thought b
 
 - ![Quotation 071](../assets/images/quotations/quotation071.jpg){ width="200" }
 
-    ### [Quotation 071](quotations/quotation071.md)
+    ### [Quotation 071](quotation071)
     
     **Read time:** 5 min
     
     EXCERPT Not Found
-
 - ![Quotation 072](../assets/images/quotations/quotation072.jpg){ width="200" }
 
-    ### [Quotation 072](quotations/quotation072.md)
+    ### [Quotation 072](quotation072)
     
     **Read time:** 5 min
     
@@ -732,15 +696,14 @@ Join me on this journey of intellectual liberation, where the power of thought b
 
 - ![Quotation 073](../assets/images/quotations/quotation073.jpg){ width="200" }
 
-    ### [Quotation 073](quotations/quotation073.md)
+    ### [Quotation 073](quotation073)
     
     **Read time:** 5 min
     
     EXCERPT Not Found
-
 - ![Quotation 074](../assets/images/quotations/quotation074.jpg){ width="200" }
 
-    ### [Quotation 074](quotations/quotation074.md)
+    ### [Quotation 074](quotation074)
     
     **Read time:** 5 min
     
@@ -752,15 +715,14 @@ Join me on this journey of intellectual liberation, where the power of thought b
 
 - ![Quotation 075](../assets/images/quotations/quotation075.jpg){ width="200" }
 
-    ### [Quotation 075](quotations/quotation075.md)
+    ### [Quotation 075](quotation075)
     
     **Read time:** 5 min
     
     EXCERPT Not Found
-
 - ![Quotation 076](../assets/images/quotations/quotation076.jpg){ width="200" }
 
-    ### [Quotation 076](quotations/quotation076.md)
+    ### [Quotation 076](quotation076)
     
     **Read time:** 5 min
     
@@ -772,15 +734,14 @@ Join me on this journey of intellectual liberation, where the power of thought b
 
 - ![Quotation 077](../assets/images/quotations/quotation077.jpg){ width="200" }
 
-    ### [Quotation 077](quotations/quotation077.md)
+    ### [Quotation 077](quotation077)
     
     **Read time:** 5 min
     
     EXCERPT Not Found
-
 - ![Quotation 078](../assets/images/quotations/quotation078.jpg){ width="200" }
 
-    ### [Quotation 078](quotations/quotation078.md)
+    ### [Quotation 078](quotation078)
     
     **Read time:** 5 min
     
@@ -792,15 +753,14 @@ Join me on this journey of intellectual liberation, where the power of thought b
 
 - ![Quotation 079](../assets/images/quotations/quotation079.jpg){ width="200" }
 
-    ### [Quotation 079](quotations/quotation079.md)
+    ### [Quotation 079](quotation079)
     
     **Read time:** 5 min
     
     EXCERPT Not Found
-
 - ![Quotation 080](../assets/images/quotations/quotation080.jpg){ width="200" }
 
-    ### [Quotation 080](quotations/quotation080.md)
+    ### [Quotation 080](quotation080)
     
     **Read time:** 5 min
     
@@ -812,15 +772,14 @@ Join me on this journey of intellectual liberation, where the power of thought b
 
 - ![Quotation 081](../assets/images/quotations/quotation081.jpg){ width="200" }
 
-    ### [Quotation 081](quotations/quotation081.md)
+    ### [Quotation 081](quotation081)
     
     **Read time:** 5 min
     
     EXCERPT Not Found
-
 - ![Quotation 082](../assets/images/quotations/quotation082.jpg){ width="200" }
 
-    ### [Quotation 082](quotations/quotation082.md)
+    ### [Quotation 082](quotation082)
     
     **Read time:** 5 min
     
@@ -832,15 +791,14 @@ Join me on this journey of intellectual liberation, where the power of thought b
 
 - ![Quotation 083](../assets/images/quotations/quotation083.jpg){ width="200" }
 
-    ### [Quotation 083](quotations/quotation083.md)
+    ### [Quotation 083](quotation083)
     
     **Read time:** 5 min
     
     EXCERPT Not Found
-
 - ![Quotation 084](../assets/images/quotations/quotation084.jpg){ width="200" }
 
-    ### [Quotation 084](quotations/quotation084.md)
+    ### [Quotation 084](quotation084)
     
     **Read time:** 5 min
     
@@ -852,15 +810,14 @@ Join me on this journey of intellectual liberation, where the power of thought b
 
 - ![Quotation 085](../assets/images/quotations/quotation085.jpg){ width="200" }
 
-    ### [Quotation 085](quotations/quotation085.md)
+    ### [Quotation 085](quotation085)
     
     **Read time:** 5 min
     
     EXCERPT Not Found
-
 - ![Quotation 086](../assets/images/quotations/quotation086.jpg){ width="200" }
 
-    ### [Quotation 086](quotations/quotation086.md)
+    ### [Quotation 086](quotation086)
     
     **Read time:** 5 min
     
@@ -872,15 +829,14 @@ Join me on this journey of intellectual liberation, where the power of thought b
 
 - ![Quotation 087](../assets/images/quotations/quotation087.jpg){ width="200" }
 
-    ### [Quotation 087](quotations/quotation087.md)
+    ### [Quotation 087](quotation087)
     
     **Read time:** 5 min
     
     EXCERPT Not Found
-
 - ![Quotation 088](../assets/images/quotations/quotation088.jpg){ width="200" }
 
-    ### [Quotation 088](quotations/quotation088.md)
+    ### [Quotation 088](quotation088)
     
     **Read time:** 5 min
     
@@ -892,15 +848,14 @@ Join me on this journey of intellectual liberation, where the power of thought b
 
 - ![Quotation 089](../assets/images/quotations/quotation089.jpg){ width="200" }
 
-    ### [Quotation 089](quotations/quotation089.md)
+    ### [Quotation 089](quotation089)
     
     **Read time:** 5 min
     
     EXCERPT Not Found
-
 - ![Quotation 090](../assets/images/quotations/quotation090.jpg){ width="200" }
 
-    ### [Quotation 090](quotations/quotation090.md)
+    ### [Quotation 090](quotation090)
     
     **Read time:** 5 min
     
@@ -912,15 +867,14 @@ Join me on this journey of intellectual liberation, where the power of thought b
 
 - ![Quotation 091](../assets/images/quotations/quotation091.jpg){ width="200" }
 
-    ### [Quotation 091](quotations/quotation091.md)
+    ### [Quotation 091](quotation091)
     
     **Read time:** 5 min
     
     EXCERPT Not Found
-
 - ![Quotation 092](../assets/images/quotations/quotation092.jpg){ width="200" }
 
-    ### [Quotation 092](quotations/quotation092.md)
+    ### [Quotation 092](quotation092)
     
     **Read time:** 5 min
     
@@ -932,15 +886,14 @@ Join me on this journey of intellectual liberation, where the power of thought b
 
 - ![Quotation 093](../assets/images/quotations/quotation093.jpg){ width="200" }
 
-    ### [Quotation 093](quotations/quotation093.md)
+    ### [Quotation 093](quotation093)
     
     **Read time:** 5 min
     
     EXCERPT Not Found
-
 - ![Quotation 094](../assets/images/quotations/quotation094.jpg){ width="200" }
 
-    ### [Quotation 094](quotations/quotation094.md)
+    ### [Quotation 094](quotation094)
     
     **Read time:** 5 min
     
@@ -952,15 +905,14 @@ Join me on this journey of intellectual liberation, where the power of thought b
 
 - ![Quotation 095](../assets/images/quotations/quotation095.jpg){ width="200" }
 
-    ### [Quotation 095](quotations/quotation095.md)
+    ### [Quotation 095](quotation095)
     
     **Read time:** 5 min
     
     EXCERPT Not Found
-
 - ![Quotation 096](../assets/images/quotations/quotation096.jpg){ width="200" }
 
-    ### [Quotation 096](quotations/quotation096.md)
+    ### [Quotation 096](quotation096)
     
     **Read time:** 5 min
     
@@ -972,15 +924,14 @@ Join me on this journey of intellectual liberation, where the power of thought b
 
 - ![Quotation 097](../assets/images/quotations/quotation097.jpg){ width="200" }
 
-    ### [Quotation 097](quotations/quotation097.md)
+    ### [Quotation 097](quotation097)
     
     **Read time:** 5 min
     
     EXCERPT Not Found
-
 - ![Quotation 098](../assets/images/quotations/quotation098.jpg){ width="200" }
 
-    ### [Quotation 098](quotations/quotation098.md)
+    ### [Quotation 098](quotation098)
     
     **Read time:** 5 min
     
@@ -992,15 +943,14 @@ Join me on this journey of intellectual liberation, where the power of thought b
 
 - ![Quotation 099](../assets/images/quotations/quotation099.jpg){ width="200" }
 
-    ### [Quotation 099](quotations/quotation099.md)
+    ### [Quotation 099](quotation099)
     
     **Read time:** 5 min
     
     EXCERPT Not Found
-
 - ![Quotation 100](../assets/images/quotations/quotation100.jpg){ width="200" }
 
-    ### [Quotation 100](quotations/quotation100.md)
+    ### [Quotation 100](quotation100)
     
     **Read time:** 5 min
     
@@ -1012,15 +962,14 @@ Join me on this journey of intellectual liberation, where the power of thought b
 
 - ![Quotation 101](../assets/images/quotations/quotation101.jpg){ width="200" }
 
-    ### [Quotation 101](quotations/quotation101.md)
+    ### [Quotation 101](quotation101)
     
     **Read time:** 5 min
     
     EXCERPT Not Found
-
 - ![Quotation 102](../assets/images/quotations/quotation102.jpg){ width="200" }
 
-    ### [Quotation 102](quotations/quotation102.md)
+    ### [Quotation 102](quotation102)
     
     **Read time:** 5 min
     
@@ -1032,15 +981,14 @@ Join me on this journey of intellectual liberation, where the power of thought b
 
 - ![Quotation 103](../assets/images/quotations/quotation103.jpg){ width="200" }
 
-    ### [Quotation 103](quotations/quotation103.md)
+    ### [Quotation 103](quotation103)
     
     **Read time:** 5 min
     
     EXCERPT Not Found
-
 - ![Quotation 104](../assets/images/quotations/quotation104.jpg){ width="200" }
 
-    ### [Quotation 104](quotations/quotation104.md)
+    ### [Quotation 104](quotation104)
     
     **Read time:** 5 min
     
@@ -1052,15 +1000,14 @@ Join me on this journey of intellectual liberation, where the power of thought b
 
 - ![Quotation 105](../assets/images/quotations/quotation105.jpg){ width="200" }
 
-    ### [Quotation 105](quotations/quotation105.md)
+    ### [Quotation 105](quotation105)
     
     **Read time:** 5 min
     
     EXCERPT Not Found
-
 - ![Quotation 106](../assets/images/quotations/quotation106.jpg){ width="200" }
 
-    ### [Quotation 106](quotations/quotation106.md)
+    ### [Quotation 106](quotation106)
     
     **Read time:** 5 min
     
@@ -1072,15 +1019,14 @@ Join me on this journey of intellectual liberation, where the power of thought b
 
 - ![Quotation 107](../assets/images/quotations/quotation107.jpg){ width="200" }
 
-    ### [Quotation 107](quotations/quotation107.md)
+    ### [Quotation 107](quotation107)
     
     **Read time:** 5 min
     
     EXCERPT Not Found
-
 - ![Quotation 108](../assets/images/quotations/quotation108.jpg){ width="200" }
 
-    ### [Quotation 108](quotations/quotation108.md)
+    ### [Quotation 108](quotation108)
     
     **Read time:** 5 min
     
@@ -1092,15 +1038,14 @@ Join me on this journey of intellectual liberation, where the power of thought b
 
 - ![Quotation 109](../assets/images/quotations/quotation109.jpg){ width="200" }
 
-    ### [Quotation 109](quotations/quotation109.md)
+    ### [Quotation 109](quotation109)
     
     **Read time:** 5 min
     
     EXCERPT Not Found
-
 - ![Quotation 110](../assets/images/quotations/quotation110.jpg){ width="200" }
 
-    ### [Quotation 110](quotations/quotation110.md)
+    ### [Quotation 110](quotation110)
     
     **Read time:** 5 min
     
@@ -1112,15 +1057,14 @@ Join me on this journey of intellectual liberation, where the power of thought b
 
 - ![Quotation 111](../assets/images/quotations/quotation111.jpg){ width="200" }
 
-    ### [Quotation 111](quotations/quotation111.md)
+    ### [Quotation 111](quotation111)
     
     **Read time:** 5 min
     
     EXCERPT Not Found
-
 - ![Quotation 112](../assets/images/quotations/quotation112.jpg){ width="200" }
 
-    ### [Quotation 112](quotations/quotation112.md)
+    ### [Quotation 112](quotation112)
     
     **Read time:** 5 min
     
@@ -1132,15 +1076,14 @@ Join me on this journey of intellectual liberation, where the power of thought b
 
 - ![Quotation 113](../assets/images/quotations/quotation113.jpg){ width="200" }
 
-    ### [Quotation 113](quotations/quotation113.md)
+    ### [Quotation 113](quotation113)
     
     **Read time:** 5 min
     
     EXCERPT Not Found
-
 - ![Quotation 114](../assets/images/quotations/quotation114.jpg){ width="200" }
 
-    ### [Quotation 114](quotations/quotation114.md)
+    ### [Quotation 114](quotation114)
     
     **Read time:** 5 min
     
@@ -1152,15 +1095,14 @@ Join me on this journey of intellectual liberation, where the power of thought b
 
 - ![Quotation 115](../assets/images/quotations/quotation115.jpg){ width="200" }
 
-    ### [Quotation 115](quotations/quotation115.md)
+    ### [Quotation 115](quotation115)
     
     **Read time:** 5 min
     
     EXCERPT Not Found
-
 - ![Quotation 116](../assets/images/quotations/quotation116.jpg){ width="200" }
 
-    ### [Quotation 116](quotations/quotation116.md)
+    ### [Quotation 116](quotation116)
     
     **Read time:** 5 min
     
@@ -1172,15 +1114,14 @@ Join me on this journey of intellectual liberation, where the power of thought b
 
 - ![Quotation 117](../assets/images/quotations/quotation117.jpg){ width="200" }
 
-    ### [Quotation 117](quotations/quotation117.md)
+    ### [Quotation 117](quotation117)
     
     **Read time:** 5 min
     
     EXCERPT Not Found
-
 - ![Quotation 118](../assets/images/quotations/quotation118.jpg){ width="200" }
 
-    ### [Quotation 118](quotations/quotation118.md)
+    ### [Quotation 118](quotation118)
     
     **Read time:** 5 min
     
@@ -1192,15 +1133,14 @@ Join me on this journey of intellectual liberation, where the power of thought b
 
 - ![Quotation 119](../assets/images/quotations/quotation119.jpg){ width="200" }
 
-    ### [Quotation 119](quotations/quotation119.md)
+    ### [Quotation 119](quotation119)
     
     **Read time:** 5 min
     
     EXCERPT Not Found
-
 - ![Quotation 120](../assets/images/quotations/quotation120.jpg){ width="200" }
 
-    ### [Quotation 120](quotations/quotation120.md)
+    ### [Quotation 120](quotation120)
     
     **Read time:** 5 min
     
@@ -1212,15 +1152,14 @@ Join me on this journey of intellectual liberation, where the power of thought b
 
 - ![Quotation 121](../assets/images/quotations/quotation121.jpg){ width="200" }
 
-    ### [Quotation 121](quotations/quotation121.md)
+    ### [Quotation 121](quotation121)
     
     **Read time:** 5 min
     
     EXCERPT Not Found
-
 - ![Quotation 122](../assets/images/quotations/quotation122.jpg){ width="200" }
 
-    ### [Quotation 122](quotations/quotation122.md)
+    ### [Quotation 122](quotation122)
     
     **Read time:** 5 min
     
@@ -1232,15 +1171,14 @@ Join me on this journey of intellectual liberation, where the power of thought b
 
 - ![Quotation 123](../assets/images/quotations/quotation123.jpg){ width="200" }
 
-    ### [Quotation 123](quotations/quotation123.md)
+    ### [Quotation 123](quotation123)
     
     **Read time:** 5 min
     
     EXCERPT Not Found
-
 - ![Quotation 124](../assets/images/quotations/quotation124.jpg){ width="200" }
 
-    ### [Quotation 124](quotations/quotation124.md)
+    ### [Quotation 124](quotation124)
     
     **Read time:** 5 min
     
@@ -1252,15 +1190,14 @@ Join me on this journey of intellectual liberation, where the power of thought b
 
 - ![Quotation 125](../assets/images/quotations/quotation125.jpg){ width="200" }
 
-    ### [Quotation 125](quotations/quotation125.md)
+    ### [Quotation 125](quotation125)
     
     **Read time:** 5 min
     
     EXCERPT Not Found
-
 - ![Quotation 126](../assets/images/quotations/quotation126.jpg){ width="200" }
 
-    ### [Quotation 126](quotations/quotation126.md)
+    ### [Quotation 126](quotation126)
     
     **Read time:** 5 min
     
@@ -1272,15 +1209,14 @@ Join me on this journey of intellectual liberation, where the power of thought b
 
 - ![Quotation 127](../assets/images/quotations/quotation127.jpg){ width="200" }
 
-    ### [Quotation 127](quotations/quotation127.md)
+    ### [Quotation 127](quotation127)
     
     **Read time:** 5 min
     
     EXCERPT Not Found
-
 - ![Quotation 128](../assets/images/quotations/quotation128.jpg){ width="200" }
 
-    ### [Quotation 128](quotations/quotation128.md)
+    ### [Quotation 128](quotation128)
     
     **Read time:** 5 min
     
@@ -1292,15 +1228,14 @@ Join me on this journey of intellectual liberation, where the power of thought b
 
 - ![Quotation 129](../assets/images/quotations/quotation129.jpg){ width="200" }
 
-    ### [Quotation 129](quotations/quotation129.md)
+    ### [Quotation 129](quotation129)
     
     **Read time:** 5 min
     
     EXCERPT Not Found
-
 - ![Quotation 130](../assets/images/quotations/quotation130.jpg){ width="200" }
 
-    ### [Quotation 130](quotations/quotation130.md)
+    ### [Quotation 130](quotation130)
     
     **Read time:** 5 min
     
@@ -1312,15 +1247,14 @@ Join me on this journey of intellectual liberation, where the power of thought b
 
 - ![Quotation 131](../assets/images/quotations/quotation131.jpg){ width="200" }
 
-    ### [Quotation 131](quotations/quotation131.md)
+    ### [Quotation 131](quotation131)
     
     **Read time:** 5 min
     
     EXCERPT Not Found
-
 - ![Quotation 132](../assets/images/quotations/quotation132.jpg){ width="200" }
 
-    ### [Quotation 132](quotations/quotation132.md)
+    ### [Quotation 132](quotation132)
     
     **Read time:** 5 min
     
@@ -1332,15 +1266,14 @@ Join me on this journey of intellectual liberation, where the power of thought b
 
 - ![Quotation 133](../assets/images/quotations/quotation133.jpg){ width="200" }
 
-    ### [Quotation 133](quotations/quotation133.md)
+    ### [Quotation 133](quotation133)
     
     **Read time:** 5 min
     
     EXCERPT Not Found
-
 - ![Quotation 134](../assets/images/quotations/quotation134.jpg){ width="200" }
 
-    ### [Quotation 134](quotations/quotation134.md)
+    ### [Quotation 134](quotation134)
     
     **Read time:** 5 min
     
@@ -1352,15 +1285,14 @@ Join me on this journey of intellectual liberation, where the power of thought b
 
 - ![Quotation 135](../assets/images/quotations/quotation135.jpg){ width="200" }
 
-    ### [Quotation 135](quotations/quotation135.md)
+    ### [Quotation 135](quotation135)
     
     **Read time:** 5 min
     
     EXCERPT Not Found
-
 - ![Quotation 136](../assets/images/quotations/quotation136.jpg){ width="200" }
 
-    ### [Quotation 136](quotations/quotation136.md)
+    ### [Quotation 136](quotation136)
     
     **Read time:** 5 min
     
@@ -1372,15 +1304,14 @@ Join me on this journey of intellectual liberation, where the power of thought b
 
 - ![Quotation 137](../assets/images/quotations/quotation137.jpg){ width="200" }
 
-    ### [Quotation 137](quotations/quotation137.md)
+    ### [Quotation 137](quotation137)
     
     **Read time:** 5 min
     
     EXCERPT Not Found
-
 - ![Quotation 138](../assets/images/quotations/quotation138.jpg){ width="200" }
 
-    ### [Quotation 138](quotations/quotation138.md)
+    ### [Quotation 138](quotation138)
     
     **Read time:** 5 min
     
@@ -1392,15 +1323,14 @@ Join me on this journey of intellectual liberation, where the power of thought b
 
 - ![Quotation 139](../assets/images/quotations/quotation139.jpg){ width="200" }
 
-    ### [Quotation 139](quotations/quotation139.md)
+    ### [Quotation 139](quotation139)
     
     **Read time:** 5 min
     
     EXCERPT Not Found
-
 - ![Quotation 140](../assets/images/quotations/quotation140.jpg){ width="200" }
 
-    ### [Quotation 140](quotations/quotation140.md)
+    ### [Quotation 140](quotation140)
     
     **Read time:** 5 min
     
@@ -1412,15 +1342,14 @@ Join me on this journey of intellectual liberation, where the power of thought b
 
 - ![Quotation 141](../assets/images/quotations/quotation141.jpg){ width="200" }
 
-    ### [Quotation 141](quotations/quotation141.md)
+    ### [Quotation 141](quotation141)
     
     **Read time:** 5 min
     
     EXCERPT Not Found
-
 - ![Quotation 142](../assets/images/quotations/quotation142.jpg){ width="200" }
 
-    ### [Quotation 142](quotations/quotation142.md)
+    ### [Quotation 142](quotation142)
     
     **Read time:** 5 min
     
@@ -1432,15 +1361,14 @@ Join me on this journey of intellectual liberation, where the power of thought b
 
 - ![Quotation 143](../assets/images/quotations/quotation143.jpg){ width="200" }
 
-    ### [Quotation 143](quotations/quotation143.md)
+    ### [Quotation 143](quotation143)
     
     **Read time:** 5 min
     
     EXCERPT Not Found
-
 - ![Quotation 144](../assets/images/quotations/quotation144.jpg){ width="200" }
 
-    ### [Quotation 144](quotations/quotation144.md)
+    ### [Quotation 144](quotation144)
     
     **Read time:** 5 min
     
@@ -1452,15 +1380,14 @@ Join me on this journey of intellectual liberation, where the power of thought b
 
 - ![Quotation 145](../assets/images/quotations/quotation145.jpg){ width="200" }
 
-    ### [Quotation 145](quotations/quotation145.md)
+    ### [Quotation 145](quotation145)
     
     **Read time:** 5 min
     
     EXCERPT Not Found
-
 - ![Quotation 146](../assets/images/quotations/quotation146.jpg){ width="200" }
 
-    ### [Quotation 146](quotations/quotation146.md)
+    ### [Quotation 146](quotation146)
     
     **Read time:** 5 min
     
@@ -1472,15 +1399,14 @@ Join me on this journey of intellectual liberation, where the power of thought b
 
 - ![Quotation 147](../assets/images/quotations/quotation147.jpg){ width="200" }
 
-    ### [Quotation 147](quotations/quotation147.md)
+    ### [Quotation 147](quotation147)
     
     **Read time:** 5 min
     
     EXCERPT Not Found
-
 - ![Quotation 148](../assets/images/quotations/quotation148.jpg){ width="200" }
 
-    ### [Quotation 148](quotations/quotation148.md)
+    ### [Quotation 148](quotation148)
     
     **Read time:** 5 min
     
@@ -1492,15 +1418,14 @@ Join me on this journey of intellectual liberation, where the power of thought b
 
 - ![Quotation 149](../assets/images/quotations/quotation149.jpg){ width="200" }
 
-    ### [Quotation 149](quotations/quotation149.md)
+    ### [Quotation 149](quotation149)
     
     **Read time:** 5 min
     
     EXCERPT Not Found
-
 - ![Quotation 150](../assets/images/quotations/quotation150.jpg){ width="200" }
 
-    ### [Quotation 150](quotations/quotation150.md)
+    ### [Quotation 150](quotation150)
     
     **Read time:** 5 min
     
@@ -1512,15 +1437,14 @@ Join me on this journey of intellectual liberation, where the power of thought b
 
 - ![Quotation 151](../assets/images/quotations/quotation151.jpg){ width="200" }
 
-    ### [Quotation 151](quotations/quotation151.md)
+    ### [Quotation 151](quotation151)
     
     **Read time:** 5 min
     
     EXCERPT Not Found
-
 - ![Quotation 152](../assets/images/quotations/quotation152.jpg){ width="200" }
 
-    ### [Quotation 152](quotations/quotation152.md)
+    ### [Quotation 152](quotation152)
     
     **Read time:** 5 min
     
@@ -1532,15 +1456,14 @@ Join me on this journey of intellectual liberation, where the power of thought b
 
 - ![Quotation 153](../assets/images/quotations/quotation153.jpg){ width="200" }
 
-    ### [Quotation 153](quotations/quotation153.md)
+    ### [Quotation 153](quotation153)
     
     **Read time:** 5 min
     
     EXCERPT Not Found
-
 - ![Quotation 154](../assets/images/quotations/quotation154.jpg){ width="200" }
 
-    ### [Quotation 154](quotations/quotation154.md)
+    ### [Quotation 154](quotation154)
     
     **Read time:** 5 min
     
@@ -1552,15 +1475,14 @@ Join me on this journey of intellectual liberation, where the power of thought b
 
 - ![Quotation 155](../assets/images/quotations/quotation155.jpg){ width="200" }
 
-    ### [Quotation 155](quotations/quotation155.md)
+    ### [Quotation 155](quotation155)
     
     **Read time:** 5 min
     
     EXCERPT Not Found
-
 - ![Quotation 156](../assets/images/quotations/quotation156.jpg){ width="200" }
 
-    ### [Quotation 156](quotations/quotation156.md)
+    ### [Quotation 156](quotation156)
     
     **Read time:** 5 min
     
@@ -1572,15 +1494,14 @@ Join me on this journey of intellectual liberation, where the power of thought b
 
 - ![Quotation 157](../assets/images/quotations/quotation157.jpg){ width="200" }
 
-    ### [Quotation 157](quotations/quotation157.md)
+    ### [Quotation 157](quotation157)
     
     **Read time:** 5 min
     
     EXCERPT Not Found
-
 - ![Quotation 158](../assets/images/quotations/quotation158.jpg){ width="200" }
 
-    ### [Quotation 158](quotations/quotation158.md)
+    ### [Quotation 158](quotation158)
     
     **Read time:** 5 min
     
@@ -1592,15 +1513,14 @@ Join me on this journey of intellectual liberation, where the power of thought b
 
 - ![Quotation 159](../assets/images/quotations/quotation159.jpg){ width="200" }
 
-    ### [Quotation 159](quotations/quotation159.md)
+    ### [Quotation 159](quotation159)
     
     **Read time:** 5 min
     
     EXCERPT Not Found
-
 - ![Quotation 160](../assets/images/quotations/quotation160.jpg){ width="200" }
 
-    ### [Quotation 160](quotations/quotation160.md)
+    ### [Quotation 160](quotation160)
     
     **Read time:** 5 min
     
@@ -1612,15 +1532,14 @@ Join me on this journey of intellectual liberation, where the power of thought b
 
 - ![Quotation 161](../assets/images/quotations/quotation161.jpg){ width="200" }
 
-    ### [Quotation 161](quotations/quotation161.md)
+    ### [Quotation 161](quotation161)
     
     **Read time:** 5 min
     
     EXCERPT Not Found
-
 - ![Quotation 162](../assets/images/quotations/quotation162.jpg){ width="200" }
 
-    ### [Quotation 162](quotations/quotation162.md)
+    ### [Quotation 162](quotation162)
     
     **Read time:** 5 min
     
@@ -1632,15 +1551,14 @@ Join me on this journey of intellectual liberation, where the power of thought b
 
 - ![Quotation 163](../assets/images/quotations/quotation163.jpg){ width="200" }
 
-    ### [Quotation 163](quotations/quotation163.md)
+    ### [Quotation 163](quotation163)
     
     **Read time:** 5 min
     
     EXCERPT Not Found
-
 - ![Quotation 164](../assets/images/quotations/quotation164.jpg){ width="200" }
 
-    ### [Quotation 164](quotations/quotation164.md)
+    ### [Quotation 164](quotation164)
     
     **Read time:** 5 min
     
@@ -1652,15 +1570,14 @@ Join me on this journey of intellectual liberation, where the power of thought b
 
 - ![Quotation 165](../assets/images/quotations/quotation165.jpg){ width="200" }
 
-    ### [Quotation 165](quotations/quotation165.md)
+    ### [Quotation 165](quotation165)
     
     **Read time:** 5 min
     
     EXCERPT Not Found
-
 - ![Quotation 166](../assets/images/quotations/quotation166.jpg){ width="200" }
 
-    ### [Quotation 166](quotations/quotation166.md)
+    ### [Quotation 166](quotation166)
     
     **Read time:** 5 min
     
@@ -1672,15 +1589,14 @@ Join me on this journey of intellectual liberation, where the power of thought b
 
 - ![Quotation 167](../assets/images/quotations/quotation167.jpg){ width="200" }
 
-    ### [Quotation 167](quotations/quotation167.md)
+    ### [Quotation 167](quotation167)
     
     **Read time:** 5 min
     
     EXCERPT Not Found
-
 - ![Quotation 168](../assets/images/quotations/quotation168.jpg){ width="200" }
 
-    ### [Quotation 168](quotations/quotation168.md)
+    ### [Quotation 168](quotation168)
     
     **Read time:** 5 min
     
@@ -1692,15 +1608,14 @@ Join me on this journey of intellectual liberation, where the power of thought b
 
 - ![Quotation 169](../assets/images/quotations/quotation169.jpg){ width="200" }
 
-    ### [Quotation 169](quotations/quotation169.md)
+    ### [Quotation 169](quotation169)
     
     **Read time:** 5 min
     
     EXCERPT Not Found
-
 - ![Quotation 170](../assets/images/quotations/quotation170.jpg){ width="200" }
 
-    ### [Quotation 170](quotations/quotation170.md)
+    ### [Quotation 170](quotation170)
     
     **Read time:** 5 min
     
@@ -1712,15 +1627,14 @@ Join me on this journey of intellectual liberation, where the power of thought b
 
 - ![Quotation 171](../assets/images/quotations/quotation171.jpg){ width="200" }
 
-    ### [Quotation 171](quotations/quotation171.md)
+    ### [Quotation 171](quotation171)
     
     **Read time:** 5 min
     
     EXCERPT Not Found
-
 - ![Quotation 172](../assets/images/quotations/quotation172.jpg){ width="200" }
 
-    ### [Quotation 172](quotations/quotation172.md)
+    ### [Quotation 172](quotation172)
     
     **Read time:** 5 min
     
@@ -1732,15 +1646,14 @@ Join me on this journey of intellectual liberation, where the power of thought b
 
 - ![Quotation 173](../assets/images/quotations/quotation173.jpg){ width="200" }
 
-    ### [Quotation 173](quotations/quotation173.md)
+    ### [Quotation 173](quotation173)
     
     **Read time:** 5 min
     
     EXCERPT Not Found
-
 - ![Quotation 174](../assets/images/quotations/quotation174.jpg){ width="200" }
 
-    ### [Quotation 174](quotations/quotation174.md)
+    ### [Quotation 174](quotation174)
     
     **Read time:** 5 min
     
@@ -1752,15 +1665,14 @@ Join me on this journey of intellectual liberation, where the power of thought b
 
 - ![Quotation 175](../assets/images/quotations/quotation175.jpg){ width="200" }
 
-    ### [Quotation 175](quotations/quotation175.md)
+    ### [Quotation 175](quotation175)
     
     **Read time:** 5 min
     
     EXCERPT Not Found
-
 - ![Quotation 176](../assets/images/quotations/quotation176.jpg){ width="200" }
 
-    ### [Quotation 176](quotations/quotation176.md)
+    ### [Quotation 176](quotation176)
     
     **Read time:** 5 min
     
@@ -1772,15 +1684,14 @@ Join me on this journey of intellectual liberation, where the power of thought b
 
 - ![Quotation 177](../assets/images/quotations/quotation177.jpg){ width="200" }
 
-    ### [Quotation 177](quotations/quotation177.md)
+    ### [Quotation 177](quotation177)
     
     **Read time:** 5 min
     
     EXCERPT Not Found
-
 - ![Quotation 178](../assets/images/quotations/quotation178.jpg){ width="200" }
 
-    ### [Quotation 178](quotations/quotation178.md)
+    ### [Quotation 178](quotation178)
     
     **Read time:** 5 min
     
@@ -1792,15 +1703,14 @@ Join me on this journey of intellectual liberation, where the power of thought b
 
 - ![Quotation 179](../assets/images/quotations/quotation179.jpg){ width="200" }
 
-    ### [Quotation 179](quotations/quotation179.md)
+    ### [Quotation 179](quotation179)
     
     **Read time:** 5 min
     
     EXCERPT Not Found
-
 - ![Quotation 180](../assets/images/quotations/quotation180.jpg){ width="200" }
 
-    ### [Quotation 180](quotations/quotation180.md)
+    ### [Quotation 180](quotation180)
     
     **Read time:** 5 min
     
@@ -1812,15 +1722,14 @@ Join me on this journey of intellectual liberation, where the power of thought b
 
 - ![Quotation 181](../assets/images/quotations/quotation181.jpg){ width="200" }
 
-    ### [Quotation 181](quotations/quotation181.md)
+    ### [Quotation 181](quotation181)
     
     **Read time:** 5 min
     
     EXCERPT Not Found
-
 - ![Quotation 182](../assets/images/quotations/quotation182.jpg){ width="200" }
 
-    ### [Quotation 182](quotations/quotation182.md)
+    ### [Quotation 182](quotation182)
     
     **Read time:** 5 min
     
@@ -1832,15 +1741,14 @@ Join me on this journey of intellectual liberation, where the power of thought b
 
 - ![Quotation 183](../assets/images/quotations/quotation183.jpg){ width="200" }
 
-    ### [Quotation 183](quotations/quotation183.md)
+    ### [Quotation 183](quotation183)
     
     **Read time:** 5 min
     
     EXCERPT Not Found
-
 - ![Quotation 184](../assets/images/quotations/quotation184.jpg){ width="200" }
 
-    ### [Quotation 184](quotations/quotation184.md)
+    ### [Quotation 184](quotation184)
     
     **Read time:** 5 min
     
@@ -1852,15 +1760,14 @@ Join me on this journey of intellectual liberation, where the power of thought b
 
 - ![Quotation 185](../assets/images/quotations/quotation185.jpg){ width="200" }
 
-    ### [Quotation 185](quotations/quotation185.md)
+    ### [Quotation 185](quotation185)
     
     **Read time:** 5 min
     
     EXCERPT Not Found
-
 - ![Quotation 186](../assets/images/quotations/quotation186.jpg){ width="200" }
 
-    ### [Quotation 186](quotations/quotation186.md)
+    ### [Quotation 186](quotation186)
     
     **Read time:** 5 min
     
@@ -1872,15 +1779,14 @@ Join me on this journey of intellectual liberation, where the power of thought b
 
 - ![Quotation 187](../assets/images/quotations/quotation187.jpg){ width="200" }
 
-    ### [Quotation 187](quotations/quotation187.md)
+    ### [Quotation 187](quotation187)
     
     **Read time:** 5 min
     
     EXCERPT Not Found
-
 - ![Quotation 188](../assets/images/quotations/quotation188.jpg){ width="200" }
 
-    ### [Quotation 188](quotations/quotation188.md)
+    ### [Quotation 188](quotation188)
     
     **Read time:** 5 min
     
@@ -1892,15 +1798,14 @@ Join me on this journey of intellectual liberation, where the power of thought b
 
 - ![Quotation 189](../assets/images/quotations/quotation189.jpg){ width="200" }
 
-    ### [Quotation 189](quotations/quotation189.md)
+    ### [Quotation 189](quotation189)
     
     **Read time:** 5 min
     
     EXCERPT Not Found
-
 - ![Quotation 190](../assets/images/quotations/quotation190.jpg){ width="200" }
 
-    ### [Quotation 190](quotations/quotation190.md)
+    ### [Quotation 190](quotation190)
     
     **Read time:** 5 min
     
@@ -1912,15 +1817,14 @@ Join me on this journey of intellectual liberation, where the power of thought b
 
 - ![Quotation 191](../assets/images/quotations/quotation191.jpg){ width="200" }
 
-    ### [Quotation 191](quotations/quotation191.md)
+    ### [Quotation 191](quotation191)
     
     **Read time:** 5 min
     
     EXCERPT Not Found
-
 - ![Quotation 192](../assets/images/quotations/quotation192.jpg){ width="200" }
 
-    ### [Quotation 192](quotations/quotation192.md)
+    ### [Quotation 192](quotation192)
     
     **Read time:** 5 min
     
@@ -1932,15 +1836,14 @@ Join me on this journey of intellectual liberation, where the power of thought b
 
 - ![Quotation 193](../assets/images/quotations/quotation193.jpg){ width="200" }
 
-    ### [Quotation 193](quotations/quotation193.md)
+    ### [Quotation 193](quotation193)
     
     **Read time:** 5 min
     
     EXCERPT Not Found
-
 - ![Quotation 194](../assets/images/quotations/quotation194.jpg){ width="200" }
 
-    ### [Quotation 194](quotations/quotation194.md)
+    ### [Quotation 194](quotation194)
     
     **Read time:** 5 min
     
@@ -1952,15 +1855,14 @@ Join me on this journey of intellectual liberation, where the power of thought b
 
 - ![Quotation 195](../assets/images/quotations/quotation195.jpg){ width="200" }
 
-    ### [Quotation 195](quotations/quotation195.md)
+    ### [Quotation 195](quotation195)
     
     **Read time:** 5 min
     
     EXCERPT Not Found
-
 - ![Quotation 196](../assets/images/quotations/quotation196.jpg){ width="200" }
 
-    ### [Quotation 196](quotations/quotation196.md)
+    ### [Quotation 196](quotation196)
     
     **Read time:** 5 min
     
@@ -1972,15 +1874,14 @@ Join me on this journey of intellectual liberation, where the power of thought b
 
 - ![Quotation 197](../assets/images/quotations/quotation197.jpg){ width="200" }
 
-    ### [Quotation 197](quotations/quotation197.md)
+    ### [Quotation 197](quotation197)
     
     **Read time:** 5 min
     
     EXCERPT Not Found
-
 - ![Quotation 198](../assets/images/quotations/quotation198.jpg){ width="200" }
 
-    ### [Quotation 198](quotations/quotation198.md)
+    ### [Quotation 198](quotation198)
     
     **Read time:** 5 min
     
@@ -1992,15 +1893,14 @@ Join me on this journey of intellectual liberation, where the power of thought b
 
 - ![Quotation 199](../assets/images/quotations/quotation199.jpg){ width="200" }
 
-    ### [Quotation 199](quotations/quotation199.md)
+    ### [Quotation 199](quotation199)
     
     **Read time:** 5 min
     
     EXCERPT Not Found
-
 - ![Quotation 200](../assets/images/quotations/quotation200.jpg){ width="200" }
 
-    ### [Quotation 200](quotations/quotation200.md)
+    ### [Quotation 200](quotation200)
     
     **Read time:** 5 min
     
@@ -2012,15 +1912,14 @@ Join me on this journey of intellectual liberation, where the power of thought b
 
 - ![Quotation 201](../assets/images/quotations/quotation201.jpg){ width="200" }
 
-    ### [Quotation 201](quotations/quotation201.md)
+    ### [Quotation 201](quotation201)
     
     **Read time:** 5 min
     
     EXCERPT Not Found
-
 - ![Quotation 202](../assets/images/quotations/quotation202.jpg){ width="200" }
 
-    ### [Quotation 202](quotations/quotation202.md)
+    ### [Quotation 202](quotation202)
     
     **Read time:** 5 min
     
@@ -2032,15 +1931,14 @@ Join me on this journey of intellectual liberation, where the power of thought b
 
 - ![Quotation 203](../assets/images/quotations/quotation203.jpg){ width="200" }
 
-    ### [Quotation 203](quotations/quotation203.md)
+    ### [Quotation 203](quotation203)
     
     **Read time:** 5 min
     
     EXCERPT Not Found
-
 - ![Quotation 204](../assets/images/quotations/quotation204.jpg){ width="200" }
 
-    ### [Quotation 204](quotations/quotation204.md)
+    ### [Quotation 204](quotation204)
     
     **Read time:** 5 min
     
@@ -2052,15 +1950,14 @@ Join me on this journey of intellectual liberation, where the power of thought b
 
 - ![Quotation 205](../assets/images/quotations/quotation205.jpg){ width="200" }
 
-    ### [Quotation 205](quotations/quotation205.md)
+    ### [Quotation 205](quotation205)
     
     **Read time:** 5 min
     
     EXCERPT Not Found
-
 - ![Quotation 206](../assets/images/quotations/quotation206.jpg){ width="200" }
 
-    ### [Quotation 206](quotations/quotation206.md)
+    ### [Quotation 206](quotation206)
     
     **Read time:** 5 min
     
@@ -2072,15 +1969,14 @@ Join me on this journey of intellectual liberation, where the power of thought b
 
 - ![Quotation 207](../assets/images/quotations/quotation207.jpg){ width="200" }
 
-    ### [Quotation 207](quotations/quotation207.md)
+    ### [Quotation 207](quotation207)
     
     **Read time:** 5 min
     
     EXCERPT Not Found
-
 - ![Quotation 208](../assets/images/quotations/quotation208.jpg){ width="200" }
 
-    ### [Quotation 208](quotations/quotation208.md)
+    ### [Quotation 208](quotation208)
     
     **Read time:** 5 min
     
@@ -2092,15 +1988,14 @@ Join me on this journey of intellectual liberation, where the power of thought b
 
 - ![Quotation 209](../assets/images/quotations/quotation209.jpg){ width="200" }
 
-    ### [Quotation 209](quotations/quotation209.md)
+    ### [Quotation 209](quotation209)
     
     **Read time:** 5 min
     
     EXCERPT Not Found
-
 - ![Quotation 210](../assets/images/quotations/quotation210.jpg){ width="200" }
 
-    ### [Quotation 210](quotations/quotation210.md)
+    ### [Quotation 210](quotation210)
     
     **Read time:** 5 min
     
@@ -2112,15 +2007,14 @@ Join me on this journey of intellectual liberation, where the power of thought b
 
 - ![Quotation 211](../assets/images/quotations/quotation211.jpg){ width="200" }
 
-    ### [Quotation 211](quotations/quotation211.md)
+    ### [Quotation 211](quotation211)
     
     **Read time:** 5 min
     
     EXCERPT Not Found
-
 - ![Quotation 212](../assets/images/quotations/quotation212.jpg){ width="200" }
 
-    ### [Quotation 212](quotations/quotation212.md)
+    ### [Quotation 212](quotation212)
     
     **Read time:** 5 min
     
@@ -2132,15 +2026,14 @@ Join me on this journey of intellectual liberation, where the power of thought b
 
 - ![Quotation 213](../assets/images/quotations/quotation213.jpg){ width="200" }
 
-    ### [Quotation 213](quotations/quotation213.md)
+    ### [Quotation 213](quotation213)
     
     **Read time:** 5 min
     
     EXCERPT Not Found
-
 - ![Quotation 214](../assets/images/quotations/quotation214.jpg){ width="200" }
 
-    ### [Quotation 214](quotations/quotation214.md)
+    ### [Quotation 214](quotation214)
     
     **Read time:** 5 min
     
@@ -2152,15 +2045,14 @@ Join me on this journey of intellectual liberation, where the power of thought b
 
 - ![Quotation 215](../assets/images/quotations/quotation215.jpg){ width="200" }
 
-    ### [Quotation 215](quotations/quotation215.md)
+    ### [Quotation 215](quotation215)
     
     **Read time:** 5 min
     
     EXCERPT Not Found
-
 - ![Quotation 216](../assets/images/quotations/quotation216.jpg){ width="200" }
 
-    ### [Quotation 216](quotations/quotation216.md)
+    ### [Quotation 216](quotation216)
     
     **Read time:** 5 min
     
@@ -2172,15 +2064,14 @@ Join me on this journey of intellectual liberation, where the power of thought b
 
 - ![Quotation 217](../assets/images/quotations/quotation217.jpg){ width="200" }
 
-    ### [Quotation 217](quotations/quotation217.md)
+    ### [Quotation 217](quotation217)
     
     **Read time:** 5 min
     
     EXCERPT Not Found
-
 - ![Quotation 218](../assets/images/quotations/quotation218.jpg){ width="200" }
 
-    ### [Quotation 218](quotations/quotation218.md)
+    ### [Quotation 218](quotation218)
     
     **Read time:** 5 min
     
@@ -2192,15 +2083,14 @@ Join me on this journey of intellectual liberation, where the power of thought b
 
 - ![Quotation 219](../assets/images/quotations/quotation219.jpg){ width="200" }
 
-    ### [Quotation 219](quotations/quotation219.md)
+    ### [Quotation 219](quotation219)
     
     **Read time:** 5 min
     
     EXCERPT Not Found
-
 - ![Quotation 220](../assets/images/quotations/quotation220.jpg){ width="200" }
 
-    ### [Quotation 220](quotations/quotation220.md)
+    ### [Quotation 220](quotation220)
     
     **Read time:** 5 min
     
@@ -2212,15 +2102,14 @@ Join me on this journey of intellectual liberation, where the power of thought b
 
 - ![Quotation 221](../assets/images/quotations/quotation221.jpg){ width="200" }
 
-    ### [Quotation 221](quotations/quotation221.md)
+    ### [Quotation 221](quotation221)
     
     **Read time:** 5 min
     
     EXCERPT Not Found
-
 - ![Quotation 222](../assets/images/quotations/quotation222.jpg){ width="200" }
 
-    ### [Quotation 222](quotations/quotation222.md)
+    ### [Quotation 222](quotation222)
     
     **Read time:** 5 min
     
@@ -2232,15 +2121,14 @@ Join me on this journey of intellectual liberation, where the power of thought b
 
 - ![Quotation 223](../assets/images/quotations/quotation223.jpg){ width="200" }
 
-    ### [Quotation 223](quotations/quotation223.md)
+    ### [Quotation 223](quotation223)
     
     **Read time:** 5 min
     
     EXCERPT Not Found
-
 - ![Quotation 224](../assets/images/quotations/quotation224.jpg){ width="200" }
 
-    ### [Quotation 224](quotations/quotation224.md)
+    ### [Quotation 224](quotation224)
     
     **Read time:** 5 min
     
@@ -2252,15 +2140,14 @@ Join me on this journey of intellectual liberation, where the power of thought b
 
 - ![Quotation 225](../assets/images/quotations/quotation225.jpg){ width="200" }
 
-    ### [Quotation 225](quotations/quotation225.md)
+    ### [Quotation 225](quotation225)
     
     **Read time:** 5 min
     
     EXCERPT Not Found
-
 - ![Quotation 226](../assets/images/quotations/quotation226.jpg){ width="200" }
 
-    ### [Quotation 226](quotations/quotation226.md)
+    ### [Quotation 226](quotation226)
     
     **Read time:** 5 min
     
@@ -2272,15 +2159,14 @@ Join me on this journey of intellectual liberation, where the power of thought b
 
 - ![Quotation 227](../assets/images/quotations/quotation227.jpg){ width="200" }
 
-    ### [Quotation 227](quotations/quotation227.md)
+    ### [Quotation 227](quotation227)
     
     **Read time:** 5 min
     
     EXCERPT Not Found
-
 - ![Quotation 228](../assets/images/quotations/quotation228.jpg){ width="200" }
 
-    ### [Quotation 228](quotations/quotation228.md)
+    ### [Quotation 228](quotation228)
     
     **Read time:** 5 min
     
@@ -2292,15 +2178,14 @@ Join me on this journey of intellectual liberation, where the power of thought b
 
 - ![Quotation 229](../assets/images/quotations/quotation229.jpg){ width="200" }
 
-    ### [Quotation 229](quotations/quotation229.md)
+    ### [Quotation 229](quotation229)
     
     **Read time:** 5 min
     
     EXCERPT Not Found
-
 - ![Quotation 230](../assets/images/quotations/quotation230.jpg){ width="200" }
 
-    ### [Quotation 230](quotations/quotation230.md)
+    ### [Quotation 230](quotation230)
     
     **Read time:** 5 min
     
@@ -2312,15 +2197,14 @@ Join me on this journey of intellectual liberation, where the power of thought b
 
 - ![Quotation 231](../assets/images/quotations/quotation231.jpg){ width="200" }
 
-    ### [Quotation 231](quotations/quotation231.md)
+    ### [Quotation 231](quotation231)
     
     **Read time:** 5 min
     
     EXCERPT Not Found
-
 - ![Quotation 232](../assets/images/quotations/quotation232.jpg){ width="200" }
 
-    ### [Quotation 232](quotations/quotation232.md)
+    ### [Quotation 232](quotation232)
     
     **Read time:** 5 min
     
@@ -2332,15 +2216,14 @@ Join me on this journey of intellectual liberation, where the power of thought b
 
 - ![Quotation 233](../assets/images/quotations/quotation233.jpg){ width="200" }
 
-    ### [Quotation 233](quotations/quotation233.md)
+    ### [Quotation 233](quotation233)
     
     **Read time:** 5 min
     
     EXCERPT Not Found
-
 - ![Quotation 234](../assets/images/quotations/quotation234.jpg){ width="200" }
 
-    ### [Quotation 234](quotations/quotation234.md)
+    ### [Quotation 234](quotation234)
     
     **Read time:** 5 min
     
@@ -2352,15 +2235,14 @@ Join me on this journey of intellectual liberation, where the power of thought b
 
 - ![Quotation 235](../assets/images/quotations/quotation235.jpg){ width="200" }
 
-    ### [Quotation 235](quotations/quotation235.md)
+    ### [Quotation 235](quotation235)
     
     **Read time:** 5 min
     
     EXCERPT Not Found
-
 - ![Quotation 236](../assets/images/quotations/quotation236.jpg){ width="200" }
 
-    ### [Quotation 236](quotations/quotation236.md)
+    ### [Quotation 236](quotation236)
     
     **Read time:** 5 min
     
@@ -2372,15 +2254,14 @@ Join me on this journey of intellectual liberation, where the power of thought b
 
 - ![Quotation 237](../assets/images/quotations/quotation237.jpg){ width="200" }
 
-    ### [Quotation 237](quotations/quotation237.md)
+    ### [Quotation 237](quotation237)
     
     **Read time:** 5 min
     
     EXCERPT Not Found
-
 - ![Quotation 238](../assets/images/quotations/quotation238.jpg){ width="200" }
 
-    ### [Quotation 238](quotations/quotation238.md)
+    ### [Quotation 238](quotation238)
     
     **Read time:** 5 min
     
@@ -2392,15 +2273,14 @@ Join me on this journey of intellectual liberation, where the power of thought b
 
 - ![Quotation 239](../assets/images/quotations/quotation239.jpg){ width="200" }
 
-    ### [Quotation 239](quotations/quotation239.md)
+    ### [Quotation 239](quotation239)
     
     **Read time:** 5 min
     
     EXCERPT Not Found
-
 - ![Quotation 240](../assets/images/quotations/quotation240.jpg){ width="200" }
 
-    ### [Quotation 240](quotations/quotation240.md)
+    ### [Quotation 240](quotation240)
     
     **Read time:** 5 min
     
@@ -2412,15 +2292,14 @@ Join me on this journey of intellectual liberation, where the power of thought b
 
 - ![Quotation 241](../assets/images/quotations/quotation241.jpg){ width="200" }
 
-    ### [Quotation 241](quotations/quotation241.md)
+    ### [Quotation 241](quotation241)
     
     **Read time:** 5 min
     
     EXCERPT Not Found
-
 - ![Quotation 242](../assets/images/quotations/quotation242.jpg){ width="200" }
 
-    ### [Quotation 242](quotations/quotation242.md)
+    ### [Quotation 242](quotation242)
     
     **Read time:** 5 min
     
@@ -2432,15 +2311,14 @@ Join me on this journey of intellectual liberation, where the power of thought b
 
 - ![Quotation 243](../assets/images/quotations/quotation243.jpg){ width="200" }
 
-    ### [Quotation 243](quotations/quotation243.md)
+    ### [Quotation 243](quotation243)
     
     **Read time:** 5 min
     
     EXCERPT Not Found
-
 - ![Quotation 244](../assets/images/quotations/quotation244.jpg){ width="200" }
 
-    ### [Quotation 244](quotations/quotation244.md)
+    ### [Quotation 244](quotation244)
     
     **Read time:** 5 min
     
@@ -2452,15 +2330,14 @@ Join me on this journey of intellectual liberation, where the power of thought b
 
 - ![Quotation 245](../assets/images/quotations/quotation245.jpg){ width="200" }
 
-    ### [Quotation 245](quotations/quotation245.md)
+    ### [Quotation 245](quotation245)
     
     **Read time:** 5 min
     
     EXCERPT Not Found
-
 - ![Quotation 246](../assets/images/quotations/quotation246.jpg){ width="200" }
 
-    ### [Quotation 246](quotations/quotation246.md)
+    ### [Quotation 246](quotation246)
     
     **Read time:** 5 min
     
@@ -2472,15 +2349,14 @@ Join me on this journey of intellectual liberation, where the power of thought b
 
 - ![Quotation 247](../assets/images/quotations/quotation247.jpg){ width="200" }
 
-    ### [Quotation 247](quotations/quotation247.md)
+    ### [Quotation 247](quotation247)
     
     **Read time:** 5 min
     
     EXCERPT Not Found
-
 - ![Quotation 248](../assets/images/quotations/quotation248.jpg){ width="200" }
 
-    ### [Quotation 248](quotations/quotation248.md)
+    ### [Quotation 248](quotation248)
     
     **Read time:** 5 min
     
@@ -2492,15 +2368,14 @@ Join me on this journey of intellectual liberation, where the power of thought b
 
 - ![Quotation 249](../assets/images/quotations/quotation249.jpg){ width="200" }
 
-    ### [Quotation 249](quotations/quotation249.md)
+    ### [Quotation 249](quotation249)
     
     **Read time:** 5 min
     
     EXCERPT Not Found
-
 - ![Quotation 250](../assets/images/quotations/quotation250.jpg){ width="200" }
 
-    ### [Quotation 250](quotations/quotation250.md)
+    ### [Quotation 250](quotation250)
     
     **Read time:** 5 min
     
@@ -2512,15 +2387,14 @@ Join me on this journey of intellectual liberation, where the power of thought b
 
 - ![Quotation 251](../assets/images/quotations/quotation251.jpg){ width="200" }
 
-    ### [Quotation 251](quotations/quotation251.md)
+    ### [Quotation 251](quotation251)
     
     **Read time:** 5 min
     
     EXCERPT Not Found
-
 - ![Quotation 252](../assets/images/quotations/quotation252.jpg){ width="200" }
 
-    ### [Quotation 252](quotations/quotation252.md)
+    ### [Quotation 252](quotation252)
     
     **Read time:** 5 min
     
@@ -2532,15 +2406,14 @@ Join me on this journey of intellectual liberation, where the power of thought b
 
 - ![Quotation 253](../assets/images/quotations/quotation253.jpg){ width="200" }
 
-    ### [Quotation 253](quotations/quotation253.md)
+    ### [Quotation 253](quotation253)
     
     **Read time:** 5 min
     
     EXCERPT Not Found
-
 - ![Quotation 254](../assets/images/quotations/quotation254.jpg){ width="200" }
 
-    ### [Quotation 254](quotations/quotation254.md)
+    ### [Quotation 254](quotation254)
     
     **Read time:** 5 min
     
@@ -2552,15 +2425,14 @@ Join me on this journey of intellectual liberation, where the power of thought b
 
 - ![Quotation 255](../assets/images/quotations/quotation255.jpg){ width="200" }
 
-    ### [Quotation 255](quotations/quotation255.md)
+    ### [Quotation 255](quotation255)
     
     **Read time:** 5 min
     
     EXCERPT Not Found
-
 - ![Quotation 256](../assets/images/quotations/quotation256.jpg){ width="200" }
 
-    ### [Quotation 256](quotations/quotation256.md)
+    ### [Quotation 256](quotation256)
     
     **Read time:** 5 min
     
@@ -2572,15 +2444,14 @@ Join me on this journey of intellectual liberation, where the power of thought b
 
 - ![Quotation 257](../assets/images/quotations/quotation257.jpg){ width="200" }
 
-    ### [Quotation 257](quotations/quotation257.md)
+    ### [Quotation 257](quotation257)
     
     **Read time:** 5 min
     
     EXCERPT Not Found
-
 - ![Quotation 258](../assets/images/quotations/quotation258.jpg){ width="200" }
 
-    ### [Quotation 258](quotations/quotation258.md)
+    ### [Quotation 258](quotation258)
     
     **Read time:** 5 min
     
@@ -2592,15 +2463,14 @@ Join me on this journey of intellectual liberation, where the power of thought b
 
 - ![Quotation 259](../assets/images/quotations/quotation259.jpg){ width="200" }
 
-    ### [Quotation 259](quotations/quotation259.md)
+    ### [Quotation 259](quotation259)
     
     **Read time:** 5 min
     
     EXCERPT Not Found
-
 - ![Quotation 260](../assets/images/quotations/quotation260.jpg){ width="200" }
 
-    ### [Quotation 260](quotations/quotation260.md)
+    ### [Quotation 260](quotation260)
     
     **Read time:** 5 min
     
@@ -2612,15 +2482,14 @@ Join me on this journey of intellectual liberation, where the power of thought b
 
 - ![Quotation 261](../assets/images/quotations/quotation261.jpg){ width="200" }
 
-    ### [Quotation 261](quotations/quotation261.md)
+    ### [Quotation 261](quotation261)
     
     **Read time:** 5 min
     
     EXCERPT Not Found
-
 - ![Quotation 262](../assets/images/quotations/quotation262.jpg){ width="200" }
 
-    ### [Quotation 262](quotations/quotation262.md)
+    ### [Quotation 262](quotation262)
     
     **Read time:** 5 min
     
@@ -2632,15 +2501,14 @@ Join me on this journey of intellectual liberation, where the power of thought b
 
 - ![Quotation 263](../assets/images/quotations/quotation263.jpg){ width="200" }
 
-    ### [Quotation 263](quotations/quotation263.md)
+    ### [Quotation 263](quotation263)
     
     **Read time:** 5 min
     
     EXCERPT Not Found
-
 - ![Quotation 264](../assets/images/quotations/quotation264.jpg){ width="200" }
 
-    ### [Quotation 264](quotations/quotation264.md)
+    ### [Quotation 264](quotation264)
     
     **Read time:** 5 min
     
@@ -2652,15 +2520,14 @@ Join me on this journey of intellectual liberation, where the power of thought b
 
 - ![Quotation 265](../assets/images/quotations/quotation265.jpg){ width="200" }
 
-    ### [Quotation 265](quotations/quotation265.md)
+    ### [Quotation 265](quotation265)
     
     **Read time:** 5 min
     
     EXCERPT Not Found
-
 - ![Quotation 266](../assets/images/quotations/quotation266.jpg){ width="200" }
 
-    ### [Quotation 266](quotations/quotation266.md)
+    ### [Quotation 266](quotation266)
     
     **Read time:** 5 min
     
@@ -2672,15 +2539,14 @@ Join me on this journey of intellectual liberation, where the power of thought b
 
 - ![Quotation 267](../assets/images/quotations/quotation267.jpg){ width="200" }
 
-    ### [Quotation 267](quotations/quotation267.md)
+    ### [Quotation 267](quotation267)
     
     **Read time:** 5 min
     
     EXCERPT Not Found
-
 - ![Quotation 268](../assets/images/quotations/quotation268.jpg){ width="200" }
 
-    ### [Quotation 268](quotations/quotation268.md)
+    ### [Quotation 268](quotation268)
     
     **Read time:** 5 min
     
@@ -2692,15 +2558,14 @@ Join me on this journey of intellectual liberation, where the power of thought b
 
 - ![Quotation 269](../assets/images/quotations/quotation269.jpg){ width="200" }
 
-    ### [Quotation 269](quotations/quotation269.md)
+    ### [Quotation 269](quotation269)
     
     **Read time:** 5 min
     
     EXCERPT Not Found
-
 - ![Quotation 270](../assets/images/quotations/quotation270.jpg){ width="200" }
 
-    ### [Quotation 270](quotations/quotation270.md)
+    ### [Quotation 270](quotation270)
     
     **Read time:** 5 min
     
@@ -2712,15 +2577,14 @@ Join me on this journey of intellectual liberation, where the power of thought b
 
 - ![Quotation 271](../assets/images/quotations/quotation271.jpg){ width="200" }
 
-    ### [Quotation 271](quotations/quotation271.md)
+    ### [Quotation 271](quotation271)
     
     **Read time:** 5 min
     
     EXCERPT Not Found
-
 - ![Quotation 272](../assets/images/quotations/quotation272.jpg){ width="200" }
 
-    ### [Quotation 272](quotations/quotation272.md)
+    ### [Quotation 272](quotation272)
     
     **Read time:** 5 min
     
@@ -2732,15 +2596,14 @@ Join me on this journey of intellectual liberation, where the power of thought b
 
 - ![Quotation 273](../assets/images/quotations/quotation273.jpg){ width="200" }
 
-    ### [Quotation 273](quotations/quotation273.md)
+    ### [Quotation 273](quotation273)
     
     **Read time:** 5 min
     
     EXCERPT Not Found
-
 - ![Quotation 274](../assets/images/quotations/quotation274.jpg){ width="200" }
 
-    ### [Quotation 274](quotations/quotation274.md)
+    ### [Quotation 274](quotation274)
     
     **Read time:** 5 min
     
@@ -2752,10 +2615,9 @@ Join me on this journey of intellectual liberation, where the power of thought b
 
 - ![Quotation 275](../assets/images/quotations/quotation275.jpg){ width="200" }
 
-    ### [Quotation 275](quotations/quotation275.md)
+    ### [Quotation 275](quotation275)
     
     **Read time:** 5 min
     
     EXCERPT Not Found
-
 </div>

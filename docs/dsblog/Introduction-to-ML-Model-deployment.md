@@ -9,7 +9,7 @@ categories:
   - dsblog
 keywords: [Machine Learning Deployment, MLOps, Model Serving, Production AI, ML Infrastructure, Model Optimization, Deployment Frameworks, Cloud Deployment]
 header:
-    teaser: /assets/images/dspost/dsp6077-Introduction-to-ML-Model-deployment.jpg
+    teaser: ../assets/images/dspost/dsp6077-Introduction-to-ML-Model-deployment.jpg
 excerpt_separator: "<!--more-->"   
 author: Hari Thapliyaal   
 layout: dspost-layout   

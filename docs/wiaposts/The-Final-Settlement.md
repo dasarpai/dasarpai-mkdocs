@@ -8,7 +8,7 @@ tags: ['Philosophy', 'Vedanta']
 
 categories: [wiaposts] 
 header:
-     teaser: /assets/images/wiapost/5027-The-Final-Settlement.jpg
+     teaser: ../assets/images/wiapost/5027-The-Final-Settlement.jpg
 author: Hari Thapliyaal 
 layout:   wiaposts-layout
 excerpt: 'A philosophical reflection on life’s ultimate questions and the idea of finality.' 

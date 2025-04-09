@@ -13,7 +13,7 @@ tags:
 categories:
   - dsblog
 header:
-  teaser: /assets/images/dspost/dsp6182-Introduction-NVIDIA-Products.jpg
+  teaser: ../assets/images/dspost/dsp6182-Introduction-NVIDIA-Products.jpg
 excerpt_separator: "<!--more-->"
 author: Hari Thapliyaal
 layout: dspost-layout

@@ -7,7 +7,7 @@ tags: [ Mind, Education]
 
 categories: [wiaposts] 
 header:
-     teaser: /assets/images/wiapost/5161-Training-Of-The-Mind.jpg
+     teaser: ../assets/images/wiapost/5161-Training-Of-The-Mind.jpg
 author: Hari Thapliyaal 
 layout:   wiaposts-layout
 excerpt:  

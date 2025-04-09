@@ -7,7 +7,7 @@ tags: [ Philosophy]
 keywords: ["philosophical exploration of relationships", "understanding connections without relations", "poetic insights on human bonds", "philosophy of non-relational connections", "exploring human connections in philosophy"]  
 categories: [wiaposts] 
 header:
-     teaser: /assets/images/wiapost/5105-Relationship-Of-No-Relations.jpg
+     teaser: ../assets/images/wiapost/5105-Relationship-Of-No-Relations.jpg
 author: Hari Thapliyaal 
 layout:   wiaposts-layout
 excerpt: A philosophical exploration of relationships and human connections, delving into the concept of connections without traditional relations.

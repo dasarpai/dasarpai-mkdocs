@@ -8,7 +8,7 @@ tags: ['Mindfulness', 'Philosophy']
 
 categories: [wiaposts] 
 header:
-     teaser: /assets/images/wiapost/5047-Life-In-Awareness.jpg
+     teaser: ../assets/images/wiapost/5047-Life-In-Awareness.jpg
 author: Hari Thapliyaal 
 layout:   wiaposts-layout
 excerpt: 'Insights into living a life of awareness and mindfulness.' 

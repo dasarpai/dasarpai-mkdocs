@@ -19,7 +19,7 @@ categories:
   - dsblog
 
 header:
-    teaser: /assets/images/dspost/dsp6056-Types-of-Machine-Learning.jpg
+    teaser: ../assets/images/dspost/dsp6056-Types-of-Machine-Learning.jpg
 excerpt_separator: "<!--more-->"   
 author: Hari Thapliyaal   
 layout: dspost-layout   

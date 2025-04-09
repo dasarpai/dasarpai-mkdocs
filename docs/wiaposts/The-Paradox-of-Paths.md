@@ -5,7 +5,7 @@ title:  "The Paradox of Paths - A Hindu Perspective"
 date: "2025-03-14"        
 permalink: /wiaposts/the-paradox-of-paths
 header:        
-    teaser: /assets/images/wiapost/5288-the-paradox-of-paths.jpg               
+    teaser: ../assets/images/wiapost/5288-the-paradox-of-paths.jpg               
 author: Hari Thapliyaal        
 layout:   wiaposts-layout        
 author_profile: true        

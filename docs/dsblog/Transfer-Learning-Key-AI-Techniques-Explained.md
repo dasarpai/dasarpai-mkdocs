@@ -8,7 +8,7 @@ tags: ["Generative AI", "Text Generation", "AI Conversation", "In Context Learni
 categories:
   - dsblog
 header:
-    teaser: /assets/images/dspost/dsp6172-Transfer-Learning-Key-AI-Techniques-Explained.jpg
+    teaser: ../assets/images/dspost/dsp6172-Transfer-Learning-Key-AI-Techniques-Explained.jpg
 excerpt_separator: "<!--more-->"   
 author: Hari Thapliyaal   
 layout: dspost-layout   

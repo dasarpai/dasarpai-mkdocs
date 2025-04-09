@@ -8,7 +8,7 @@ tags: [Jekyll, "Static Site Generator", "Templating Language", "Liquid", "Collec
 categories:
   - dsblog
 header:
-    teaser: /assets/images/dspost/dsp6168-Understanding-Jekyll-Framework.jpg
+    teaser: ../assets/images/dspost/dsp6168-Understanding-Jekyll-Framework.jpg
 excerpt_separator: "<!--more-->"   
 author: Hari Thapliyaal   
 layout: dspost-layout   

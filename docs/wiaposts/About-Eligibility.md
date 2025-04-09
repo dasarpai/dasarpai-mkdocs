@@ -7,7 +7,7 @@ tags: [ Education ]
     
 categories: [wiaposts] 
 header:    
-    teaser: /assets/images/wiapost/5203-About-Eligibility.jpg    
+    teaser: ../assets/images/wiapost/5203-About-Eligibility.jpg    
 author: Hari Thapliyaal     
 layout:   wiaposts-layout
 excerpt:      

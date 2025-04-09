@@ -7,8 +7,8 @@ permalink: /Sarcasm-Detection-System-for-Hinglish-Language
 date: 2020-12-28
 tags: [Publications]
 header:
-  teaser: /assets/images/projects/Sarcasm-Detection-System-for-Hinglish-Language.jpg
-  # overlay_image: /assets/images/projects/Sarcasm-Detection-System-for-Hinglish-Language.jpg
+  teaser: ../assets/images/projects/Sarcasm-Detection-System-for-Hinglish-Language.jpg
+  # overlay_image: ../assets/images/projects/Sarcasm-Detection-System-for-Hinglish-Language.jpg
   # overlay_filter: 0 # same as adding an opacity of 0.5 to a black background
 author_profile: false
 last_modified_at: 2020-12-28T15:46:43-04:00

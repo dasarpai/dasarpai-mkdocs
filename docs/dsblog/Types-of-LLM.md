@@ -17,7 +17,7 @@ tags:
 categories:
   - dsblog
 header:
-    teaser: /assets/images/dspost/dsp6171-Types-of-LLM.jpg
+    teaser: ../assets/images/dspost/dsp6171-Types-of-LLM.jpg
 excerpt_separator: "<!--more-->"   
 author: Hari Thapliyaal   
 layout: dspost-layout   

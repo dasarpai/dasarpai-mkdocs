@@ -5,7 +5,7 @@ title:  "Why Modern Science Developed in Europe"
 date: "2025-02-11"        
 permalink: /wiaposts/why-modern-science-developed-in-europe
 header:        
-    teaser: /assets/images/wiapost/5278-Why-Modern-Science-Developed-in-Europe.jpg               
+    teaser: ../assets/images/wiapost/5278-Why-Modern-Science-Developed-in-Europe.jpg               
 author: Hari Thapliyaal        
 layout:   wiaposts-layout        
 author_profile: true        

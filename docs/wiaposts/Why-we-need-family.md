@@ -7,7 +7,7 @@ tags:  [My Views, Life, Philosophy]
         
 categories: [wiaposts] 
 header:        
-    teaser: /assets/images/wiapost/5245-why-do-we-need-family.jpg        
+    teaser: ../assets/images/wiapost/5245-why-do-we-need-family.jpg        
 author: Hari Thapliyaal        
 layout:   wiaposts-layout
 excerpt:        

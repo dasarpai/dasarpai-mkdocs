@@ -8,7 +8,7 @@ categories:
 tags: [Computer Vision, Image Processing, Deep Learning, Neural Networks, Machine Learning, AI Applications]   
 keywords: computer vision, image processing, object detection, facial recognition, neural networks, deep learning, machine perception, visual AI, image analysis, computer vision applications
 header:   
-  teaser: "/assets/images/dspost/dsp6018-What-is-Computer-Vision.jpg"   
+  teaser: "../assets/images/dspost/dsp6018-What-is-Computer-Vision.jpg"   
 excerpt_separator: "<!--more-->"   
 author: Hari Thapliyaal   
 layout: dspost-layout   

@@ -8,7 +8,7 @@ tags: ['Concepts', 'Philosophy', 'Science']
 
 categories: [wiaposts] 
 header:
-     teaser: /assets/images/wiapost/5073-Source-Of-The-Color.jpg
+     teaser: ../assets/images/wiapost/5073-Source-Of-The-Color.jpg
 author: Hari Thapliyaal 
 layout:   wiaposts-layout
 excerpt: 'Investigating the origins and significance of color in the natural world.' 

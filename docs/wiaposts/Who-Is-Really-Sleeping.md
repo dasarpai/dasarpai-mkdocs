@@ -8,7 +8,7 @@ tags: ['Bhagwat Gita', 'Concepts', 'Philosophy', 'Poetry']
 
 categories: [wiaposts] 
 header:
-     teaser: /assets/images/wiapost/5086-Who-Is-Really-Sleeping.jpg
+     teaser: ../assets/images/wiapost/5086-Who-Is-Really-Sleeping.jpg
 author: Hari Thapliyaal 
 layout:   wiaposts-layout
 excerpt: 'A philosophical inquiry into awareness and consciousness inspired by the Bhagwat Gita.' 

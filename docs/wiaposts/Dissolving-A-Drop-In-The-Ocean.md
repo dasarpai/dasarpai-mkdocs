@@ -7,7 +7,7 @@ tags: [ Moksha, Poetry, Vedanta]
 keywords: ["exploration of dissolution", "understanding the ocean and drop metaphor", "poetic insights on dissolution and unity", "philosophy of unity and dissolution", "exploring metaphors in philosophical context"]  
 categories: [wiaposts] 
 header:
-     teaser: /assets/images/wiapost/5111-Dissolving-A-Drop-In-The-Ocean.jpg
+     teaser: ../assets/images/wiapost/5111-Dissolving-A-Drop-In-The-Ocean.jpg
 author: Hari Thapliyaal 
 layout:   wiaposts-layout
 excerpt: Exploration of dissolution and unity, delving into metaphors of the ocean and the drop.

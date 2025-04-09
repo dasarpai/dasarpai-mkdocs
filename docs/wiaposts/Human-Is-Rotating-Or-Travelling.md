@@ -8,7 +8,7 @@ tags: ['Concepts', 'Philosophy']
 
 categories: [wiaposts] 
 header:
-     teaser: /assets/images/wiapost/5063-Human-Is-Rotating-Or-Travelling.jpg
+     teaser: ../assets/images/wiapost/5063-Human-Is-Rotating-Or-Travelling.jpg
 author: Hari Thapliyaal 
 layout:   wiaposts-layout
 excerpt: 'A philosophical inquiry into human existence and movement.' 

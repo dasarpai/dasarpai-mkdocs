@@ -11,7 +11,7 @@ tags:
 categories:
   - dsblog
 header:
-  teaser: /assets/images/dspost/dsp6216-Demystify-NVIDIA-GPUs.jpg
+  teaser: ../assets/images/dspost/dsp6216-Demystify-NVIDIA-GPUs.jpg
 excerpt_separator: "<!--more-->"
 author: Jane Smith
 layout: dspost-layout

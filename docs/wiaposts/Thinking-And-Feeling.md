@@ -7,7 +7,7 @@ tags: [Mind, My Views ]
 
 categories: [wiaposts] 
 header:
-     teaser: /assets/images/wiapost/5186-Thinking-And-Feeling.jpg
+     teaser: ../assets/images/wiapost/5186-Thinking-And-Feeling.jpg
 author: Hari Thapliyaal 
 layout:   wiaposts-layout
 excerpt:  

@@ -9,7 +9,7 @@ categories:
   - dsblog
 keywords: [Generative Adversarial Networks, GAN Architecture, Deep Learning, Neural Networks, Image Generation, Computer Vision, Machine Learning, AI Models]
 header:
-    teaser: /assets/images/dspost/dsp6069-What-is-GAN-Architecture.jpg
+    teaser: ../assets/images/dspost/dsp6069-What-is-GAN-Architecture.jpg
 excerpt_separator: "<!--more-->"   
 author: Hari Thapliyaal   
 layout: dspost-layout   

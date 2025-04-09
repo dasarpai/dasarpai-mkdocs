@@ -9,7 +9,7 @@ tags:
 categories:
   - pmblog
 header:
-  teaser: '/assets/images/pmblog/1033-PMBOK6.jpg'
+  teaser: '../assets/images/pmblog/1033-PMBOK6.jpg'
 author: 'Hari Thapliyaal'
 layout: pmblog-layout 
 excerpt: #

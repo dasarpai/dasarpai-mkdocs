@@ -7,7 +7,7 @@ tags : [My Views, Hinduism, Culture]
                     
 categories: [wiaposts] 
 header:                    
-    teaser: /assets/images/wiapost/5213-Yours-Value-System-and-Contradictions.jpg                   
+    teaser: ../assets/images/wiapost/5213-Yours-Value-System-and-Contradictions.jpg                   
 author: Hari Thapliyaal                    
 layout:   wiaposts-layout
 excerpt:                    

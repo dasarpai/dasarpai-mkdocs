@@ -4,15 +4,14 @@
 
 - ![Acquire Resources](../assets/images/pmblog/1037-pmbok-general.jpg){ width="200" }
 
-    ### [Acquire Resources](pmbok6/acquire-resources.md)
+    ### [Acquire Resources](acquire-resources)
     
     **Read time:** 5 min
     
     EXCERPT Not Found
-
 - ![Agreements](../assets/images/pmblog/1037-pmbok-general.jpg){ width="200" }
 
-    ### [Agreements](pmbok6/agreements.md)
+    ### [Agreements](agreements)
     
     **Read time:** 5 min
     
@@ -24,15 +23,14 @@
 
 - ![Analytical Techniques](../assets/images/pmblog/1037-pmbok-general.jpg){ width="200" }
 
-    ### [Analytical Techniques](pmbok6/analytical-techniques.md)
+    ### [Analytical Techniques](analytical-techniques)
     
     **Read time:** 5 min
     
     EXCERPT Not Found
-
 - ![Benefits Management Plan](../assets/images/pmblog/1037-pmbok-general.jpg){ width="200" }
 
-    ### [Benefits Management Plan](pmbok6/benefits-management-plan.md)
+    ### [Benefits Management Plan](benefits-management-plan)
     
     **Read time:** 5 min
     
@@ -44,15 +42,14 @@
 
 - ![Business Documents](../assets/images/pmblog/1037-pmbok-general.jpg){ width="200" }
 
-    ### [Business Documents](pmbok6/business-documents.md)
+    ### [Business Documents](business-documents)
     
     **Read time:** 5 min
     
     EXCERPT Not Found
-
 - ![Change Requests](../assets/images/pmblog/1037-pmbok-general.jpg){ width="200" }
 
-    ### [Change Requests](pmbok6/change-requests.md)
+    ### [Change Requests](change-requests)
     
     **Read time:** 5 min
     
@@ -64,15 +61,14 @@
 
 - ![Close Project or Phase](../assets/images/pmblog/1037-pmbok-general.jpg){ width="200" }
 
-    ### [Close Project or Phase](pmbok6/close-project-or-phase.md)
+    ### [Close Project or Phase](close-project-or-phase)
     
     **Read time:** 5 min
     
     EXCERPT Not Found
-
 - ![Closing Process Group](../assets/images/pmblog/1037-pmbok-general.jpg){ width="200" }
 
-    ### [Closing Process Group](pmbok6/closing-process-group.md)
+    ### [Closing Process Group](closing-process-group)
     
     **Read time:** 5 min
     
@@ -84,15 +80,14 @@
 
 - ![Collect Requirements](../assets/images/pmblog/1037-pmbok-general.jpg){ width="200" }
 
-    ### [Collect Requirements](pmbok6/collect-requirements.md)
+    ### [Collect Requirements](collect-requirements)
     
     **Read time:** 5 min
     
     EXCERPT Not Found
-
 - ![Conduct Procurements](../assets/images/pmblog/1037-pmbok-general.jpg){ width="200" }
 
-    ### [Conduct Procurements](pmbok6/conduct-procurements.md)
+    ### [Conduct Procurements](conduct-procurements)
     
     **Read time:** 5 min
     
@@ -104,15 +99,14 @@
 
 - ![Control Costs](../assets/images/pmblog/1037-pmbok-general.jpg){ width="200" }
 
-    ### [Control Costs](pmbok6/control-costs.md)
+    ### [Control Costs](control-costs)
     
     **Read time:** 5 min
     
     EXCERPT Not Found
-
 - ![Control Procurements](../assets/images/pmblog/1037-pmbok-general.jpg){ width="200" }
 
-    ### [Control Procurements](pmbok6/control-procurements.md)
+    ### [Control Procurements](control-procurements)
     
     **Read time:** 5 min
     
@@ -124,15 +118,14 @@
 
 - ![Control Quality](../assets/images/pmblog/1037-pmbok-general.jpg){ width="200" }
 
-    ### [Control Quality](pmbok6/control-quality.md)
+    ### [Control Quality](control-quality)
     
     **Read time:** 5 min
     
     EXCERPT Not Found
-
 - ![Control Resources](../assets/images/pmblog/1037-pmbok-general.jpg){ width="200" }
 
-    ### [Control Resources](pmbok6/control-resources.md)
+    ### [Control Resources](control-resources)
     
     **Read time:** 5 min
     
@@ -144,15 +137,14 @@
 
 - ![Control Schedule](../assets/images/pmblog/1037-pmbok-general.jpg){ width="200" }
 
-    ### [Control Schedule](pmbok6/control-schedule.md)
+    ### [Control Schedule](control-schedule)
     
     **Read time:** 5 min
     
     EXCERPT Not Found
-
 - ![Control Scope](../assets/images/pmblog/1037-pmbok-general.jpg){ width="200" }
 
-    ### [Control Scope](pmbok6/control-scope.md)
+    ### [Control Scope](control-scope)
     
     **Read time:** 5 min
     
@@ -164,15 +156,14 @@
 
 - ![Cost-cutting tools](../assets/images/pmblog/1037-pmbok-general.jpg){ width="200" }
 
-    ### [Cost-cutting tools](pmbok6/cost-cutting-tools.md)
+    ### [Cost-cutting tools](cost-cutting-tools)
     
     **Read time:** 5 min
     
     EXCERPT Not Found
-
 - ![Create WBS](../assets/images/pmblog/1037-pmbok-general.jpg){ width="200" }
 
-    ### [Create WBS](pmbok6/create-wbs.md)
+    ### [Create WBS](create-wbs)
     
     **Read time:** 5 min
     
@@ -184,15 +175,14 @@
 
 - ![Data Analysis](../assets/images/pmblog/1037-pmbok-general.jpg){ width="200" }
 
-    ### [Data Analysis](pmbok6/data-analysis.md)
+    ### [Data Analysis](data-analysis)
     
     **Read time:** 5 min
     
     EXCERPT Not Found
-
 - ![Data Gathering](../assets/images/pmblog/1037-pmbok-general.jpg){ width="200" }
 
-    ### [Data Gathering](pmbok6/data-gathering.md)
+    ### [Data Gathering](data-gathering)
     
     **Read time:** 5 min
     
@@ -204,15 +194,14 @@
 
 - ![Data Representation](../assets/images/pmblog/1037-pmbok-general.jpg){ width="200" }
 
-    ### [Data Representation](pmbok6/data-representation.md)
+    ### [Data Representation](data-representation)
     
     **Read time:** 5 min
     
     EXCERPT Not Found
-
 - ![Decision Making](../assets/images/pmblog/1037-pmbok-general.jpg){ width="200" }
 
-    ### [Decision Making](pmbok6/decision-making.md)
+    ### [Decision Making](decision-making)
     
     **Read time:** 5 min
     
@@ -224,15 +213,14 @@
 
 - ![Define Activities](../assets/images/pmblog/1037-pmbok-general.jpg){ width="200" }
 
-    ### [Define Activities](pmbok6/define-activities.md)
+    ### [Define Activities](define-activities)
     
     **Read time:** 5 min
     
     EXCERPT Not Found
-
 - ![Define Scope](../assets/images/pmblog/1037-pmbok-general.jpg){ width="200" }
 
-    ### [Define Scope](pmbok6/define-scope.md)
+    ### [Define Scope](define-scope)
     
     **Read time:** 5 min
     
@@ -244,15 +232,14 @@
 
 - ![Determine Budget](../assets/images/pmblog/1037-pmbok-general.jpg){ width="200" }
 
-    ### [Determine Budget](pmbok6/determine-budget.md)
+    ### [Determine Budget](determine-budget)
     
     **Read time:** 5 min
     
     EXCERPT Not Found
-
 - ![Develop Project Charter](../assets/images/pmlogy/PMBOK-Process-DPC.png){ width="200" }
 
-    ### [Develop Project Charter](pmbok6/develop-project-charter.md)
+    ### [Develop Project Charter](develop-project-charter)
     
     **Read time:** 5 min
     
@@ -264,15 +251,14 @@
 
 - ![Develop Project Management Plan](../assets/images/pmlogy/PMBOK-Process-DPMP.png){ width="200" }
 
-    ### [Develop Project Management Plan](pmbok6/develop-project-management-plan.md)
+    ### [Develop Project Management Plan](develop-project-management-plan)
     
     **Read time:** 5 min
     
     EXCERPT Not Found
-
 - ![Develop Schedule](../assets/images/pmblog/1037-pmbok-general.jpg){ width="200" }
 
-    ### [Develop Schedule](pmbok6/develop-schedule.md)
+    ### [Develop Schedule](develop-schedule)
     
     **Read time:** 5 min
     
@@ -284,15 +270,14 @@
 
 - ![Develop Team](../assets/images/pmblog/1037-pmbok-general.jpg){ width="200" }
 
-    ### [Develop Team](pmbok6/develop-team.md)
+    ### [Develop Team](develop-team)
     
     **Read time:** 5 min
     
     EXCERPT Not Found
-
 - ![Direct and Manage Project Work](../assets/images/pmblog/1037-pmbok-general.jpg){ width="200" }
 
-    ### [Direct and Manage Project Work](pmbok6/direct-and-manage-project-work.md)
+    ### [Direct and Manage Project Work](direct-and-manage-project-work)
     
     **Read time:** 5 min
     
@@ -304,15 +289,14 @@
 
 - ![Enterprise Environmental Factors](../assets/images/pmblog/1037-pmbok-general.jpg){ width="200" }
 
-    ### [Enterprise Environmental Factors](pmbok6/enterprise-environmental-factors.md)
+    ### [Enterprise Environmental Factors](enterprise-environmental-factors)
     
     **Read time:** 5 min
     
     EXCERPT Not Found
-
 - ![Estimate Activity Durations](../assets/images/pmblog/1037-pmbok-general.jpg){ width="200" }
 
-    ### [Estimate Activity Durations](pmbok6/estimate-activity-durations.md)
+    ### [Estimate Activity Durations](estimate-activity-durations)
     
     **Read time:** 5 min
     
@@ -324,15 +308,14 @@
 
 - ![Estimate Activity Resources](../assets/images/pmblog/1037-pmbok-general.jpg){ width="200" }
 
-    ### [Estimate Activity Resources](pmbok6/estimate-activity-resources.md)
+    ### [Estimate Activity Resources](estimate-activity-resources)
     
     **Read time:** 5 min
     
     EXCERPT Not Found
-
 - ![Estimate Costs](../assets/images/pmblog/1037-pmbok-general.jpg){ width="200" }
 
-    ### [Estimate Costs](pmbok6/estimate-costs.md)
+    ### [Estimate Costs](estimate-costs)
     
     **Read time:** 5 min
     
@@ -344,15 +327,14 @@
 
 - ![Executing Process Group](../assets/images/pmblog/1037-pmbok-general.jpg){ width="200" }
 
-    ### [Executing Process Group](pmbok6/executing-process-group.md)
+    ### [Executing Process Group](executing-process-group)
     
     **Read time:** 5 min
     
     EXCERPT Not Found
-
 - ![Expert Judgement](../assets/images/pmlogy/PMBOK-TT-Expert-Judgement-min.png){ width="200" }
 
-    ### [Expert Judgement](pmbok6/expert-judgement.md)
+    ### [Expert Judgement](expert-judgement)
     
     **Read time:** 5 min
     
@@ -364,15 +346,14 @@
 
 - ![Identify Risks](../assets/images/pmblog/1037-pmbok-general.jpg){ width="200" }
 
-    ### [Identify Risks](pmbok6/identify-risks.md)
+    ### [Identify Risks](identify-risks)
     
     **Read time:** 5 min
     
     EXCERPT Not Found
-
 - ![Identify Stakeholders](../assets/images/pmblog/1037-pmbok-general.jpg){ width="200" }
 
-    ### [Identify Stakeholders](pmbok6/identify-stakeholders.md)
+    ### [Identify Stakeholders](identify-stakeholders)
     
     **Read time:** 5 min
     
@@ -384,15 +365,14 @@
 
 - ![Implement Risk Responses](../assets/images/pmblog/1037-pmbok-general.jpg){ width="200" }
 
-    ### [Implement Risk Responses](pmbok6/implement-risk-responses.md)
+    ### [Implement Risk Responses](implement-risk-responses)
     
     **Read time:** 5 min
     
     EXCERPT Not Found
-
 - ![Initiating Process Group](../assets/images/pmblog/1037-pmbok-general.jpg){ width="200" }
 
-    ### [Initiating Process Group](pmbok6/initiating-process-group.md)
+    ### [Initiating Process Group](initiating-process-group)
     
     **Read time:** 5 min
     
@@ -404,15 +384,14 @@
 
 - ![Input-Output List of PMBOK6](../assets/images/pmblog/1037-pmbok-general.jpg){ width="200" }
 
-    ### [Input-Output List of PMBOK6](pmbok6/input-output-list-of-pmbok6.md)
+    ### [Input-Output List of PMBOK6](input-output-list-of-pmbok6)
     
     **Read time:** 5 min
     
     EXCERPT Not Found
-
 - ![Interpersonal and Team Skills](../assets/images/pmblog/1037-pmbok-general.jpg){ width="200" }
 
-    ### [Interpersonal and Team Skills](pmbok6/interpersonal-and-team-skills.md)
+    ### [Interpersonal and Team Skills](interpersonal-and-team-skills)
     
     **Read time:** 5 min
     
@@ -424,15 +403,14 @@
 
 - ![Manage Communications](../assets/images/pmblog/1037-pmbok-general.jpg){ width="200" }
 
-    ### [Manage Communications](pmbok6/manage-communications.md)
+    ### [Manage Communications](manage-communications)
     
     **Read time:** 5 min
     
     EXCERPT Not Found
-
 - ![Manage Project Knowledge](../assets/images/pmblog/1037-pmbok-general.jpg){ width="200" }
 
-    ### [Manage Project Knowledge](pmbok6/manage-project-knowledge.md)
+    ### [Manage Project Knowledge](manage-project-knowledge)
     
     **Read time:** 5 min
     
@@ -444,15 +422,14 @@
 
 - ![Manage Quality](../assets/images/pmblog/1037-pmbok-general.jpg){ width="200" }
 
-    ### [Manage Quality](pmbok6/manage-quality.md)
+    ### [Manage Quality](manage-quality)
     
     **Read time:** 5 min
     
     EXCERPT Not Found
-
 - ![Manage Stakeholder Engagement](../assets/images/pmblog/1037-pmbok-general.jpg){ width="200" }
 
-    ### [Manage Stakeholder Engagement](pmbok6/manage-stakeholder-engagement.md)
+    ### [Manage Stakeholder Engagement](manage-stakeholder-engagement)
     
     **Read time:** 5 min
     
@@ -464,15 +441,14 @@
 
 - ![Manage Team](../assets/images/pmblog/1037-pmbok-general.jpg){ width="200" }
 
-    ### [Manage Team](pmbok6/manage-team.md)
+    ### [Manage Team](manage-team)
     
     **Read time:** 5 min
     
     EXCERPT Not Found
-
 - ![Meetings](../assets/images/pmblog/1037-pmbok-general.jpg){ width="200" }
 
-    ### [Meetings](pmbok6/meetings.md)
+    ### [Meetings](meetings)
     
     **Read time:** 5 min
     
@@ -484,15 +460,14 @@
 
 - ![Monitor and Control Project Work](../assets/images/pmlogy/PMBOK-Process-MCPW.jpg){ width="200" }
 
-    ### [Monitor and Control Project Work](pmbok6/monitor-and-control-project-work.md)
+    ### [Monitor and Control Project Work](monitor-and-control-project-work)
     
     **Read time:** 5 min
     
     EXCERPT Not Found
-
 - ![Monitor Communications](../assets/images/pmblog/1037-pmbok-general.jpg){ width="200" }
 
-    ### [Monitor Communications](pmbok6/monitor-communications.md)
+    ### [Monitor Communications](monitor-communications)
     
     **Read time:** 5 min
     
@@ -504,15 +479,14 @@
 
 - ![Monitor Risks](../assets/images/pmblog/1037-pmbok-general.jpg){ width="200" }
 
-    ### [Monitor Risks](pmbok6/monitor-risks.md)
+    ### [Monitor Risks](monitor-risks)
     
     **Read time:** 5 min
     
     EXCERPT Not Found
-
 - ![Monitoring and Controlling Process Group](../assets/images/pmblog/1037-pmbok-general.jpg){ width="200" }
 
-    ### [Monitoring and Controlling Process Group](pmbok6/monitoring-and-controlling-process-group.md)
+    ### [Monitoring and Controlling Process Group](monitoring-and-controlling-process-group)
     
     **Read time:** 5 min
     
@@ -524,15 +498,14 @@
 
 - ![Organizational Process Assets Updates](../assets/images/pmblog/1037-pmbok-general.jpg){ width="200" }
 
-    ### [Organizational Process Assets Updates](pmbok6/organizational-process-assets-updates.md)
+    ### [Organizational Process Assets Updates](organizational-process-assets-updates)
     
     **Read time:** 5 min
     
     EXCERPT Not Found
-
 - ![Organizational Process Assets](../assets/images/pmblog/1037-pmbok-general.jpg){ width="200" }
 
-    ### [Organizational Process Assets](pmbok6/organizational-process-assets.md)
+    ### [Organizational Process Assets](organizational-process-assets)
     
     **Read time:** 5 min
     
@@ -544,15 +517,14 @@
 
 - ![Perform Integrated Change Control](../assets/images/pmlogy/PICC.jpg){ width="200" }
 
-    ### [Perform Integrated Change Control](pmbok6/perform-integrated-change-control.md)
+    ### [Perform Integrated Change Control](perform-integrated-change-control)
     
     **Read time:** 5 min
     
     EXCERPT Not Found
-
 - ![Perform Qualitative Risk Analysis](../assets/images/pmblog/1037-pmbok-general.jpg){ width="200" }
 
-    ### [Perform Qualitative Risk Analysis](pmbok6/perform-qualitative-risk-analysis.md)
+    ### [Perform Qualitative Risk Analysis](perform-qualitative-risk-analysis)
     
     **Read time:** 5 min
     
@@ -564,15 +536,14 @@
 
 - ![Perform Quantitative Risk Analysis](../assets/images/pmblog/1037-pmbok-general.jpg){ width="200" }
 
-    ### [Perform Quantitative Risk Analysis](pmbok6/perform-quantitative-risk-analysis.md)
+    ### [Perform Quantitative Risk Analysis](perform-quantitative-risk-analysis)
     
     **Read time:** 5 min
     
     EXCERPT Not Found
-
 - ![Plan Communications Management](../assets/images/pmblog/1037-pmbok-general.jpg){ width="200" }
 
-    ### [Plan Communications Management](pmbok6/plan-communications-management.md)
+    ### [Plan Communications Management](plan-communications-management)
     
     **Read time:** 5 min
     
@@ -584,15 +555,14 @@
 
 - ![Plan Cost Management](../assets/images/pmblog/1037-pmbok-general.jpg){ width="200" }
 
-    ### [Plan Cost Management](pmbok6/plan-cost-management.md)
+    ### [Plan Cost Management](plan-cost-management)
     
     **Read time:** 5 min
     
     EXCERPT Not Found
-
 - ![Plan Procurement Management](../assets/images/pmblog/1037-pmbok-general.jpg){ width="200" }
 
-    ### [Plan Procurement Management](pmbok6/plan-procurement-management.md)
+    ### [Plan Procurement Management](plan-procurement-management)
     
     **Read time:** 5 min
     
@@ -604,15 +574,14 @@
 
 - ![Plan Quality Management](../assets/images/pmblog/1037-pmbok-general.jpg){ width="200" }
 
-    ### [Plan Quality Management](pmbok6/plan-quality-management.md)
+    ### [Plan Quality Management](plan-quality-management)
     
     **Read time:** 5 min
     
     EXCERPT Not Found
-
 - ![Plan Resource Management](../assets/images/pmblog/1037-pmbok-general.jpg){ width="200" }
 
-    ### [Plan Resource Management](pmbok6/plan-resource-management.md)
+    ### [Plan Resource Management](plan-resource-management)
     
     **Read time:** 5 min
     
@@ -624,15 +593,14 @@
 
 - ![Plan Risk Management](../assets/images/pmblog/1037-pmbok-general.jpg){ width="200" }
 
-    ### [Plan Risk Management](pmbok6/plan-risk-management.md)
+    ### [Plan Risk Management](plan-risk-management)
     
     **Read time:** 5 min
     
     EXCERPT Not Found
-
 - ![Plan Risk Responses](../assets/images/pmblog/1037-pmbok-general.jpg){ width="200" }
 
-    ### [Plan Risk Responses](pmbok6/plan-risk-responses.md)
+    ### [Plan Risk Responses](plan-risk-responses)
     
     **Read time:** 5 min
     
@@ -644,15 +612,14 @@
 
 - ![Plan Schedule Management](../assets/images/pmblog/1037-pmbok-general.jpg){ width="200" }
 
-    ### [Plan Schedule Management](pmbok6/plan-schedule-management.md)
+    ### [Plan Schedule Management](plan-schedule-management)
     
     **Read time:** 5 min
     
     EXCERPT Not Found
-
 - ![Plan Scope Management](../assets/images/pmblog/1037-pmbok-general.jpg){ width="200" }
 
-    ### [Plan Scope Management](pmbok6/plan-scope-management.md)
+    ### [Plan Scope Management](plan-scope-management)
     
     **Read time:** 5 min
     
@@ -664,15 +631,14 @@
 
 - ![Plan Stakeholder Engagement](../assets/images/pmblog/1037-pmbok-general.jpg){ width="200" }
 
-    ### [Plan Stakeholder Engagement](pmbok6/plan-stakeholder-engagement.md)
+    ### [Plan Stakeholder Engagement](plan-stakeholder-engagement)
     
     **Read time:** 5 min
     
     EXCERPT Not Found
-
 - ![Planning Process Group](../assets/images/pmblog/1037-pmbok-general.jpg){ width="200" }
 
-    ### [Planning Process Group](pmbok6/planning-process-group.md)
+    ### [Planning Process Group](planning-process-group)
     
     **Read time:** 5 min
     
@@ -684,15 +650,14 @@
 
 - ![PMBOK 6 Tools and Techniques](../assets/images/pmblog/1037-pmbok-general.jpg){ width="200" }
 
-    ### [PMBOK 6 Tools and Techniques](pmbok6/pmbok-6-tools-and-techniques.md)
+    ### [PMBOK 6 Tools and Techniques](pmbok-6-tools-and-techniques)
     
     **Read time:** 5 min
     
     EXCERPT Not Found
-
 - ![Procurement Documentation Updates](../assets/images/pmblog/1037-pmbok-general.jpg){ width="200" }
 
-    ### [Procurement Documentation Updates](pmbok6/procurement-documentation-updates.md)
+    ### [Procurement Documentation Updates](procurement-documentation-updates)
     
     **Read time:** 5 min
     
@@ -704,15 +669,14 @@
 
 - ![Procurement Documentation](../assets/images/pmblog/1037-pmbok-general.jpg){ width="200" }
 
-    ### [Procurement Documentation](pmbok6/procurement-documentation.md)
+    ### [Procurement Documentation](procurement-documentation)
     
     **Read time:** 5 min
     
     EXCERPT Not Found
-
 - ![Project Charter](../assets/images/pmlogy/PMBOK-Process-DPC.png){ width="200" }
 
-    ### [Project Charter](pmbok6/project-charter.md)
+    ### [Project Charter](project-charter)
     
     **Read time:** 5 min
     
@@ -724,15 +688,14 @@
 
 - ![Project Communication Management](../assets/images/pmlogy/Project-Communication-Management-min.jpg){ width="200" }
 
-    ### [Project Communication Management](pmbok6/project-communication-management.md)
+    ### [Project Communication Management](project-communication-management)
     
     **Read time:** 5 min
     
     EXCERPT Not Found
-
 - ![Project Cost Management](../assets/images/pmlogy/Project-Cost-Management-min.jpg){ width="200" }
 
-    ### [Project Cost Management](pmbok6/project-cost-management.md)
+    ### [Project Cost Management](project-cost-management)
     
     **Read time:** 5 min
     
@@ -744,15 +707,14 @@
 
 - ![Project Documents Updates](../assets/images/pmblog/1037-pmbok-general.jpg){ width="200" }
 
-    ### [Project Documents Updates](pmbok6/project-documents-updates.md)
+    ### [Project Documents Updates](project-documents-updates)
     
     **Read time:** 5 min
     
     EXCERPT Not Found
-
 - ![Project Documents](../assets/images/pmblog/1037-pmbok-general.jpg){ width="200" }
 
-    ### [Project Documents](pmbok6/project-documents.md)
+    ### [Project Documents](project-documents)
     
     **Read time:** 5 min
     
@@ -764,15 +726,14 @@
 
 - ![Project Integration Management](../assets/images/pmlogy/Project-Integration-Management.jpg){ width="200" }
 
-    ### [Project Integration Management](pmbok6/project-integration-management.md)
+    ### [Project Integration Management](project-integration-management)
     
     **Read time:** 5 min
     
     EXCERPT Not Found
-
 - ![Project Management Information System](../assets/images/pmblog/1037-pmbok-general.jpg){ width="200" }
 
-    ### [Project Management Information System](pmbok6/project-management-information-system.md)
+    ### [Project Management Information System](project-management-information-system)
     
     **Read time:** 5 min
     
@@ -784,15 +745,14 @@
 
 - ![Project Management Plan Updates](../assets/images/pmblog/1037-pmbok-general.jpg){ width="200" }
 
-    ### [Project Management Plan Updates](pmbok6/project-management-plan-updates.md)
+    ### [Project Management Plan Updates](project-management-plan-updates)
     
     **Read time:** 5 min
     
     EXCERPT Not Found
-
 - ![Project Management Plan](../assets/images/pmlogy/PMBOK-Process-DPMP.png){ width="200" }
 
-    ### [Project Management Plan](pmbok6/project-management-plan.md)
+    ### [Project Management Plan](project-management-plan)
     
     **Read time:** 5 min
     
@@ -804,15 +764,14 @@
 
 - ![Project Procurement Management](../assets/images/pmbok6/default.jpg){ width="200" }
 
-    ### [Project Procurement Management](pmbok6/project-procurement-management.md)
+    ### [Project Procurement Management](project-procurement-management)
     
     **Read time:** 5 min
     
     EXCERPT Not Found
-
 - ![Project Quality Management](../assets/images/pmlogy/Project-Quality-Management.jpg){ width="200" }
 
-    ### [Project Quality Management](pmbok6/project-quality-management.md)
+    ### [Project Quality Management](project-quality-management)
     
     **Read time:** 5 min
     
@@ -824,15 +783,14 @@
 
 - ![Project Resource Management](../assets/images/pmbok6/default.jpg){ width="200" }
 
-    ### [Project Resource Management](pmbok6/project-resource-management.md)
+    ### [Project Resource Management](project-resource-management)
     
     **Read time:** 5 min
     
     EXCERPT Not Found
-
 - ![Project Risk Management](../assets/images/pmlogy/Project-Risk-Management.jpg){ width="200" }
 
-    ### [Project Risk Management](pmbok6/project-risk-management.md)
+    ### [Project Risk Management](project-risk-management)
     
     **Read time:** 5 min
     
@@ -844,15 +802,14 @@
 
 - ![Project Schedule Management](../assets/images/pmlogy/Project-Schedule-Management.jpg){ width="200" }
 
-    ### [Project Schedule Management](pmbok6/project-schedule-management.md)
+    ### [Project Schedule Management](project-schedule-management)
     
     **Read time:** 5 min
     
     EXCERPT Not Found
-
 - ![Project Scope Management](../assets/images/pmlogy/Project-Scope-Management.jpg){ width="200" }
 
-    ### [Project Scope Management](pmbok6/project-scope-management.md)
+    ### [Project Scope Management](project-scope-management)
     
     **Read time:** 5 min
     
@@ -864,15 +821,14 @@
 
 - ![Project Stakeholder Management](../assets/images/pmlogy/Project-Stakeholder-Management.jpg){ width="200" }
 
-    ### [Project Stakeholder Management](pmbok6/project-stakeholder-management.md)
+    ### [Project Stakeholder Management](project-stakeholder-management)
     
     **Read time:** 5 min
     
     EXCERPT Not Found
-
 - ![Sequence Activities](../assets/images/pmblog/1037-pmbok-general.jpg){ width="200" }
 
-    ### [Sequence Activities](pmbok6/sequence-activities.md)
+    ### [Sequence Activities](sequence-activities)
     
     **Read time:** 5 min
     
@@ -884,15 +840,14 @@
 
 - ![Tools of Global Executives](../assets/images/pmblog/1037-pmbok-general.jpg){ width="200" }
 
-    ### [Tools of Global Executives](pmbok6/tools-of-global-executives.md)
+    ### [Tools of Global Executives](tools-of-global-executives)
     
     **Read time:** 5 min
     
     EXCERPT Not Found
-
 - ![Validate Scope](../assets/images/pmblog/1037-pmbok-general.jpg){ width="200" }
 
-    ### [Validate Scope](pmbok6/validate-scope.md)
+    ### [Validate Scope](validate-scope)
     
     **Read time:** 5 min
     
@@ -904,15 +859,14 @@
 
 - ![Variance Analysis](../assets/images/pmblog/1037-pmbok-general.jpg){ width="200" }
 
-    ### [Variance Analysis](pmbok6/variance-analysis.md)
+    ### [Variance Analysis](variance-analysis)
     
     **Read time:** 5 min
     
     EXCERPT Not Found
-
 - ![Work Performance Data](../assets/images/pmblog/1037-pmbok-general.jpg){ width="200" }
 
-    ### [Work Performance Data](pmbok6/work-performance-data.md)
+    ### [Work Performance Data](work-performance-data)
     
     **Read time:** 5 min
     
@@ -924,10 +878,9 @@
 
 - ![Work Performance Information](../assets/images/pmblog/1037-pmbok-general.jpg){ width="200" }
 
-    ### [Work Performance Information](pmbok6/work-performance-information.md)
+    ### [Work Performance Information](work-performance-information)
     
     **Read time:** 5 min
     
     EXCERPT Not Found
-
 </div>

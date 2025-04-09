@@ -7,7 +7,7 @@ tags: [Philosophy, My Views, Life]
                         
 categories: [wiaposts] 
 header:                        
-    teaser: /assets/images/wiapost/5215-The-Art-Of-Missing-Life.jpg                       
+    teaser: ../assets/images/wiapost/5215-The-Art-Of-Missing-Life.jpg                       
 author: Hari Thapliyaal                        
 layout:   wiaposts-layout
 excerpt:                        

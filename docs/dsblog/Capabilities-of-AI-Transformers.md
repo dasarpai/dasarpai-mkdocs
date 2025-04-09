@@ -9,7 +9,7 @@ categories:
   - dsblog
 keywords: [AI Transformers, Natural Language Processing, Deep Learning, Machine Learning Models, Neural Network Architecture, Language Models, BERT, GPT, Transformer Architecture]
 header:
-    teaser: /assets/images/dspost/dsp6067-Capabilities-of-AI-Transformers.jpg
+    teaser: ../assets/images/dspost/dsp6067-Capabilities-of-AI-Transformers.jpg
 excerpt_separator: "<!--more-->"   
 author: Hari Thapliyaal   
 layout: dspost-layout   

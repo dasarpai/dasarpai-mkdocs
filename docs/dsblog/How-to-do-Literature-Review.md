@@ -9,7 +9,7 @@ categories:
   - dsblog
 keywords: [Literature Review, Research Methodology, Academic Writing, Research Paper, Systematic Review, Research Analysis, Citation Management, Research Organization]
 header:
-    teaser: /assets/images/dspost/dsp6086-How-To-Do-Literature-Review.jpg
+    teaser: ../assets/images/dspost/dsp6086-How-To-Do-Literature-Review.jpg
 excerpt_separator: "<!--more-->"   
 author: Hari Thapliyaal   
 layout: dspost-layout   

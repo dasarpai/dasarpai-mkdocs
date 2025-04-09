@@ -8,7 +8,7 @@ tags: ['Indian Culture', 'Philosophy']
 
 categories: [wiaposts] 
 header:
-     teaser: /assets/images/wiapost/5053-Learning-From-The-Nature.jpg
+     teaser: ../assets/images/wiapost/5053-Learning-From-The-Nature.jpg
 author: Hari Thapliyaal 
 layout:   wiaposts-layout
 excerpt: 'Insights and lessons drawn from observing nature.'

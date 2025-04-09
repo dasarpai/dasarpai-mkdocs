@@ -7,7 +7,7 @@ tags: [ 'My Views', Philosophy, Science]
 
 categories: [wiaposts] 
 header:
-     teaser: /assets/images/wiapost/5141-Limitations-Of-Logic.jpg
+     teaser: ../assets/images/wiapost/5141-Limitations-Of-Logic.jpg
 author: Hari Thapliyaal 
 layout:   wiaposts-layout
 excerpt:  

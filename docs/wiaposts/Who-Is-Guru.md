@@ -8,7 +8,7 @@ tags: ['Education', 'Guru', 'Guru Purnima', 'Indian Culture', 'Philosophy']
 
 categories: [wiaposts] 
 header:
-     teaser: /assets/images/wiapost/5029-Who-Is-Guru.jpg
+     teaser: ../assets/images/wiapost/5029-Who-Is-Guru.jpg
 author: Hari Thapliyaal 
 layout:   wiaposts-layout
 excerpt: 'An exploration of the role and significance of a Guru in education and culture.' 

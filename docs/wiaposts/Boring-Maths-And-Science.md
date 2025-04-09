@@ -7,7 +7,7 @@ tags: [ 'My Views']
 keywords: ["Reflections on maths and science", "understanding boredom in education", "poetic insights on learning and curiosity", "philosophy of education and engagement", "exploring maths and science in philosophical context"]  
 categories: [wiaposts] 
 header:
-     teaser: /assets/images/wiapost/5123-Boring-Maths-And-Science.jpg
+     teaser: ../assets/images/wiapost/5123-Boring-Maths-And-Science.jpg
 author: Hari Thapliyaal 
 layout:   wiaposts-layout
 excerpt: Reflection on the perceived boredom in maths and science, exploring learning and curiosity.

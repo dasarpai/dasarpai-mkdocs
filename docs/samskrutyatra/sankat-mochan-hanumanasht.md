@@ -11,7 +11,7 @@ tags: [HanumanJi]
 categories:    
     
 header:    
-   teaser: /assets/images/samskrut/HanumanJi.jpg    
+   teaser: ../assets/images/samskrut/HanumanJi.jpg    
     
 author: 'Hari Thapliyaal'    
     

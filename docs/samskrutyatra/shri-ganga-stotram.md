@@ -11,7 +11,7 @@ tags: [Devi, Stotram]
 categories:    
     
 header:    
-   teaser: /assets/images/samskrut/Ganga.jpg    
+   teaser: ../assets/images/samskrut/Ganga.jpg    
     
 author: 'Hari Thapliyaal'    
     

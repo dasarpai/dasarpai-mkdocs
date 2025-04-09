@@ -7,13 +7,13 @@ author: 'Hari Thapliyaal'
 
 
 header:
-   teaser: /assets/images/pmlogy/Project-Cost-Management-min.jpg
+   teaser: ../assets/images/pmlogy/Project-Cost-Management-min.jpg
 tags:
     - 'English Terms'
     - 'PMBOK Knowledge Areas'
 ---
 
-![](/pmbok6//assets/images/pmlogy/Project-Cost-Management-min.jpg)
+![](/pmbok6/../assets/images/pmlogy/Project-Cost-Management-min.jpg)
 
 ## Project Cost Management
 

@@ -8,7 +8,7 @@ tags: [ Rebuttal]
 
 categories: 
 header:
-     teaser: /assets/images/gk/7002-Why-Indians-Are-Corrupt.jpg
+     teaser: ../assets/images/gk/7002-Why-Indians-Are-Corrupt.jpg
 author: Hari Thapliyaal 
 layout: single 
 excerpt:  

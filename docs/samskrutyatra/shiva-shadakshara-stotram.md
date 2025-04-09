@@ -11,7 +11,7 @@ tags: [Shiva, Chanting, Stotram]
 categories:    
     
 header:    
-   teaser: /assets/images/samskrut/Shiva.jpg    
+   teaser: ../assets/images/samskrut/Shiva.jpg    
     
 author: 'Hari Thapliyaal'    
     

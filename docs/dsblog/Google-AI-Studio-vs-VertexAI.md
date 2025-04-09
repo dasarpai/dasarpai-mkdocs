@@ -13,7 +13,7 @@ tags:
 categories:
   - dsblog
 header:
-  teaser: /assets/images/dspost/dsp6183-Google-AI-Studio-vs-VertexAI.jpg
+  teaser: ../assets/images/dspost/dsp6183-Google-AI-Studio-vs-VertexAI.jpg
 excerpt_separator: "<!--more-->"
 author: Hari Thapliyaal
 layout: dspost-layout

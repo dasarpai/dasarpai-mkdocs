@@ -8,7 +8,7 @@ tags: ['Concepts', 'Philosophy']
 
 categories: [wiaposts] 
 header:
-     teaser: /assets/images/wiapost/5068-The-Purpose-Of-Motions.jpg
+     teaser: ../assets/images/wiapost/5068-The-Purpose-Of-Motions.jpg
 author: Hari Thapliyaal 
 layout:   wiaposts-layout
 excerpt: 'Exploring the philosophical significance of motion in life and nature.' 

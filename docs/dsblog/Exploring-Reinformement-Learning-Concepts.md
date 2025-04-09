@@ -13,7 +13,7 @@ tags:
 categories:
   - dsblog
 header:
-  teaser: /assets/images/dspost/dsp6225-Exploring-Reinforcement-Learning-Concepts.jpg
+  teaser: ../assets/images/dspost/dsp6225-Exploring-Reinforcement-Learning-Concepts.jpg
 excerpt_separator: "<!--more-->"
 author: Hari Thapliyaal
 layout: dspost-layout

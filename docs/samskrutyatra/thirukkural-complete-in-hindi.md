@@ -11,7 +11,7 @@ tags: [Chanting, Thiruvalluvar, Thirukkural in Hindi]
 categories:  [Chanting]  
     
 header:    
-   teaser: /assets/images/samskrut/Thiruvalluvar.jpg    
+   teaser: ../assets/images/samskrut/Thiruvalluvar.jpg    
     
 author: 'Hari Thapliyaal'    
     

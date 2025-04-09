@@ -8,7 +8,7 @@ tags: ['Mind', 'Mindfulness', 'Philosophy', 'Pleasure & Joy']
 
 categories: [wiaposts] 
 header:
-     teaser: /assets/images/wiapost/5015-Mind-And-Pleasure.jpg
+     teaser: ../assets/images/wiapost/5015-Mind-And-Pleasure.jpg
 author: Hari Thapliyaal 
 layout:   wiaposts-layout
 excerpt: 'Examining the intricate relationship between the mind and the pursuit of pleasure.' 

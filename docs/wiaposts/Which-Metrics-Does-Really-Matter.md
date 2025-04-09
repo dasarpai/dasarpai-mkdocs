@@ -8,7 +8,7 @@ tags: ['Philosophy for Business', 'Poetry']
 
 categories: [wiaposts] 
 header:
-     teaser: /assets/images/wiapost/5036-Which-Metrics-Does-Really-Matter.jpg
+     teaser: ../assets/images/wiapost/5036-Which-Metrics-Does-Really-Matter.jpg
 author: Hari Thapliyaal 
 layout:   wiaposts-layout
 excerpt: 'A philosophical inquiry into the metrics that truly matter in business and life.' 

@@ -9,7 +9,7 @@ categories:
   - dsblog
 keywords: [LLM Training, Model Architecture, Neural Network Design, AI Model Development, Deep Learning Training, Language Model Architecture, Transformer Networks, Model Optimization]
 header:
-    teaser: /assets/images/dspost/dsp6129-LLM-Architecture-and-Training.jpg
+    teaser: ../assets/images/dspost/dsp6129-LLM-Architecture-and-Training.jpg
 excerpt_separator: "<!--more-->"   
 author: Hari Thapliyaal   
 layout: dspost-layout   

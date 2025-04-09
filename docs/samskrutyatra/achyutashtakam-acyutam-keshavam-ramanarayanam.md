@@ -11,7 +11,7 @@ tags: [Bhajan, Vishnu, Chanting]
 categories: [Chanting]
     
 header:    
-   teaser: /assets/images/samskrut/Vishnu.jpg    
+   teaser: ../assets/images/samskrut/Vishnu.jpg    
     
 author: 'Hari Thapliyaal'    
     

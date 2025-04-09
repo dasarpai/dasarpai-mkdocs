@@ -11,7 +11,7 @@ tags:
 categories:
   - dsblog
 header:
-  teaser: /assets/images/dspost/dsp6197-Major-AI-Predictions-for-2025.jpg
+  teaser: ../assets/images/dspost/dsp6197-Major-AI-Predictions-for-2025.jpg
 excerpt_separator: "<!--more-->"
 author: Hari Thapliyaal
 layout: dspost-layout

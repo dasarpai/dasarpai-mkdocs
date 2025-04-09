@@ -13,7 +13,7 @@ tags:
   - 'Customized PM Courses'
 
 header:
-  teaser: /assets/images/pmlogy/pmc506-customized-pm.jpg
+  teaser: ../assets/images/pmlogy/pmc506-customized-pm.jpg
 
 author_profile: true
 last_modified_at: 2020-08-07T15:46:43-04:00

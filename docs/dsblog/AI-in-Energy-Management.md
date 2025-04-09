@@ -18,7 +18,7 @@ categories:
   - dsblog
 
 header:
-    teaser: /assets/images/dspost/dsp6046-AI-Usecases-in-Energy-Management.jpg
+    teaser: ../assets/images/dspost/dsp6046-AI-Usecases-in-Energy-Management.jpg
 excerpt_separator: "<!--more-->"   
 author: Hari Thapliyaal   
 layout: dspost-layout   

@@ -8,7 +8,7 @@ tags: [Book Summary]
                             
 categories:                            
 header:                            
-    teaser: /assets/images/booksummary/7509-The-4-Disciplines-of-Execution-by-Chris-McChesney.jpg                         
+    teaser: ../assets/images/booksummary/7509-The-4-Disciplines-of-Execution-by-Chris-McChesney.jpg                         
 author: Hari Thapliyaal                            
 layout: booksum-layout                            
 excerpt:                            

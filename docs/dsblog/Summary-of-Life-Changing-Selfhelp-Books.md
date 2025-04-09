@@ -9,7 +9,7 @@ categories:
   - dsblog
 keywords: [Self Help Books, Personal Development, Life Changing Books, Book Summaries, Personal Growth, Reading Lists, Motivational Books, Life Skills]
 header:
-    teaser: /assets/images/dspost/dsp6107-Summary-of-Life-Changing-Selfhelp-Books.jpg
+    teaser: ../assets/images/dspost/dsp6107-Summary-of-Life-Changing-Selfhelp-Books.jpg
     
 excerpt_separator: "<!--more-->"   
 author: Hari Thapliyaal   
@@ -26,7 +26,7 @@ mathjax: "true"
 
 [Download Link to this Diary](../assets/docs/Summaries-of-Books.pdf)
 
-<object data="/assets/docs/Summaries-of-Books.pdf" width="1000" height="1000" scroll=True type='application/pdf'></object>
+<object data="../assets/docs/Summaries-of-Books.pdf" width="1000" height="1000" scroll=True type='application/pdf'></object>
 
 1. The Inspirational Leader by Gifford Thomas
 1. The 5 Elements of Effective Thinking by Edward B. Burger

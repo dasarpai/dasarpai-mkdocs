@@ -8,7 +8,7 @@ tags: ['Indian Culture', 'Philosophy']
 
 categories: [wiaposts] 
 header:
-     teaser: /assets/images/wiapost/5028-Sources-Of-Evidence.jpg
+     teaser: ../assets/images/wiapost/5028-Sources-Of-Evidence.jpg
 author: Hari Thapliyaal 
 layout:   wiaposts-layout
 excerpt: 'An analysis of different sources of evidence and their impact on understanding.' 

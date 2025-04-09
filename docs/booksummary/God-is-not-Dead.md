@@ -9,7 +9,7 @@ tags:  [Book Summary, Science, Spirituality]
     
 categories:    
 header:    
-    teaser: /assets/images/booksummary/7520-God-is-not-Dead-What-Quantum-Physics-Tells-Us.jpg    
+    teaser: ../assets/images/booksummary/7520-God-is-not-Dead-What-Quantum-Physics-Tells-Us.jpg    
 author: Hari Thapliyaal    
 layout: booksum-layout    
 excerpt:    

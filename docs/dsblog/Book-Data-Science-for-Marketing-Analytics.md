@@ -14,7 +14,7 @@ tags:
   - Business Analytics
 keywords: marketing analytics, data science books, customer segmentation, predictive analytics, marketing data analysis, business intelligence, market research, customer behavior analysis, marketing metrics, data-driven marketing
 header:   
-  teaser: /assets/images/dspost/dsp6014-BookReview-Data-Science-for-Marketing-Analytics.jpg   
+  teaser: ../assets/images/dspost/dsp6014-BookReview-Data-Science-for-Marketing-Analytics.jpg   
 excerpt_separator: "<!--more-->"   
 author: Hari Thapliyaal   
 layout: dspost-layout   

@@ -7,7 +7,7 @@ tags: [Life, Education ]
 
 categories: [wiaposts] 
 header:
-     teaser: /assets/images/wiapost/5162-The-Biggest-Mistake.jpg
+     teaser: ../assets/images/wiapost/5162-The-Biggest-Mistake.jpg
 author: Hari Thapliyaal 
 layout:   wiaposts-layout
 excerpt:  

@@ -7,7 +7,7 @@ tags: [ 'My Views', Philosophy, Vedanta]
 
 categories: [wiaposts] 
 header:
-     teaser: /assets/images/wiapost/5146-A-Price-For-The-Wrong-Identification.jpg
+     teaser: ../assets/images/wiapost/5146-A-Price-For-The-Wrong-Identification.jpg
 author: Hari Thapliyaal 
 layout:   wiaposts-layout
 excerpt:  

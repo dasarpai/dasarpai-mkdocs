@@ -12,7 +12,7 @@ tags:
   - 'PMI RMP Courses'
 
 header:
-  teaser: /assets/images/pmlogy/pmc528-pmi-rmp.jpg
+  teaser: ../assets/images/pmlogy/pmc528-pmi-rmp.jpg
 
 author_profile: true
 last_modified_at: 2020-08-04T15:46:43-04:00

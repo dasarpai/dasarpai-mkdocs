@@ -13,7 +13,7 @@ tags:
 categories:
   - dsblog
 header:
-  teaser: /assets/images/dspost/dsp6189-Visualizing-transformers-and-attention.jpg
+  teaser: ../assets/images/dspost/dsp6189-Visualizing-transformers-and-attention.jpg
 excerpt_separator: "<!--more-->"
 author: Hari Thapliyaal
 layout: dspost-layout

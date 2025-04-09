@@ -7,7 +7,7 @@ tags:  [Science]
         
 categories: [wiaposts] 
 header:        
-    teaser: /assets/images/wiapost/5238-Navigating-Conflict-Power-and-Compassion.jpg        
+    teaser: ../assets/images/wiapost/5238-Navigating-Conflict-Power-and-Compassion.jpg        
 author: Hari Thapliyaal        
 layout:   wiaposts-layout
 excerpt:        

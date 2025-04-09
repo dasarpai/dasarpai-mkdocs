@@ -9,7 +9,7 @@ categories:
   - dsblog
 keywords: [LLM Security, AI Ethics, Data Privacy, Model Security, Responsible AI Development, AI Safety Measures, Ethical AI Guidelines, AI Risk Management]
 header:
-    teaser: /assets/images/dspost/dsp6128-LLM-Security-and-Ethics-Considerations.jpg
+    teaser: ../assets/images/dspost/dsp6128-LLM-Security-and-Ethics-Considerations.jpg
 excerpt_separator: "<!--more-->"   
 author: Hari Thapliyaal   
 layout: dspost-layout   

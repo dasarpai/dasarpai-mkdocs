@@ -13,9 +13,9 @@ author_profile: true
 classes: wide
 
 header:
-  overlay_image: /assets/images/banners/wia-banner.jpg
+  overlay_image: ../assets/images/banners/wia-banner.jpg
   overlay_filter: 0 # same as adding an opacity of 0.5 to a black background
-  teaser: /assets/images/banners/wia-thumbnail.jpg
+  teaser: ../assets/images/banners/wia-thumbnail.jpg
 excerpt: "These Quotations come from my reflection from the surface of lake called life. Great teachers like Mahatama Buddha, Lao Tzu, Adi Shankara, Ramakrushna Paramhamsa, Swami Vivekananda, Ramana Maharshi, J D Krishnamurthi, Osho, Sadguru, Swami Dayananda Sarawati, Swami Parmarthananda have shaped my mind and intellect"
 
 author_profile: true

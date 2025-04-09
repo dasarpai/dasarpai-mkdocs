@@ -8,7 +8,7 @@ tags:  [My Views, Life, Philosophy, Conflicts]
         
 categories: [wiaposts] 
 header:        
-    teaser: /assets/images/wiapost/5264-Why-there-is-Conflict-in-society.jpg        
+    teaser: ../assets/images/wiapost/5264-Why-there-is-Conflict-in-society.jpg        
 author: Hari Thapliyaal        
 layout:   wiaposts-layout        
 excerpt:        

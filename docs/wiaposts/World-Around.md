@@ -7,7 +7,7 @@ tags: [ Concepts, Life, Mind, 'My Views', Maya]
 
 categories: [wiaposts] 
 header:
-     teaser: /assets/images/wiapost/5145-World-Around.jpg
+     teaser: ../assets/images/wiapost/5145-World-Around.jpg
 author: Hari Thapliyaal 
 layout:   wiaposts-layout
 excerpt:  

@@ -8,7 +8,7 @@ tags: ['Philosophy']
 
 categories: [wiaposts] 
 header:
-     teaser: /assets/images/wiapost/5046-My-Significance.jpg
+     teaser: ../assets/images/wiapost/5046-My-Significance.jpg
 author: Hari Thapliyaal 
 layout:   wiaposts-layout
 excerpt: 'A philosophical reflection on personal significance and existence.' 

@@ -7,7 +7,7 @@ tags: [Education ]
 
 categories: [wiaposts] 
 header:
-     teaser: /assets/images/wiapost/5193-How-To-Engage-For-Imparting-Knowledge.jpg
+     teaser: ../assets/images/wiapost/5193-How-To-Engage-For-Imparting-Knowledge.jpg
 author: Hari Thapliyaal 
 layout:   wiaposts-layout
 excerpt:  

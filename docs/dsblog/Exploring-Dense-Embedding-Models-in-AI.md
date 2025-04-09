@@ -8,7 +8,7 @@ tags: [LLM Embeddings, LLM, Embeddings]
 categories:
   - dsblog
 header:
-    teaser: /assets/images/dspost/dsp6157-Exploring-Dense-Embedding-Models-in-AI.jpg
+    teaser: ../assets/images/dspost/dsp6157-Exploring-Dense-Embedding-Models-in-AI.jpg
 excerpt_separator: "<!--more-->"   
 author: Hari Thapliyaal   
 layout: dspost-layout   

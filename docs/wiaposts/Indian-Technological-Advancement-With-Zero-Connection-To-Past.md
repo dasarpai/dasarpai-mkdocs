@@ -7,7 +7,7 @@ tags: [Indian Culture, Science ]
 
 categories: [wiaposts] 
 header:
-     teaser: /assets/images/wiapost/5198-Indian-Technological-Advancement-With-Zero-Connection-To-Past.jpg
+     teaser: ../assets/images/wiapost/5198-Indian-Technological-Advancement-With-Zero-Connection-To-Past.jpg
 author: Hari Thapliyaal 
 layout:   wiaposts-layout
 excerpt:  

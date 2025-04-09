@@ -8,7 +8,7 @@ tags: ['Poetry', 'Prayers']
 
 categories: [wiaposts] 
 header:
-     teaser: /assets/images/wiapost/5055-The-Power-For-Prayer.jpg
+     teaser: ../assets/images/wiapost/5055-The-Power-For-Prayer.jpg
 author: Hari Thapliyaal 
 layout:   wiaposts-layout
 excerpt: 'Reflecting on the spiritual and emotional strength derived from prayer.' 

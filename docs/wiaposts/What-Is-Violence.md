@@ -8,7 +8,7 @@ tags: ['Concepts', 'Ethics & Morality', 'Philosophy']
 
 categories: [wiaposts] 
 header:
-     teaser: /assets/images/wiapost/5062-What-Is-Violence.jpg
+     teaser: ../assets/images/wiapost/5062-What-Is-Violence.jpg
 author: Hari Thapliyaal 
 layout:   wiaposts-layout
 excerpt: 'Exploring the nature of violence and its ethical implications.' 

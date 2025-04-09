@@ -11,7 +11,7 @@ tags:
 categories:
   - dsblog
 header:
-  teaser: /assets/images/dspost/dsp6213-Understanding-Working-of-CNN.jpg
+  teaser: ../assets/images/dspost/dsp6213-Understanding-Working-of-CNN.jpg
 excerpt_separator: "<!--more-->"
 author: John Doe
 layout: dspost-layout

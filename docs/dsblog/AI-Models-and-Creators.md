@@ -14,7 +14,7 @@ tags:
 categories:
   - dsblog
 header:
-  teaser: /assets/images/dspost/dsp6187-ai-models-and-creators.jpg
+  teaser: ../assets/images/dspost/dsp6187-ai-models-and-creators.jpg
 excerpt_separator: "<!--more-->"
 author: Hari Thapliyaal
 layout: dspost-layout

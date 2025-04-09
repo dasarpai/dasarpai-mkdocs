@@ -7,7 +7,7 @@ permalink: /wiaposts/Speed-of-Light-in-Rigveda
 tags:  [Vedanta,  Science]         
 categories: [wiaposts] 
 header:        
-    teaser: /assets/images/wiapost/5273-Speed-of-Light-in-Rigveda.jpg               
+    teaser: ../assets/images/wiapost/5273-Speed-of-Light-in-Rigveda.jpg               
 author: Hari Thapliyaal        
 layout:   wiaposts-layout        
 excerpt: "An exploration of the speed of light as described in the Rigveda, comparing ancient insights with modern scientific understanding."

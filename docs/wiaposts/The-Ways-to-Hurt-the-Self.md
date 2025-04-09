@@ -7,7 +7,7 @@ tags:  [My Views, Life, Philosophy]
         
 categories: [wiaposts] 
 header:        
-    teaser: /assets/images/wiapost/5234-The-Ways-to-Hurt-the-Self.jpg        
+    teaser: ../assets/images/wiapost/5234-The-Ways-to-Hurt-the-Self.jpg        
 author: Hari Thapliyaal        
 layout:   wiaposts-layout
 excerpt:        

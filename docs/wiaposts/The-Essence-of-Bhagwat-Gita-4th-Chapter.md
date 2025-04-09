@@ -5,7 +5,7 @@ title:  "The Essence of Bhagwat Gita: 4th Chapter"
 date: "2025-02-10T08:33:00+05:30"        
 permalink: /wiaposts/essence-of-bhagwat-gita-4th-chapter
 header:        
-    teaser: /assets/images/wiapost/5277-Essence-of-Bhagwat-Gita-4th-chapter.jpg               
+    teaser: ../assets/images/wiapost/5277-Essence-of-Bhagwat-Gita-4th-chapter.jpg               
 author: Hari Thapliyaal        
 layout:   wiaposts-layout        
 author_profile: true        

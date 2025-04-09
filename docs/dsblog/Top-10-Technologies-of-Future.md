@@ -14,7 +14,7 @@ tags:
   - Tech Future
 keywords: future technologies, emerging tech, technology trends 2025, quantum computing, artificial intelligence, blockchain, IoT, biotechnology, renewable energy, digital transformation
 header:
-  teaser: "/assets/images/dspost/dsp6004-Top-10-Future-Technologies.jpg"
+  teaser: "../assets/images/dspost/dsp6004-Top-10-Future-Technologies.jpg"
 excerpt_separator: "<!--more-->"   
 author: Hari Thapliyaal   
 layout: dspost-layout   

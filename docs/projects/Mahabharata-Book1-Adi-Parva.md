@@ -7,8 +7,8 @@ permalink: /mahabharat/mahabharata-adi-parva-exploration-with-qa
 date: 2024-01-04
 tags: [Publications]
 header:
-  teaser: /assets/images/projects/Mahabharata-Book1-bookCover3.jpg
-  # overlay_image: /assets/images/projects/mfpm-editation1.jpg
+  teaser: ../assets/images/projects/Mahabharata-Book1-bookCover3.jpg
+  # overlay_image: ../assets/images/projects/mfpm-editation1.jpg
   # overlay_filter: 0 # same as adding an opacity of 0.5 to a black background
 author_profile: false
 last_modified_at: 2024-01-04T15:46:43-04:00

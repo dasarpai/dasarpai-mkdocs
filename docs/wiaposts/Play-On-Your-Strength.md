@@ -7,7 +7,7 @@ tags: [Life ]
 
 categories: [wiaposts] 
 header:
-     teaser: /assets/images/wiapost/5172-Play-On-Your-Strength.jpg
+     teaser: ../assets/images/wiapost/5172-Play-On-Your-Strength.jpg
 author: Hari Thapliyaal 
 layout:   wiaposts-layout
 excerpt:  

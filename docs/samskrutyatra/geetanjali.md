@@ -11,7 +11,7 @@ tags: [Others]
 categories:
 
 header:
-   teaser: /assets/images/samskrut/MySamskrutYatra-min.jpg
+   teaser: ../assets/images/samskrut/MySamskrutYatra-min.jpg
 
 author: 'Hari Thapliyaal'
 

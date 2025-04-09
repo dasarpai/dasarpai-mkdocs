@@ -6,7 +6,7 @@ date: 2021-07-11
 categories:
 tags: [DS Resources, Chrome Tools, Chrome Extensions]
 header:
-  teaser:  /assets/images/dsresources/dsr111-My-Favorite-Chrome-Extensions.jpg
+  teaser:  ../assets/images/dsresources/dsr111-My-Favorite-Chrome-Extensions.jpg
 
 
 author_profile: true

@@ -7,9 +7,9 @@ title: "Summary of My Work / Achievments"
 author_profile: true
 classes: wide
 header:
-  overlay_image: /assets/images/banners/ai-ml-resources-Banner.jpg
+  overlay_image: ../assets/images/banners/ai-ml-resources-Banner.jpg
   overlay_filter: 0 # same as adding an opacity of 0.5 to a black background
-  teaser: /assets/images/banners/ai-ml-resources-thumbnail.jpg
+  teaser: ../assets/images/banners/ai-ml-resources-thumbnail.jpg
 ---
 
 Software Estimation Experience

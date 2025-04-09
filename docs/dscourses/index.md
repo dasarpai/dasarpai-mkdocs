@@ -4,15 +4,14 @@
 
 - ![AI Roadmap Consulting](../assets/images/dscourses/dsc319-AI-Roadmap-Consulting.jpg){ width="200" }
 
-    ### [AI Roadmap Consulting](dscourses/AI-Roadmap-Consulting.md)
+    ### [AI Roadmap Consulting](AI-Roadmap-Consulting)
     
     **Read time:** 5 min
     
     EXCERPT Not Found
-
 - ![AI Solution Consulting](../assets/images/dscourses/dsc318-AI-Solution-Consulting.jpg){ width="200" }
 
-    ### [AI Solution Consulting](dscourses/AI-Solution-Consulting.md)
+    ### [AI Solution Consulting](AI-Solution-Consulting)
     
     **Read time:** 5 min
     
@@ -24,15 +23,14 @@
 
 - ![Big Data](../assets/images/dscourses/dsc315-Big-Data.jpg){ width="200" }
 
-    ### [Big Data](dscourses/Big-Data.md)
+    ### [Big Data](Big-Data)
     
     **Read time:** 5 min
     
     EXCERPT Not Found
-
 - ![Train Tensorflow Lite Models for Android](../assets/images/dscourses/dsc322-Building-and-Deploying-Generative-AI-with-Amazon-Bedrock.jpg){ width="200" }
 
-    ### [Train Tensorflow Lite Models for Android](dscourses/Building-and-Deploying-Generative-AI-with-Amazon-Bedrock.md)
+    ### [Train Tensorflow Lite Models for Android](Building-and-Deploying-Generative-AI-with-Amazon-Bedrock)
     
     **Read time:** 5 min
     
@@ -44,15 +42,14 @@
 
 - ![Data Consulting](../assets/images/dscourses/dsc317-Data-Consulting.jpg){ width="200" }
 
-    ### [Data Consulting](dscourses/Data-Consulting.md)
+    ### [Data Consulting](Data-Consulting)
     
     **Read time:** 5 min
     
     EXCERPT Not Found
-
 - ![Data Engineering](../assets/images/dscourses/dsc309-Data-Engineering.jpg){ width="200" }
 
-    ### [Data Engineering](dscourses/Data-Engineering.md)
+    ### [Data Engineering](Data-Engineering)
     
     **Read time:** 5 min
     
@@ -64,15 +61,14 @@
 
 - ![Deep Learning for Computer Vision](../assets/images/dscourses/dsc304-Deep-Learning-for-Computer-Vision.jpg){ width="200" }
 
-    ### [Deep Learning for Computer Vision](dscourses/Deep-Learning-Computer-Vision.md)
+    ### [Deep Learning for Computer Vision](Deep-Learning-Computer-Vision)
     
     **Read time:** 5 min
     
     EXCERPT Not Found
-
 - ![Design for Cloud Computing with GCP](../assets/images/dscourses/dsc320-Design-for-Cloud-Computing-with-GCP.jpg){ width="200" }
 
-    ### [Design for Cloud Computing with GCP](dscourses/Design-for-Cloud-Computing-with-GCP.md)
+    ### [Design for Cloud Computing with GCP](Design-for-Cloud-Computing-with-GCP)
     
     **Read time:** 5 min
     
@@ -84,15 +80,14 @@
 
 - ![Train Tensorflow Lite Models for Android](../assets/images/dscourses/dsc330-Developing-Solutions-with-AgenticAI.jpg){ width="200" }
 
-    ### [Train Tensorflow Lite Models for Android](dscourses/Developing-Solutions-with-AgenticAI.md)
+    ### [Train Tensorflow Lite Models for Android](Developing-Solutions-with-AgenticAI)
     
     **Read time:** 5 min
     
     EXCERPT Not Found
-
 - ![Explainable AI](../assets/images/dscourses/dsc311-Explainable-AI.jpg){ width="200" }
 
-    ### [Explainable AI](dscourses/Explainable-AI.md)
+    ### [Explainable AI](Explainable-AI)
     
     **Read time:** 5 min
     
@@ -104,15 +99,14 @@
 
 - ![AI Powered Account Management Strategies](../assets/images/dscourses/dsc329-GenAI-for-Account-Management-Strategies.jpg){ width="200" }
 
-    ### [AI Powered Account Management Strategies](dscourses/GenAI-for-Account-Management-Strategies.md)
+    ### [AI Powered Account Management Strategies](GenAI-for-Account-Management-Strategies)
     
     **Read time:** 5 min
     
     EXCERPT Not Found
-
 - ![GenAI for AI-Assisted Programming](../assets/images/dscourses/dsc324-GenAI-for-AI-Assisted-Programming.jpg){ width="200" }
 
-    ### [GenAI for AI-Assisted Programming](dscourses/GenAI-for-AI-Assisted-Programming.md)
+    ### [GenAI for AI-Assisted Programming](GenAI-for-AI-Assisted-Programming)
     
     **Read time:** 5 min
     
@@ -124,15 +118,14 @@
 
 - ![AI-Powered DevOps for AIOps](../assets/images/dscourses/dsc325-AI-Powered-DevOps-for-AIOps.jpg){ width="200" }
 
-    ### [AI-Powered DevOps for AIOps](dscourses/GenAI-for-AIOps.md)
+    ### [AI-Powered DevOps for AIOps](GenAI-for-AIOps)
     
     **Read time:** 5 min
     
     EXCERPT Not Found
-
 - ![GenAI for ALL](../assets/images/dscourses/dsc323-GenAI-for-ALL.jpg){ width="200" }
 
-    ### [GenAI for ALL](dscourses/GenAI-for-ALL.md)
+    ### [GenAI for ALL](GenAI-for-ALL)
     
     **Read time:** 5 min
     
@@ -144,15 +137,14 @@
 
 - ![Generative AI for Client and Stakeholder Engagement](../assets/images/dscourses/dsc328-GenAI-for-Client-and-Stakeholder-Engagement.jpg){ width="200" }
 
-    ### [Generative AI for Client and Stakeholder Engagement](dscourses/GenAI-for-Client-and-Stakeholder-Engagement.md)
+    ### [Generative AI for Client and Stakeholder Engagement](GenAI-for-Client-and-Stakeholder-Engagement)
     
     **Read time:** 5 min
     
     EXCERPT Not Found
-
 - ![Developing GenAI Solutions with LangChain & LlamaIndex](../assets/images/dscourses/dsc327-GenAI-for-Developing-Solutions-with-RAG.jpg){ width="200" }
 
-    ### [Developing GenAI Solutions with LangChain & LlamaIndex](dscourses/GenAI-for-Developing-Solutions-with-RAG.md)
+    ### [Developing GenAI Solutions with LangChain & LlamaIndex](GenAI-for-Developing-Solutions-with-RAG)
     
     **Read time:** 5 min
     
@@ -164,15 +156,14 @@
 
 - ![Generative AI for Sales and Marketing](../assets/images/dscourses/dsc326-GenAI-for-Sales-and-Marketing.jpg){ width="200" }
 
-    ### [Generative AI for Sales and Marketing](dscourses/GenAI-for-Sales-and-Marketing.md)
+    ### [Generative AI for Sales and Marketing](GenAI-for-Sales-and-Marketing)
     
     **Read time:** 5 min
     
     EXCERPT Not Found
-
 - ![Machine Learning for Timeseries](../assets/images/dscourses/dsc302-Machine-Learning-for-Timeseries.jpg){ width="200" }
 
-    ### [Machine Learning for Timeseries](dscourses/Machine-Learning-for-Timeseries.md)
+    ### [Machine Learning for Timeseries](Machine-Learning-for-Timeseries)
     
     **Read time:** 5 min
     
@@ -184,15 +175,14 @@
 
 - ![Machine Learning Course](../assets/images/dscourses/dsc301-Machine-Learning.jpg){ width="200" }
 
-    ### [Machine Learning Course](dscourses/Machine-Learning.md)
+    ### [Machine Learning Course](Machine-Learning)
     
     **Read time:** 5 min
     
     EXCERPT Not Found
-
 - ![Mathematics for Data Scientist](../assets/images/dscourses/dsc305-Mathematics-for-Data-Scientist.jpg){ width="200" }
 
-    ### [Mathematics for Data Scientist](dscourses/Mathematics-for-Data-Scientist.md)
+    ### [Mathematics for Data Scientist](Mathematics-for-Data-Scientist)
     
     **Read time:** 5 min
     
@@ -204,15 +194,14 @@
 
 - ![Microsoft Excel](../assets/images/dscourses/dsc310-Microsoft-Excel.jpg){ width="200" }
 
-    ### [Microsoft Excel](dscourses/Microsoft-Excel.md)
+    ### [Microsoft Excel](Microsoft-Excel)
     
     **Read time:** 5 min
     
     EXCERPT Not Found
-
 - ![Natural Language Processing](../assets/images/dscourses/dsc303-Natural-Language-Processing.jpg){ width="200" }
 
-    ### [Natural Language Processing](dscourses/Natural-Language-Processing.md)
+    ### [Natural Language Processing](Natural-Language-Processing)
     
     **Read time:** 5 min
     
@@ -224,15 +213,14 @@
 
 - ![Pandas for Data Science](../assets/images/dscourses/dsc307-Pandas-for-Data-Science.jpg){ width="200" }
 
-    ### [Pandas for Data Science](dscourses/Pandas-for-Data-Science.md)
+    ### [Pandas for Data Science](Pandas-for-Data-Science)
     
     **Read time:** 5 min
     
     EXCERPT Not Found
-
 - ![Power BI](../assets/images/dscourses/dsc313-Power-BI.jpg){ width="200" }
 
-    ### [Power BI](dscourses/Power-BI.md)
+    ### [Power BI](Power-BI)
     
     **Read time:** 5 min
     
@@ -244,15 +232,14 @@
 
 - ![Python For Data Science](../assets/images/dscourses/dsc308-Python-For-Data-Science.jpg){ width="200" }
 
-    ### [Python For Data Science](dscourses/Python-for-Data-Science.md)
+    ### [Python For Data Science](Python-for-Data-Science)
     
     **Read time:** 5 min
     
     EXCERPT Not Found
-
 - ![RDBMS](../assets/images/dscourses/dsc316-RDBMS.jpg){ width="200" }
 
-    ### [RDBMS](dscourses/RDBMS.md)
+    ### [RDBMS](RDBMS)
     
     **Read time:** 5 min
     
@@ -264,15 +251,14 @@
 
 - ![Reinforcement Learning](../assets/images/dscourses/dsc312-Reinforcement-Learning.jpg){ width="200" }
 
-    ### [Reinforcement Learning](dscourses/Reinforcement-Learning.md)
+    ### [Reinforcement Learning](Reinforcement-Learning)
     
     **Read time:** 5 min
     
     EXCERPT Not Found
-
 - ![Statistics For Data Science](../assets/images/dscourses/dsc306-Statistics-For-Data-Science.jpg){ width="200" }
 
-    ### [Statistics For Data Science](dscourses/Statistics-for-Data-Science.md)
+    ### [Statistics For Data Science](Statistics-for-Data-Science)
     
     **Read time:** 5 min
     
@@ -284,15 +270,14 @@
 
 - ![Tableau](../assets/images/dscourses/dsc314-Tableau.jpg){ width="200" }
 
-    ### [Tableau](dscourses/Tableau.md)
+    ### [Tableau](Tableau)
     
     **Read time:** 5 min
     
     EXCERPT Not Found
-
 - ![Train Tensorflow Lite Models for Android](../assets/images/dscourses/dsc321-Train-Tensorflow-Lite-Models-for-Android.jpg){ width="200" }
 
-    ### [Train Tensorflow Lite Models for Android](dscourses/Train-Tensorflow-Lite-Models-for-Android.md)
+    ### [Train Tensorflow Lite Models for Android](Train-Tensorflow-Lite-Models-for-Android)
     
     **Read time:** 10 min
     

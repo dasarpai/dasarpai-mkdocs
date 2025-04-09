@@ -11,7 +11,7 @@ tags: [Taitriya, Upanishad]
 categories:    
     
 header:    
-   teaser: /assets/images/samskrut/Upanishad.jpg    
+   teaser: ../assets/images/samskrut/Upanishad.jpg    
     
 author: 'Hari Thapliyaal'    
     

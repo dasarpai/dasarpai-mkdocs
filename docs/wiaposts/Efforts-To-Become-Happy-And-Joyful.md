@@ -7,7 +7,7 @@ tags: [Life ]
 
 categories: [wiaposts] 
 header:
-     teaser: /assets/images/wiapost/5202-Efforts-To-Become-Happy-And-Joyful.jpg
+     teaser: ../assets/images/wiapost/5202-Efforts-To-Become-Happy-And-Joyful.jpg
 author: Hari Thapliyaal 
 layout:   wiaposts-layout
 excerpt:  

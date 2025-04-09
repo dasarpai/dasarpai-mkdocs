@@ -8,7 +8,7 @@ tags: [ 'Bhagwat Gita', 'Indian Culture']
 
 categories: 
 header:
-     teaser: /assets/images/gk/7001-Types-Of-Gitas.jpg
+     teaser: ../assets/images/gk/7001-Types-Of-Gitas.jpg
 author: Hari Thapliyaal 
 layout: single 
 excerpt:  

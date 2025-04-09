@@ -7,7 +7,7 @@ tags:  [Life-Philosophy, "Annual Wishes"]
             
 categories: [wiaposts] 
 header:            
-    teaser: /assets/images/wiapost/5246-Happy-New-Year-2024.jpg            
+    teaser: ../assets/images/wiapost/5246-Happy-New-Year-2024.jpg            
 author: Hari Thapliyaal            
 layout:   wiaposts-layout
 excerpt:            

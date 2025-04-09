@@ -5,7 +5,7 @@ title:  "The Essence of Bhagwat Gita: 2nd Chapter"
 date: "2025-02-12"        
 permalink: /wiaposts/essence-of-bhagwat-gita-2nd-chapter
 header:        
-    teaser: /assets/images/wiapost/5279-Essence-of-Bhagwat-Gita-2nd-Chapter.jpg               
+    teaser: ../assets/images/wiapost/5279-Essence-of-Bhagwat-Gita-2nd-Chapter.jpg               
 author: Hari Thapliyaal        
 layout:   wiaposts-layout        
 author_profile: true        

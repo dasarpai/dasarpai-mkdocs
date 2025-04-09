@@ -8,7 +8,7 @@ tags:  [My Views, Life, Philosophy]
         
 categories: [wiaposts] 
 header:        
-    teaser: /assets/images/wiapost/5260-what-is-relationship.jpg        
+    teaser: ../assets/images/wiapost/5260-what-is-relationship.jpg        
 author: Hari Thapliyaal        
 layout:   wiaposts-layout        
 excerpt:        

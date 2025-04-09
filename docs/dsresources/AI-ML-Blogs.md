@@ -7,7 +7,7 @@ categories:
 tags: [DS Resources, AI Blogs]
 
 header:
-  teaser:  /assets/images/dsresources/dsr109-AI-ML-DL-Blogs-Sites.jpg
+  teaser:  ../assets/images/dsresources/dsr109-AI-ML-DL-Blogs-Sites.jpg
 
 
 author_profile: true

@@ -8,7 +8,7 @@ tags: ["Hugging Face", "Language Models", "Natural Language Processing", "GPT", 
 categories:
   - dsblog
 header:
-    teaser: /assets/images/dspost/dsp6138-Variations-of-Language-Model-in-Huggingface.jpg
+    teaser: ../assets/images/dspost/dsp6138-Variations-of-Language-Model-in-Huggingface.jpg
 excerpt_separator: "<!--more-->"   
 author: Hari Thapliyaal   
 layout: dspost-layout   

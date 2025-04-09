@@ -18,7 +18,7 @@ categories:
   - dsblog
 
 header:
-    teaser: /assets/images/dspost/dsp6061-Google-Cloud-Service-Catalog.jpg
+    teaser: ../assets/images/dspost/dsp6061-Google-Cloud-Service-Catalog.jpg
 excerpt_separator: "<!--more-->"   
 author: Hari Thapliyaal   
 layout: dspost-layout   

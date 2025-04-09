@@ -11,7 +11,7 @@ tags:
   - "Philosophy"
 categories:
 header:
-  teaser: /assets/images/booksummary/7541-The-Beginning-of-Infinity.jpg
+  teaser: ../assets/images/booksummary/7541-The-Beginning-of-Infinity.jpg
 author: Hari Thapliyaal
 layout: booksum-layout
 excerpt: "A summary of 'The Beginning of Infinity' in 18 key points. "

@@ -8,7 +8,7 @@ tags: ['Concepts', 'Life', 'Mindfulness', 'Philosophy']
 
 categories: [wiaposts] 
 header:
-     teaser: /assets/images/wiapost/5074-A-Witness-Of-The-Transformation.jpg
+     teaser: ../assets/images/wiapost/5074-A-Witness-Of-The-Transformation.jpg
 author: Hari Thapliyaal 
 layout:   wiaposts-layout
 excerpt: 'Observing the journey of personal transformation through mindfulness and awareness.' 

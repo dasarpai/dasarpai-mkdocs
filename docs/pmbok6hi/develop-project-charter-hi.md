@@ -6,7 +6,7 @@ date: '2021-02-17T09:03:18+00:00'
 author: 'Hari Thapliyaal'
 
 header:
-   teaser: /assets/images/pmlogy/PMBOK-Process-DPC.png
+   teaser: ../assets/images/pmlogy/PMBOK-Process-DPC.png
 tags:
     - 'Hindi Terms'
     - 'PMBOK Initiating PG Hindi'

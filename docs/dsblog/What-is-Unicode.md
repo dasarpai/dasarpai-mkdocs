@@ -9,7 +9,7 @@ categories:
   - dsblog
 keywords: [Unicode Standard, Character Encoding, UTF-8, UTF-16, UTF-32, Text Processing, International Text, Character Sets, Text Representation]
 header:
-    teaser: /assets/images/dspost/dsp6114-what-is-unicode-and-how-does-it-works.jpg
+    teaser: ../assets/images/dspost/dsp6114-what-is-unicode-and-how-does-it-works.jpg
 excerpt_separator: "<!--more-->"   
 author: Hari Thapliyaal   
 layout: dspost-layout   

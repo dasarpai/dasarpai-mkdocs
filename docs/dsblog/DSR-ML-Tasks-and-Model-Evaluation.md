@@ -10,7 +10,7 @@ categories:
 tags: [DS Resources, Model Evaluation, Machine Learning Tasks, NLP Tasks, NLP Model Evaluation]
 keywords: model evaluation metrics, machine learning evaluation, BLEU score, GLUE benchmark, SuperGLUE, NLP tasks, model performance, evaluation metrics, machine translation metrics, model benchmarking
 header:
-  teaser:  /assets/images/dsresources/dsr114-ml-tasks-and-model-evaluation.jpg
+  teaser:  ../assets/images/dsresources/dsr114-ml-tasks-and-model-evaluation.jpg
 last_modified_at: 2021-06-15T15:46:43-04:00
 excerpt_separator: "<!--more-->"   
 author: Hari Thapliyaal   

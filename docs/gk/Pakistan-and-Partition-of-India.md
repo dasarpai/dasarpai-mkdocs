@@ -8,7 +8,7 @@ tags: [Pakistan, Partition of India, Indian History, Freedom Struggle of India, 
 keywords: [Pakistan and India Partition, Freedom Struggle of India, Independence of India, Indian History, British Rule in India]
 categories: [GK, History, Indian Independence]
 header:
-    teaser: /assets/images/default/gkblog.jpg    
+    teaser: ../assets/images/default/gkblog.jpg    
 author: Jane Doe
 layout: single
 excerpt: "The partition of India and the creation of Pakistan is one of the most significant events in the history of the Indian subcontinent. This article provides all the information you need to know about the partition of India and the creation of Pakistan."

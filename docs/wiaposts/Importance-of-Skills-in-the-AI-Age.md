@@ -7,7 +7,7 @@ tags:  [My Views, Life, Philosophy]
     
 categories: [wiaposts] 
 header:    
-    teaser: /assets/images/wiapost/5227-Importance-of-Skills-in-the-AI-Age.jpg    
+    teaser: ../assets/images/wiapost/5227-Importance-of-Skills-in-the-AI-Age.jpg    
 author: Hari Thapliyaal    
 layout:   wiaposts-layout
 excerpt:    

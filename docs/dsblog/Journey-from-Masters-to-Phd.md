@@ -9,7 +9,7 @@ categories:
   - dsblog
 keywords: [PhD in Data Science, AI Research Journey, Academic Research, Research Methodology, Doctoral Studies, Research Experience, Higher Education, Academic Career]
 header:
-    teaser: /assets/images/dspost/dsp6100-Journey-from-MS-to-Phd.jpg
+    teaser: ../assets/images/dspost/dsp6100-Journey-from-MS-to-Phd.jpg
 excerpt_separator: "<!--more-->"   
 author: Hari Thapliyaal   
 layout: dspost-layout   

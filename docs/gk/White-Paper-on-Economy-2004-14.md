@@ -8,7 +8,7 @@ tags: [Education, Indian-Economy]
         
 categories:        
 header:        
-    teaser: /assets/images/gk/7008-White-Paper-on-Indian-Economy.jpg        
+    teaser: ../assets/images/gk/7008-White-Paper-on-Indian-Economy.jpg        
 author: Hari Thapliyaal        
 layout: single        
 excerpt:        

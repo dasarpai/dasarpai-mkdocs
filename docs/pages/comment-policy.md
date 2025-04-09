@@ -8,7 +8,7 @@ date: 2018-01-28
 tags: [Admin]
 excerpt: ""
 header:
-  overlay_image: /assets/images/banners/ai-ml-resources-Banner.jpg
+  overlay_image: ../assets/images/banners/ai-ml-resources-Banner.jpg
   overlay_filter: 0
 
 author_profile: true

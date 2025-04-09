@@ -15,7 +15,7 @@ tags:
   - ML Courses
 
 header:
-  teaser: "/assets/images/dscourses/dsc315-Big-Data.jpg"
+  teaser: "../assets/images/dscourses/dsc315-Big-Data.jpg"
 
 author_profile: true
 last_modified_at: 2021-09-29T15:46:43-04:00

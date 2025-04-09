@@ -9,7 +9,7 @@ tags:  [Book Summary, Science, Spirituality]
     
 categories:    
 header:    
-    teaser: /assets/images/booksummary/7521-The-Self-Aware-Universe.jpg    
+    teaser: ../assets/images/booksummary/7521-The-Self-Aware-Universe.jpg    
 author: Hari Thapliyaal    
 layout: booksum-layout    
 excerpt:    

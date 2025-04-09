@@ -8,7 +8,7 @@ tags: ['Concepts', 'Philosophy']
 
 categories: [wiaposts] 
 header:
-     teaser: /assets/images/wiapost/5079-Happening-Human-Reasoning.jpg
+     teaser: ../assets/images/wiapost/5079-Happening-Human-Reasoning.jpg
 author: Hari Thapliyaal 
 layout:   wiaposts-layout
 excerpt: 'Analyzing the dynamic nature of human reasoning and its philosophical implications.'

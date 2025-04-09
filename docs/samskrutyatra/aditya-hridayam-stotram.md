@@ -11,7 +11,7 @@ tags: [Prayer, Stotram, Chanting]
 categories: [Chanting]
     
 header:    
-   teaser: /assets/images/samskrut/GayatriDevata.jpg    
+   teaser: ../assets/images/samskrut/GayatriDevata.jpg    
     
 author: 'Hari Thapliyaal'    
     

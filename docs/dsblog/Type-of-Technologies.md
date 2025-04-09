@@ -19,7 +19,7 @@ categories:
   - dsblog
 
 header:
-    teaser: /assets/images/dspost/dsp6052-Types-of-Technologies.jpg
+    teaser: ../assets/images/dspost/dsp6052-Types-of-Technologies.jpg
 excerpt_separator: "<!--more-->"   
 author: Hari Thapliyaal   
 layout: dspost-layout   

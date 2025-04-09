@@ -13,7 +13,7 @@ tags: [Process Consulting]
 
 
 header:
-  teaser: /assets/images/pmlogy/pmc524-iso9001-consulting.jpg
+  teaser: ../assets/images/pmlogy/pmc524-iso9001-consulting.jpg
 
 layout: single
 author_profile: true

@@ -11,7 +11,7 @@ tags:
 categories:
   - dsblog
 header:
-  teaser: /assets/images/dspost/dsp6214-Understanding-Contextual-Embedding-in-Transformer.jpg
+  teaser: ../assets/images/dspost/dsp6214-Understanding-Contextual-Embedding-in-Transformer.jpg
 excerpt_separator: "<!--more-->"
 author: Jane Smith
 layout: dspost-layout

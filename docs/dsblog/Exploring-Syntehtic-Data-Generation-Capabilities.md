@@ -8,7 +8,7 @@ tags: ["Synthetic Data", "Data Privacy", "Data Anonymization", Programming]
 categories:
   - dsblog
 header:
-    teaser: /assets/images/dspost/dsp6163-Exploring-Synthetic-Data-Generation-Capabilities.jpg
+    teaser: ../assets/images/dspost/dsp6163-Exploring-Synthetic-Data-Generation-Capabilities.jpg
 excerpt_separator: "<!--more-->"   
 author: Hari Thapliyaal   
 layout: dspost-layout   

@@ -11,7 +11,7 @@ tags: [Prayer, Guru]
 categories:
 
 header:
-   teaser: /assets/images/samskrut/Sri-Ramakrishna.jpg
+   teaser: ../assets/images/samskrut/Sri-Ramakrishna.jpg
 
 author: 'Hari Thapliyaal'
 

@@ -11,7 +11,7 @@ tags:
 categories:
   - dsblog
 header:
-  teaser: /assets/images/dspost/dsp6208-Understanding-Callbacks.jpg
+  teaser: ../assets/images/dspost/dsp6208-Understanding-Callbacks.jpg
 excerpt_separator: "<!--more-->"
 author: Hari Thapliyaal
 layout: dspost-layout

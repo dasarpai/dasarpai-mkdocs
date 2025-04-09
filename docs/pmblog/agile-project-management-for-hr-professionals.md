@@ -9,7 +9,7 @@ tags:
 categories:
   - pmblog
 header:
-  teaser: '/assets/images/pmblog/1035-Agile-HR-min.png'
+  teaser: '../assets/images/pmblog/1035-Agile-HR-min.png'
 layout: single
 
 author: 'Hari Thapliyaal'

@@ -13,7 +13,7 @@ tags:
   - "Depression"
 categories:
 header:
-  teaser: /assets/images/booksummary/7539-The-Anxious-Generation.jpg
+  teaser: ../assets/images/booksummary/7539-The-Anxious-Generation.jpg
 author: Hari Thapliyaal
 layout: booksum-layout
 excerpt: "A summary of 'The Anxious Generation: How The Great Rewiring of Childhood Is Causing an Epidemic of Mental Illness' in 11 key points. "

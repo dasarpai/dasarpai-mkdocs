@@ -12,7 +12,7 @@ categories:
 tags: [Microsoft Project Courses]
 
 header:
-  teaser: /assets/images/pmlogy/pmc518-microsoft-enterprise-project-server-for-executives.jpg
+  teaser: ../assets/images/pmlogy/pmc518-microsoft-enterprise-project-server-for-executives.jpg
 
 author_profile: true
 last_modified_at: 2020-08-08T15:46:43-04:00

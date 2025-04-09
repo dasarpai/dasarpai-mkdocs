@@ -7,8 +7,8 @@ permalink: /AI-Powered-Historical-Book-Question-Answering
 date: 2023-11-15
 tags: [Publications]
 header:
-  teaser: /assets/images/projects/AI-Powered-Historical-Book-Question-Answering.jpg
-  # overlay_image: /assets/images/projects/AI-Powered-Historical-Book-Question-Answering.jpg
+  teaser: ../assets/images/projects/AI-Powered-Historical-Book-Question-Answering.jpg
+  # overlay_image: ../assets/images/projects/AI-Powered-Historical-Book-Question-Answering.jpg
   # overlay_filter: 0 # same as adding an opacity of 0.5 to a black background
 author_profile: false
 last_modified_at: 2023-11-15T15:46:43-04:00

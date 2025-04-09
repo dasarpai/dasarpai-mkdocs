@@ -18,7 +18,7 @@ categories:
   - Cloud Computing
 
 header:
-  teaser: /assets/images/dspost/dsp6249-exploring-hosting-types.jpg
+  teaser: ../assets/images/dspost/dsp6249-exploring-hosting-types.jpg
 excerpt_separator: "<!--more-->"
 author: Hari Thapliyaal
 layout: dspost-layout

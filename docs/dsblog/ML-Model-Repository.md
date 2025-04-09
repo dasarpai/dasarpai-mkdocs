@@ -9,7 +9,7 @@ categories:
   - dsblog
 keywords: [Machine Learning Models, Model Repository, Pretrained Models, Deep Learning Resources, Computer Vision Models, NLP Models, Model Deployment, AI Development Tools]
 header:
-    teaser: /assets/images/dspost/dsp6095-ML-Model-Repository-from-Pinto0309.jpg
+    teaser: ../assets/images/dspost/dsp6095-ML-Model-Repository-from-Pinto0309.jpg
 excerpt_separator: "<!--more-->"   
 author: Hari Thapliyaal   
 layout: dspost-layout   

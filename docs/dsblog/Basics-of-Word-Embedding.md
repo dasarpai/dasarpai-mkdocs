@@ -9,7 +9,7 @@ categories:
   - dsblog
 keywords: [Word Embeddings, Text Vectorization, Natural Language Processing, Word2Vec, GloVe, BERT Embeddings, Neural Language Models, Text Analysis]
 header:
-    teaser: /assets/images/dspost/dsp6101-Basics-of-Word-Embedding.jpg
+    teaser: ../assets/images/dspost/dsp6101-Basics-of-Word-Embedding.jpg
 excerpt_separator: "<!--more-->"   
 author: Hari Thapliyaal   
 layout: dspost-layout   

@@ -18,7 +18,7 @@ categories:
   - dsblog
 
 header:
-   teaser: /assets/images/dspost/dsp6048-Application-of-AI-in-BFSI.jpg
+   teaser: ../assets/images/dspost/dsp6048-Application-of-AI-in-BFSI.jpg
 excerpt_separator: "<!--more-->"   
 author: Hari Thapliyaal   
 layout: dspost-layout   

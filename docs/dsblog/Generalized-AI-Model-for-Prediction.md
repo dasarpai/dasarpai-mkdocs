@@ -10,7 +10,7 @@ tags:
   - Generalized ML Model 
 keywords: generalized AI models, machine learning prediction, model generalization, multi-modal AI, feature selection, model performance, predictive modeling, AI model development, model accuracy, model scalability
 header:
-  teaser: "/assets/images/dspost/dsp6009-Generalized-AI-Model-for-Prediction.jpg"
+  teaser: "../assets/images/dspost/dsp6009-Generalized-AI-Model-for-Prediction.jpg"
 excerpt_separator: "<!--more-->"   
 author: Hari Thapliyaal   
 layout: dspost-layout   

@@ -8,7 +8,7 @@ tags: [Education, Astrology, Astronomy]
         
 categories:        
 header:        
-    teaser: /assets/images/gk/7007-What-is-Solstice-and-Equinox.jpg        
+    teaser: ../assets/images/gk/7007-What-is-Solstice-and-Equinox.jpg        
 author: Hari Thapliyaal        
 layout: single        
 excerpt:        

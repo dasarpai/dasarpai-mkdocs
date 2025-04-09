@@ -8,7 +8,7 @@ tags: [Nakshatra, Indian Astrology, Hindu Mythology, Astronomy, Stars, Planets, 
 keywords: [Nakshatra, Nakshatras, Indian Astrology, Hindu Mythology, Vedic Astrology, Jyotish, Astronomy, Cosmology]
 categories:        
 header:        
-    teaser: /assets/images/default/gkblog.jpg        
+    teaser: ../assets/images/default/gkblog.jpg        
 author: Hari Thapliyaal        
 layout: single        
 excerpt:        

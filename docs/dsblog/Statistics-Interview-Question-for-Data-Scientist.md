@@ -20,7 +20,7 @@ keywords: [statistics interview questions, data science statistics, probability 
 excerpt: "A comprehensive collection of statistics interview questions for data scientists, covering fundamental concepts like probability theory, hypothesis testing, statistical distributions, and data analysis methods. Learn about descriptive and inferential statistics, correlation analysis, statistical measures, and practical applications with real-world examples."
    
 header:  
-  teaser: "/assets/images/dspost/dsp6025-Statistics-Interview-Question-for-Data-Scientist.jpg"  
+  teaser: "../assets/images/dspost/dsp6025-Statistics-Interview-Question-for-Data-Scientist.jpg"  
 excerpt_separator: "<!--more-->"   
 author: Hari Thapliyaal   
 layout: dspost-layout   

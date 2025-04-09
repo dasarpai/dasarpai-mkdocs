@@ -7,7 +7,7 @@ tags: [Philosophy, My Views]
                     
 categories: [wiaposts] 
 header:                    
-    teaser: /assets/images/wiapost/5212-You-Can-Never-Speak-the-Truth.jpg                   
+    teaser: ../assets/images/wiapost/5212-You-Can-Never-Speak-the-Truth.jpg                   
 author: Hari Thapliyaal                    
 layout:   wiaposts-layout
 excerpt:                    

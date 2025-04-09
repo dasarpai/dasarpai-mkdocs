@@ -9,7 +9,7 @@ categories:
   - dsblog
 keywords: [AI Hype, Technology Impact, Future of AI, Digital Transformation, AI Ethics, Technological Change, Societal Changes, AI Development, Technology Trends]
 header:
-    teaser: /assets/images/dspost/dsp6139-All-About-ai-Hype.jpg
+    teaser: ../assets/images/dspost/dsp6139-All-About-ai-Hype.jpg
 excerpt_separator: "<!--more-->"   
 author: Hari Thapliyaal   
 layout: dspost-layout   

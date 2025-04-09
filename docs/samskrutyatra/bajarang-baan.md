@@ -11,7 +11,7 @@ tags: [Bhajan, Chanting]
 categories: [Chanting]
     
 header:    
-   teaser: /assets/images/samskrut/Hanumanji.jpg    
+   teaser: ../assets/images/samskrut/Hanumanji.jpg    
     
 author: 'Hari Thapliyaal'    
     

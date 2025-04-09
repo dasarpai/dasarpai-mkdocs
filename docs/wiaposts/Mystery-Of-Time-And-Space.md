@@ -7,7 +7,7 @@ tags: [ Concepts]
 keywords: ["exploring the mystery of time and space", "philosophical insights on time", "understanding space through philosophy", "conceptual exploration of time and space", "poetic reflections on temporal and spatial concepts"]  
 categories: [wiaposts] 
 header:
-     teaser: /assets/images/wiapost/5107-Mystery-Of-Time-And-Space.jpg
+     teaser: ../assets/images/wiapost/5107-Mystery-Of-Time-And-Space.jpg
 author: Hari Thapliyaal 
 layout:   wiaposts-layout
 excerpt: A philosophical and poetic exploration of the mysteries of time and space, delving into conceptual insights and reflections.

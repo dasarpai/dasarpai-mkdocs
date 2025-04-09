@@ -10,7 +10,7 @@ categories:
 tags: [DS Resources, AI Blogs]
 keywords: AI blogs, machine learning blogs, deep learning resources, data science websites, tech blogs, ML tutorials, AI news, research blogs, industry insights, educational resources
 header:
-  teaser:  /assets/images/dsresources/dsr109-AI-ML-DL-Blogs-Sites.jpg
+  teaser:  ../assets/images/dsresources/dsr109-AI-ML-DL-Blogs-Sites.jpg
 
 last_modified_at: 2021-07-02T15:46:43-04:00
 excerpt_separator: "<!--more-->"   

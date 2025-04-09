@@ -9,7 +9,7 @@ tags:
 categories:
   - pmblog
 header:
-  teaser: '/assets/images/pmblog/1043-BusinessAgilityVsScale2.jpg'
+  teaser: '../assets/images/pmblog/1043-BusinessAgilityVsScale2.jpg'
 author: 'Hari Thapliyaal'
 layout: pmblog-layout 
 

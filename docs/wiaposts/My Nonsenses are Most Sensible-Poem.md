@@ -8,7 +8,7 @@ tags:  [My Views, Life, Philosophy]
         
 categories: [wiaposts] 
 header:        
-    teaser: /assets/images/wiapost/5258-My-Nonsenses-are-Most-Sensible.jpg        
+    teaser: ../assets/images/wiapost/5258-My-Nonsenses-are-Most-Sensible.jpg        
 author: Hari Thapliyaal        
 layout:   wiaposts-layout
 excerpt:        

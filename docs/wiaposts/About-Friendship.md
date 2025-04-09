@@ -7,7 +7,7 @@ tags: [ Life, Friendship]
 
 categories: [wiaposts] 
 header:
-     teaser: /assets/images/wiapost/5167-About-Friendship.jpg
+     teaser: ../assets/images/wiapost/5167-About-Friendship.jpg
 author: Hari Thapliyaal 
 layout:   wiaposts-layout
 excerpt:  

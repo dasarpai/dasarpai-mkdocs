@@ -19,7 +19,7 @@ tags:
   - Technical Documentation
 keywords: data science cheatsheets, machine learning quick reference, python programming guide, statistics formulas, data visualization tips, pandas cheatsheet, numpy reference, scikit-learn guide, deep learning basics, SQL commands, probability concepts, matplotlib tutorial, seaborn plotting, data preprocessing steps, model evaluation metrics
 header:
-  teaser: /assets/images/dsresources/dsr103-Data-Science-Cheatsheets.jpg
+  teaser: ../assets/images/dsresources/dsr103-Data-Science-Cheatsheets.jpg
 excerpt_separator: "<!--more-->"   
 author: Hari Thapliyaal   
 layout: dspost-layout   

@@ -7,7 +7,7 @@ tags: [DS Resources, Reinforcment Learning, RL Git Repositories]
 categories: 
 
 header:
-    teaser:  /assets/images/dsresources/dsr101-Reinforcement-Learning-Git-Repositories.jpg
+    teaser:  ../assets/images/dsresources/dsr101-Reinforcement-Learning-Git-Repositories.jpg
 author: Hari Thapliyaal   
 layout: single   
 excerpt:   

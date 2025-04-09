@@ -9,7 +9,7 @@ categories:
   - dsblog
 keywords: [Natural Language Processing, AI Language Capabilities, Text Analysis, Language Understanding, NLP Applications, Speech Recognition, Machine Translation, Text Mining]
 header:
-    teaser: /assets/images/dspost/dsp6106-Empowering-Language-with-AI-NLP-Capabilities.jpg
+    teaser: ../assets/images/dspost/dsp6106-Empowering-Language-with-AI-NLP-Capabilities.jpg
     
 excerpt_separator: "<!--more-->"   
 author: Hari Thapliyaal   

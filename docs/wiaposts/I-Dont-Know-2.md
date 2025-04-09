@@ -7,7 +7,7 @@ tags: [ Education, Seeking ]
 
 categories: [wiaposts] 
 header:
-    teaser: /assets/images/wiapost/5204-I-Dont-Know-2.jpg
+    teaser: ../assets/images/wiapost/5204-I-Dont-Know-2.jpg
 author: Hari Thapliyaal 
 layout:   wiaposts-layout
 excerpt:  

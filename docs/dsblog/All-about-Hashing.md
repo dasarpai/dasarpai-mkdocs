@@ -9,7 +9,7 @@ categories:
   - dsblog
 keywords: [Hash Functions, Cryptographic Hashing, Data Security, SHA Algorithms, MD5, Digital Signatures, Data Integrity, Security Verification]
 header:
-    teaser: /assets/images/dspost/dsp6123-All-about-Hashing.jpg
+    teaser: ../assets/images/dspost/dsp6123-All-about-Hashing.jpg
 excerpt_separator: "<!--more-->"   
 author: Hari Thapliyaal   
 layout: dspost-layout   

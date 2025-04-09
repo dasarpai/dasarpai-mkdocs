@@ -7,7 +7,7 @@ tags: [Vedanta, Maya, My Views ]
 
 categories: [wiaposts] 
 header:
-     teaser: /assets/images/wiapost/5187-Effect-Of-Maya.jpg
+     teaser: ../assets/images/wiapost/5187-Effect-Of-Maya.jpg
 author: Hari Thapliyaal 
 layout:   wiaposts-layout
 excerpt:  

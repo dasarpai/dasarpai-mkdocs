@@ -5,7 +5,7 @@ title:  "Is Hindi the Mother of All North Indian Languages?"
 date: "2025-02-22"        
 permalink: /wiaposts/is-hindi-mother-of-all-north-indian-languages
 header:        
-    teaser: /assets/images/wiapost/5280-Is-Hindi-Mother-of-All-North-Indian-Languages.jpg               
+    teaser: ../assets/images/wiapost/5280-Is-Hindi-Mother-of-All-North-Indian-Languages.jpg               
 author: Hari Thapliyaal        
 layout:   wiaposts-layout        
 author_profile: true        

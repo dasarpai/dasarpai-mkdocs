@@ -11,7 +11,7 @@ tags: [Hanumanji]
 categories:       
        
 header:       
-   teaser: /assets/images/samskrut/upanishad.jpg       
+   teaser: ../assets/images/samskrut/upanishad.jpg       
        
 author: 'Hari Thapliyaal'       
        

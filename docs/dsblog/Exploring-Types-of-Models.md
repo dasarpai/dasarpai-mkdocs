@@ -11,7 +11,7 @@ tags:
 categories:
   - dsblog
 header:
-  teaser: /assets/images/dspost/dsp6209-Exploring-Types-of-Models.jpg
+  teaser: ../assets/images/dspost/dsp6209-Exploring-Types-of-Models.jpg
 excerpt_separator: "<!--more-->"
 author: Hari Thapliyaal
 layout: dspost-layout

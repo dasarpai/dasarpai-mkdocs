@@ -8,7 +8,7 @@ tags: [Flutter, Android Development, Configuration Management]
 categories:
   - dsblog
 header:
-    teaser: /assets/images/dspost/dsp6146-Building-AI-Powered-Flutter-Apps.jpg
+    teaser: ../assets/images/dspost/dsp6146-Building-AI-Powered-Flutter-Apps.jpg
 excerpt_separator: "<!--more-->"   
 author: Hari Thapliyaal   
 layout: dspost-layout   
@@ -23,7 +23,7 @@ comments: true
 keywords: ["Flutter Development", "Mobile App Development", "AI Integration", "Flutter Architecture", "Project Organization", "Machine Learning", "TensorFlow Lite", "Cross-Platform Development", "Flutter Best Practices", "Mobile AI", "App Structure", "Development Workflow", "Code Organization", "Flutter Framework", "Mobile Development"]
 ---
 
-![]( /assets/images/dspost/dsp6146-Building-AI-Powered-Flutter-Apps.jpg)
+![]( ../assets/images/dspost/dsp6146-Building-AI-Powered-Flutter-Apps.jpg)
 
 # Building AI-Powered Flutter Apps: Best Practices for Folder Structure
 

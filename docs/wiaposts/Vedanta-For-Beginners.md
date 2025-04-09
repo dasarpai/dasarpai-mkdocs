@@ -7,7 +7,7 @@ tags: [ Vedanta]
 
 categories: [wiaposts] 
 header:
-     teaser: /assets/images/wiapost/5149-Vedanta-For-Beginners.jpg
+     teaser: ../assets/images/wiapost/5149-Vedanta-For-Beginners.jpg
 author: Hari Thapliyaal 
 layout:   wiaposts-layout
 excerpt:  

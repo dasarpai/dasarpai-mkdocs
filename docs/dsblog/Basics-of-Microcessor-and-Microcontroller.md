@@ -13,7 +13,7 @@ tags:
 categories:
   - dsblog
 header:
-  teaser: /assets/images/dspost/dsp6230-Basics-of-Microprocessor-and-Microcontroller.jpg
+  teaser: ../assets/images/dspost/dsp6230-Basics-of-Microprocessor-and-Microcontroller.jpg
 excerpt_separator: "<!--more-->"
 author: Hari Thapliyaal
 layout: dspost-layout

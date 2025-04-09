@@ -7,7 +7,7 @@ tags: [Life, My Views ]
 
 categories: [wiaposts] 
 header:
-     teaser: /assets/images/wiapost/5179-Why-Is-Life-Complex.jpg
+     teaser: ../assets/images/wiapost/5179-Why-Is-Life-Complex.jpg
 author: Hari Thapliyaal 
 layout:   wiaposts-layout
 excerpt:  

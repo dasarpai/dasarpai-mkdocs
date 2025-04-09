@@ -7,7 +7,7 @@ tags: [ 'Annual Wishes']
 
 categories: [wiaposts] 
 header:
-     teaser: /assets/images/wiapost/5117-Greetings-For-New-Year-2021.jpg
+     teaser: ../assets/images/wiapost/5117-Greetings-For-New-Year-2021.jpg
 author: Hari Thapliyaal 
 layout:   wiaposts-layout
 excerpt:  

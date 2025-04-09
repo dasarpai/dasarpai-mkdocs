@@ -9,7 +9,7 @@ tags:
 categories:
   - pmblog
 header:
-  teaser: '/assets/images/pmblog/1016-Project_Success_Criteria.jpg'
+  teaser: '../assets/images/pmblog/1016-Project_Success_Criteria.jpg'
 layout: pmblog-layout 
 
 author: 'Hari Thapliyaal'

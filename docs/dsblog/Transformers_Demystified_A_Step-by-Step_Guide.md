@@ -9,7 +9,7 @@ categories:
   - dsblog
 keywords: [Transformer Architecture, Neural Networks, Attention Mechanism, Deep Learning Models, NLP Architecture, Machine Learning Models, AI Model Design, Language Processing]
 header:
-    teaser: /assets/images/dspost/dsp6113-transformers-demystified-a-step-by-step-guide.jpg
+    teaser: ../assets/images/dspost/dsp6113-transformers-demystified-a-step-by-step-guide.jpg
 excerpt_separator: "<!--more-->"   
 author: Hari Thapliyaal   
 layout: dspost-layout   

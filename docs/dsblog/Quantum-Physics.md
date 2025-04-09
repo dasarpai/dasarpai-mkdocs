@@ -15,7 +15,7 @@ categories:
   - Technology
 
 header:
-  teaser: /assets/images/dspost/dsp6253-quantum-physics-with-deeper-questions.jpg
+  teaser: ../assets/images/dspost/dsp6253-quantum-physics-with-deeper-questions.jpg
 excerpt_separator: "<!--more-->"
 author: Hari Thapliyaal
 layout: dspost-layout

@@ -7,7 +7,7 @@ tags: [ Indian Culture, Concept, Namaste]
 
 categories: [wiaposts] 
 header:
-     teaser: /assets/images/wiapost/5178-Why-Do-We-Do-Namaste.jpg
+     teaser: ../assets/images/wiapost/5178-Why-Do-We-Do-Namaste.jpg
 author: Hari Thapliyaal 
 layout:   wiaposts-layout
 excerpt:  

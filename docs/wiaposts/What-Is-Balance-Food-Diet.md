@@ -7,7 +7,7 @@ tags: [ Concepts, 'Ethics and Morality', 'My Views']
 keywords: ["philosophical exploration of balanced diet", "understanding nutrition in philosophy", "poetic insights on food and health", "philosophy of diet and well-being", "exploring balanced diet in philosophical context"]
 categories: [wiaposts] 
 header:
-     teaser: /assets/images/wiapost/5131-What-Is-Balance-Food-Diet.jpg
+     teaser: ../assets/images/wiapost/5131-What-Is-Balance-Food-Diet.jpg
 author: Hari Thapliyaal 
 layout:   wiaposts-layout
 excerpt: "Exploration of balanced diet, delving into insights on nutrition and well-being."

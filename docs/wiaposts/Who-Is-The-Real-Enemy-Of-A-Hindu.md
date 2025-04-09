@@ -8,7 +8,7 @@ tags: [My Views, Real Enemy, Hindu Society]
 
 categories: [wiaposts] 
 header:
-     teaser: /assets/images/wiapost/5003-Who-Is-The-Real-Enemy-Of-A-Hindu.jpg
+     teaser: ../assets/images/wiapost/5003-Who-Is-The-Real-Enemy-Of-A-Hindu.jpg
 author: Hari Thapliyaal 
 layout:   wiaposts-layout
 excerpt: 'An analysis of the challenges faced by Hindu society in identifying its true adversaries.' 

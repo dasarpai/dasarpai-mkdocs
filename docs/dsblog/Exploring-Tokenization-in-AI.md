@@ -11,7 +11,7 @@ tags:
 categories:
   - dsblog
 header:
-  teaser: /assets/images/dspost/dsp6215-Exploring-Tokenization-in-AI.jpg
+  teaser: ../assets/images/dspost/dsp6215-Exploring-Tokenization-in-AI.jpg
 excerpt_separator: "<!--more-->"
 author: Jane Smith
 layout: dspost-layout

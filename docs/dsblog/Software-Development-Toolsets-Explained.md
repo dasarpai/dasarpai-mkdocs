@@ -16,7 +16,7 @@ categories:
   - software-development
 
 header:
-  teaser: /assets/images/dspost/dsp6239-Software-Development-Toolsets-Explained.jpg
+  teaser: ../assets/images/dspost/dsp6239-Software-Development-Toolsets-Explained.jpg
 excerpt_separator: "<!--more-->"
 author: Hari Thapliyaal
 layout: dspost-layout

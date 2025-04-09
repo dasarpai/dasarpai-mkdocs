@@ -15,7 +15,7 @@ categories:
   - dsresources
 
 header:
-  teaser: /assets/images/dspost/dsp6224-AI-Resources.jpg
+  teaser: ../assets/images/dspost/dsp6224-AI-Resources.jpg
 excerpt_separator: "<!--more-->"
 author: Hari Thapliyaal
 layout: dspost-layout

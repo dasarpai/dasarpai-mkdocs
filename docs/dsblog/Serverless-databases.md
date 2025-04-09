@@ -9,7 +9,7 @@ categories:
   - dsblog
 keywords: [Serverless Databases, Cloud Database Solutions, Database as a Service, Serverless Architecture, Cloud Data Storage, Database Management Systems, Serverless Computing, Cloud Infrastructure]
 header:
-    teaser: /assets/images/dspost/dsp6125-Serverless-databases.jpg
+    teaser: ../assets/images/dspost/dsp6125-Serverless-databases.jpg
 excerpt_separator: "<!--more-->"   
 author: Hari Thapliyaal   
 layout: dspost-layout   

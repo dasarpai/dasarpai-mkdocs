@@ -18,7 +18,7 @@ keywords: [data lake vs data warehouse, data storage solutions, enterprise data 
 categories:
   - dsblog  
 header:   
-    teaser: /assets/images/dspost/dsp6040-Datalake-vs-Data-Warehouse.jpg   
+    teaser: ../assets/images/dspost/dsp6040-Datalake-vs-Data-Warehouse.jpg   
 excerpt_separator: "<!--more-->"   
 author: Hari Thapliyaal   
 layout: dspost-layout   

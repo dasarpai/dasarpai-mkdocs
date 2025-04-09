@@ -16,7 +16,7 @@ categories:
   - development
 
 header:
-  teaser: /assets/images/dspost/dsp6234-Working-with-Github-from-WSL-and-Windows-Folders.jpg
+  teaser: ../assets/images/dspost/dsp6234-Working-with-Github-from-WSL-and-Windows-Folders.jpg
 excerpt_separator: "<!--more-->"
 author: Hari Thapliyaal
 layout: dspost-layout

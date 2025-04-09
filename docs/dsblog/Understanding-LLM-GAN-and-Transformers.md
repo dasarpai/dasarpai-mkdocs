@@ -9,7 +9,7 @@ categories:
   - dsblog
 keywords: [LLM Architecture, Generative AI, Transformer Models, Neural Networks, Deep Learning Models, Language Processing, AI Model Comparison, Machine Learning Architecture]
 header:
-    teaser: /assets/images/dspost/dsp6127-Understanding-LLM-GAN-and-Transformers.jpg
+    teaser: ../assets/images/dspost/dsp6127-Understanding-LLM-GAN-and-Transformers.jpg
 excerpt_separator: "<!--more-->"   
 author: Hari Thapliyaal   
 layout: dspost-layout   

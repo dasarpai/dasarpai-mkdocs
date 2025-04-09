@@ -8,7 +8,7 @@ tags: [SEO, "Keyword Planning", "Search Engine Optimization"]
 categories:
   - dsblog
 header:
-    teaser: /assets/images/dspost/dsp6165-SEO-Keyword-Planning.jpg
+    teaser: ../assets/images/dspost/dsp6165-SEO-Keyword-Planning.jpg
 excerpt_separator: "<!--more-->"   
 author: Hari Thapliyaal   
 layout: dspost-layout   

@@ -7,7 +7,7 @@ tags:  [My Views, Life, Philosophy]
         
 categories: [wiaposts] 
 header:        
-    teaser: /assets/images/wiapost/5241-The-Middle-Path.jpg        
+    teaser: ../assets/images/wiapost/5241-The-Middle-Path.jpg        
 author: Hari Thapliyaal        
 layout:   wiaposts-layout
 excerpt:        

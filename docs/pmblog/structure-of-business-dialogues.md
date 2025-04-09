@@ -9,7 +9,7 @@ tags:
 categories:
   - pmblog
 header:
-  teaser: '/assets/images/pmblog/1029-Structure-of-Dialogue-min.png'
+  teaser: '../assets/images/pmblog/1029-Structure-of-Dialogue-min.png'
 author: 'Hari Thapliyaal'
 layout: pmblog-layout 
 

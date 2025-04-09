@@ -7,7 +7,7 @@ tags:  [My Views, Life, Philosophy]
         
 categories: [wiaposts] 
 header:        
-    teaser: /assets/images/wiapost/5233-Question-Answering.jpg        
+    teaser: ../assets/images/wiapost/5233-Question-Answering.jpg        
 author: Hari Thapliyaal        
 layout:   wiaposts-layout
 excerpt:        

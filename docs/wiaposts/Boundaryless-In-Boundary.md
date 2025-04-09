@@ -8,7 +8,7 @@ tags: ['Mind', 'Philosophy']
 
 categories: [wiaposts] 
 header:
-     teaser: /assets/images/wiapost/5039-Boundaryless-In-Boundary.jpg
+     teaser: ../assets/images/wiapost/5039-Boundaryless-In-Boundary.jpg
 author: Hari Thapliyaal 
 layout:   wiaposts-layout
 excerpt: 'Exploring the paradox of boundaries and freedom within the mind.' 

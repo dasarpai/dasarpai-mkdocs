@@ -7,7 +7,7 @@ tags: [Life, Meditation, Karma ]
 
 categories: [wiaposts] 
 header:
-     teaser: /assets/images/wiapost/5169-Mirror-Image-And-Face.jpg
+     teaser: ../assets/images/wiapost/5169-Mirror-Image-And-Face.jpg
 author: Hari Thapliyaal 
 layout:   wiaposts-layout
 excerpt:  

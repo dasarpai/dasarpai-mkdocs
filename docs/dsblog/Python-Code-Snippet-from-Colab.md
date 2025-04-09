@@ -8,7 +8,7 @@ tags: [Python, Python Programming, OOPs]
 categories:
   - dsblog
 header:
-    teaser: /assets/images/dspost/dsp6149-Python-Code-Snippnet-from-Colab.jpg
+    teaser: ../assets/images/dspost/dsp6149-Python-Code-Snippnet-from-Colab.jpg
 excerpt_separator: "<!--more-->"   
 author: Hari Thapliyaal   
 layout: dspost-layout   

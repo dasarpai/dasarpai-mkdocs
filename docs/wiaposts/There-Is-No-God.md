@@ -7,7 +7,7 @@ tags: [My Views, Theist ]
 
 categories: [wiaposts] 
 header:
-     teaser: /assets/images/wiapost/5180-There-Is-No-God.jpg
+     teaser: ../assets/images/wiapost/5180-There-Is-No-God.jpg
 author: Hari Thapliyaal 
 layout:   wiaposts-layout
 excerpt:  

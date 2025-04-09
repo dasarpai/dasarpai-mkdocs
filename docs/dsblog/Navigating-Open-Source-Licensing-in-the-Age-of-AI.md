@@ -11,7 +11,7 @@ tags:
 categories:
   - dsblog
 header:
-  teaser: /assets/images/dspost/dsp6201-Navigating-Open-Source-Licensing-in-the-Age-of-AI.jpg
+  teaser: ../assets/images/dspost/dsp6201-Navigating-Open-Source-Licensing-in-the-Age-of-AI.jpg
 excerpt_separator: "<!--more-->"
 author: Hari Thapliyaal
 layout: dspost-layout
@@ -25,7 +25,7 @@ comments: true
 keywords: ["open source licensing in ai", "ai licensing challenges", "considerations for ai licensing", "best practices for ai licensing", "open source ai licensing", "licensing considerations for ai products", "ai licensing guide"]
 ---
 
-![]( /assets/images/dspost/dsp6201-Navigating-Open-Source-Licensing-in-the-Age-of-AI.jpg)
+![]( ../assets/images/dspost/dsp6201-Navigating-Open-Source-Licensing-in-the-Age-of-AI.jpg)
 
 # Navigating Open-Source Licensing in the Age of AI: Challenges and Considerations
 

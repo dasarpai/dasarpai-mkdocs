@@ -19,7 +19,7 @@ keywords: [database types, SQL vs NoSQL, database management systems, data stora
 categories:
   - dsblog 
 header:      
-    teaser: /assets/images/dspost/dsp6041-Type-of-Databases.jpg      
+    teaser: ../assets/images/dspost/dsp6041-Type-of-Databases.jpg      
 excerpt_separator: "<!--more-->"   
 author: Hari Thapliyaal   
 layout: dspost-layout   

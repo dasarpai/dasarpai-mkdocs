@@ -6,13 +6,13 @@ date: '2021-02-15T06:56:38+00:00'
 author: 'Hari Thapliyaal'
 
 header:
-   teaser: /assets/images/pmlogy/PMBOK-Process-DPC.png
+   teaser: ../assets/images/pmlogy/PMBOK-Process-DPC.png
 tag:
     - 'English Terms'
     - 'PMBOK Inputs Outputs'
 ---
 
-![](/pmbok6//assets/images/pmlogy/PMBOK-Process-DPC.png)
+![](/pmbok6/../assets/images/pmlogy/PMBOK-Process-DPC.png)
 
 ## Project Charter
 

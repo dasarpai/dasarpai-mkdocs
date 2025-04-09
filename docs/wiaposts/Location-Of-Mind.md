@@ -8,7 +8,7 @@ tags: ['Concepts', 'Death', 'Mind', 'Science']
 
 categories: [wiaposts] 
 header:
-     teaser: /assets/images/wiapost/5054-Location-Of-Mind.jpg
+     teaser: ../assets/images/wiapost/5054-Location-Of-Mind.jpg
 author: Hari Thapliyaal 
 layout:   wiaposts-layout
 excerpt: 'Exploring the concept of mind and its perceived location.' 

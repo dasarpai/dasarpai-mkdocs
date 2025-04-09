@@ -7,7 +7,7 @@ tags:  [My Views, Life, Philosophy]
     
 categories: [wiaposts] 
 header:    
-    teaser: /assets/images/wiapost/5224-Is-Dying-Painful.jpg    
+    teaser: ../assets/images/wiapost/5224-Is-Dying-Painful.jpg    
 author: Hari Thapliyaal    
 layout:   wiaposts-layout
 excerpt:    

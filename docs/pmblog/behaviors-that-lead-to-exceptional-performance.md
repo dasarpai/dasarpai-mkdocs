@@ -11,7 +11,7 @@ categories:
   - pmblog
 
 header:
-  teaser: '/assets/images/pmblog/1001-Exceptional-Performance-min.jpg'
+  teaser: '../assets/images/pmblog/1001-Exceptional-Performance-min.jpg'
 author: 'Hari Thapliyaal'
 layout: pmblog-layout 
 

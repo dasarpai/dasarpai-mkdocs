@@ -8,7 +8,7 @@ tags: [LLM, AI, Chatbot, Search Engine]
 categories:
   - dsblog
 header:
-    teaser: /assets/images/dspost/dsp6156-Introduction-to-Perplexity-AI.jpg
+    teaser: ../assets/images/dspost/dsp6156-Introduction-to-Perplexity-AI.jpg
 excerpt_separator: "<!--more-->"   
 author: Hari Thapliyaal   
 layout: dspost-layout   

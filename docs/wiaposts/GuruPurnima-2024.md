@@ -8,7 +8,7 @@ tags:  [My Views, Life, Philosophy]
         
 categories: [wiaposts] 
 header:        
-    teaser: /assets/images/wiapost/5257-Happy-Guru-Purnima-2024.jpg        
+    teaser: ../assets/images/wiapost/5257-Happy-Guru-Purnima-2024.jpg        
 author: Hari Thapliyaal        
 layout:   wiaposts-layout
 excerpt:        

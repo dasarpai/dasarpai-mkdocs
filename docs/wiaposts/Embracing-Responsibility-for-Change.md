@@ -8,7 +8,7 @@ tags:  [My Views, Life, Philosophy, Responsibility]
         
 categories: [wiaposts] 
 header:        
-    teaser: /assets/images/wiapost/5266-Embracing-Responsibility-for-Change.jpg        
+    teaser: ../assets/images/wiapost/5266-Embracing-Responsibility-for-Change.jpg        
 author: Hari Thapliyaal        
 layout:   wiaposts-layout        
 excerpt:        

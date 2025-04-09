@@ -8,7 +8,7 @@ tags: []
 categories:
   - pmblog
 header:
-    teaser: /assets/images/pmblog/1046-GenAI-Usecases-for-Project-Managers.jpg
+    teaser: ../assets/images/pmblog/1046-GenAI-Usecases-for-Project-Managers.jpg
 excerpt_separator: "<!--more-->"   
 author: Hari Thapliyaal   
 layout: pmblog-layout   

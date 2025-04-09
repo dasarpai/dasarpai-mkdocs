@@ -7,7 +7,7 @@ tags: [Mind, Life ]
 
 categories: [wiaposts] 
 header:
-     teaser: /assets/images/wiapost/5189-Bhaav-Vivek-Balance.jpg
+     teaser: ../assets/images/wiapost/5189-Bhaav-Vivek-Balance.jpg
 author: Hari Thapliyaal 
 layout:   wiaposts-layout
 excerpt:  

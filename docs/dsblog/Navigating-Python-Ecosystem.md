@@ -8,7 +8,7 @@ tags: ["Web Development", "Web Servers", "HTML", "CSS", "Java Script", "Type Scr
 categories:
   - dsblog
 header:
-    teaser: /assets/images/dspost/dsp6178-Navigating-Python-Ecosystem.jpg
+    teaser: ../assets/images/dspost/dsp6178-Navigating-Python-Ecosystem.jpg
 excerpt_separator: "<!--more-->"   
 author: Hari Thapliyaal   
 layout: dspost-layout   

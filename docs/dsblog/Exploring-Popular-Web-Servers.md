@@ -8,7 +8,7 @@ tags: ["Web Development", "Web Servers"]
 categories:
   - dsblog
 header:
-    teaser: /assets/images/dspost/dsp6176-Exploring-Popular-Web-Server.jpg
+    teaser: ../assets/images/dspost/dsp6176-Exploring-Popular-Web-Server.jpg
 excerpt_separator: "<!--more-->"   
 author: Hari Thapliyaal   
 layout: dspost-layout   

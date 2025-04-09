@@ -15,7 +15,7 @@ tags:
 categories:
   - dsblog
 header:
-  teaser: /assets/images/dspost/dsp6223-Exploring-Possibilities-with-CSS.jpg
+  teaser: ../assets/images/dspost/dsp6223-Exploring-Possibilities-with-CSS.jpg
 excerpt_separator: "<!--more-->"
 author: Hari Thapliyaal
 layout: dspost-layout

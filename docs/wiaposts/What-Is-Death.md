@@ -7,7 +7,7 @@ tags: [ Death, Life, 'Mad Thinking', Philosophy]
 
 categories: [wiaposts] 
 header:
-     teaser: /assets/images/wiapost/5154-What-Is-Death.jpg
+     teaser: ../assets/images/wiapost/5154-What-Is-Death.jpg
 author: Hari Thapliyaal 
 layout:   wiaposts-layout
 excerpt:  

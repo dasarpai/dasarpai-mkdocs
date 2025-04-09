@@ -11,7 +11,7 @@ tags:
 categories:
   - news
 header:
-  teaser: /assets/images/news/8004-AI-News-Jan-2025.jpg
+  teaser: ../assets/images/news/8004-AI-News-Jan-2025.jpg
 excerpt_separator: "<!--more-->"
 author: Hari Thapliyaal
 layout: news-layout

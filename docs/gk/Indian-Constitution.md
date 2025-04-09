@@ -8,7 +8,7 @@ tags: [Education, Law]
         
 categories:        
 header:        
-    teaser: /assets/images/gk/7004-The-Indian-Constitution.jpg        
+    teaser: ../assets/images/gk/7004-The-Indian-Constitution.jpg        
 author: Hari Thapliyaal        
 layout: single        
 excerpt:        

@@ -19,7 +19,7 @@ tags:
   - Sustainable Agriculture
    
 header:  
-  teaser: "/assets/images/dspost/dsp6037-AI-usecases-in-Agriculture-Industry.jpg"  
+  teaser: "../assets/images/dspost/dsp6037-AI-usecases-in-Agriculture-Industry.jpg"  
 excerpt_separator: "<!--more-->"   
 author: Hari Thapliyaal   
 layout: dspost-layout   

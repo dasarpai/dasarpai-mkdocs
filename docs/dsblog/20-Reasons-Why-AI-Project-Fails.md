@@ -11,7 +11,7 @@ tags:
   - AI Project Failure
 keywords: AI project failure, project management challenges, machine learning implementation, data quality issues, model deployment problems, AI project risks, model maintenance, scalability issues, team expertise, business alignment
 header:
-  teaser: "/assets/images/dspost/dsp6007-Why-AI-Project-Fails.jpg"
+  teaser: "../assets/images/dspost/dsp6007-Why-AI-Project-Fails.jpg"
 excerpt_separator: "<!--more-->"
 author: Hari Thapliyaal   
 mathjax: true

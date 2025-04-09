@@ -9,7 +9,7 @@ categories:
   - dsblog
 keywords: [REST API, RESTful Services, API Development, Web Services, HTTP Methods, API Design, Backend Development, Web Architecture]
 header:
-    teaser: /assets/images/dspost/dsp6121-REST-API.jpg
+    teaser: ../assets/images/dspost/dsp6121-REST-API.jpg
 excerpt_separator: "<!--more-->"   
 author: Hari Thapliyaal   
 layout: dspost-layout   

@@ -10,7 +10,7 @@ categories:
 tags: [DS Resources, AI, Data Science, Machine Learning, eBook, Data Science Books]
 keywords: data science books, AI textbooks, machine learning resources, programming books, technical ebooks, learning materials, educational PDFs, computer science literature, academic resources, reference guides
 header:
-  teaser: /assets/images/dsresources/dsr120-Data-Science-AI-ML-eBooks-PDF-Books.jpg
+  teaser: ../assets/images/dsresources/dsr120-Data-Science-AI-ML-eBooks-PDF-Books.jpg
 
 last_modified_at: 2021-07-02T15:46:43-04:00
 excerpt_separator: "<!--more-->"   

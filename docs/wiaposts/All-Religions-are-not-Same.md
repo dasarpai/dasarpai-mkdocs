@@ -7,7 +7,7 @@ tags:  [Vedanta]
   
 categories: [wiaposts] 
 header:  
-  teaser: /assets/images/wiapost/5249-All-Religions-are-not-Same.jpg  
+  teaser: ../assets/images/wiapost/5249-All-Religions-are-not-Same.jpg  
 author: Hari Thapliyaal  
 layout:   wiaposts-layout
 excerpt:  

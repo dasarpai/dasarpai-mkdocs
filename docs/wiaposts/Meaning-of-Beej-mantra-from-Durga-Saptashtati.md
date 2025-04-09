@@ -7,7 +7,7 @@ permalink: /wiaposts/Meaning-of-Beej-Mantra-from-Durga-Saptashati
 tags:  [My Views, Hinduism, Hindu Culture, Devi]         
 categories: [wiaposts] 
 header:        
-    teaser: /assets/images/wiapost/5270-Meaning-of-Beej-Mantra-from-Durga-Saptashati.jpg               
+    teaser: ../assets/images/wiapost/5270-Meaning-of-Beej-Mantra-from-Durga-Saptashati.jpg               
 author: Hari Thapliyaal        
 layout:   wiaposts-layout        
 excerpt:        

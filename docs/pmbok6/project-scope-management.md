@@ -5,7 +5,7 @@ permalink: /pmbok6/Project-Scope-Management
 date: '2021-01-02T17:47:21+00:00'
 author: 'Hari Thapliyaal'
 header:
-  teaser: /assets/images/pmlogy/Project-Scope-Management.jpg
+  teaser: ../assets/images/pmlogy/Project-Scope-Management.jpg
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
 
 tags:

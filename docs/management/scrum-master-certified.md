@@ -13,7 +13,7 @@ tags:
   - 'Scrum Master Certified'
 
 header:
-  teaser: /assets/images/pmlogy/pmc509-scrum-master-certified.jpg
+  teaser: ../assets/images/pmlogy/pmc509-scrum-master-certified.jpg
 
 author_profile: true
 last_modified_at: 2020-08-09T15:46:43-04:00

@@ -14,7 +14,7 @@ tags:
   - Statistical Learning
 keywords: naive bayes algorithm, classification algorithms, probabilistic classification, machine learning basics, bayes theorem, conditional probability, text classification, spam filtering, sentiment analysis, predictive modeling
 header:
-  teaser: "/assets/images/dspost/dsp6005-How-Naive-Bayes-Work-for-Recommendation.jpg"
+  teaser: "../assets/images/dspost/dsp6005-How-Naive-Bayes-Work-for-Recommendation.jpg"
 excerpt_separator: "<!--more-->"   
 author: Hari Thapliyaal   
 layout: dspost-layout   

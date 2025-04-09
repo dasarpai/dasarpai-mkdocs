@@ -9,7 +9,7 @@ tags:
 categories:
   - pmblog
 header:
-  teaser: '/assets/images/pmblog/1031-powerBI-projectOnline.jpg'
+  teaser: '../assets/images/pmblog/1031-powerBI-projectOnline.jpg'
 author: 'Hari Thapliyaal'
 layout: pmblog-layout 
 

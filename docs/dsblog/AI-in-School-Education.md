@@ -9,7 +9,7 @@ categories:
   - dsblog
 keywords: [AI Education Applications, Educational Technology, Digital Learning Tools, School Innovation, Smart Classrooms, Learning Analytics, Educational AI, Modern Teaching Methods]
 header:
-    teaser: /assets/images/dspost/dsp6109-AI-Usecases-in-Education.jpg
+    teaser: ../assets/images/dspost/dsp6109-AI-Usecases-in-Education.jpg
 excerpt_separator: "<!--more-->"   
 author: Hari Thapliyaal   
 layout: dspost-layout   

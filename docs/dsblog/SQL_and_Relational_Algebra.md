@@ -9,7 +9,7 @@ categories:
   - dsblog 
 keywords: [SQL, Relational Algebra, Database Theory, RDBMS, Database Operations, Query Optimization, Set Operations, Database Management]
 header:
-    teaser: /assets/images/dspost/dsp6084-Relational-Algebra.jpg
+    teaser: ../assets/images/dspost/dsp6084-Relational-Algebra.jpg
 excerpt_separator: "<!--more-->"   
 author: Hari Thapliyaal   
 layout: dspost-layout   
@@ -21,7 +21,7 @@ toc_sticky: true
 mathjax: "true"
 ---
 
-![Relational Algebra]( /assets/images/dspost/dsp6084-Relational-Algebra.jpg)
+![Relational Algebra]( ../assets/images/dspost/dsp6084-Relational-Algebra.jpg)
 
 # SQL and Relational Algebra
 
@@ -29,7 +29,7 @@ Relational algebra (RA) is considered as a procedural query language where the u
 
 Relational algebra notions can be implemtned via any any SQL language like PL/SQL, TSQL, SQLite SQL, DB2 SQL, MariaDB SQL, FireBird SQL, PSQL, ANSI SQL commands in any databases like MySQL, PostgreSQL, Oracle, SQLServer SQL server.
 
-![Tables]( /assets/images/dspost/dsp6084-table.webp)
+![Tables]( ../assets/images/dspost/dsp6084-table.webp)
 
 ## 1. SELECT (σ) - Where clause
 Used for selecting/filtering rows/tuples/records.

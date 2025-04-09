@@ -11,7 +11,7 @@ tags: [Suktam]
 categories:    
     
 header:    
-   teaser: /assets/images/samskrut/GaneshJi.jpg    
+   teaser: ../assets/images/samskrut/GaneshJi.jpg    
     
 author: 'Hari Thapliyaal'    
     

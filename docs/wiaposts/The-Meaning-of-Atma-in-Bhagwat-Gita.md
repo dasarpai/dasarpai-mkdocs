@@ -5,7 +5,7 @@ title: "Understanding the Meaning of Atma in the Bhagavad Gita"
 date: "2025-03-01"
 permalink: /wiaposts/meaning-of-atma-in-bhagavad-gita
 header:
-  teaser: /assets/images/wiapost/5281-meaning-of-atma.jpg # Replace with an appropriate image if you have one.
+  teaser: ../assets/images/wiapost/5281-meaning-of-atma.jpg # Replace with an appropriate image if you have one.
 author: Hari Thapliyaal
 layout:   wiaposts-layout
 author_profile: true

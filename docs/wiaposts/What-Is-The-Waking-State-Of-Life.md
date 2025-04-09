@@ -7,7 +7,7 @@ tags: [ Mindfulness, Moksha, Philosophy]
 keywords: ["understanding waking life states", "mindfulness and awareness in daily life", "philosophical insights on life and death", "transitions between states of consciousness", "moksha and spiritual awakening"]  
 categories: [wiaposts] 
 header:
-     teaser: /assets/images/wiapost/5102-What-Is-The-Waking-State-Of-Life.jpg
+     teaser: ../assets/images/wiapost/5102-What-Is-The-Waking-State-Of-Life.jpg
 author: Hari Thapliyaal 
 layout:   wiaposts-layout
 excerpt: An exploration of the waking state of life, mindfulness, and the philosophical insights on transitions between states of consciousness and spiritual awakening.

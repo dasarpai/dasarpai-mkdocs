@@ -10,7 +10,7 @@ categories:
   - dsresources
 keywords: [AI Research Papers, Machine Learning Papers, Deep Learning Research, AI Academic Resources, Research Collection, ML Publications, AI Development Papers, Scientific Literature]
 header:
-    teaser: /assets/images/dspost/dsp6090-rps-Important-AI-Paper-List.jpg
+    teaser: ../assets/images/dspost/dsp6090-rps-Important-AI-Paper-List.jpg
 excerpt_separator: "<!--more-->"   
 author: Hari Thapliyaal   
 layout: dspost-layout   

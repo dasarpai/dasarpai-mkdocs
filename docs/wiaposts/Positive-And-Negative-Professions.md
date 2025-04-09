@@ -8,7 +8,7 @@ tags: ['My Story', 'Philosophy']
 
 categories: [wiaposts] 
 header:
-     teaser: /assets/images/wiapost/5040-Positive-And-Negative-Professions.jpg
+     teaser: ../assets/images/wiapost/5040-Positive-And-Negative-Professions.jpg
 author: Hari Thapliyaal 
 layout:   wiaposts-layout
 excerpt: 'Reflecting on the impact of professions on personal and societal growth.' 

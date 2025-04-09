@@ -8,7 +8,7 @@ tags: [Censorship in India, List of Banned Items, Freedom of Speech, Human Right
 keywords: [censorship in india, banned items in india, freedom of speech in india, human rights in india, sedition charges in india]
 categories: [GK, Human Rights, International Relations]
 header:
-    teaser: /assets/images/default/gkblog.jpg    
+    teaser: ../assets/images/default/gkblog.jpg    
 author: Jane Doe
 layout: single
 excerpt: "This article list the history of censored items by the First Prime Minister of India, Jawaharlal Nehru"

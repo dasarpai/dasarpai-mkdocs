@@ -7,7 +7,7 @@ tags: ['Concepts', 'Mindfulness', 'Philosophy']
 
 categories: [wiaposts] 
 header:
-     teaser: /assets/images/wiapost/5089-Suffering-And-Remedy.jpg
+     teaser: ../assets/images/wiapost/5089-Suffering-And-Remedy.jpg
 author: Hari Thapliyaal 
 layout:   wiaposts-layout
 excerpt: 'Exploring the philosophical perspectives on suffering and paths to remedy.' 

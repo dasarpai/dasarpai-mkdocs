@@ -8,7 +8,7 @@ tags: ['My Views']
 
 categories: [wiaposts] 
 header:
-     teaser: /assets/images/wiapost/5049-Role-Of-Leftists-In-The-Indian-Society.jpg
+     teaser: ../assets/images/wiapost/5049-Role-Of-Leftists-In-The-Indian-Society.jpg
 author: Hari Thapliyaal 
 layout:   wiaposts-layout
 excerpt: 'An analysis of the influence and role of leftists in Indian society.'

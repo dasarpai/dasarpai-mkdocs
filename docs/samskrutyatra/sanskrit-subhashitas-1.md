@@ -11,7 +11,7 @@ tags: [Others]
 categories:
 
 header:
-   teaser: /assets/images/samskrut/SanskritYatra-Subhashitam.jpg
+   teaser: ../assets/images/samskrut/SanskritYatra-Subhashitam.jpg
 
 author: 'Hari Thapliyaal'
 

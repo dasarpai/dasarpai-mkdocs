@@ -9,7 +9,7 @@ categories:
   - dsblog
 keywords: [Python Naming Convention, PEP 8, Code Style Guide, Python Programming, Best Practices, Clean Code, Variable Naming, Function Naming]
 header:
-    teaser: /assets/images/dspost/dsp6072-Python-Naming-Convention.jpg
+    teaser: ../assets/images/dspost/dsp6072-Python-Naming-Convention.jpg
 excerpt_separator: "<!--more-->"   
 author: Hari Thapliyaal   
 layout: dspost-layout   
