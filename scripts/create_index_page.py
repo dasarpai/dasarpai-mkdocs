@@ -7,6 +7,7 @@ by scanning the jekyll/collections directory for markdown files.
 import os
 import re
 import yaml
+import json
 from datetime import datetime
 from pathlib import Path
 
@@ -14,19 +15,20 @@ from pathlib import Path
 ## Define what index to create.
 BLOG = "dsblog"
 
-index_content = [
-    "# Data Science Blog",
-    "",
-    "Welcome to my Data Science Blog",
-    "",
-    "Browse through the summaries below to find insights and key takeaways",
-    ""
-]
-
 ## configuration continue
 INPUT_DIR = Path("docs/" + BLOG)
 INDEX_FILE = INPUT_DIR / "index.md"
 ASSETS_DIR = Path("docs/assets/images/" + BLOG)
+COLLECTION_INTRO_FILE = Path("scripts/collection_intro.json")
+
+def load_collection_intro():
+    """Load collection intro content from JSON file."""
+    try:
+        with open(COLLECTION_INTRO_FILE, 'r', encoding='utf-8') as f:
+            return json.load(f)
+    except Exception as e:
+        print(f"Error loading collection intro file: {e}")
+        return {}
 
 def extract_frontmatter(file_path):
     """Extract YAML frontmatter from markdown file."""
@@ -67,47 +69,73 @@ def get_excerpt(frontmatter, file_path, max_length=150):
     else:
         return "EXCERPT Not Found"
 
-def generate_index():
+def get_image_path(frontmatter, blog):
+    """Get image path from frontmatter with error handling."""
+    try:
+        if frontmatter and 'header' in frontmatter and frontmatter['header'] and 'teaser' in frontmatter['header']:
+            return frontmatter['header']['teaser']
+        else:
+            # Return a default image path if header or teaser is missing
+            return f"/assets/images/{blog}/default.jpg"
+    except (TypeError, KeyError):
+        # Handle any other errors
+        return f"/assets/images/{blog}/default.jpg"
+
+def generate_index(blog, index_content):
     """Generate the index.md file with article summaries."""
+    # Set the input directory and index file for the current blog
+    input_dir = Path("docs/" + blog)
+    index_file = input_dir / "index.md"
+    
     # Skip the index.md file itself
-    files = [f for f in INPUT_DIR.glob('*.md') if f.name != 'index.md']
+    files = [f for f in input_dir.glob('*.md') if f.name != 'index.md']
 
     # Collect all article  data first
     index_summaries = []
     
     for file_path in files:
-        filename = file_path.stem
-        frontmatter = extract_frontmatter(file_path)
-        
-        # Skip files without proper frontmatter
-        if not frontmatter:
+        try:
+            filename = file_path.stem
+            frontmatter = extract_frontmatter(file_path)
+            
+            # Skip files without proper frontmatter
+            if not frontmatter:
+                print(f"Skipping {file_path} - No frontmatter found")
+                continue
+            
+            # Get title with fallback
+            title = frontmatter.get('title', filename)
+            
+            # Get image path with error handling
+            image_path = get_image_path(frontmatter, blog)
+            
+            excerpt = get_excerpt(frontmatter, file_path)
+            read_time = estimate_read_time(file_path)
+            
+            # Store article summary data
+            index_summaries.append({
+                'title': title,
+                'filename': filename,
+                'image_path': image_path,
+                'excerpt': excerpt,
+                'read_time': read_time
+            })
+        except Exception as e:
+            print(f"Error processing {file_path}: {e}")
             continue
-        
-        title = frontmatter['title']
-        image_path = frontmatter['header']['teaser']
-        excerpt = get_excerpt(frontmatter, file_path)
-        read_time = estimate_read_time(file_path)
-        
-        # Store article summary data
-        index_summaries.append({
-            'title': title,
-            'filename': filename,
-            'image_path': image_path,
-            'excerpt': excerpt,
-            'read_time': read_time
-        })
     
     # Generate markdown with two columns per row
-    index_content.append("")
+    index_content_lines = index_content.split('\n')
+    index_content_lines.append("")
     
     # Process article summaries in pairs
     for i in range(0, len(index_summaries), 2):
-        index_content.append('<div class="grid cards" markdown>')
-        index_content.append("")
+        index_content_lines.append('<div class="grid cards" markdown>')
+        index_content_lines.append("")
         
         # First column
         article = index_summaries[i]
-        index_content.extend([
+        index_content_lines.extend([
             f"- ![{article['title']}]({article['image_path']}){{ width=\"200\" }}",
             "",
             f"    ### [{article['title']}]({article['filename']})",
@@ -121,7 +149,7 @@ def generate_index():
         # Second column (if available)
         if i + 1 < len(index_summaries):
             article = index_summaries[i + 1]
-            index_content.extend([
+            index_content_lines.extend([
                 f"- ![{article['title']}]({article['image_path']}){{ width=\"200\" }}",
                 "",
                 f"    ### [{article['title']}]({article['filename']})",
@@ -129,17 +157,38 @@ def generate_index():
                 f"    **Read time:** {article['read_time']} min",
                 "    ",
                 f"    {article['excerpt']}",
-                ""
+                "    "
             ])
         
-        index_content.append("</div>")
-        index_content.append("")
+        index_content_lines.append("</div>")
+        index_content_lines.append("")
     
     # Write to file
-    with open(INDEX_FILE, 'w', encoding='utf-8') as f:
-        f.write('\n'.join(index_content))
+    with open(index_file, 'w', encoding='utf-8') as f:
+        f.write('\n'.join(index_content_lines))
 
-    print(f"Updated {INDEX_FILE} with {len(files)} Articles")
+    print(f"Updated {index_file} with {len(files)} Articles")
 
 if __name__ == "__main__":
-    generate_index()
+    # Define what index to create.
+    blogs = ["booksummary", "dsblog", "dscourses", "dsresources", "gallery", "gk", "management", "news", 
+            "pages", "pmblog", "pmbok6", "pmbok6hi", "projects", "quotations", 
+            "samskrutyatra", "wiaposts"]
+    
+    # Load collection intro content
+    collection_intro = load_collection_intro()
+    
+    for blog in blogs:
+        try:
+            # Get the intro content for this blog from the JSON file
+            if blog in collection_intro:
+                index_content = collection_intro[blog]
+            else:
+                # Default content if blog not found in JSON
+                index_content = f"# {blog.capitalize()}\n\nWelcome to {blog.capitalize()} page."
+            
+            # Generate the index for this blog
+            generate_index(blog, index_content)
+        except Exception as e:
+            print(f"Error generating index for {blog}: {e}")
+            continue

@@ -90,21 +90,30 @@ def copy_files_without_date_prefix(input_dir, output_dir, blog_type=None):
     print(f"Created .pages file at {pages_path}")
 
 def main():
-    parser = argparse.ArgumentParser(description='Copy files from Jekyll blog to MkDocs, removing date prefixes from filenames.')
-    parser.add_argument('--input_dir', default="D:\\github-blog\\dasarpai.github.io", 
-                        help='Input directory containing Jekyll blog files (default: D:\\github-blog\\dasarpai.github.io)')
-    parser.add_argument('--output_dir', required=True, 
-                        help='Output directory for files with date prefixes removed')
-    parser.add_argument('--blog_type', choices=['dsblog', 'booksummary', 'pmblog', 'pmbok6', 'dsresources', 'management'],
-                        help='Type of blog to process (corresponds to _blogtype directory in Jekyll)')
+    # parser = argparse.ArgumentParser(description='Copy files from Jekyll blog to MkDocs, removing date prefixes from filenames.')
+    # parser.add_argument('--input_dir', default="D:\\github-blog\\dasarpai.github.io", 
+    #                     help='Input directory containing Jekyll blog files (default: D:\\github-blog\\dasarpai.github.io)')
+    # parser.add_argument('--output_dir', required=True, 
+    #                     help='Output directory for files with date prefixes removed')
+    # parser.add_argument('--blog_type', choices=['dsblog', 'gallary', 'booksummary', 'pmblog', 'pmbok6', 'dsresources', 'management', 'dscourses'],
+    #                     help='Type of blog to process (corresponds to _blogtype directory in Jekyll)')
+    # args = parser.parse_args()
     
-    args = parser.parse_args()
-    
-    # Convert to absolute paths if needed
-    input_dir = os.path.abspath(args.input_dir)
-    output_dir = os.path.abspath(args.output_dir)
-    
-    copy_files_without_date_prefix(input_dir, output_dir, args.blog_type)
+    # # Convert to absolute paths if needed
+    # input_dir = os.path.abspath(args.input_dir)
+    # output_dir = os.path.abspath(args.output_dir)
+    # copy_files_without_date_prefix(input_dir, output_dir, args.blog_type)
+
+    blogs = ["booksummary", "dsblog", "dscourses", "dsresources", "gallery", "gk", "management", "news", 
+            "pages", "pmblog", "pmbok6", "pmbok6hi", "projects", "quotations", 
+            "samskrutyatra", "wiaposts"]
+    blogs = ["dsblog"]
+    for blog in blogs:
+
+        blog_type = blog
+        input_dir = "D:\\github-blog\\dasarpai.github.io\\"
+        output_dir = "D:\\github-blog\\dasarpai-mkdocs\\docs\\"+blog
+        copy_files_without_date_prefix(input_dir, output_dir, blog)
 
 if __name__ == "__main__":
     main()
