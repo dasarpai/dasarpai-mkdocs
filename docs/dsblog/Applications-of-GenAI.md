@@ -24,7 +24,7 @@ keywords: ["Generative AI", "Text Generation", "AI Conversation", "Content Creat
 
 ---
 
-![Applications of GenAI](/assets/images/dspost/dsp6169-Applications-of-GenAI.jpg)   
+![Applications of GenAI](../assets/images/dspost/dsp6169-Applications-of-GenAI.jpg)   
    
 # Application of Generative AI (GenAI)   
    

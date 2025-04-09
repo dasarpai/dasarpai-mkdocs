@@ -1,21 +1,22 @@
----
-author: Hari Thapliyaal
-author_profile: true
-categories: null
-date: '2024-09-19T08:33:00+05:30'
-excerpt: null
-header:
-  teaser: ../assets/images/booksummary/7523-Das-Kapital.jpg
-id: 7523
-layout: booksum-layout
-permalink: /booksummary/Das-Kapital
-share: true
-tags:
-- Book Summary
-- Economics
-title: 'Book Summary: Das Kapital'
----
+---    
+id: 7523    
+  
+title:  "Book Summary: Das Kapital"       
 
+date: "2024-09-19T08:33:00+05:30"    
+permalink: /booksummary/Das-Kapital     
+tags:  [Book Summary, Economics]     
+    
+categories:    
+header:    
+    teaser: /assets/images/booksummary/7523-Das-Kapital.jpg    
+author: Hari Thapliyaal    
+layout: booksum-layout    
+excerpt:    
+author_profile: true    
+share: true    
+---    
+    
 ![Book Summary: Das-Kapital](../assets/images/booksummary/7523-Das-Kapital.jpg) 
 
 # Das Kapital

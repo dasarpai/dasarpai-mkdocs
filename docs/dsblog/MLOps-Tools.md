@@ -22,7 +22,7 @@ comments: true
 keywords: ["MLOps", "Machine Learning Operations", "DevOps", "Model Deployment", "CI/CD", "Model Monitoring", "Pipeline Orchestration", "Automation Tools", "Model Management", "ML Infrastructure"]
 ---
 
-![MLOps-Tools](/assets/images/dspost/dsp6137-MLOps-Tools.jpg)
+![MLOps-Tools](../assets/images/dspost/dsp6137-MLOps-Tools.jpg)
 
 # MLOps Tools
 

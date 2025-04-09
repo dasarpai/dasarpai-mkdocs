@@ -21,7 +21,7 @@ toc_sticky: true
 mathjax: "true"
 ---
 
-![AI in School Education](/assets/images/dspost/dsp6109-AI-Usecases-in-Education.jpg)   
+![AI in School Education](../assets/images/dspost/dsp6109-AI-Usecases-in-Education.jpg)   
    
 # AI in School Education   
   

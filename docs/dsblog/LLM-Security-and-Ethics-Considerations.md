@@ -22,7 +22,7 @@ mathjax: "true"
 comments: true
 ---
 
-![LLM-Security-and-Ethics-Considerations](/assets/images/dspost/dsp6128-LLM-Security-and-Ethics-Considerations.jpg)
+![LLM-Security-and-Ethics-Considerations](../assets/images/dspost/dsp6128-LLM-Security-and-Ethics-Considerations.jpg)
 
 # LLM Security and Ethics Considerations
 

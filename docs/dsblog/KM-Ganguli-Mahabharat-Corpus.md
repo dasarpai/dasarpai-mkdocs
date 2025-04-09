@@ -21,7 +21,7 @@ toc_sticky: true
 mathjax: "true"
 ---
    
-![KM Ganguli Mahabharat Corpus](/assets/images/dspost/dsp6111-KM-Ganguli-Mahabharata-Corpus.jpg)   
+![KM Ganguli Mahabharat Corpus](../assets/images/dspost/dsp6111-KM-Ganguli-Mahabharata-Corpus.jpg)   
     
 # KM Ganguli Mahabharat Corpus
    

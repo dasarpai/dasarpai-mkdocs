@@ -21,7 +21,7 @@ toc_sticky: true
 mathjax: "true"
 ---
 
-![What is CAPTCHA?](/assets/images/dspost/dsp6070-What-is-Captcha.jpg)   
+![What is CAPTCHA?](../assets/images/dspost/dsp6070-What-is-Captcha.jpg)   
 
 # What is CAPTCHA?
 

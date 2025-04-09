@@ -1,20 +1,21 @@
----
-author: Hari Thapliyaal
-author_profile: true
-categories: null
-date: '2024-01-03T08:33:00+05:30'
-excerpt: null
-header:
-  teaser: ../assets/images/booksummary/7503-How-to-Listen-by-Oscar-Trimboli.jpg
-id: 7503
-layout: booksum-layout
-permalink: /booksummary/How-to-Listen-by-Oscar-Trimboli
-share: true
-tags:
-- Book Summary
-title: 'Book Summary: How to Listen by Oscar Trimboli'
----
-
+---                            
+id: 7503                            
+                          
+title: "Book Summary: How to Listen by Oscar Trimboli"                      
+date: "2024-01-03T08:33:00+05:30"                            
+permalink: /booksummary/How-to-Listen-by-Oscar-Trimboli                      
+tags: [Book Summary]                     
+                            
+categories:                            
+header:                            
+    teaser: /assets/images/booksummary/7503-How-to-Listen-by-Oscar-Trimboli.jpg                         
+author: Hari Thapliyaal                            
+layout: booksum-layout                            
+excerpt:                            
+author_profile: true                            
+share: true                            
+---                            
+                            
 ![How to Listen by Oscar Trimboli](../assets/images/booksummary/7503-How-to-Listen-by-Oscar-Trimboli.jpg)                                 
    
 # How to Listen

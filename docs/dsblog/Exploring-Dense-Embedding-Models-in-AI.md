@@ -23,7 +23,7 @@ comments: true
 keywords: ["Dense embedding models in AI", "Word2Vec vs Voyage", "Advanced embedding models AI", "Multimodal embeddings", "Cross-modal embeddings AI", "Word embeddings machine learning", "Sentence embeddings NLP", "Voyage embedding model", "Cross-lingual embeddings AI", "Embedding models for text and image", "Transformer-based embeddings", "Multimodal AI models", "Contextual embeddings NLP"]
 ---
 
-![Exploring Dense Embedding Models in AI](/assets/images/dspost/dsp6157-Exploring-Dense-Embedding-Models-in-AI.jpg)
+![Exploring Dense Embedding Models in AI](../assets/images/dspost/dsp6157-Exploring-Dense-Embedding-Models-in-AI.jpg)
 
 ## What is dense embedding in AI?
 Dense embeddings are critical in many AI applications, particularly in deep learning, where they help reduce data complexity and enhance the model’s ability to generalize from patterns in data.

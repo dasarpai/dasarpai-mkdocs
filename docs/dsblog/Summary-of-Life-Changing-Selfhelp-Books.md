@@ -22,9 +22,9 @@ toc_sticky: true
 mathjax: "true"
 ---
 
-![Summary of Life Changing Selfhelp Books](/assets/images/dspost/dsp6107-Summary-of-Life-Changing-Selfhelp-Books.jpg)
+![Summary of Life Changing Selfhelp Books](../assets/images/dspost/dsp6107-Summary-of-Life-Changing-Selfhelp-Books.jpg)
 
-[Download Link to this Diary](/assets/docs/Summaries-of-Books.pdf)
+[Download Link to this Diary](../assets/docs/Summaries-of-Books.pdf)
 
 <object data="/assets/docs/Summaries-of-Books.pdf" width="1000" height="1000" scroll=True type='application/pdf'></object>
 

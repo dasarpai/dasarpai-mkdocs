@@ -25,7 +25,7 @@ comments: true
 keywords: ["NLP Tokenization Schemes", "Tokenization in NLP", "Language Model Tokenization", "Embeddings in NLP", "NLP Tokenization Methods", "Tokenization Techniques NLP", "NLP Tokenization Examples"]
 ---
 
-![Exploring Tokenization and Embedding in NLP](/assets/images/dspost/dsp6215-Exploring-Tokenization-in-AI.jpg)
+![Exploring Tokenization and Embedding in NLP](../assets/images/dspost/dsp6215-Exploring-Tokenization-in-AI.jpg)
 
 # Exploring Tokenization and Embedding in NLP
 Tokenization and embedding are key components of natural language processing (NLP) models. Sometimes people misunderstand tokenization and embedding and this article is to address those issues. This is in the question answer format and addressing following questions.

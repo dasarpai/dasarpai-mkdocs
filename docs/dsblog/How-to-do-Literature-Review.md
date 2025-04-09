@@ -22,7 +22,7 @@ mathjax: "true"
 ---
 
 
-![How to do Literature Review](/assets/images/dspost/dsp6086-How-To-Do-Literature-Review.jpg)
+![How to do Literature Review](../assets/images/dspost/dsp6086-How-To-Do-Literature-Review.jpg)
 
 
 # How to Conduct Literature Review?
@@ -120,4 +120,4 @@ All these numbers of pages are without appendices and references.
 
 
 ## Resource
-You can use [this Literature-Review-Template ](https://docs.google.com/spreadsheets/d/1aAHzei8OYRS4rCaW44j9g8ewEeIGXrkAI6HQ4oiCw8o/edit?usp=sharing) for your Literature Review work. [Download Template](/assets/docs/Literature-Review-Template.xlsx).
+You can use [this Literature-Review-Template ](https://docs.google.com/spreadsheets/d/1aAHzei8OYRS4rCaW44j9g8ewEeIGXrkAI6HQ4oiCw8o/edit?usp=sharing) for your Literature Review work. [Download Template](../assets/docs/Literature-Review-Template.xlsx).

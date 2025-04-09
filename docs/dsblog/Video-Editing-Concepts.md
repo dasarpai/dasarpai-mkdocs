@@ -39,7 +39,7 @@ keywords:
 ---
 
 
-![](/assets/images/dspost/dsp6248-video-editing-concepts.jpg)
+![](../assets/images/dspost/dsp6248-video-editing-concepts.jpg)
 
 # 🎬 **Core Video Editing Concepts**
 
@@ -483,4 +483,4 @@ A comprehensive list of different kinds of colors and color styles with a one-li
 
 30. **Flat Colors** – Simple, single-tone colors without gradients or textures.
 
-![](/assets/images/dspost/misc/dsp6248-Color_styles_visual_chart.png)
+![](../assets/images/dspost/misc/dsp6248-Color_styles_visual_chart.png)

@@ -21,7 +21,7 @@ toc: true
 toc_sticky: true 
 mathjax: "true"
 ---
-![Datasets](/assets/images/dsresources/dsr115-Datasets.jpg)  
+![Datasets](../assets/images/dsresources/dsr115-Datasets.jpg)  
   
 # Thousands of Machine Learning Datasets  
   

@@ -26,7 +26,7 @@ toc_sticky: true
 mathjax: "true"
 ---
 
-![HighLevel-UsesCases-AI](/assets/images/dspost/dsp6002-High-Level-UsesCases-AI.jpg)   
+![HighLevel-UsesCases-AI](../assets/images/dspost/dsp6002-High-Level-UsesCases-AI.jpg)   
    
 # 150 High Level AI Usecases - 2020  
 

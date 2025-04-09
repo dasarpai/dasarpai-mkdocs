@@ -33,7 +33,7 @@ keywords: [automated machine learning, AutoML tools, ML automation, cloud AutoML
 
 ---
 
-![What is AutoML](/assets/images/dspost/dsp6150-AutoML-Tools.jpg)
+![What is AutoML](../assets/images/dspost/dsp6150-AutoML-Tools.jpg)
 
 # Automated Machine Learning
 

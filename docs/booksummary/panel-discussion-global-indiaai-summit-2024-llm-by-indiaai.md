@@ -1,39 +1,28 @@
 ---
-author: Hari Thapliyaal
-author_profile: true
-categories: null
-comments: true
-date: 2024-12-08
-excerpt: A summary of the panel discussion on Large Language Models in the Global
-  India AI Summit 2024, highlighting the key themes and ideas around AI and its impact
-  on society. by IndiaAI.
-excerpt_separator: <!--more-->
-header:
-  teaser: ../assets/images/booksummary/7534-Global-IndiaAI-Summit-2024-LLM-by-IndiaAI.jpg
-id: 7534
-keywords:
-- Global India AI Summit 2024
-- Large Language Models
-- IndiaAI
-- Responsible AI
-- Multilingualism
-- AI Ecosystem
-- Indigenous Communities
-- Bhashini
-- Digital India Mission
-layout: booksum-layout
 mathjax: true
+id: 7534
+title: "Panel Discussion: Global India AI Summit 2024: Large Language Models by IndiaAI"
+date: 2024-12-08
 permalink: /booksummary/panel-discussion-global-indiaai-summit-2024-llm-by-indiaai
-share: true
 tags:
-- Global India AI Summit 2024
-- Panel Discussion
-- Large Language Models
-- IndiaAI
-title: 'Panel Discussion: Global India AI Summit 2024: Large Language Models by IndiaAI'
+  - "Global India AI Summit 2024"
+  - "Panel Discussion"
+  - "Large Language Models"
+  - "IndiaAI"
+categories:
+header:
+  teaser: /assets/images/booksummary/7534-Global-IndiaAI-Summit-2024-LLM-by-IndiaAI.jpg
+excerpt_separator: "<!--more-->"
+author: Hari Thapliyaal
+layout: booksum-layout
+excerpt: "A summary of the panel discussion on Large Language Models in the Global India AI Summit 2024, highlighting the key themes and ideas around AI and its impact on society. by IndiaAI."
+author_profile: true
+share: true
 toc: false
-toc_levels: 3
 toc_sticky: true
+toc_levels: 3
+comments: true
+keywords: [Global India AI Summit 2024, Large Language Models, IndiaAI, Responsible AI, Multilingualism, AI Ecosystem, Indigenous Communities, Bhashini, Digital India Mission]
 ---
 
 ![Global India AI Summit 2024: Panel Discussion on Large Language Models by IndiaAI](../assets/images/booksummary/7534-Global-IndiaAI-Summit-2024-LLM-by-IndiaAI.jpg)

@@ -1,20 +1,21 @@
----
-author: Hari Thapliyaal
-author_profile: true
-categories: null
-date: '2024-01-01T08:33:00+05:30'
-excerpt: null
-header:
-  teaser: ../assets/images/booksummary/7501-The-Inspirational-Leader-by-Gifford-Thomas.jpg
-id: 7501
-layout: booksum-layout
-permalink: /booksummary/The-Inspirational-Leader-by-Gifford-Thomas
-share: true
-tags:
-- Book Summary
-title: 'Book Summary: The Inspirational Leader by Gifford Thomas'
----
-
+---                            
+id: 7501                            
+                          
+title:  "Book Summary: The Inspirational Leader by Gifford Thomas"                    
+date: "2024-01-01T08:33:00+05:30"                            
+permalink: /booksummary/The-Inspirational-Leader-by-Gifford-Thomas                      
+tags: [Book Summary]                     
+                            
+categories:                            
+header:                            
+    teaser: /assets/images/booksummary/7501-The-Inspirational-Leader-by-Gifford-Thomas.jpg                     
+author: Hari Thapliyaal                            
+layout: booksum-layout                            
+excerpt:                            
+author_profile: true                            
+share: true                            
+---                            
+                            
 ![The Inspirational Leader by Gifford Thomas](../assets/images/booksummary/7501-The-Inspirational-Leader-by-Gifford-Thomas.jpg)
 
 # The Inspirational Leader
@@ -51,3 +52,5 @@ title: 'Book Summary: The Inspirational Leader by Gifford Thomas'
 28. Encouraging responsible risk-taking and stepping out of comfort zones is valuable.
 29. Fostering a culture of continuous improvement and learning from mistakes is significant.
 30. Expressing gratitude and appreciating the efforts and contributions of team members is powerful.
+
+   

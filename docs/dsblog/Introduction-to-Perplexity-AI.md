@@ -23,7 +23,7 @@ comments: true
 keywords: [LLM, Perplexity AI, AI, Chatbot, Search Engine]
 ---
 
-![Introduction to Perplexity AI](/assets/images/dspost/dsp6156-Introduction-to-Perplexity-AI.jpg)
+![Introduction to Perplexity AI](../assets/images/dspost/dsp6156-Introduction-to-Perplexity-AI.jpg)
 
 # Introduction to Perplexity AI
 

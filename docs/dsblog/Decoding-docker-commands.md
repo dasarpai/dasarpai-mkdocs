@@ -22,7 +22,7 @@ mathjax: "true"
 comments: true
 ---
 
-![Decoding-docker-commands](/assets/images/dspost/dsp6117-Decoding-docker-commands.jpg)
+![Decoding-docker-commands](../assets/images/dspost/dsp6117-Decoding-docker-commands.jpg)
 
 # Decoding docker commands
 

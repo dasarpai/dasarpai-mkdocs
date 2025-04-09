@@ -21,7 +21,7 @@ toc_sticky: true
 mathjax: "true"
 ---
 
-![What is GAN Architecture?](/assets/images/dspost/dsp6069-What-is-GAN-Architecture.jpg)    
+![What is GAN Architecture?](../assets/images/dspost/dsp6069-What-is-GAN-Architecture.jpg)    
    
 # What is GAN Architecture?  
 Generative Adversarial Networks (GANs) are a powerful class of neural networks that are used for unsupervised learning. It was developed and introduced by Ian J. Goodfellow in 2014. It is a type of artificial intelligence (AI) model that consists of two neural networks: a generator and a discriminator. GANs are used for generative tasks, such as creating realistic images, videos, or even audio.

@@ -21,7 +21,7 @@ toc_sticky: true
 mathjax: "true"
 ---
 
-![A Guide to Model Fine Tuning with OpenAI API](/assets/images/dspost/dsp6068-A-Guide-to-Model-Fine-Tuning-with-OpenAI-API.jpg)    
+![A Guide to Model Fine Tuning with OpenAI API](../assets/images/dspost/dsp6068-A-Guide-to-Model-Fine-Tuning-with-OpenAI-API.jpg)    
    
 # A Guide to Model Fine Tuning with OpenAI API
 

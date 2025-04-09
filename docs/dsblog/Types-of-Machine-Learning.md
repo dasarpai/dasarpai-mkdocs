@@ -31,7 +31,7 @@ toc_sticky: true
 mathjax: "true"
 ---
 
-![Types of Machine Learning](/assets/images/dspost/dsp6056-Types-of-Machine-Learning.jpg)     
+![Types of Machine Learning](../assets/images/dspost/dsp6056-Types-of-Machine-Learning.jpg)     
     
 # Types of Machine Learning    
     

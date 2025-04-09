@@ -27,7 +27,7 @@ comments: true
 keywords: ["Reinforcement Learning Tutorial", "Reinforcement Learning Guide", "RL Key Concepts", "RL Algorithms", "RL Applications", "Exploration vs. Exploitation in RL", "Value-Based vs. Policy-Based Methods in RL"]
 ---
 
-![Exploring Reinforcement  Learning Concepts](/assets/images/dspost/dsp6225-Exploring-Reinforcement-Learning-Concepts.jpg)
+![Exploring Reinforcement  Learning Concepts](../assets/images/dspost/dsp6225-Exploring-Reinforcement-Learning-Concepts.jpg)
 
 # Exploring Reinforcement  Learning Concepts
 

@@ -23,7 +23,7 @@ comments: true
 keywords: ["Transfer Learning", "In-Context Learning", "Prompt Engineering", "Zero-Shot Learning", "Meta-Learning", "Few-Shot Learning", "Foundational Models"]
 ---
 
-![Transfer Learning Key AI Techniques Explained](/assets/images/dspost/dsp6172-Transfer-Learning-Key-AI-Techniques-Explained.jpg)
+![Transfer Learning Key AI Techniques Explained](../assets/images/dspost/dsp6172-Transfer-Learning-Key-AI-Techniques-Explained.jpg)
 
 # Transfer Learning Key AI Techniques Explained 
 In this article we will understand some important concepts used within machine learning. 

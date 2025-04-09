@@ -27,7 +27,7 @@ comments: true
 keywords: ["NVIDIA", "GPU", "AI", "Data Center", "Gaming", "CUDA", "Tesla"]
 ---
 
-![Introduction-NVIDIA-Products](/assets/images/dspost/dsp6182-Introduction-NVIDIA-Products.jpg)
+![Introduction-NVIDIA-Products](../assets/images/dspost/dsp6182-Introduction-NVIDIA-Products.jpg)
 
 ## NVIDIA Timeline
 NVIDIA Corporation has an illustrious history since its founding in 1993. It started as a graphics processing pioneer and has grown into a global leader in AI, gaming, data center technologies, and more. Here's a timeline of key milestones and activities:

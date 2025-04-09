@@ -1,31 +1,27 @@
 ---
-author: Hari Thapliyaal
-author_profile: true
-categories: null
-comments: true
-date: 2024-12-21
-excerpt: 'A summary of ''The Autobiography of Benjamin Franklin'' in 11 key points. '
-header:
-  teaser: ../assets/images/booksummary/7540-The-Autobiography-of-Benjamin-Franklin.jpg
-id: 7540
-keywords:
-- Summary of The Autobiography of Benjamin Franklin
-- 13 principles of Benjamin Franklin
-- Benjamin Franklin
-- Autobiography
-layout: booksum-layout
 mathjax: true
+id: 7540
+title: "The Autobiography of Benjamin Franklin"
+date: 2024-12-21
 permalink: /booksummary/The-Autobiography-of-Benjamin-Franklin
-share: true
 tags:
-- The Autobiography of Benjamin Franklin
-- Book Summary
-- Benjamin Franklin
-- Autobiography
-title: The Autobiography of Benjamin Franklin
+  - "The Autobiography of Benjamin Franklin"
+  - "Book Summary"
+  - "Benjamin Franklin"
+  - "Autobiography"
+categories:
+header:
+  teaser: /assets/images/booksummary/7540-The-Autobiography-of-Benjamin-Franklin.jpg
+author: Hari Thapliyaal
+layout: booksum-layout
+excerpt: "A summary of 'The Autobiography of Benjamin Franklin' in 11 key points. "
+author_profile: true
+share: true
 toc: false
-toc_levels: 3
 toc_sticky: false
+toc_levels: 3
+comments: true
+keywords: [Summary of The Autobiography of Benjamin Franklin, 13 principles of Benjamin Franklin,  Benjamin Franklin, Autobiography]
 ---
 
 ![The Autobiography of Benjamin Franklin](../assets/images/booksummary/7540-The-Autobiography-of-Benjamin-Franklin.jpg)

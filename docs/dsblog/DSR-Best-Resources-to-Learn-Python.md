@@ -24,7 +24,7 @@ toc_sticky: true
 mathjax: "true"
 ---
 
-![Best Resources to Learn Python](/assets/images/dsresources/dsr110-Best-Resources-to-Learn-Python.jpg)   
+![Best Resources to Learn Python](../assets/images/dsresources/dsr110-Best-Resources-to-Learn-Python.jpg)   
    
 # Best Resources to Learn Python   
    

@@ -1,30 +1,26 @@
 ---
-author: Hari Thapliyaal
-author_profile: true
-categories: null
-comments: true
-date: 2024-12-25
-excerpt: Interview Questions for Nicklas Lundblad by Professor Hannah Fry
-header:
-  teaser: ../assets/images/booksummary/7544-The-Balancing-Act-AI-Regulation.jpg
-id: 7544
-keywords:
-- Interview Nicklas Lundblad on AI Regulation
-- Nicklas Lundblad
-- Professor Hannah Fry
-- Philosophy
-layout: booksum-layout
 mathjax: true
+id: 7544
+title: "The Balancing Act - AI Regulation"
+date: 2024-12-25
 permalink: /booksummary/The-Balancing-Act-AI-Regulation
-share: true
 tags:
-- Interview
-- Nicklas Lundblad
-- Philosophy
-title: The Balancing Act - AI Regulation
+  - "Interview"
+  - "Nicklas Lundblad"
+  - "Philosophy"
+categories:
+header:
+  teaser: /assets/images/booksummary/7544-The-Balancing-Act-AI-Regulation.jpg
+author: Hari Thapliyaal
+layout: booksum-layout
+excerpt: "Interview Questions for Nicklas Lundblad by Professor Hannah Fry"
+author_profile: true
+share: true
 toc: true
-toc_levels: 3
 toc_sticky: false
+toc_levels: 3
+comments: true
+keywords: [Interview Nicklas Lundblad on AI Regulation, Nicklas Lundblad, Professor Hannah Fry, Philosophy]
 ---
 
 ![The Balancing Act - AI Regulation](../assets/images/booksummary/7544-The-Balancing-Act-AI-Regulation.jpg)

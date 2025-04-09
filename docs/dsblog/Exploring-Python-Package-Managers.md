@@ -23,7 +23,7 @@ comments: true
 keywords: ["Python package managers", "Pip", "Conda", "Installing packages", "Managing dependencies", "Python libraries", "Pip commands", "Conda commands", "Pip vs Conda", "Python development tools"]
 ---
 
-![Exploring Python Package Managers](/assets/images/dspost/dsp6161-Exploring-Python-Package-Managers.jpg)
+![Exploring Python Package Managers](../assets/images/dspost/dsp6161-Exploring-Python-Package-Managers.jpg)
 
 # Exploring Python Package Managers   
 

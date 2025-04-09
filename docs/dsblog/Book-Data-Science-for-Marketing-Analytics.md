@@ -25,7 +25,7 @@ toc: true
 toc_sticky: true 
 mathjax: true
 ---   
-[Book Review - Data Science in Marketing Analysis](/assets/images/dspost/dsp6014-BookReview-Data-Science-for-Marketing-Analytics.jpg)   
+[Book Review - Data Science in Marketing Analysis](../assets/images/dspost/dsp6014-BookReview-Data-Science-for-Marketing-Analytics.jpg)   
    
    
 # BOOK REVIEW   

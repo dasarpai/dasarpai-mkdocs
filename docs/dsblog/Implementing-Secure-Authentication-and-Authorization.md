@@ -37,7 +37,7 @@ keywords:
   - "Authentication vs Authorization"
 ---
 
-![Implementing Secure Authentication and Authorization](/assets/images/dspost/dsp6246-implementing-secure-authentication-and-authorization.jpg  )
+![Implementing Secure Authentication and Authorization](../assets/images/dspost/dsp6246-implementing-secure-authentication-and-authorization.jpg  )
 
 # Implementing Secure Authentication and Authorization
 

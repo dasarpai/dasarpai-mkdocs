@@ -22,7 +22,7 @@ comments: true
 keywords: ["LLM App Development", "Generative AI", "Text Generation", "Natural Language Processing", "App Development", "Large Language Model", "AI Conversation"]
 ---
 
-![Exploring LLM Application Development](/assets/images/dspost/dsp6174-Exploring-LLM-App-Development.jpg)
+![Exploring LLM Application Development](../assets/images/dspost/dsp6174-Exploring-LLM-App-Development.jpg)
 
 # Exploring LLM Application Development
 

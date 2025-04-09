@@ -22,7 +22,7 @@ mathjax: "true"
 comments: true
 ---
 
-![Creating-Docker-Image](/assets/images/dspost/dsp6122-Creating-Docker-Image.jpg)
+![Creating-Docker-Image](../assets/images/dspost/dsp6122-Creating-Docker-Image.jpg)
 
 # Creating Docker Image
 

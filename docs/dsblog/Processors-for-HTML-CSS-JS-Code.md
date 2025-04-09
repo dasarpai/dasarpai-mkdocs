@@ -23,7 +23,7 @@ comments: true
 keywords: ["HTML Preprocessors", "CSS Preprocessors", "JavaScript Transpilers", "Pug", "Sass", "Less", "TypeScript", "Babel", "Web Development Tools", "PostCSS", "Stylus", "CoffeeScript", "Flow", "Web Development"]
 ---
 
-![Processors for HTML CSS JS Code](/assets/images/dspost/dsp6177-Processors-for-HTML-CSS-JS-Code.jpg)
+![Processors for HTML CSS JS Code](../assets/images/dspost/dsp6177-Processors-for-HTML-CSS-JS-Code.jpg)
 # Processors for HTML, CSS, and JS Code 
 
 ## What are HTML Processors?

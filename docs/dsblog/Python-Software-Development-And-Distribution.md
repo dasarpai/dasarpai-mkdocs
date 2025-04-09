@@ -23,7 +23,7 @@ mathjax: "true"
 
 
 
-![Software Distribution](/assets/images/dspost/dsp6012-Python-Software-Development-and-Distribution.jpg)   
+![Software Distribution](../assets/images/dspost/dsp6012-Python-Software-Development-and-Distribution.jpg)   
 
 # Software Distribution
 

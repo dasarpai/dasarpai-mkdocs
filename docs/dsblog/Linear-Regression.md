@@ -20,7 +20,7 @@ toc_sticky: true
 mathjax: "true"
 ---
 
-![Prompt Engineering for GPT4](/assets/images/dspost/dsp6022-Linear-Regression-Interview-Questions.jpg)
+![Prompt Engineering for GPT4](../assets/images/dspost/dsp6022-Linear-Regression-Interview-Questions.jpg)
 
 # Linear Regression Interview Questions and Answers
 

@@ -1,27 +1,23 @@
----
-author: Hari Thapliyaal
-author_profile: true
-categories: null
-date: '2024-10-12T08:33:00+05:30'
-excerpt: null
-header:
-  teaser: ../assets/images/booksummary/7526-Principles-of-Economics.jpg
-id: 7526
-keywords:
-- Alfred Marshall
-- Economics
-- Microeconomics
-- Book Summary
-- Principles of Economics
-layout: booksum-layout
-permalink: /booksummary/Principles-of-Economics
-share: true
-tags:
-- Book Summary
-- Economics
-title: 'Book Summary: Principles of Economics'
----
+---    
+id: 7526    
+  
+title:  "Book Summary: Principles of Economics"       
 
+date: "2024-10-12T08:33:00+05:30"    
+permalink: /booksummary/Principles-of-Economics     
+tags:  [Book Summary, Economics]     
+    
+categories:    
+header:    
+    teaser: /assets/images/booksummary/7526-Principles-of-Economics.jpg    
+author: Hari Thapliyaal    
+layout: booksum-layout    
+excerpt:    
+author_profile: true    
+share: true  
+keywords: [Alfred Marshall, Economics, Microeconomics, Book Summary, Principles of Economics]
+---    
+    
 ![Book Summary: Principles-of-Economics](../assets/images/booksummary/7526-Principles-of-Economics.jpg) 
 
 # Principles of Economics

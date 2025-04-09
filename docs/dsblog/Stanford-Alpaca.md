@@ -22,7 +22,7 @@ mathjax: "true"
 comments: true
 ---
 
-![Stanford-Alpaca](/assets/images/dspost/dsp6116-Stanford-Alpaca.jpg)
+![Stanford-Alpaca](../assets/images/dspost/dsp6116-Stanford-Alpaca.jpg)
 
 # Stanford Alpaca
 

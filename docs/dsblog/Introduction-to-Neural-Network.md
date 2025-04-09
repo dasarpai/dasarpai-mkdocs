@@ -33,7 +33,7 @@ keywords: [neural networks, deep learning, machine learning algorithms, artifici
 
 ---
 
-![Introduction to Neural Network](/assets/images/dspost/dsp6034-Introduction-to-Neural-Network.jpg)
+![Introduction to Neural Network](../assets/images/dspost/dsp6034-Introduction-to-Neural-Network.jpg)
 
 # Introduction to Neural Network
 
@@ -41,7 +41,7 @@ keywords: [neural networks, deep learning, machine learning algorithms, artifici
 
 A perceptron is a type of artificial neural network that can be used for binary classification. It is a simple model that consists of a single layer of artificial neurons and is used to classify input data into one of two categories. The perceptron algorithm learns the weights of the artificial neurons by adjusting them based on the input data and the desired output. The perceptron is considered a basic building block for more complex neural networks.
 
-![perceptron](/assets/images/dspost/cv/perceptron.jpg)
+![perceptron](../assets/images/dspost/cv/perceptron.jpg)
 
 Input layer in above diagram takes data input, if n=10 then it is like there are 10 feature which are given as data input for model training or prediction. w0, w1, w2, etc are weight assigned for the each input, these weights are learned during the training process. These are same as b0, b1, b2 etc of classical machine learning. b0 or w0 can be considered as intercept by a hyperplane.
 
@@ -71,7 +71,7 @@ Where $z$ is the input vector to the activation function, $i$ is the index of th
 
 Activation functions are a crucial component of neural networks. They introduce non-linearity in the model, allowing the network to learn complex, non-linear relationships in the data. The choice of activation function depends on the problem, and often requires some experimentation to find the best one.
 
-![Activation Functions](/assets/images/dspost/cv/activation-function.webp)
+![Activation Functions](../assets/images/dspost/cv/activation-function.webp)
 **Activation Functions**   
 **[Image Credit](https://miro.medium.com/max/1400/1*p_hyqAtyI8pbt2kEl6siOQ.webp)**
 
@@ -105,7 +105,7 @@ A dense layer can have any number of neurons, and the number of neurons in a den
 
 In summary, Dense layers are a type of layer commonly used in neural networks. They are fully connected layers, where each neuron is connected to every neuron in the previous layer. They are used to learn non-linear combinations of the input features and are the basic building blocks of a neural network.
 
-![Dense Layer](/assets/images/dspost/cv/dense-layer-neural-layer.png)
+![Dense Layer](../assets/images/dspost/cv/dense-layer-neural-layer.png)
 
 
 ### How to train and build a simple NN model for classification

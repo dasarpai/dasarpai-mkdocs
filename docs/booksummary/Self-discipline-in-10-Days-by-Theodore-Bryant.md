@@ -1,20 +1,21 @@
----
-author: Hari Thapliyaal
-author_profile: true
-categories: null
-date: '2024-02-04T08:33:00+05:30'
-excerpt: null
-header:
-  teaser: ../assets/images/booksummary/7504-Self-discipline-in-10-Days-by-Theodore-Bryant.jpg
-id: 7504
-layout: booksum-layout
-permalink: /booksummary/Self-discipline-in-10-Days-by-Theodore-Bryant
-share: true
-tags:
-- Book Summary
-title: 'Book Summary: Self discipline in 10 Days by Theodore Bryant'
----
-
+---                            
+id: 7504                            
+                          
+title: "Book Summary: Self discipline in 10 Days by Theodore Bryant"                      
+date: "2024-02-04T08:33:00+05:30"                            
+permalink: /booksummary/Self-discipline-in-10-Days-by-Theodore-Bryant                      
+tags: [Book Summary]                     
+                            
+categories:                            
+header:                            
+    teaser: /assets/images/booksummary/7504-Self-discipline-in-10-Days-by-Theodore-Bryant.jpg                         
+author: Hari Thapliyaal                            
+layout: booksum-layout                            
+excerpt:                            
+author_profile: true                            
+share: true                            
+---                            
+                            
 ![Self discipline in 10 Days by Theodore Bryant](../assets/images/booksummary/7504-Self-discipline-in-10-Days-by-Theodore-Bryant.jpg)          
 
 # Self discipline in 10 Days
@@ -31,3 +32,4 @@ title: 'Book Summary: Self discipline in 10 Days by Theodore Bryant'
 8. Focus on progress, not perfection - small consistent steps towards your goals will lead to significant results.
 9. Don't let excuses or procrastination derail you from your journey to self-discipline - choose discipline over regret.
 10. Self-discipline is a habit that can be cultivated - practice it daily and watch your life transform.
+

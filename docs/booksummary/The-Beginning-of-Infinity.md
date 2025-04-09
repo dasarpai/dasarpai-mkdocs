@@ -1,30 +1,27 @@
 ---
-author: Hari Thapliyaal
-author_profile: true
-categories: null
-comments: true
-date: 2024-12-2
-excerpt: 'A summary of ''The Beginning of Infinity'' in 18 key points. '
-header:
-  teaser: ../assets/images/booksummary/7541-The-Beginning-of-Infinity.jpg
-id: 7541
-keywords:
-- Summary of The Beginning of Infinity
-- David Deutsch
-- Philosophy
-layout: booksum-layout
 mathjax: true
+id: 7541
+title: "The Beginning of Infinity"
+date: 2024-12-2
 permalink: /booksummary/The-Beginning-of-Infinity
-share: true
 tags:
-- The Beginning of Infinity
-- Book Summary
-- David Deutsch
-- Philosophy
-title: The Beginning of Infinity
+  - "The Beginning of Infinity"
+  - "Book Summary"
+  - "David Deutsch"
+  - "Philosophy"
+categories:
+header:
+  teaser: /assets/images/booksummary/7541-The-Beginning-of-Infinity.jpg
+author: Hari Thapliyaal
+layout: booksum-layout
+excerpt: "A summary of 'The Beginning of Infinity' in 18 key points. "
+author_profile: true
+share: true
 toc: false
-toc_levels: 3
 toc_sticky: false
+toc_levels: 3
+comments: true
+keywords: [Summary of The Beginning of Infinity, David Deutsch, Philosophy]
 ---
 
 ![The Beginning of Infinity](../assets/images/booksummary/7541-The-Beginning-of-Infinity.jpg)

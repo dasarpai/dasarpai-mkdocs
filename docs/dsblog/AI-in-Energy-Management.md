@@ -32,7 +32,7 @@ keywords: [AI in energy management, smart grid technology, energy efficiency opt
 
 ---
 
-![AI in Energy Management](/assets/images/dspost/dsp6046-AI-Usecases-in-Energy-Management.jpg)
+![AI in Energy Management](../assets/images/dspost/dsp6046-AI-Usecases-in-Energy-Management.jpg)
 
 
 # AI in Energy Management

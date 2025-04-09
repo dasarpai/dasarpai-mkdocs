@@ -35,7 +35,7 @@ keywords:
   - "AI Model Management"
 ---
 
-![AI Model Marketplaces](/assets/images/dspost/dsp6251-A-Deep-Dive-into-AI-Model-Marketplaces.jpg)
+![AI Model Marketplaces](../assets/images/dspost/dsp6251-A-Deep-Dive-into-AI-Model-Marketplaces.jpg)
 
 
 # A Deep Dive into AI Model Marketplaces for Business Managers  

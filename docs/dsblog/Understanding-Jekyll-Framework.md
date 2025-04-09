@@ -24,7 +24,7 @@ keywords: ["jekyll tutorial", "jekyll static site generator", "jekyll liquid", "
 
 ---
 
-![Understanding Jekyll Framework](/assets/images/dspost/dsp6168-Understanding-Jekyll-Framework.jpg)
+![Understanding Jekyll Framework](../assets/images/dspost/dsp6168-Understanding-Jekyll-Framework.jpg)
 
 # Understanding Jekyll Framework
 

@@ -25,7 +25,7 @@ comments: true
 keywords: ["what is callback in programming", "callback function in programming", "how do callbacks work", "asynchronous programming with callbacks", "callback in software design", "understanding callbacks in software development", "callback programming concepts"]  
 ---
 
-![Understanding Callbacks](/assets/images/dspost/dsp6208-Understanding-Callbacks.jpg)
+![Understanding Callbacks](../assets/images/dspost/dsp6208-Understanding-Callbacks.jpg)
 
 # Understanding Callbacks
 
@@ -118,6 +118,6 @@ By implementing these concepts correctly, you can create a secure and user-frien
 
 ## Visualizing How Callback Works
 
-![Understanding Callback Diagram](/assets/images/dspost/mermaid-code/dsp6208-callback-doagram.jpg)
+![Understanding Callback Diagram](../assets/images/dspost/mermaid-code/dsp6208-callback-doagram.jpg)
 
 

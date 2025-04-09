@@ -1,23 +1,26 @@
----
-author: Hari Thapliyaal
-author_profile: true
-categories: null
-date: '2024-05-15T08:33:00+05:30'
-excerpt: null
-header:
-  teaser: ../assets/images/booksummary/7515-The-Waste-Land.jpg
-id: 7515
-layout: booksum-layout
-permalink: /booksummary/The-Waste-Land
-share: true
-tags:
-- My Favorite Poems
-- TS Eliot
-title: The Waste Land
----
-
+---                            
+id: 7515                            
+                          
+title:  "The Waste Land"                    
+date: "2024-05-15T08:33:00+05:30"                            
+permalink: /booksummary/The-Waste-Land                       
+tags: [My Favorite Poems, TS Eliot]                     
+                            
+categories:                            
+header:                            
+    teaser: /assets/images/booksummary/7515-The-Waste-Land.jpg                           
+author: Hari Thapliyaal                            
+layout: booksum-layout                            
+excerpt:                            
+author_profile: true                            
+share: true                            
+---                            
+                            
 ![The Waste Land](../assets/images/booksummary/7515-The-Waste-Land.jpg)                                 
-               
+
+# The Waste Land   
+
+## Introduction 
 T.S. Eliot's "The Waste Land" is heavily influenced by Indian Vedanta philosophy. The poem references the Upanishads, a collection of ancient Indian texts that are a central part of Vedanta philosophy, and incorporates elements of Hindu and Buddhist myths and symbols. Eliot's use of these references and symbols serves to convey the theme of spiritual and cultural decay in the modern world.
 
 "The Waste Land" is a long and complex poem that was published in 1922. It is considered one of the most important works of modernist literature, and its publication was a major event in the history of 20th century poetry.
@@ -31,7 +34,7 @@ Overall, the poem reflects the feelings of disillusionment and despair that were
 If you want to understand the poem in more detail, you might want to read it multiple times.
 
 			   
-# The Waste Land    
+ 
 			       
 ## I. The Burial of the Dead    
     
@@ -521,4 +524,4 @@ Datta. Dayadhvam. Damyata.
 Shantih     shantih     shantih    
      
 T. S. Eliot, "The Waste Land" from Collected Poems: 1909-1962.  Copyright © 2020 by T. S. Eliot.  Reprinted by permission of Faber and Faber, Ltd..    
-Source: Collected Poems: 1909-1962  (Faber and Faber, Ltd., 2020)
+Source: Collected Poems: 1909-1962  (Faber and Faber, Ltd., 2020)    

@@ -23,7 +23,7 @@ comments: true
 keywords: ["LLM App Development", "App Development Dimensions", "Full-Stack Development", "Frontend Rendering", "Backend Development", "Mobile App Development", "Desktop App Development"]
 ---
 
-![](/assets/images/dspost/dsp6175-Exploring-All-Dimensions-of-Application-Development.jpg)
+![](../assets/images/dspost/dsp6175-Exploring-All-Dimensions-of-Application-Development.jpg)
 
 # Exploring All Dimensions of Application Development
 

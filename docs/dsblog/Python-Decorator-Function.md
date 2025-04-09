@@ -21,7 +21,7 @@ toc_sticky: true
 mathjax: "true"
 ---
 
-![Python Decorator Function](/assets/images/dspost/dsp6074-Python-Decorator-Function.jpg)   
+![Python Decorator Function](../assets/images/dspost/dsp6074-Python-Decorator-Function.jpg)   
 
 # Python Decorator Function
 

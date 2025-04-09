@@ -25,7 +25,7 @@ sidebar:
   nav: "docs" 
 ---
 
-![Exploring Synthetic Data Generation Capabilities](/assets/images/dspost/dsp6163-Exploring-Synthetic-Data-Generation-Capabilities.jpg)
+![Exploring Synthetic Data Generation Capabilities](../assets/images/dspost/dsp6163-Exploring-Synthetic-Data-Generation-Capabilities.jpg)
 
 
 # Exploring Synthetic Data Generation Capabilities

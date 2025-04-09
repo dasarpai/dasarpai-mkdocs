@@ -22,7 +22,7 @@ mathjax: "true"
 comments: true
 ---
 
-![All-about-Hashing](/assets/images/dspost/dsp6123-All-about-Hashing.jpg)
+![All-about-Hashing](../assets/images/dspost/dsp6123-All-about-Hashing.jpg)
 
 # All about Hashing
 

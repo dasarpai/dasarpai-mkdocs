@@ -27,7 +27,7 @@ comments: true
 keywords: ["Ollama AI Models Docker", "Open WebUI Docker Integration", "Docker Containerization AI Models", "AI Model Deployment Docker", "AI Model Integration Docker", "Ollama AI Models Deployment"]
 ---
 
-![](/assets/images/dspost/dsp6227-Integrating-Ollama-and-Open-WebUI-on-Docker.jpg)
+![](../assets/images/dspost/dsp6227-Integrating-Ollama-and-Open-WebUI-on-Docker.jpg)
 
 # Integrating Ollama AI Models and Open WebUI on Docker
 
@@ -137,7 +137,7 @@ services:
 
 ## Diagram Representation
 
-![](/assets/images/dspost/mermaid-code/dsp6227-Docker-Webui-Integration.jpg)
+![](../assets/images/dspost/mermaid-code/dsp6227-Docker-Webui-Integration.jpg)
 
 ## Conclusion
 

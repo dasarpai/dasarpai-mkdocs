@@ -23,7 +23,7 @@ comments: true
 keywords: ["Console programming", "Command-line interface", "Developer console", "Terminal vs. command prompt", "Remote console access", "IDE console", "Database console", "Embedded systems console", "Cloud console", "Debugging console", "Server console"]
 ---
 
-![Everything About Developer Console](/assets/images/dspost/dsp6148-Everything-About-Developer-Console.jpg)
+![Everything About Developer Console](../assets/images/dspost/dsp6148-Everything-About-Developer-Console.jpg)
 # Console Types Every Programmer Should Know
 
 ## Is this article for me?

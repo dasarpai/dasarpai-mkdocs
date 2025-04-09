@@ -1,35 +1,27 @@
 ---
-author: Hari Thapliyaal
-author_profile: true
-categories: null
-comments: true
-date: 2024-12-09
-excerpt: 'A summary of the key lessons from Masayoshi Son''s life, highlighting his
-  entrepreneurial spirit, innovative approach, and inspiring journey. '
-excerpt_separator: <!--more-->
-header:
-  teaser: ../assets/images/booksummary/7535-Masayoshi-Son.jpg
-id: 7535
-keywords:
-- Masayoshi Son
-- SoftBank
-- Inspiring People
-- Entrepreneur
-- Innovator
-- Business Leader
-- Japan
-layout: booksum-layout
 mathjax: true
+id: 7535
+title: "People: Lessons from Masayoshi Son's Life"
+date: 2024-12-09
 permalink: /booksummary/people-masayoshi-son
-share: true
 tags:
-- Masayoshi Son
-- SoftBank
-- Inspiring People
-title: 'People: Lessons from Masayoshi Son''s Life'
+  - "Masayoshi Son"
+  - "SoftBank"
+  - "Inspiring People"
+categories:
+header:
+  teaser: /assets/images/booksummary/7535-Masayoshi-Son.jpg
+excerpt_separator: "<!--more-->"
+author: Hari Thapliyaal
+layout: booksum-layout
+excerpt: "A summary of the key lessons from Masayoshi Son's life, highlighting his entrepreneurial spirit, innovative approach, and inspiring journey. "
+author_profile: true
+share: true
 toc: false
-toc_levels: 3
 toc_sticky: true
+toc_levels: 3
+comments: true
+keywords: [Masayoshi Son, SoftBank, Inspiring People, Entrepreneur, Innovator, Business Leader, Japan]
 ---
 
 ![Lessons from Masayoshi Son's Life](../assets/images/booksummary/7535-Masayoshi-Son.jpg)
@@ -81,4 +73,5 @@ His life's journey from a modest upbringing to becoming a tech magnate offers nu
 
 19. **Lead with Vision**: His leadership at SoftBank is characterized by a clear vision for the future, inspiring innovation and growth. 
 
-20. **Embrace Lifelong Learning**: Son's continuous pursuit of knowledge and adaptation to new technologies highlight the importance of lifelong learning in achieving sustained success.
+20. **Embrace Lifelong Learning**: Son's continuous pursuit of knowledge and adaptation to new technologies highlight the importance of lifelong learning in achieving sustained success. 
+

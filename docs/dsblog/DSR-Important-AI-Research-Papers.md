@@ -31,7 +31,7 @@ toc_sticky: true
 mathjax: true
 ---
 
-![Important AI Research Papers](/assets/images/dsresources/dsr105-Important-AI-Research-Papers.jpg)   
+![Important AI Research Papers](../assets/images/dsresources/dsr105-Important-AI-Research-Papers.jpg)   
    
 # Important AI Research Papers   
    

@@ -36,7 +36,7 @@ keywords:
   - "machine learning performance metrics 2025"
 ---
 
-![AI Benchmark for 2025](/assets/images/dspost/dsp6256-aibenchmarks-for-2025.jpg)
+![AI Benchmark for 2025](../assets/images/dspost/dsp6256-aibenchmarks-for-2025.jpg)
 
 # AI Benchmarks for 2025
 

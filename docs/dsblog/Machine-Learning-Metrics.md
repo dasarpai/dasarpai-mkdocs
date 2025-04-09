@@ -21,7 +21,7 @@ toc_sticky: true
 mathjax: "true"
 ---
 
-![Comprehensive Glossary of LLM](/assets/images/dspost/dsp6092-Machine-Learning-Metrics.jpg)
+![Comprehensive Glossary of LLM](../assets/images/dspost/dsp6092-Machine-Learning-Metrics.jpg)
 
 # Machine Learning Metrics
 

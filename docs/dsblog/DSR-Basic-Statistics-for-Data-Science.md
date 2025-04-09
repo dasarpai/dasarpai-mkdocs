@@ -22,7 +22,7 @@ toc: true
 toc_sticky: true 
 mathjax: "true"
 ---
-![Basic Statistics for Data Science](/assets/images/dsresources/dsr118-Basic-Statistics-for-Data-Science.jpg)   
+![Basic Statistics for Data Science](../assets/images/dsresources/dsr118-Basic-Statistics-for-Data-Science.jpg)   
    
 # Basic Statistics for Data Science   
 

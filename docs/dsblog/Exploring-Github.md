@@ -23,7 +23,7 @@ mathjax: "true"
 comments: true
 ---
 
-![Exploring Github](/assets/images/dspost/dsp6142-Exploring-Github.jpg)
+![Exploring Github](../assets/images/dspost/dsp6142-Exploring-Github.jpg)
 
 # Exploring Github
 

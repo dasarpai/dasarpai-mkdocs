@@ -26,7 +26,7 @@ comments: true
 keywords: ["Serverless LLM Deployment", "Azure OpenAI Service", "Microsoft Azure", "Natural Language Processing", "Large Language Models", "AI Deployment", "Cloud AI Platform"]
 ---
 
-![Serverless-LLM-Deployment](/assets/images/dspost/dsp6185-Serverless-LLM-Deployment.jpg)
+![Serverless-LLM-Deployment](../assets/images/dspost/dsp6185-Serverless-LLM-Deployment.jpg)
 
 # Serverless LLM Deployment Platform
 

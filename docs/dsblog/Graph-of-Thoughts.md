@@ -21,7 +21,7 @@ toc_sticky: true
 mathjax: "true"
 ---
 
-![Graph of Thoughts](/assets/images/dspost/dsp6103-Graph-of-Thoughts.jpg)
+![Graph of Thoughts](../assets/images/dspost/dsp6103-Graph-of-Thoughts.jpg)
 
 # Graph of Thoughts
 

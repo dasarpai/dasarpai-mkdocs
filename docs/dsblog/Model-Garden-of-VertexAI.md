@@ -22,7 +22,7 @@ mathjax: "true"
 keywords: [Vertex AI models, Google Cloud AI, machine learning models, AI model repository, pre-trained models, model deployment, cloud AI solutions, ML model catalog, AI development tools]
 ---    
 
-![All Resources to Learn Data Science](/assets/images/dspost/dsp6065-Model-Garden-of-VertexAI.jpg)        
+![All Resources to Learn Data Science](../assets/images/dspost/dsp6065-Model-Garden-of-VertexAI.jpg)        
         
 # Model Garden of VertexAI:     
 ## Unlocking the Power of Google's VertexAI: Exploring the World of Pre-Built Models for AI Tasks

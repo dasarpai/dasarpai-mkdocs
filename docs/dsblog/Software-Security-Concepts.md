@@ -22,7 +22,7 @@ mathjax: "true"
 comments: true
 ---
 
-![Software-Security-Concepts](/assets/images/dspost/dsp6132-Software-Security-Concepts.jpg)
+![Software-Security-Concepts](../assets/images/dspost/dsp6132-Software-Security-Concepts.jpg)
 
 # Software Security Concepts
 

@@ -1,35 +1,28 @@
 ---
-author: Hari Thapliyaal
-author_profile: true
-categories: null
-comments: true
-date: 2025-03-21
-excerpt: Summary and analysis of Nandan Nilekani's talk at Raisina 2025 on India's
-  growth, Aadhaar ID, Digital India, and development.
-header:
-  teaser: ../assets/images/default/summaryblog.jpg
-id: 7551
-keywords:
-- Nandan Nilekani
-- Raisina 2025
-- India Growth
-- Aadhaar ID
-- Digital India
-- India Development
-layout: booksum-layout
 mathjax: true
+id: 7551
+title: "Nandan Nilekani Raisina 2025 Talk Summary and Analysis"
+date: 2025-03-21
 permalink: /booksummary/Nandan-Nilekani-at-Raisina-2025
-share: true
 tags:
-- Nandan Nilekani
-- Raisina 2025
-- India Growth
-- Aadhaar ID
-- Digital India
-- India Development
-title: Nandan Nilekani Raisina 2025 Talk Summary and Analysis
+  - "Nandan Nilekani"
+  - "Raisina 2025"
+  - "India Growth"
+  - "Aadhaar ID"
+  - "Digital India"
+  - "India Development"
+categories:
+header:
+  teaser: /assets/images/default/summaryblog.jpg
+author: Hari Thapliyaal
+layout: booksum-layout
+excerpt: "Summary and analysis of Nandan Nilekani's talk at Raisina 2025 on India's growth, Aadhaar ID, Digital India, and development."
+author_profile: true
+share: true
 toc: true
 toc_sticky: false
+comments: true
+keywords: [Nandan Nilekani, Raisina 2025, India Growth, Aadhaar ID, Digital India, India Development]
 ---
 
 ![Summary Blog](../assets/images/default/summaryblog.jpg)

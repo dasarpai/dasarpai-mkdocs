@@ -25,7 +25,7 @@ comments: true
 keywords: ["large language model prompt types", "llm project ideas", "nlp techniques for llm", "best llm models for nlp tasks", "llm use cases", "llm project planning", "llm integration with other ai models"]
 ---
 
-![Framework for using LLM](/assets/images/dspost/dsp6192-Framework-for-using-LLM.jpg)
+![Framework for using LLM](../assets/images/dspost/dsp6192-Framework-for-using-LLM.jpg)
 
 # Maximizing Your LLM Project: A Comprehensive Guide to Effective Prompt Types
 

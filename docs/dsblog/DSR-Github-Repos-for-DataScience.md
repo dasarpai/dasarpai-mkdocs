@@ -21,7 +21,7 @@ toc: true
 toc_sticky: true 
 mathjax: "true"
 ---
-![Github Repos for Data Science](/assets/images/dsresources/dsr122-Github-Repos-to-Learn-DataScience.jpg)   
+![Github Repos for Data Science](../assets/images/dsresources/dsr122-Github-Repos-to-Learn-DataScience.jpg)   
    
 # Github-Repos-for-DataScience   
 

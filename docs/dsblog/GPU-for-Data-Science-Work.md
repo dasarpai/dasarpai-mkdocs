@@ -32,7 +32,7 @@ mathjax: "true"
 keywords: [GPU for data science, deep learning hardware, parallel computing, machine learning infrastructure, GPU acceleration, data processing hardware, CUDA programming, GPU performance optimization, hardware requirements]
 ---
 
-![GPU for Data Science Work](/assets/images/dspost/dsp6042-GPU-for-Data-Science-Work.jpg)   
+![GPU for Data Science Work](../assets/images/dspost/dsp6042-GPU-for-Data-Science-Work.jpg)   
    
 # GPU for Data Science Work   
 ## What is the difference between microprocessor (CPU) and GPU?    

@@ -33,7 +33,7 @@ keywords: ["Apache Hive", "big data processing", "data warehousing", "Hadoop eco
 
 ---
 
-![Exploring Apache Hive](/assets/images/dspost/dsp6153-Exploring-Apache-Hive.jpg)
+![Exploring Apache Hive](../assets/images/dspost/dsp6153-Exploring-Apache-Hive.jpg)
 
 # Exploring Apache Hive: Capabilities and Scalability for Big Data Processing
 
@@ -136,7 +136,7 @@ Apache Hive is a data warehousing and SQL-like query engine built on top of Hado
 Hive's capabilities make it a powerful tool for querying and analyzing large datasets using an SQL-like interface. It is well-suited for batch processing, ETL tasks, and data warehousing solutions in big data environments, offering flexibility in terms of data formats, storage, and query optimization. However, for real-time or low-latency applications, other Hadoop ecosystem tools like **Apache HBase** or **Presto** might be more suitable.
 
 ## What are the components of Hive Architecture and how it intereacts with Hadoop.
-![](/assets/images/dspost/hive/hive-architecture.png)
+![](../assets/images/dspost/hive/hive-architecture.png)
 
 - Hive Client: Thrift Server, JDBC driver, and ODBC driver. They interact with Hive Server and in turn it deals with Hive Driver.
 - UI : Hive Web UI, CLI. They interact with Hive Driver directly (no need of Hive Server)

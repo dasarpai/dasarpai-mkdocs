@@ -1,29 +1,27 @@
 ---
-author: Hari Thapliyaal
-author_profile: true
-categories: null
-comments: true
-date: 2025-03-09
-excerpt: Summary of The Iliad, a long epic poem written by Homer, an ancient Greek
-  poet. The Iliad is a classic piece of literature from the 8th century BCE, which
-  tells the story of the Trojan War.
-header:
-  teaser: ../assets/images/default/summaryblog.jpg
-id: 7549
-layout: booksum-layout
 mathjax: true
+id: 7549
+title: "The Iliad by Homer - Epic Poem Summary"
+date: 2025-03-09
 permalink: /booksummary/The-Iliad-by-Homer
-share: true
 tags:
-- The Iliad Summary
-- Homer Books
-- Epic Poem
-- Ancient Greek Literature
-- Trojan War
-- Greek Mythology
-title: The Iliad by Homer - Epic Poem Summary
+  - "The Iliad Summary"
+  - "Homer Books"
+  - "Epic Poem"
+  - "Ancient Greek Literature"
+  - "Trojan War"
+  - "Greek Mythology"
+categories:
+header:
+  teaser: /assets/images/default/summaryblog.jpg
+author: Hari Thapliyaal
+layout: booksum-layout
+excerpt: "Summary of The Iliad, a long epic poem written by Homer, an ancient Greek poet. The Iliad is a classic piece of literature from the 8th century BCE, which tells the story of the Trojan War."
+author_profile: true
+share: true
 toc: true
 toc_sticky: false
+comments: true
 ---
 
 ![Summary Blog](../assets/images/default/summaryblog.jpg)

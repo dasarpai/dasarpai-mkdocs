@@ -23,7 +23,7 @@ toc_sticky: true
 mathjax: "true"
 ---
 
-![Data Scientists and AI, ML Researchers](/assets/images/dsresources/dsr117-Data-Scientists-and-AI-ML-Researchers.jpg)   
+![Data Scientists and AI, ML Researchers](../assets/images/dsresources/dsr117-Data-Scientists-and-AI-ML-Researchers.jpg)   
    
 # Data Scientists and AI, ML Researchers   
    

@@ -1,32 +1,27 @@
 ---
-author: Hari Thapliyaal
-author_profile: true
-categories: null
-comments: true
-date: 2024-12-24
-excerpt: Interview Questions for Yuval Noah Harari by BeerBiceps. And My Critiques
-  on the responses of Yuval Noah Harari
-header:
-  teaser: ../assets/images/booksummary/7543-Interview-Yuval-Noah-Harari-with-BeerBiceps.jpg
-id: 7543
-keywords:
-- Interview Yuval Noah Harari with BeerBiceps
-- Yuval Noah Harari
-- BeerBiceps
-- Philosophy
-layout: booksum-layout
 mathjax: true
+id: 7543
+title: "Interview: Yuval Noah Harari with BeerBiceps"
+date: 2024-12-24
 permalink: /booksummary/Interview-Yuval-Noah-Harari-with-BeerBiceps
-share: true
 tags:
-- Interview
-- Yuval Noah Harari
-- BeerBiceps
-- Philosophy
-title: 'Interview: Yuval Noah Harari with BeerBiceps'
+  - "Interview"
+  - "Yuval Noah Harari"
+  - "BeerBiceps"
+  - "Philosophy"
+categories:
+header:
+  teaser: /assets/images/booksummary/7543-Interview-Yuval-Noah-Harari-with-BeerBiceps.jpg
+author: Hari Thapliyaal
+layout: booksum-layout
+excerpt: "Interview Questions for Yuval Noah Harari by BeerBiceps. And My Critiques on the responses of Yuval Noah Harari"
+author_profile: true
+share: true
 toc: true
-toc_levels: 3
 toc_sticky: false
+toc_levels: 3
+comments: true
+keywords: [Interview Yuval Noah Harari with BeerBiceps, Yuval Noah Harari, BeerBiceps, Philosophy]
 ---
 
 ![Interview: Yuval Noah Harari with BeerBiceps](../assets/images/booksummary/7543-Interview-Yuval-Noah-Harari-with-BeerBiceps.jpg)

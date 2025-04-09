@@ -25,7 +25,7 @@ comments: true
 keywords: ["Nvidia's AI innovations in graphics and robotics", "Intelligence in GPU architecture for AI development", "Nvidia's AI-powered graphics processing", "Robotics and artificial intelligence innovations by Nvidia", "Nvidia's AI-driven innovations in GPU technology", "AI in GPU technology for computer vision and natural language processing", "Nvidia's latest advancements in AI and GPU technology"]
 ---
 
-![Shaping Tomorrow with AI: Nvidia’s Innovations in Graphics, Robotics, and Intelligence](/assets/images/dspost/dsp6198-shaping-tomorrow-with-ai-nvidia.jpg)
+![Shaping Tomorrow with AI: Nvidia’s Innovations in Graphics, Robotics, and Intelligence](../assets/images/dspost/dsp6198-shaping-tomorrow-with-ai-nvidia.jpg)
 
 # Shaping Tomorrow with AI: Nvidia’s Innovations in Graphics, Robotics, and Intelligence
 

@@ -21,7 +21,7 @@ toc_sticky: true
 mathjax: "true"
 ---
 
-![Comprehensive Glossary of LLM](/assets/images/dspost/dsp6089-Comprehensive-Glossary-of-LLM.jpg)
+![Comprehensive Glossary of LLM](../assets/images/dspost/dsp6089-Comprehensive-Glossary-of-LLM.jpg)
 
 # Comprehensive Glossary of LLM
 I am developing this Glossary slowly at my own pace. Content on this page keep changing. Better definition, better explaination are part of my learing, my evolution and advancement in the field of Deep Learning and Machine Learning. As of Aug'23 the terms are not in any order therefore if you are look for any specific term you can search on the page. When I will have 50+ terms on this page then I will try to sort them on some attribute of these terms.

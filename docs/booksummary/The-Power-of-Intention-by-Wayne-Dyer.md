@@ -1,20 +1,21 @@
----
-author: Hari Thapliyaal
-author_profile: true
-categories: null
-date: '2024-04-12T08:33:00+05:30'
-excerpt: null
-header:
-  teaser: ../assets/images/booksummary/7512-The-Power-of-Intention-by-Wayne-Dyer.jpg
-id: 7512
-layout: booksum-layout
-permalink: /booksummary/The-Power-of-Intention-by-Wayne-Dyer
-share: true
-tags:
-- Book Summary
-title: 'Book Summary: The Power of Intention by Wayne Dyer'
----
-
+---                            
+id: 7512                            
+                          
+title: "Book Summary: The Power of Intention by Wayne Dyer"                     
+date: "2024-04-12T08:33:00+05:30"                            
+permalink: /booksummary/The-Power-of-Intention-by-Wayne-Dyer                      
+tags: [Book Summary]                     
+                            
+categories:                            
+header:                            
+    teaser: /assets/images/booksummary/7512-The-Power-of-Intention-by-Wayne-Dyer.jpg                         
+author: Hari Thapliyaal                            
+layout: booksum-layout                            
+excerpt:                            
+author_profile: true                            
+share: true                            
+---                            
+                            
 ![The Power of Intention by Wayne Dyer](../assets/images/booksummary/7512-The-Power-of-Intention-by-Wayne-Dyer.jpg)                                 
    
 # The Power of Intention
@@ -35,3 +36,4 @@ title: 'Book Summary: The Power of Intention by Wayne Dyer'
 12. Visualize your intentions and to use affirmations to reinforce them.
 13. Satsanga, community, surrounding oneself with positive and supportive people is very important.
 14. Live in the present moment and to let go of the past and the future.
+

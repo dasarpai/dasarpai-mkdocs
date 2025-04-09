@@ -28,7 +28,7 @@ toc_sticky: true
 mathjax: "true"
 ---
 
-[AI Projects Project Ideas](/assets/images/dspost/dsp6013-Data-Science-Project-Ideas.jpg)   
+[AI Projects Project Ideas](../assets/images/dspost/dsp6013-Data-Science-Project-Ideas.jpg)   
 
 ## AI, Data Science, Machine Learning, Deep Learning, NLP Project Ideas  
 

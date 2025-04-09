@@ -26,7 +26,7 @@ comments: true
 keywords: ["wireless communication protocols", "gsm protocol explained", "wi-fi communication technology", "wireless connectivity protocols", "wireless communication technologies", "wireless communication systems", "wireless communication networks"]
 ---
 
-![](/assets/images/dspost/dsp6203-Unraveling-Wireless-Communication.jpg)
+![](../assets/images/dspost/dsp6203-Unraveling-Wireless-Communication.jpg)
 
 # Unraveling Wireless Communication
 

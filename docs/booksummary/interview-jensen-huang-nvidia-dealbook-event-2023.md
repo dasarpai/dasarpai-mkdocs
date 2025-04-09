@@ -1,41 +1,28 @@
 ---
-author: Hari Thapliyaal
-author_profile: true
-categories: null
-comments: true
-date: 2024-12-04
-excerpt: Key themes and ideas from Jensen Huang's interview at the Dealbook Event
-  2023.
-excerpt_separator: <!--more-->
-header:
-  teaser: ../assets/images/booksummary/7530-Interview-Jensen-Huang-NVIDIA-Dealbook-Event-2023.jpg
-id: 7530
-keywords:
-- NVIDIA
-- Jensen Huang
-- AI Computing
-- Reinvention of Computing
-- Artificial Intelligence
-- Deep Learning
-- GPU
-- Hardware
-- Software
-- Networking
-- Dealbook Event
-- Interview
-layout: booksum-layout
 mathjax: true
+id: 7530
+title: "Interview with Jensen Huang @ NVIDIA at Dealbook Event 2023"  
+date: 2024-12-04
 permalink: /booksummary/interview-jensen-huang-nvidia-dealbook-event-2023
-share: true
 tags:
-- Interview
-- Jensen-Huang
-- NVIDIA
-- Dealbook-Event
-title: Interview with Jensen Huang @ NVIDIA at Dealbook Event 2023
+  - "Interview"
+  - "Jensen-Huang"
+  - "NVIDIA"
+  - "Dealbook-Event"
+categories:
+header:
+  teaser: /assets/images/booksummary/7530-Interview-Jensen-Huang-NVIDIA-Dealbook-Event-2023.jpg
+excerpt_separator: "<!--more-->"
+author: Hari Thapliyaal
+layout: booksum-layout
+excerpt: "Key themes and ideas from Jensen Huang's interview at the Dealbook Event 2023."
+author_profile: true
+share: true
 toc: true
-toc_levels: 3
 toc_sticky: true
+toc_levels: 3
+comments: true
+keywords: [NVIDIA, Jensen Huang, AI Computing, Reinvention of Computing, Artificial Intelligence, Deep Learning, GPU, Hardware, Software, Networking, Dealbook Event, Interview]
 ---
 
 ![Interview-Jensen-Huang-NVIDIA-Dealbook-Event-2024](../assets/images/booksummary/7530-Interview-Jensen-Huang-NVIDIA-Dealbook-Event-2023.jpg)

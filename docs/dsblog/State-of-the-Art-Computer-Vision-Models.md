@@ -29,7 +29,7 @@ comments: true
 keywords: ["State of the Art Image Generation Models", "Computer Vision Models", "Image Synthesis Models", "Diffusion Models", "Generative Adversarial Networks (GANs)", "Autoregressive Models", "State of the Art AI"]
 ---
 
-![State-of-the-Art 3D Image Generation Models](/assets/images/dspost/dsp6219-State-of-the-Art-Computer-Vision-Models.jpg)
+![State-of-the-Art 3D Image Generation Models](../assets/images/dspost/dsp6219-State-of-the-Art-Computer-Vision-Models.jpg)
 
 # State of the Art Computer Vision Models
 
@@ -43,7 +43,7 @@ Diffusion models are a class of generative models that work by gradually adding 
 
 #### **Key Steps in Diffusion Models:**
 
-![Diffusion Model Steps](/assets/images/dspost/mermaid-code/dsp6219-Diffusion-Diagram.jpg)
+![Diffusion Model Steps](../assets/images/dspost/mermaid-code/dsp6219-Diffusion-Diagram.jpg)
 
 #### **Variants of Diffusion Models**:
 - **Denoising Diffusion Probabilistic Models (DDPM)**: The original formulation of diffusion models.
@@ -66,7 +66,7 @@ GANs consist of two neural networks: a **generator** and a **discriminator**, wh
 
 #### **Key Steps in GANs**:
 
-![GAN Model Steps](/assets/images/dspost/mermaid-code/dsp6219-GAN-Diagram.jpg)
+![GAN Model Steps](../assets/images/dspost/mermaid-code/dsp6219-GAN-Diagram.jpg)
 
 #### **Advantages**:
 - Fast image generation once trained.
@@ -85,7 +85,7 @@ GANs consist of two neural networks: a **generator** and a **discriminator**, wh
 VAEs are probabilistic models that learn a latent representation of data.
 
 #### **Key Steps in VAEs**:
-![VAE Diagram](/assets/images/dspost/mermaid-code/dsp6219-VAE-Diagram.jpg)
+![VAE Diagram](../assets/images/dspost/mermaid-code/dsp6219-VAE-Diagram.jpg)
 
 #### **Advantages**:
 - Smooth latent space for interpolation.
@@ -143,7 +143,7 @@ NeRF is a method for 3D scene reconstruction and generation.
 
 #### **Key Steps in NeRF (Neural Radiance Fields)**
 
-![](/assets/images/dspost/mermaid-code/dsp6219-NeRF-Diagram.jpg)
+![](../assets/images/dspost/mermaid-code/dsp6219-NeRF-Diagram.jpg)
 
 
 #### **Scene Representation (Implicit 3D Model)**

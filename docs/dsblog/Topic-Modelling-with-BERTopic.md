@@ -22,7 +22,7 @@ toc_sticky: true
 mathjax: "true"
 ---
 
-![Topic Modeling with BERT](/assets/images/dspost/dsp6105-Topic-Modeling-with-BERT.jpg)
+![Topic Modeling with BERT](../assets/images/dspost/dsp6105-Topic-Modeling-with-BERT.jpg)
 
 # Topic Modeling with BERT
 
@@ -78,13 +78,13 @@ BERTopic supports all kinds of topic modeling techniques as below.
 - [BERTopic by Huggingface](https://huggingface.co/blog/bertopic)
 
 # Tools in BERTopic
-![Tools-in-BERTopic](/assets/images/dspost/bertopic/Tools-in-BERTopic.png)
+![Tools-in-BERTopic](../assets/images/dspost/bertopic/Tools-in-BERTopic.png)
 
 # Best Topic Modeling Tool in BERTopic
-![BEST-Tools-in-BERTopic](/assets/images/dspost/bertopic/BEST-Tools-in-BERTopic.png)
+![BEST-Tools-in-BERTopic](../assets/images/dspost/bertopic/BEST-Tools-in-BERTopic.png)
 
 # BERTopic Model Building
-![BERTopic-Model-Building](/assets/images/dspost/bertopic/BERTopic-Model-Building.png)
+![BERTopic-Model-Building](../assets/images/dspost/bertopic/BERTopic-Model-Building.png)
 
 
 

@@ -21,7 +21,7 @@ toc_sticky: true
 mathjax: "true"
 ---
 
-![Paper with Code Resources](/assets/images/dspost/dsp6091-rps-Paperwithcode-Resources.jpg)
+![Paper with Code Resources](../assets/images/dspost/dsp6091-rps-Paperwithcode-Resources.jpg)
 
 # Paper with Code Resources
 

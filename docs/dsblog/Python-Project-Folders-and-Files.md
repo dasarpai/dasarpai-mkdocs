@@ -23,7 +23,7 @@ mathjax: "true"
 comments: true
 ---
 
-![Python Project Folders and Files](/assets/images/dspost/dsp6145-Python-Project-Folders-and-Files.jpg)
+![Python Project Folders and Files](../assets/images/dspost/dsp6145-Python-Project-Folders-and-Files.jpg)
 
 # Understanding Python Project Folder Structures: Essential Directories Explained
 

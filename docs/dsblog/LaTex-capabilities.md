@@ -21,7 +21,7 @@ toc_sticky: true
 mathjax: "true"
 ---
 
-![LaTeX Capabilities](/assets/images/dspost/dsp6098-Latex-capabilities.jpg)
+![LaTeX Capabilities](../assets/images/dspost/dsp6098-Latex-capabilities.jpg)
 
 In the realm of document typesetting and preparation, LaTeX stands as a timeless giant, revered by professionals, researchers, students, and publishers alike. With its unmatched typographic quality, precision, and versatility, LaTeX empowers users to create documents that transcend the boundaries of conventional word processing. In this article, I am listing major capabilities that make LaTeX the tool of choice for those who demand perfection in their documents, ready to learn some coding and don't want to pay for all this.
 

@@ -22,7 +22,7 @@ comments: true
 keywords: ["AI in Cybersecurity", "Threat Detection", "Network Security", "Machine Learning Security", "Security Analytics", "AI Ethics", "Cybersecurity Automation", "Security AI", "Risk Management", "Cyber Defense"]
 ---
 
-![AI-Usecases-in-Cybersecurity](/assets/images/dspost/dsp6135-AI-Usecases-in-Cybersecurity.jpg)
+![AI-Usecases-in-Cybersecurity](../assets/images/dspost/dsp6135-AI-Usecases-in-Cybersecurity.jpg)
 
 # AI Usecases in Cybersecurity
 

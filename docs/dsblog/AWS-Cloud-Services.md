@@ -31,7 +31,7 @@ toc_sticky: true
 mathjax: "true"
 ---
 
-![AWS Cloud Service Catalog](/assets/images/dspost/dsp6063-AWS-Cloud-Service-Catalog.jpg)    
+![AWS Cloud Service Catalog](../assets/images/dspost/dsp6063-AWS-Cloud-Service-Catalog.jpg)    
    
 # A Comprehensive Guide to 210+ AWS Services     
 **Exploring 210+ Cloud Services and Their Purposes**   

@@ -28,7 +28,7 @@ comments: true
 keywords: ["List of AI Models and Creators", "Popular AI Models and their Creators", "Names of AI Models and their Developers", "AI Model Creators and their Models", "Machine Learning Models and their Creators", "Artificial Intelligence Models and their Creators", "AI Frameworks and their Creators"]
 ---
 
-![AI Models and Creators](/assets/images/dspost/dsp6187-ai-models-and-creators.jpg)
+![AI Models and Creators](../assets/images/dspost/dsp6187-ai-models-and-creators.jpg)
 
 # AI Models and Creators
 

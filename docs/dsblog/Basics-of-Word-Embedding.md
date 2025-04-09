@@ -21,7 +21,7 @@ toc_sticky: true
 mathjax: "true"
 ---
 
-![Basics of Word Embedding](/assets/images/dspost/dsp6101-Basics-of-Word-Embedding.jpg)
+![Basics of Word Embedding](../assets/images/dspost/dsp6101-Basics-of-Word-Embedding.jpg)
 
 # Basics of Word Embedding
 

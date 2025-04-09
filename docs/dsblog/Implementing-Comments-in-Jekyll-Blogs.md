@@ -33,7 +33,7 @@ keywords:
   - "Static site comments"
 ---
 
-![Implementing Comments in Jekyll Blogs](/assets/images/dspost/dsp6238-Implementing-Comments-in-Jekyll-Blogs.jpg)
+![Implementing Comments in Jekyll Blogs](../assets/images/dspost/dsp6238-Implementing-Comments-in-Jekyll-Blogs.jpg)
 
 ## Disqus Comments
 For this 

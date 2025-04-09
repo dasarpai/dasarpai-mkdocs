@@ -21,7 +21,7 @@ toc_sticky: true
 mathjax: "true"
 ---
    
-![AI Usecases in Government](/assets/images/dspost/dsp6110-AI-Usecases-in-Goverment.jpg)   
+![AI Usecases in Government](../assets/images/dspost/dsp6110-AI-Usecases-in-Goverment.jpg)   
     
 # AI Usecases in Government   
    

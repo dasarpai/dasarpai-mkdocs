@@ -36,7 +36,7 @@ keywords:
   - "AI Code Reviewer"
 ---
 
-![CodeReview with CodeRabbit AI](/assets/images/dspost/dsp6244-coderabbit-code-review-ai.jpg)
+![CodeReview with CodeRabbit AI](../assets/images/dspost/dsp6244-coderabbit-code-review-ai.jpg)
 
 # CodeReview with CodeRabbit AI 
 

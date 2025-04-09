@@ -23,7 +23,7 @@ comments: true
 keywords: ["Python Ecosystem", "PyPI", "pip", "venv", "Python Environments", "Python Package Manager", "Python Virtual Environments"]
 ---
 
-![Navigating Python Ecosystem](/assets/images/dspost/dsp6178-Navigating-Python-Ecosystem.jpg)
+![Navigating Python Ecosystem](../assets/images/dspost/dsp6178-Navigating-Python-Ecosystem.jpg)
 
 # Navigating Python Ecosystem 
 

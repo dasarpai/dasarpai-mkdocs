@@ -32,7 +32,7 @@ keywords: [generative adversarial networks, GAN architecture, deep learning mode
 
 ---
 
-![Partial Dependence Plots](/assets/images/dspost/dsp6043-gan.jpg)
+![Partial Dependence Plots](../assets/images/dspost/dsp6043-gan.jpg)
 
 # What is GAN?
 

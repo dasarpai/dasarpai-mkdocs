@@ -32,7 +32,7 @@ toc_sticky: true
 mathjax: true
 ---
 
-![Data Science Interview Question Answers](/assets/images/dsresources/dsr102-Data-Science-Interview-Question-Answers.jpg)     
+![Data Science Interview Question Answers](../assets/images/dsresources/dsr102-Data-Science-Interview-Question-Answers.jpg)     
    
 # Data Science Interview Question Answers   
     

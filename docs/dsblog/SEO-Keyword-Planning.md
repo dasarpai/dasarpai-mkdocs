@@ -24,7 +24,7 @@ keywords: ["SEO", "Keyword Planning", "Search Engine Optimization"]
 
 ---
 
-![SEO Keyword Planning](/assets/images/dspost/dsp6165-SEO-Keyword-Planning.jpg)
+![SEO Keyword Planning](../assets/images/dspost/dsp6165-SEO-Keyword-Planning.jpg)
 
 # SEO Keyword Planning
 

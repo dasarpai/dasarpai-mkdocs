@@ -31,7 +31,7 @@ toc_sticky: true
 mathjax: "true"    
 ---    
     
-![Linux OS Directories](/assets/images/dspost/dsp6055-Linux-OS-Directories.jpg)    
+![Linux OS Directories](../assets/images/dspost/dsp6055-Linux-OS-Directories.jpg)    
         
 # Linux OS Directories    
     

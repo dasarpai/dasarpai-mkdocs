@@ -30,7 +30,7 @@ toc_sticky: true
 mathjax: "true"
 keywords: [Responsible AI development, ethical AI principles, AI governance, artificial intelligence ethics, ethical technology, AI policy framework, sustainable AI practices, ethical data science, AI accountability]
 ---
-![Responsible-AI](/assets/images/dspost/dsp6047-Responsible-AI.jpg)   
+![Responsible-AI](../assets/images/dspost/dsp6047-Responsible-AI.jpg)   
    
 # Responsible AI   
    

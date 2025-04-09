@@ -29,7 +29,7 @@ comments: true
 keywords: ["DeepSeek R1 AI Model", "Human-Like Intelligence AI", "AI Problem Solving Methods", "AI Model Reasoning Techniques", "DeepSeek R1 Applications", "DeepSeek R1 Benefits", "DeepSeek R1 Architecture"]
 ---
 
-![](/assets/images/dspost/dsp6228-Exploring-DeepSeek-R1.jpg)
+![](../assets/images/dspost/dsp6228-Exploring-DeepSeek-R1.jpg)
 
 
 # Exploring DeepSeek R1: The AI That Thinks Like a Human

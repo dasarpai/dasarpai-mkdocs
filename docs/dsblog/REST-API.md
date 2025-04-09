@@ -22,7 +22,7 @@ mathjax: "true"
 comments: true
 ---
 
-![REST-API](/assets/images/dspost/dsp6121-REST-API.jpg)
+![REST-API](../assets/images/dspost/dsp6121-REST-API.jpg)
 
 # REST API
 

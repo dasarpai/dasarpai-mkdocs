@@ -24,7 +24,7 @@ comments: true
 keywords: ["Energy Demand in India", "Electricity Supply in India", "Renewable Energy for Data Centers", "AI Energy Requirements", "Energy Sustainability in India", "India Data Center Energy", "Green Energy for AI in India"]
 ---
 
-![Exploring the Energy Demand and Supply of India](/assets/images/dspost/dsp6217-Exploring-the-Energy-Demand-and-Supply-of-India.jpg)
+![Exploring the Energy Demand and Supply of India](../assets/images/dspost/dsp6217-Exploring-the-Energy-Demand-and-Supply-of-India.jpg)
 
 # Exploring the Energy Demand and Supply of India 
 

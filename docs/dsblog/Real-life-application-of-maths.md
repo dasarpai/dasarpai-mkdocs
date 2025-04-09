@@ -38,7 +38,7 @@ keywords:
   - "Math in Medicine and Technology"
 ---
 
-![Real-Life Applications of Mathematics](/assets/images/dspost/dsp6242-Real-Life-Applications-of-Mathematics.jpg)
+![Real-Life Applications of Mathematics](../assets/images/dspost/dsp6242-Real-Life-Applications-of-Mathematics.jpg)
 
 # **Real-Life Applications of Mathematics**  
 

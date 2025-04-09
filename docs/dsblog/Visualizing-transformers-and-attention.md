@@ -27,7 +27,7 @@ comments: true
 keywords: ["visualizing transformers and attention", "transformers attention mechanism", "grant sanderson talk at tng big tech 2024", "ai and nlp concepts", "transformers demystified", "attention is all you need paper", "language models and transformers"]
 ---
 
-![Visualizing transformers and attention](/assets/images/dspost/dsp6189-Visualizing-transformers-and-attention.jpg)
+![Visualizing transformers and attention](../assets/images/dspost/dsp6189-Visualizing-transformers-and-attention.jpg)
 
 # Visualizing Transformers and Attention
 This is the summary note from Grant Sanderson's talk at TNG Big Tech 2024. My earlir article on transformers can be found [here](/dsblog/transformers-demystified-a-step-by-step-guide)

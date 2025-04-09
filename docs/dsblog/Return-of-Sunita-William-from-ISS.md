@@ -36,7 +36,7 @@ keywords:
   - "Media and AI"
 ---
 
-![Return of Sunita William from ISS](/assets/images/dspost/dsp6245-return-of-sunita-william-from-iss.jpg)
+![Return of Sunita William from ISS](../assets/images/dspost/dsp6245-return-of-sunita-william-from-iss.jpg)
 
 
 

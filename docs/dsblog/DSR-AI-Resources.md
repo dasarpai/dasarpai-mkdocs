@@ -30,7 +30,7 @@ keywords: ["Best AI Resources", "Top AI Tools", "AI Development Tools List", "AI
 ---
 
 
-![AI Resources](/assets/images/dspost/dsp6224-AI-Resources.jpg)
+![AI Resources](../assets/images/dspost/dsp6224-AI-Resources.jpg)
 
 # AI Resources: Ultimate Collection of Cutting-Edge Tools for AI Enthusiasts
 

@@ -22,7 +22,7 @@ toc_sticky: true
 mathjax: "true"
 ---
 
-![Empowering-Language-with-AI-NLP-Capabilities](/assets/images/dspost/dsp6106-Empowering-Language-with-AI-NLP-Capabilities.jpg)
+![Empowering-Language-with-AI-NLP-Capabilities](../assets/images/dspost/dsp6106-Empowering-Language-with-AI-NLP-Capabilities.jpg)
 
 # Empowering-Language-with-AI-NLP-Capabilities
 

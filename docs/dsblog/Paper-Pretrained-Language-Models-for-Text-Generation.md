@@ -21,7 +21,7 @@ toc_sticky: true
 mathjax: "true"
 ---
 
-![Pretrained Language Models for Text Generation](/assets/images/dspost/dsp6088-rps-Pretrained-Language-Models-for-Text-Generation.jpg)
+![Pretrained Language Models for Text Generation](../assets/images/dspost/dsp6088-rps-Pretrained-Language-Models-for-Text-Generation.jpg)
   
 **Paper Name :- Pretrained Language Models for Text Generation: A Survey**  
 Typer of Paper:- Survey Paper     

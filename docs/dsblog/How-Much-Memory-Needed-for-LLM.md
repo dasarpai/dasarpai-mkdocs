@@ -22,7 +22,7 @@ mathjax: "true"
 comments: true
 ---
 
-![How-Much-Memory-Needed-for-LLM](/assets/images/dspost/dsp6133-How-Much-Memory-Needed-for-LLM.jpg)
+![How-Much-Memory-Needed-for-LLM](../assets/images/dspost/dsp6133-How-Much-Memory-Needed-for-LLM.jpg)
 
 # How Much Memory Needed for LLM?
 

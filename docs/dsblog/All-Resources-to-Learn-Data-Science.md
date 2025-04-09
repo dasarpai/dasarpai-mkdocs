@@ -31,7 +31,7 @@ mathjax: "true"
 keywords: [data science resources, AI learning materials, machine learning tools, educational resources, programming tutorials, data science education, technical learning, AI tools, learning platforms]
 ---
 
-![All Resources to Learn Data Science](/assets/images/dspost/dsp6064-Resources-to-Learn-Everything-About-AI.jpg)    
+![All Resources to Learn Data Science](../assets/images/dspost/dsp6064-Resources-to-Learn-Everything-About-AI.jpg)    
   
 # All Resources to Learn Data Science   
    

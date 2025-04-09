@@ -30,7 +30,7 @@ comments: true
 keywords: ["GGUF", "ONNX", "TensorFlow", "PyTorch", "Model Compression", "Model Optimization", "Machine Learning Model Formats"]
 ---
 
-![Understanding GGUF and Other Model Formats in Machine Learning](/assets/images/dspost/dsp6180-exploring-gguf.jpg)
+![Understanding GGUF and Other Model Formats in Machine Learning](../assets/images/dspost/dsp6180-exploring-gguf.jpg)
 
 # **Understanding GGUF and Other Model Formats in Machine Learning**
 

@@ -25,7 +25,7 @@ mathjax: true
 
 # Important Statistical Terms   
 
-![300 Important Statistical Terms](/assets/images/dspost/dsp6011-300+Important-Statitical-Terms.jpg)   
+![300 Important Statistical Terms](../assets/images/dspost/dsp6011-300+Important-Statitical-Terms.jpg)   
 
 Sno | Term | Definition
 ------|------|-------

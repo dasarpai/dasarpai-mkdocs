@@ -38,7 +38,7 @@ keywords:
 ---
 
 
-![The Study of Life: Understanding Its Origins, Sustenance, and Evolution](/assets/images/dspost/dsp6243-the-study-of-life.jpg)
+![The Study of Life: Understanding Its Origins, Sustenance, and Evolution](../assets/images/dspost/dsp6243-the-study-of-life.jpg)
 
 # **The Study of Life: Understanding Its Origins, Sustenance, and Evolution**  
 

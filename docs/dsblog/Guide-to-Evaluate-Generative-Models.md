@@ -33,7 +33,7 @@ comments: true
 auto_number_headings : true
 ---
 
-![Generative Models](/assets/images/dspost/dsp6240-Guide-to-Evaluate-Generative-Models.jpg)
+![Generative Models](../assets/images/dspost/dsp6240-Guide-to-Evaluate-Generative-Models.jpg)
 
 
 # A Comprehensive Guide to Evaluate Generative Models

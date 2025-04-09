@@ -28,7 +28,7 @@ comments: true
 keywords: ["Prompt Engineering Tutorial", "Prompt Engineering Guide", "The Art of Prompting", "AI Models", "Cloud-based Proprietary Models", "Prompt Engineering Techniques", "RL Applications", "Exploration vs. Exploitation in RL", "Value-Based vs. Policy-Based Methods in RL"]
 ---
 
-![Unlocking the Power of Prompts](/assets/images/dspost/dsp6226-Unlocking-the-Power-of-Prompting.jpg)
+![Unlocking the Power of Prompts](../assets/images/dspost/dsp6226-Unlocking-the-Power-of-Prompting.jpg)
 
 # Unlocking the Power of Prompts
 

@@ -26,7 +26,7 @@ comments: true
 keywords: ["What is an AI Agent?", "Types of AI Agents", "How do AI Agents Work?", "AI Agents in Business", "AI Agent Examples", "AI Agent Benefits", "AI Agent Challenges"]
 ---
 
-![Exploring AI Agents](/assets/images/dspost/dsp6207-Exploring-AI-Agents.jpg)
+![Exploring AI Agents](../assets/images/dspost/dsp6207-Exploring-AI-Agents.jpg)
 
 # Exploring AI Agents
 

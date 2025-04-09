@@ -37,7 +37,7 @@ keywords:
   - "Optimizing development workflow with WSL"
 ---
 
-![Working with GitHub from WSL and Windows Folders](/assets/images/dspost/dsp6234-Working-with-Github-from-WSL-and-Windows-Folders.jpg)
+![Working with GitHub from WSL and Windows Folders](../assets/images/dspost/dsp6234-Working-with-Github-from-WSL-and-Windows-Folders.jpg)
 
 
 ## Problem Statement:

@@ -1,32 +1,23 @@
----
-author: Hari Thapliyaal
-author_profile: true
-categories: null
-date: '2024-09-20T08:33:00+05:30'
-excerpt: null
-header:
-  teaser: ../assets/images/booksummary/7524-The-General-Theory-of-Employment-Interest-and-Money.jpg
-id: 7524
-keywords:
-- Keynesian economics
-- macroeconomics
-- economic theory
-- employment
-- interest rates
-- money supply
-- aggregate demand
-- government policy
-- fiscal policy
-- monetary policy
-layout: booksum-layout
-permalink: /booksummary/General-Theory-of-Employment-Interest-Money
-share: true
-tags:
-- Book Summary
-- Economics
-title: 'Book Summary: General Theory of Employment, Interest and Money'
----
+---    
+id: 7524    
+  
+title:  "Book Summary: General Theory of Employment, Interest and Money"       
 
+date: "2024-09-20T08:33:00+05:30"    
+permalink: /booksummary/General-Theory-of-Employment-Interest-Money     
+tags:  [Book Summary, Economics]     
+    
+categories:    
+header:    
+    teaser: /assets/images/booksummary/7524-The-General-Theory-of-Employment-Interest-and-Money.jpg    
+author: Hari Thapliyaal    
+layout: booksum-layout    
+excerpt:    
+author_profile: true    
+share: true    
+keywords: [Keynesian economics, macroeconomics, economic theory, employment, interest rates, money supply, aggregate demand, government policy, fiscal policy, monetary policy]
+---    
+    
 ![Book Summary: General-Theory-of-Employment-Interest-Money](../assets/images/booksummary/7524-The-General-Theory-of-Employment-Interest-and-Money.jpg) 
 
 # The General Theory of Employment, Interest and Money

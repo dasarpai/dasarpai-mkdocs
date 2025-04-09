@@ -27,7 +27,7 @@ toc_sticky: true
 * TOC
 {:toc}
 
-![Why AI Project Fails](/assets/images/dspost/dsp6007-Why-AI-Project-Fails.jpg)   
+![Why AI Project Fails](../assets/images/dspost/dsp6007-Why-AI-Project-Fails.jpg)   
 
 # Why Does AI Project Fails?   
 

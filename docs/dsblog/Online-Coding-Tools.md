@@ -38,7 +38,7 @@ keywords:
   - "Web-Based VS Code for Cloud Projects"
 ---
 
-![Online Coding Tools](/assets/images/dspost/dsp6232-Online-Coding-Tools.jpg)
+![Online Coding Tools](../assets/images/dspost/dsp6232-Online-Coding-Tools.jpg)
 
 # Online Coding Tools
 

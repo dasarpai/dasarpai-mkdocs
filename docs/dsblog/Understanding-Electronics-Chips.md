@@ -37,7 +37,7 @@ keywords:
   - "Microprocessors"
 ---
 
-![Understanding Electronics Chips](/assets/images/dspost/dsp6254-understanding-electronics-chips.jpg)
+![Understanding Electronics Chips](../assets/images/dspost/dsp6254-understanding-electronics-chips.jpg)
 
 # Understanding Electronics Chips
 

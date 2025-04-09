@@ -22,7 +22,7 @@ mathjax: "true"
 comments: true
 ---
 
-![Decoding-Windows-User-Folder](/assets/images/dspost/dsp6119-Decoding-Windows-User-Folder.jpg)
+![Decoding-Windows-User-Folder](../assets/images/dspost/dsp6119-Decoding-Windows-User-Folder.jpg)
 
 # Decoding Windows User Folder
 

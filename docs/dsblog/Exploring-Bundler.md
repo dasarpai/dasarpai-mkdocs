@@ -22,7 +22,7 @@ mathjax: "true"
 comments: true
 keywords: ["Bundler" , "Ruby" , "Gemfile" , "Dependency management" , "Ruby gems" , "Yehuda Katz" , "Ruby on Rails" , "Gemfile.lock" , "Ruby development tools" , "Bundler commands"]
 ---
-![Exploring Bundler](/assets/images/dspost/dsp6158-Exploring-Bundler.jpg)
+![Exploring Bundler](../assets/images/dspost/dsp6158-Exploring-Bundler.jpg)
 
 ## What is Bundler?
 **Bundler** is a dependency management tool for Ruby applications. It ensures that the right versions of gems (libraries) are installed and used in a project. Ruby packages are called Gem. Bundler is commonly used in situations where you need to manage multiple Ruby projects with different dependencies or need to ensure that a project has all the necessary gems with specific versions. 

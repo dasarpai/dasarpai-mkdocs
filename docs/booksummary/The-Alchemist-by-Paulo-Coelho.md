@@ -1,20 +1,21 @@
----
-author: Hari Thapliyaal
-author_profile: true
-categories: null
-date: '2024-05-14T08:33:00+05:30'
-excerpt: null
-header:
-  teaser: ../assets/images/booksummary/7514-The-Alchemist-by-Paulo-Coelho.jpg
-id: 7514
-layout: booksum-layout
-permalink: /booksummary/The-Alchemist-by-Paulo-Coelho
-share: true
-tags:
-- Book Summary
-title: 'Book Summary: The Alchemist by Paulo Coelho'
----
-
+---                            
+id: 7514                            
+                          
+title: "Book Summary: The Alchemist by Paulo Coelho"                     
+date: "2024-05-14T08:33:00+05:30"                            
+permalink: /booksummary/The-Alchemist-by-Paulo-Coelho                      
+tags: [Book Summary]                     
+                            
+categories:                            
+header:                            
+    teaser: /assets/images/booksummary/7514-The-Alchemist-by-Paulo-Coelho.jpg                         
+author: Hari Thapliyaal                            
+layout: booksum-layout                            
+excerpt:                            
+author_profile: true                            
+share: true                            
+---                            
+                            
 ![The Alchemist by Paulo Coelho](../assets/images/booksummary/7514-The-Alchemist-by-Paulo-Coelho.jpg)   
 
 # The Alchemist
@@ -36,3 +37,4 @@ Key learnings from “The Alchemist” by Paulo Coelho
 11. Be true to themselves and to not be afraid to pursue their dreams and desires.
 12. Santiago's journey is a symbol of the human need for self-discovery, search for meaning and purpose in life.
 13. The book emphasizes how everything in the universe is connected.
+   

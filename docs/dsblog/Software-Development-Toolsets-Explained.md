@@ -34,7 +34,7 @@ keywords:
   - "Runtime vs IDE vs CLI vs GUI"
 ---
 
-![Software Development Toolsets](/assets/images/dspost/dsp6239-Software-Development-Toolsets-Explained.jpg)
+![Software Development Toolsets](../assets/images/dspost/dsp6239-Software-Development-Toolsets-Explained.jpg)
 
 # 34 Must-Know Software Development Toolsets Explained
 

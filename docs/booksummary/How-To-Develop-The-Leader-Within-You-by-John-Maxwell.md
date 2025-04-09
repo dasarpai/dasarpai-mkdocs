@@ -1,20 +1,21 @@
----
-author: Hari Thapliyaal
-author_profile: true
-categories: null
-date: '2024-04-10T08:33:00+05:30'
-excerpt: null
-header:
-  teaser: ../assets/images/booksummary/7510-How-To-Develop-The-Leader-Within-You-by-John-Maxwell.jpg
-id: 7510
-layout: booksum-layout
-permalink: /booksummary/How-To-Develop-The-Leader-Within-You-by-John-Maxwell
-share: true
-tags:
-- Book Summary
-title: 'Book Summary: How To Develop The Leader Within You by John Maxwell'
----
-
+---                            
+id: 7510                            
+                          
+title: "Book Summary: How To Develop The Leader Within You by John Maxwell"                     
+date: "2024-04-10T08:33:00+05:30"                            
+permalink: /booksummary/How-To-Develop-The-Leader-Within-You-by-John-Maxwell                      
+tags: [Book Summary]                     
+                            
+categories:                            
+header:                            
+    teaser: /assets/images/booksummary/7510-How-To-Develop-The-Leader-Within-You-by-John-Maxwell.jpg                         
+author: Hari Thapliyaal                            
+layout: booksum-layout                            
+excerpt:                            
+author_profile: true                            
+share: true                            
+---                            
+                            
 ![How To Develop The Leader Within You by John Maxwell](../assets/images/booksummary/7510-How-To-Develop-The-Leader-Within-You-by-John-Maxwell.jpg)                                 
    
 # How To Develop The Leader Within You

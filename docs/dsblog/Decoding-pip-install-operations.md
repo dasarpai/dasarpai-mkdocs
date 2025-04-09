@@ -22,7 +22,7 @@ mathjax: "true"
 comments: true
 ---
 
-![Decoding-pip-install-operations](/assets/images/dspost/dsp6118-Decoding-pip-install-operations.jpg)
+![Decoding-pip-install-operations](../assets/images/dspost/dsp6118-Decoding-pip-install-operations.jpg)
 
 # Decoding pip install operations
 

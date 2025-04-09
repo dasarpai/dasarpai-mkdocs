@@ -1,20 +1,21 @@
----
-author: Hari Thapliyaal
-author_profile: true
-categories: null
-date: '2024-04-11T08:33:00+05:30'
-excerpt: null
-header:
-  teaser: ../assets/images/booksummary/7511-Your-Next-Five-Moves-by-Patrick-Bet-David.jpg
-id: 7511
-layout: booksum-layout
-permalink: /booksummary/Your-Next-Five-Moves-by-Patrick-Bet-David
-share: true
-tags:
-- Book Summary
-title: 'Book Summary: Your Next Five Moves by Patrick Bet David'
----
-
+---                            
+id: 7511                            
+                          
+title: "Book Summary: Your Next Five Moves by Patrick Bet David"                      
+date: "2024-04-11T08:33:00+05:30"                            
+permalink: /booksummary/Your-Next-Five-Moves-by-Patrick-Bet-David                      
+tags: [Book Summary]                     
+                            
+categories:                            
+header:                            
+    teaser: /assets/images/booksummary/7511-Your-Next-Five-Moves-by-Patrick-Bet-David.jpg                         
+author: Hari Thapliyaal                            
+layout: booksum-layout                            
+excerpt:                            
+author_profile: true                            
+share: true                            
+---                            
+                            
 ![Your Next Five Moves by Patrick Bet David](../assets/images/booksummary/7511-Your-Next-Five-Moves-by-Patrick-Bet-David.jpg)
 
 # Your Next Five Moves
@@ -37,3 +38,7 @@ Here are 10 lessons from the book:
 "Your Next Five Moves" provides practical strategies and a structured framework for strategic thinking, planning, and execution, empowering individuals to navigate complexities and achieve their goals effectively.
 
 Book: https://amzn.to/3GCO3uI
+
+
+
+   

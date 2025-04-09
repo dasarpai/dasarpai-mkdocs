@@ -22,7 +22,7 @@ toc_sticky: true
 mathjax: "true"
 ---
    
-![Cognitive Bias](/assets/images/dspost/dsp6051-Cognitive-Biases.jpg)    
+![Cognitive Bias](../assets/images/dspost/dsp6051-Cognitive-Biases.jpg)    
    
 # Cognitive Biases   
    

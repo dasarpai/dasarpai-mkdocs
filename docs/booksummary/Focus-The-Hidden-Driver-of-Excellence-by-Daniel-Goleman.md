@@ -1,20 +1,21 @@
----
-author: Hari Thapliyaal
-author_profile: true
-categories: null
-date: '2024-03-08T08:33:00+05:30'
-excerpt: null
-header:
-  teaser: ../assets/images/booksummary/7508-Focus-The-Hidden-Driver-of-Excellence-by-Daniel-Goleman.jpg
-id: 7508
-layout: booksum-layout
-permalink: /booksummary/Focus-The-Hidden-Driver-of-Excellence-by-Daniel-Goleman
-share: true
-tags:
-- Book Summary
-title: 'Book Summary: Focus The Hidden Driver of Excellence by Daniel Goleman'
----
-
+---                            
+id: 7508                            
+                          
+title: "Book Summary: Focus The Hidden Driver of Excellence by Daniel Goleman"                      
+date: "2024-03-08T08:33:00+05:30"                            
+permalink: /booksummary/Focus-The-Hidden-Driver-of-Excellence-by-Daniel-Goleman                      
+tags: [Book Summary]                     
+                            
+categories:                            
+header:                            
+    teaser: /assets/images/booksummary/7508-Focus-The-Hidden-Driver-of-Excellence-by-Daniel-Goleman.jpg                         
+author: Hari Thapliyaal                            
+layout: booksum-layout                            
+excerpt:                            
+author_profile: true                            
+share: true                            
+---                            
+                            
 ![Focus The Hidden Driver of Excellence by Daniel Goleman](../assets/images/booksummary/7508-Focus-The-Hidden-Driver-of-Excellence-by-Daniel-Goleman.jpg)     
 
 # Focus The Hidden Driver of Excellence
@@ -34,4 +35,4 @@ Here are 10 key lessons from the book:
 9. Mind-Wandering and Creativity: The book explores the relationship between mind-wandering and creativity, showing how moments of relaxed focus can enhance creativity and innovation.
 10. Applying Focus in Everyday Life: Practical applications of focus in daily life, work, relationships, and personal development are discussed, providing actionable insights for readers to improve their focus and excel in various domains.
 
-BOOK: https://amzn.to/46BTHI4
+BOOK: https://amzn.to/46BTHI4 

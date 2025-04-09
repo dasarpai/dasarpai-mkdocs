@@ -32,7 +32,7 @@ comments: true
 keywords: [large language models, LLM types, AI language models, natural language processing, machine learning models, text generation AI, language model applications, AI model comparison, NLP technology]
 ---
 
-![](/assets/images/dspost/dsp6171-Types-of-LLM.jpg)
+![](../assets/images/dspost/dsp6171-Types-of-LLM.jpg)
 
 ## **Introduction:**  
 The world of Generative AI (GenAI) is expanding at an astonishing rate, with new models emerging almost daily, each sporting unique names, capabilities, versions, and sizes. For AI professionals, keeping track of these models can feel like a full-time job. But for business users, IT professionals, and software developers trying to make the right choice, understanding the model’s name and what it represents can seem overwhelming. Wouldn’t it be helpful if we could decode the meaning behind these names to know if a model fits our needs and is worth the investment? In this article, we’ll break down how the names of GenAI models can reveal clues about their functionality and suitability for specific tasks, helping you make informed decisions with confidence.

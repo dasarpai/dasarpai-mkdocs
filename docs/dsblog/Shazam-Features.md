@@ -26,7 +26,7 @@ comments: true
 keywords: ["Shazam", "Econometrics", "Statistics", "Data Science", "ARIMA", "Beta Regression", "Dickey-Fuller Unit Root Tests"]
 ---
 
-![Shazam-Features](/assets/images/dspost/dsp6186-Shazam-Features.jpg) 
+![Shazam-Features](../assets/images/dspost/dsp6186-Shazam-Features.jpg) 
 
 # Features of Shazam Econometrics Software
 

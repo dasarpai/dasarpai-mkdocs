@@ -31,7 +31,7 @@ toc_sticky: true
 mathjax: "true" 
 ---   
    
-![Books-on-Conciousness](/assets/images/dspost/dsp6049-Books-on-Conciousness.jpg)   
+![Books-on-Conciousness](../assets/images/dspost/dsp6049-Books-on-Conciousness.jpg)   
    
 # Books on Consciousness   
    

@@ -11,17 +11,9 @@ import json
 from datetime import datetime
 from pathlib import Path
 
-# Configuration
-## Define what index to create.
-BLOG = "dsblog"
 
-## configuration continue
-INPUT_DIR = Path("docs/" + BLOG)
-INDEX_FILE = INPUT_DIR / "index.md"
-ASSETS_DIR = Path("docs/assets/images/" + BLOG)
-COLLECTION_INTRO_FILE = Path("scripts/collection_intro.json")
 
-def load_collection_intro():
+def load_collection_intro(COLLECTION_INTRO_FILE):
     """Load collection intro content from JSON file."""
     try:
         with open(COLLECTION_INTRO_FILE, 'r', encoding='utf-8') as f:
@@ -142,7 +134,7 @@ def generate_index(blog, index_content):
             "    ",
             f"    **Read time:** {article['read_time']} min",
             "    ",
-            f"    {article['excerpt']}",
+            f"    {article['excerpt']}"
             ""
         ])
         
@@ -176,7 +168,8 @@ if __name__ == "__main__":
             "samskrutyatra", "wiaposts"]
     
     # Load collection intro content
-    collection_intro = load_collection_intro()
+    COLLECTION_INTRO_FILE = Path("scripts/collection_intro.json")
+    collection_intro = load_collection_intro(COLLECTION_INTRO_FILE)
     
     for blog in blogs:
         try:

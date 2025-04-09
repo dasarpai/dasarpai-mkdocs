@@ -22,7 +22,7 @@ mathjax: "true"
 keywords: [Google websites, Google services, web resources, digital tools, Google products, online platforms, technology services, Google ecosystem, web applications]
 ---
 
-![Unraveling the Google Web Exploring the Purpose of Google's Websites](/assets/images/dspost/dsp6060-Unraveling-the-Google-Web.jpg)   
+![Unraveling the Google Web Exploring the Purpose of Google's Websites](../assets/images/dspost/dsp6060-Unraveling-the-Google-Web.jpg)   
    
 # Unraveling the Google Web Exploring the Purpose of Google's Websites   
 ## introduction   

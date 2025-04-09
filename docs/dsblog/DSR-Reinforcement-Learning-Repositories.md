@@ -30,7 +30,7 @@ toc_sticky: true
 mathjax: "true"
 ---
 
-![Reinforcement Learning Git Repositories](/assets/images/dsresources/dsr101-Reinforcement-Learning-Git-Repositories.jpg)    
+![Reinforcement Learning Git Repositories](../assets/images/dsresources/dsr101-Reinforcement-Learning-Git-Repositories.jpg)    
    
 # Reinforcement Learning Git Repositories    
    

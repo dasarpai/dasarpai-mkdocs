@@ -31,7 +31,7 @@ mathjax: "true"
 keywords: [DevOps practices, MLOps implementation, DataOps methodology, continuous integration, software automation, ML deployment, data operations, development operations, operational excellence]
 ---    
 
-![All Resources to Learn Data Science](/assets/images/dspost/dsp6066-Demystifying-DevOps-MLOps-and-DataOps.jpg)        
+![All Resources to Learn Data Science](../assets/images/dspost/dsp6066-Demystifying-DevOps-MLOps-and-DataOps.jpg)        
         
 # Demystifying DevOps, MLOps, and DataOps:     
     

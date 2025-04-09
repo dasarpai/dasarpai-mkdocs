@@ -35,7 +35,7 @@ keywords:
   - "Graph database applications"
 ---
 
-![Exploring GraphDB and Neo4j](/assets/images/dspost/dsp6237-Exploring-GraphDB-and-Neo4j.jpg)
+![Exploring GraphDB and Neo4j](../assets/images/dspost/dsp6237-Exploring-GraphDB-and-Neo4j.jpg)
 
 
 # RDBMS vs. Neo4j (Cypher) Command Comparison

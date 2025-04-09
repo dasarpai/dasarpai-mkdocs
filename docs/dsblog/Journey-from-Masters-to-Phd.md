@@ -22,7 +22,7 @@ mathjax: "true"
 ---
 
 
-![My Journey from Master to PhD in Data Science and AI](/assets/images/dspost/dsp6100-Journey-from-MS-to-Phd.jpg)
+![My Journey from Master to PhD in Data Science and AI](../assets/images/dspost/dsp6100-Journey-from-MS-to-Phd.jpg)
 
 
 # My Journey from Master to PhD in Data Science and AI

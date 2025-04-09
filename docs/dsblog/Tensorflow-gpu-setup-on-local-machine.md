@@ -24,7 +24,7 @@ comments: true
 
 ---
 
-![Tensorflow GPU Setup on Local Machine](/assets/images/dspost/dsp6140-Tensorflow-gpu-setup-on-local-machine.jpg)
+![Tensorflow GPU Setup on Local Machine](../assets/images/dspost/dsp6140-Tensorflow-gpu-setup-on-local-machine.jpg)
 
 # Tensorflow GPU Setup on Local Machine
 

@@ -26,7 +26,7 @@ toc_sticky: true
 mathjax: "true"
 ---
 
-![XAI](/assets/images/dspost/dsp6003-XAI.jpg)    
+![XAI](../assets/images/dspost/dsp6003-XAI.jpg)    
    
 # What is XAI?    
    

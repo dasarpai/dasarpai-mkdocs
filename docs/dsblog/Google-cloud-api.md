@@ -21,7 +21,7 @@ toc_sticky: true
 mathjax: "true"
 ---
 
-![Google Cloud APIs](/assets/images/dspost/dsp6082-Google-API-Services.jpg)
+![Google Cloud APIs](../assets/images/dspost/dsp6082-Google-API-Services.jpg)
 
 # Google Cloud APIs
 

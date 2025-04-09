@@ -34,7 +34,7 @@ keywords:
   - "Understanding online marketplaces"
 ---
 
-![Understanding the Business of Marketplaces](/assets/images/dspost/dsp6236-Understanding-the-Business-of-Marketplaces.jpg)
+![Understanding the Business of Marketplaces](../assets/images/dspost/dsp6236-Understanding-the-Business-of-Marketplaces.jpg)
 
 # Understanding the Business of Marketplaces: A Digital Economy Guide
 

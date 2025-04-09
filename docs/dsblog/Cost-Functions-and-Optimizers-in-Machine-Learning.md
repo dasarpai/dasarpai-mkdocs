@@ -23,7 +23,7 @@ mathjax: "true"
 comments: true
 ---
 
-![Cost-Functions-and-Optimizers-in-Machine-Learning](/assets/images/dspost/dsp6045-Cost-Functions-and-Optimizers-in-Machine-Learning.jpg)   
+![Cost-Functions-and-Optimizers-in-Machine-Learning](../assets/images/dspost/dsp6045-Cost-Functions-and-Optimizers-in-Machine-Learning.jpg)   
 
 # Cost-Functions-and-Optimizers-in-Machine-Learning   
 

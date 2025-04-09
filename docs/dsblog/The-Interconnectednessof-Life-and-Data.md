@@ -22,7 +22,7 @@ mathjax: "true"
 keywords: [data and life connection, digital transformation, information age, technological evolution, data philosophy, modern society, digital culture, technological impact, data-driven world]
 ---   
    
-![The Interconnectedness of Life and Data](/assets/images/dspost/dsp6057-The-Interconnectedness-of-Life-and-Data.jpg)       
+![The Interconnectedness of Life and Data](../assets/images/dspost/dsp6057-The-Interconnectedness-of-Life-and-Data.jpg)       
     
 # The Interconnectedness of Life and Data      
        

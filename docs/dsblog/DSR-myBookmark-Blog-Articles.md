@@ -40,7 +40,7 @@ keywords:
   - "Data Science Web resources"
 ---
 
-![](/assets/images/dspost/dsp6231-Mybookmark-Blog-Articles.jpg)
+![](../assets/images/dspost/dsp6231-Mybookmark-Blog-Articles.jpg)
 
 
 # Bookmark Blog Articles from Browser

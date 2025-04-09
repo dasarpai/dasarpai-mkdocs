@@ -29,7 +29,7 @@ comments: true
 keywords: ["Advanced CSS Techniques", "Responsive Design", "CSS Animations", "CSS Pseudo-Elements", "Frontend Development", "Web Development", "CSS"]
 ---
 
-![Exploring Possibilities with CSS: A Comprehensive Guide to Advanced CSS Coding](/assets/images/dspost/dsp6223-Exploring-Possibilities-with-CSS.jpg)
+![Exploring Possibilities with CSS: A Comprehensive Guide to Advanced CSS Coding](../assets/images/dspost/dsp6223-Exploring-Possibilities-with-CSS.jpg)
 
 
 # Exploring Advance CSS Coding

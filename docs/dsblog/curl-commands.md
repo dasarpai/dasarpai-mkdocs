@@ -25,7 +25,7 @@ comments: true
 keywords: ["curl commands for web development", "curl http methods", "curl command line tool", "curl for api testing", "curl for web scraping", "curl for file upload and download", "curl options and flags"]
 ---
 
-!![curl Commands](/assets/images/dspost/dsp6195-curl-commands.jpg)
+!![curl Commands](../assets/images/dspost/dsp6195-curl-commands.jpg)
 
 ## What is curl command?
 The `curl` command is a versatile command-line tool for transferring data to and from servers using various protocols like HTTP, HTTPS, FTP, etc. It allows you to make requests (GET, POST, PUT, DELETE) to APIs, download/upload files, send data, and debug web interactions directly from the terminal. It supports custom headers, authentication, proxies, and more, making it essential for testing and automation in web development and API integrations.

@@ -21,7 +21,7 @@ toc_sticky: true
 mathjax: "true"
 ---
 
-![Introduction to Prompt Engineering](/assets/images/dspost/dsp6080-Introduction-to-Prompt-Engineering.jpg)
+![Introduction to Prompt Engineering](../assets/images/dspost/dsp6080-Introduction-to-Prompt-Engineering.jpg)
 
 # Introduction to Prompt Best Engineering 
 

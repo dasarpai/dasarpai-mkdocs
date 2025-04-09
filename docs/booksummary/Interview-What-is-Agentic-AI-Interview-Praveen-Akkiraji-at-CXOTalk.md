@@ -1,42 +1,32 @@
 ---
-author: Hari Thapliyaal
-author_profile: true
-categories: null
-comments: true
-date: 2024-12-19
-excerpt: 'A summary of the interview between Praveen Akkiraju and Michael Krigsman
-  on CXOTalk, discussing Agentic AI, its current state, and its potential future applications. '
-header:
-  teaser: ../assets/images/booksummary/7538-Interview-What-is-Agentic-AI-Interview-Praveen-Akkiraji-at-CXOTalk.jpg
-id: 7538
-keywords:
-- Agentic AI
-- Praveen Akkiraji
-- CXOTalk
-- Interview
-- AI
-- Artificial Intelligence
-- Agent
-- Intelligent Tasks
-- Intelligent Workflows
-layout: booksum-layout
 mathjax: true
+id: 7538
+title: "What is Agentic AI? Interview with Praveen Akkiraju at CXOTalk"
+date: 2024-12-19
 permalink: /booksummary/Interview-What-is-Agentic-AI-Interview-Praveen-Akkiraji-at-CXOTalk
-share: true
 tags:
-- Agentic AI
-- Praveen Akkiraji
-- CXOTalk
-- Interview
-- AI
-- Artificial Intelligence
-- Agent
-- Intelligent Tasks
-- Intelligent Workflows
-title: What is Agentic AI? Interview with Praveen Akkiraju at CXOTalk
+  - "Agentic AI"
+  - "Praveen Akkiraji"
+  - "CXOTalk"
+  - "Interview"
+  - "AI"
+  - "Artificial Intelligence"
+  - "Agent"
+  - "Intelligent Tasks"
+  - "Intelligent Workflows"
+categories:
+header:
+  teaser: /assets/images/booksummary/7538-Interview-What-is-Agentic-AI-Interview-Praveen-Akkiraji-at-CXOTalk.jpg
+author: Hari Thapliyaal
+layout: booksum-layout
+excerpt: "A summary of the interview between Praveen Akkiraju and Michael Krigsman on CXOTalk, discussing Agentic AI, its current state, and its potential future applications. "
+author_profile: true
+share: true
 toc: false
-toc_levels: 3
 toc_sticky: false
+toc_levels: 3
+comments: true
+keywords: [Agentic AI, Praveen Akkiraji, CXOTalk, Interview, AI, Artificial Intelligence, Agent, Intelligent Tasks, Intelligent Workflows]
 ---
 
 ![What is Agentic AI? Interview with Praveen Akkiraju at CXOTalk](../assets/images/booksummary/7538-Interview-What-is-Agentic-AI-Interview-Praveen-Akkiraji-at-CXOTalk.jpg)

@@ -25,7 +25,7 @@ comments: true
 keywords: ["Types of Models in Software Development", "What are Models in AI", "System Analysis and Modeling", "Classification of Models", "Applications of Models", "Different Types of Models in AI", "Modeling in Software Design"]
 ---
 
-![Exploring Types of Models](/assets/images/dspost/dsp6209-Exploring-Types-of-Models.jpg)
+![Exploring Types of Models](../assets/images/dspost/dsp6209-Exploring-Types-of-Models.jpg)
 
 # Understanding Different Types of Models
 

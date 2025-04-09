@@ -24,7 +24,7 @@ keywords: ["HTML", "Templating", "Python", "Ruby", "PHP"]
 
 ---
 
-![Understanding HTML Templating with Python, Ruby, and PHP](/assets/images/dspost/dsp6164-Understanding-HTML-Templating-with-Python-Ruby-PHP.jpg)
+![Understanding HTML Templating with Python, Ruby, and PHP](../assets/images/dspost/dsp6164-Understanding-HTML-Templating-with-Python-Ruby-PHP.jpg)
 
 # Understanding HTML Templating with Python, Ruby, and PHP
 

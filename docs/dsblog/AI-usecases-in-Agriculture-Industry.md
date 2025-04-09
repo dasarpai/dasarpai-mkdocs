@@ -32,7 +32,7 @@ mathjax: "true"
 keywords: [AI in agriculture, smart farming, precision agriculture, agricultural technology, crop management systems, farm automation, machine learning agriculture, agricultural innovation, sustainable farming, crop monitoring, agricultural robotics, precision farming technology, crop yield prediction, agricultural data analytics, smart irrigation systems, agricultural AI applications, digital agriculture, farm management technology, agricultural automation, sustainable agricultural practices]
 ---
 
-![AI Usecases in Agriculture Industry](/assets/images/dspost/dsp6037-AI-usecases-in-Agriculture-Industry.jpg)   
+![AI Usecases in Agriculture Industry](../assets/images/dspost/dsp6037-AI-usecases-in-Agriculture-Industry.jpg)   
 
 # AI Usecases in Agriculture Industry   
 

@@ -1,20 +1,21 @@
----
-author: Hari Thapliyaal
-author_profile: true
-categories: null
-date: '2024-02-06T08:33:00+05:30'
-excerpt: null
-header:
-  teaser: ../assets/images/booksummary/7506-Do-It-Today-by-Darius-Foroux.jpg
-id: 7506
-layout: booksum-layout
-permalink: /booksummary/Do-It-Today-by-Darius-Foroux
-share: true
-tags:
-- Book Summary
-title: 'Book Summary: Do It Today by Darius Foroux'
----
-
+---                            
+id: 7506                            
+                          
+title: "Book Summary: Do It Today by Darius Foroux"                     
+date: "2024-02-06T08:33:00+05:30"                            
+permalink: /booksummary/Do-It-Today-by-Darius-Foroux                      
+tags: [Book Summary]                     
+                            
+categories:                            
+header:                            
+    teaser: /assets/images/booksummary/7506-Do-It-Today-by-Darius-Foroux.jpg                         
+author: Hari Thapliyaal                            
+layout: booksum-layout                            
+excerpt:                            
+author_profile: true                            
+share: true                            
+---                            
+                            
 ![Do It Today by Darius Foroux](../assets/images/booksummary/7506-Do-It-Today-by-Darius-Foroux.jpg)                                 
    
 # Do It Today

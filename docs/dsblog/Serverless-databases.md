@@ -22,7 +22,7 @@ mathjax: "true"
 comments: true
 ---
 
-![Serverless-databases](/assets/images/dspost/dsp6125-Serverless-databases.jpg)
+![Serverless-databases](../assets/images/dspost/dsp6125-Serverless-databases.jpg)
 
 # Serverless databases
 

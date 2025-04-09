@@ -1,20 +1,21 @@
----
-author: Hari Thapliyaal
-author_profile: true
-categories: null
-date: '2024-03-07T08:33:00+05:30'
-excerpt: null
-header:
-  teaser: ../assets/images/booksummary/7507-Rest-Why-You-Get-More-Done-When-You-Work-Less-by-Alex.jpg
-id: 7507
-layout: booksum-layout
-permalink: /booksummary/Rest-Why-You-Get-More-Done-When-You-Work-Less-by-Alex
-share: true
-tags:
-- Book Summary
-title: 'Book Summary: Rest : Why You Get More Done When You Work Less by Alex'
----
-
+---                            
+id: 7507                            
+                          
+title: "Book Summary: Rest : Why You Get More Done When You Work Less by Alex"                      
+date: "2024-03-07T08:33:00+05:30"                            
+permalink: /booksummary/Rest-Why-You-Get-More-Done-When-You-Work-Less-by-Alex                      
+tags: [Book Summary]                     
+                            
+categories:                            
+header:                            
+    teaser: /assets/images/booksummary/7507-Rest-Why-You-Get-More-Done-When-You-Work-Less-by-Alex.jpg                         
+author: Hari Thapliyaal                            
+layout: booksum-layout                            
+excerpt:                            
+author_profile: true                            
+share: true                            
+---                            
+                            
 ![Rest Why You Get More Done When You Work Less by Alex](../assets/images/booksummary/7507-Rest-Why-You-Get-More-Done-When-You-Work-Less-by-Alex.jpg)       
 
 # Rest : Why You Get More Done When You Work Less
@@ -35,3 +36,4 @@ title: 'Book Summary: Rest : Why You Get More Done When You Work Less by Alex'
 These lessons underscore the importance of incorporating intentional rest and leisure into our lives, not just as a means of recuperation but as an essential component of a well-rounded and successful lifestyle. 
 
 Book: https://a.co/d/iRGqCyV
+   

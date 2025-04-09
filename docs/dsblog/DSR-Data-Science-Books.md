@@ -24,7 +24,7 @@ toc_sticky: true
 mathjax: "true"
 ---
 
-![DS, AI, ML, Books Available](/assets/images/dsresources/dsr120-Data-Science-AI-ML-eBooks-PDF-Books.jpg)     
+![DS, AI, ML, Books Available](../assets/images/dsresources/dsr120-Data-Science-AI-ML-eBooks-PDF-Books.jpg)     
    
 # Online Data Science, AI, ML Content
 

@@ -23,7 +23,7 @@ excerpt: An overview of AWS SageMaker Jumpstart Models, exploring their capabili
 keywords: [AWS SageMaker, Jumpstart Models, Machine Learning, AI Models, Model Zoo, Text Generation, Text to Image]
 ---
 
-![AWS SageMaker Jumpstart Models](/assets/images/dspost/dsp6076-AWS-SageMaker-Jumpstart-Models.jpg)   
+![AWS SageMaker Jumpstart Models](../assets/images/dspost/dsp6076-AWS-SageMaker-Jumpstart-Models.jpg)   
 
 # AWS SageMaker Jumpstart Models
 As of 17-Jul-23, AWS Sagemaker has 463 models in its Model Zoo. They call these models as Jumstart Models. What are the capabilities of these models, who are the developer of these models, where these models are hosted in given in the table below.

@@ -34,7 +34,7 @@ keywords:
   - "Development Environment"
 ---
 
-![Explroring IDEs](/assets/images/dspost/dsp6235-Exploring-and-Evaluating-IDEs.jpg)
+![Explroring IDEs](../assets/images/dspost/dsp6235-Exploring-and-Evaluating-IDEs.jpg)
 
 
 

@@ -26,7 +26,7 @@ comments: true
 keywords: ["The Case for Sanskrit as India's AI Language", "The National Language Debate and Its Impact on AI", "Sanskrit: A Language Understood by All Indians", "The Road to Bharat LLMs Goes Via Sanskrit", "Bharat LLMs", "National Language of India", "AI Language India"]
 ---
 
-![The Road to Bharat LLMs Goes Via Sanskrit](/assets/images/dspost/dsp6218-The-Road-to-Bharat-LLMs-Goes-Via-Sanskrit.jpg)
+![The Road to Bharat LLMs Goes Via Sanskrit](../assets/images/dspost/dsp6218-The-Road-to-Bharat-LLMs-Goes-Via-Sanskrit.jpg)
 
 # **The Road to Bharat LLMs Goes Via Sanskrit**
 

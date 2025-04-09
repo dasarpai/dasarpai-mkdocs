@@ -31,7 +31,7 @@ toc_sticky: true
 mathjax: true
 ---
 
-![Mathematics for Data Scientist](/assets/images/dsresources/dsr104-Mathematics-for-Data-Scientist.jpg)   
+![Mathematics for Data Scientist](../assets/images/dsresources/dsr104-Mathematics-for-Data-Scientist.jpg)   
    
 # Mathematics for Data Scientist   
    

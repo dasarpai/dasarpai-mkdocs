@@ -31,7 +31,7 @@ toc_sticky: true
 mathjax: "true"
 ---
 
-![God Fathers of AI](/assets/images/dspost/dsp6058-God-Fathers-of-AI.jpg)   
+![God Fathers of AI](../assets/images/dspost/dsp6058-God-Fathers-of-AI.jpg)   
    
 # God Fathers of AI   
    

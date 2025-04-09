@@ -36,7 +36,7 @@ keywords:
   - "AI and Sanskrit Research"
 ---
 
-![Grok 3 Model and Sanskrit](/assets/images/dspost/dsp6247-grok3model-and-sanskrit.jpg  )
+![Grok 3 Model and Sanskrit](../assets/images/dspost/dsp6247-grok3model-and-sanskrit.jpg  )
 
 # Grok 3 Model and Sanskrit
 

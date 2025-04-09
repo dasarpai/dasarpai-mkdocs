@@ -21,7 +21,7 @@ toc_sticky: true
 mathjax: "true"
 ---
 
-![Python Naming Convention](/assets/images/dspost/dsp6072-Python-Naming-Convention.jpg)   
+![Python Naming Convention](../assets/images/dspost/dsp6072-Python-Naming-Convention.jpg)   
 
 # Python Naming Convention
 

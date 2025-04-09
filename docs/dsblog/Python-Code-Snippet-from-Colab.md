@@ -23,7 +23,7 @@ comments: true
 keywords: ["Console programming", "Command-line interface", "Developer console", "Terminal vs. command prompt", "Remote console access", "IDE console", "Database console", "Embedded systems console", "Cloud console", "Debugging console", "Server console"]
 ---
 
-![Python Code Snippnet from Colab](/assets/images/dspost/dsp6149-Python-Code-Snippnet-from-Colab.jpg)
+![Python Code Snippnet from Colab](../assets/images/dspost/dsp6149-Python-Code-Snippnet-from-Colab.jpg)
 
 # Python Code Snippnet from Colab
 

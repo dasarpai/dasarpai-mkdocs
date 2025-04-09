@@ -1,35 +1,28 @@
 ---
-author: Hari Thapliyaal
-author_profile: true
-categories: null
-comments: true
-date: 2024-12-05
-excerpt: Insights from the interview with Jeff Bezos, Amazon, at Dealbook Event 2024
-excerpt_separator: <!--more-->
-header:
-  teaser: ../assets/images/booksummary/7531-Interview-Jeff-Bezos-Amazon-Dealbook-Event-2024.jpg
-id: 7531
-keywords:
-- Jeff Bezos
-- Amazon
-- Dealbook Event
-- Artificial Intelligence
-- Leadership
-- Decision-Making
-- Entrepreneurship
-layout: booksum-layout
 mathjax: true
+id: 7531
+title: "Interview with Jeff Bezos @ Amazon, at Dealbook Event 2024"
+date: 2024-12-05
 permalink: /booksummary/interview-jeff-bezos-amazon-dealbook-event-2024
-share: true
 tags:
-- AI
-- Amazon
-- Dealbook Event
-- Jeff Bezos
-title: Interview with Jeff Bezos @ Amazon, at Dealbook Event 2024
+  - "AI"
+  - "Amazon"
+  - "Dealbook Event"
+  - "Jeff Bezos"
+categories:
+header:
+  teaser: /assets/images/booksummary/7531-Interview-Jeff-Bezos-Amazon-Dealbook-Event-2024.jpg
+excerpt_separator: "<!--more-->"
+author: Hari Thapliyaal
+layout: booksum-layout
+excerpt: "Insights from the interview with Jeff Bezos, Amazon, at Dealbook Event 2024"
+author_profile: true
+share: true
 toc: true
-toc_levels: 3
 toc_sticky: true
+toc_levels: 3
+comments: true
+keywords: [Jeff Bezos, Amazon, Dealbook Event, Artificial Intelligence, Leadership, Decision-Making, Entrepreneurship]
 ---
 
 ![Interview-Jeff-Bezos-Amazon-Dealbook-Event-2023](../assets/images/booksummary/7531-Interview-Jeff-Bezos-Amazon-Dealbook-Event-2024.jpg)

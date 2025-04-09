@@ -25,7 +25,7 @@ comments: true
 keywords: ["evaluating AI models", "performance metrics for AI", "AI model evaluation benchmarks", "AI leaderboards", "standardized AI evaluation", "comparing AI models", "AI model performance evaluation"]
 ---
 
-![Exploring AI Benchmarks & Leaderboards](/assets/images/dspost/dsp6210-Exploring-AI-Benchmarks-and-Leaderboards.jpg)
+![Exploring AI Benchmarks & Leaderboards](../assets/images/dspost/dsp6210-Exploring-AI-Benchmarks-and-Leaderboards.jpg)
 
 # Exploring AI Benchmarks & Leaderboards
 

@@ -25,7 +25,7 @@ comments: true
 keywords: ["ai predictions for 2025", "ai technology trends 2025", "advancements in artificial intelligence 2025", "ai innovation ideas for business", "ai future predictions 2025", "ai trends 2025"]
 ---
 
-![AI Predictions for 2025](/assets/images/dspost/dsp6197-Major-AI-Predictions-for-2025.jpg)
+![AI Predictions for 2025](../assets/images/dspost/dsp6197-Major-AI-Predictions-for-2025.jpg)
 
 # **Major AI Predictions for 2025**
 

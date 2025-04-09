@@ -29,7 +29,7 @@ toc: true
 toc_sticky: true 
 mathjax: "true"
 ---
-![XAI](/assets/images/dspost/dsp6001-Dealing-with-Sensitive-Data.jpg)   
+![XAI](../assets/images/dspost/dsp6001-Dealing-with-Sensitive-Data.jpg)   
 
 # Dealing with Sensitive Data   
 

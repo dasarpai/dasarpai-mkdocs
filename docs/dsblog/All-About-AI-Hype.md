@@ -23,7 +23,7 @@ comments: true
 
 ---
 
-![All About AI Hype](/assets/images/dspost/dsp6139-All-About-ai-Hype.jpg)
+![All About AI Hype](../assets/images/dspost/dsp6139-All-About-ai-Hype.jpg)
 
 # All About AI Hype
 

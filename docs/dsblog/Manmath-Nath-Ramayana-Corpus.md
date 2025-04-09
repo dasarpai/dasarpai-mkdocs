@@ -21,7 +21,7 @@ toc_sticky: true
 mathjax: "true"
 ---
    
-![Manmath Nath - Ramayana Corpus](/assets/images/dspost/dsp6112-Manmath-Nath-Ramayana-Corpus.jpg)   
+![Manmath Nath - Ramayana Corpus](../assets/images/dspost/dsp6112-Manmath-Nath-Ramayana-Corpus.jpg)   
     
 # Manmath Nath - Ramayana Corpus
    

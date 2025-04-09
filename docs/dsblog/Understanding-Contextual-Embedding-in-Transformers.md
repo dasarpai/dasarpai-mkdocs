@@ -25,7 +25,7 @@ comments: true
 keywords: ["Contextual Embedding in Transformers", "How Transformers Handle Context", "What is Fixed Embedding", "How Contextural Embedding is Generated", "What will be the output size of attention formula softmax", "What is meaning of a LLM has context length of 2 million tokens", "How many attention layers we keep in transformer like gpt4"]
 ---
 
-![Understanding Contextual Embedding in Transformers](/assets/images/dspost/dsp6214-Understanding-Contextual-Embedding-in-Transformer.jpg)
+![Understanding Contextual Embedding in Transformers](../assets/images/dspost/dsp6214-Understanding-Contextual-Embedding-in-Transformer.jpg)
 
 ## Introduction
 Embedding can be confusing for many people, and contextual embedding performed by transformers can be even more perplexing. Even after gaining an understanding, many questions remain. In this article, we aim to address the following questions.

@@ -20,7 +20,7 @@ toc_sticky: true
 mathjax: true
 --- 
    
-![What is Computer Vision](/assets/images/dspost/dsp6018-What-is-Computer-Vision.jpg)   
+![What is Computer Vision](../assets/images/dspost/dsp6018-What-is-Computer-Vision.jpg)   
 
 # What is Computer vision?   
    
@@ -42,10 +42,10 @@ What is physical? That which can be sensed through our physical senses or our sc
 ### Computer Vision - How Visioning Happens in Machine   
 Computer scientists took inspiration from brain scientists and they want to simulate the human brain and its working in computers. This gave rise to neural networks. Earlier, the term neural networks were referring to the human brain, nowadays when people are discussing neural networks they are discussing about computer neural networks. A computer neural network has multiple layers as a human brain has, each layer has multiple neurons (like a human brain, a human brain has approx 100 billion neurons in it), but all the brains are not active all the time. Based on the input certain neurons become active in some parts of the brain. What neuron will become active by seeing what or listening to what, this is all part of human training, heredity, and human brain design? Some of that is in our control and some is not. Similarly what neurons will be activated in the next layer of the computer neural networks depends upon what activation function is used, and what input has come. There are many activation functions and many kinds of layers. When an image is given to a computer, it is nothing but a bunch of pixels for the computer. Each pixel is one byte so it can have a value between 0 to 255. When a 16-megapixel camera captures a photo then the image has 16 megapixels. More the pixels, the better the quality of the image. We have sharper contours between different objects in the image. When these 16MB images are given to a computer neural network, and they go through different layers then different layers do different work. But ultimately all the layers are identifying different features from the given image. These features can be contours, edges, regions of interest points, colors, and color intensity, in the case of a face (it may be eyes, nose, mouth, ear, forehead, lips, etc), in the case of a car (body, bonnet, headlight, number plate, window, mirror, glass, etc). Using these features computer can learn what is there in the image.   
 
-![Human Neural Network vs Computer Neural Network](/assets/images/dspost/cv/NeuralNetwork.jpg)   
+![Human Neural Network vs Computer Neural Network](../assets/images/dspost/cv/NeuralNetwork.jpg)   
 **Human Neural Network vs Computer Neural Network** 
 
-![How-Computer-See-Image](/assets/images/dspost/cv/How-Computer-See-Image.png)   
+![How-Computer-See-Image](../assets/images/dspost/cv/How-Computer-See-Image.png)   
 **How Computer See an Image**
       
 ## How does Visioning happen in computers?    
@@ -58,50 +58,50 @@ When training is complete, W&B has been learned by the neural network then we ha
    
 ## Computer Vision Tasks   
 - Image Classification   
-![Classification](/assets/images/dspost/cv/Classification.jpg) 
+![Classification](../assets/images/dspost/cv/Classification.jpg) 
 - Image Localization or Object Detection  
-![Object-Detection](/assets/images/dspost/cv/Object-Detection.png) 
+![Object-Detection](../assets/images/dspost/cv/Object-Detection.png) 
 - Semantic Segmentation    
-![semantic_segmentation](/assets/images/dspost/cv/semantic_segmentation.png)     
+![semantic_segmentation](../assets/images/dspost/cv/semantic_segmentation.png)     
 - Instance Segmentation   
-![instance_segmentation](/assets/images/dspost/cv/instance_segmentation.png)  
+![instance_segmentation](../assets/images/dspost/cv/instance_segmentation.png)  
 [Source: Semantic Segmentation Presentation](http://www.cs.toronto.edu/~tingwuwang/semantic_segmentation.pdf  )
 - Edge Detection    
-![Edge-Detection](/assets/images/dspost/cv/Edge-Detection.png)     
+![Edge-Detection](../assets/images/dspost/cv/Edge-Detection.png)     
 - Pose Detection    
-![Pose-Detection](/assets/images/dspost/cv/Pose-Detection.png)  
+![Pose-Detection](../assets/images/dspost/cv/Pose-Detection.png)  
 - 2d Pose Estimation 
-![2d-pose-estimation](/assets/images/dspost/cv/2d-pose-estimation.jpg) 
+![2d-pose-estimation](../assets/images/dspost/cv/2d-pose-estimation.jpg) 
 - 3D Pose Estimation  
-![3D-Pose-Estimation](/assets/images/dspost/cv/3D-Pose-Estimation.png)  
+![3D-Pose-Estimation](../assets/images/dspost/cv/3D-Pose-Estimation.png)  
 - Video motion analysis   
-![MotionView-Tennis-Swing-Video-Analysis-Coaching-Software-for-Sports](/assets/images/dspost/cv/MotionView-Tennis-Swing.gif)  
+![MotionView-Tennis-Swing-Video-Analysis-Coaching-Software-for-Sports](../assets/images/dspost/cv/MotionView-Tennis-Swing.gif)  
 - Image Restoration  
-![Image-Restoration](/assets/images/dspost/cv/Image-Restoration.jpg)   
+![Image-Restoration](../assets/images/dspost/cv/Image-Restoration.jpg)   
 - Visual Relationship Detection : It is the ability to decipher what relationship does the two objects share   
-![Visual-Relationship-Detection](/assets/images/dspost/cv/Visual-Relationship-Detection.png)  
+![Visual-Relationship-Detection](../assets/images/dspost/cv/Visual-Relationship-Detection.png)  
 [Source: Kaggle-Google AI](https://www.kaggle.com/c/google-ai-open-images-visual-relationship-track) 
 - Image Reconstruction    
-![Image-Reconstruction](/assets/images/dspost/cv/Image-Reconstruction.png)
+![Image-Reconstruction](../assets/images/dspost/cv/Image-Reconstruction.png)
 - Photo Inpainting   
-![Photo-Inpainting](/assets/images/dspost/cv/Photo-Inpainting.png)   
+![Photo-Inpainting](../assets/images/dspost/cv/Photo-Inpainting.png)   
 - Face Recognition   
-![face-recognition](/assets/images/dspost/cv/face-recognition.png)   
+![face-recognition](../assets/images/dspost/cv/face-recognition.png)   
 - Emotion Recognition 
-![Emotion-Recognition](/assets/images/dspost/cv/Emotion-Recognition.jpg)
+![Emotion-Recognition](../assets/images/dspost/cv/Emotion-Recognition.jpg)
 - 3D image construction from a photograph    
-![2d-image-to-3d-image](/assets/images/dspost/cv/2d-image-to-3d-image.png) 
+![2d-image-to-3d-image](../assets/images/dspost/cv/2d-image-to-3d-image.png) 
 - Image Style Transfer   
-![Style-Transfer](/assets/images/dspost/cv/Style-Transfer.png)  
-![Styling-Zebras-and-Horses](/assets/images/dspost/cv/Styling-Zebras-and-Horses.png) 
+![Style-Transfer](../assets/images/dspost/cv/Style-Transfer.png)  
+![Styling-Zebras-and-Horses](../assets/images/dspost/cv/Styling-Zebras-and-Horses.png) 
 - Image Colorization   
-![Image-Colorization](/assets/images/dspost/cv/Image-Colorization.png)
+![Image-Colorization](../assets/images/dspost/cv/Image-Colorization.png)
 - Image Synthesis : Image synthesis is the process of artificially generating images that contain some particular desired content.   
-![Image-Synthesis](/assets/images/dspost/cv/Image-Synthesis.jpg)
+![Image-Synthesis](../assets/images/dspost/cv/Image-Synthesis.jpg)
 - Image Captioning   
-![Image-Captioning](/assets/images/dspost/cv/Image-Captioning.png)
+![Image-Captioning](../assets/images/dspost/cv/Image-Captioning.png)
 - OCR (Optical character reader)   
-![Hindi OCR](/assets/images/dspost/cv/hindi-ocr.jpg)
+![Hindi OCR](../assets/images/dspost/cv/hindi-ocr.jpg)
 - Generating a textual description of an image   
 - Generating a textual description of each object in an image   
 - Synthesizing an image based on a textual description  
@@ -119,7 +119,7 @@ When training is complete, W&B has been learned by the neural network then we ha
 - Face Enhancer
 - Color Generator
 - Social Distancing
-![Social distancing](/assets/images/dspost/cv/social-distancing-detection.webp)
+![Social distancing](../assets/images/dspost/cv/social-distancing-detection.webp)
    
 ## Applications of Computer Vision   
 Computer vision can be used as follows.   
@@ -131,7 +131,7 @@ Computer vision can be used as follows.
 - Intelligent video analytics (IVA) : CCTV cameras are present—in retail venues to understand how shoppers are interacting with products, in factories, airports and transport hubs to track queue lengths and access to restricted areas.   
 - Manufacturing and Construction   
 - Retail   
-![Retil-cold-beverage](/assets/images/dspost/cv/Retil-cold-beverage.png)   
+![Retil-cold-beverage](../assets/images/dspost/cv/Retil-cold-beverage.png)   
    
    
 ### Computer Vision Security and Survilance    
@@ -139,13 +139,13 @@ Computer vision can be used as follows.
 - People Movement Analysis Application    
 - Person Recognition Application    
 - Weapon Detection Application    
-![weapon-detection](/assets/images/dspost/cv/weapon-detection.webp)
+![weapon-detection](../assets/images/dspost/cv/weapon-detection.webp)
 - Human Behavior Understanding Application    
 - Virtual Fencing Application    
 - Traffic Incident Detection Application    
 - Vehicle Surveillance Application    
 - Vehicle Identification Application  
-![Vehicle-Number-Detection](/assets/images/dspost/cv/Vehicle-Number-Detection.png)    
+![Vehicle-Number-Detection](../assets/images/dspost/cv/Vehicle-Number-Detection.png)    
 - Traffic Safety Applications Application    
 - Illegal Activity Detection Application    
 - Anomaly Detection Application    
@@ -155,17 +155,17 @@ Computer vision can be used as follows.
 - Video Summarization Later in this article, we will provide more information about those and more applications. Let’s jump right into the topic!     
 - Unattended Vehicles   
 - Unattended Luggage     
-![Unattended-Luggage](/assets/images/dspost/cv/Unattended-Luggage.png)    
+![Unattended-Luggage](../assets/images/dspost/cv/Unattended-Luggage.png)    
 - Wrong Parking    
-![Vehicle-Wrong-Parking](/assets/images/dspost/cv/Vehicle-Wrong-Parking.png) 
+![Vehicle-Wrong-Parking](../assets/images/dspost/cv/Vehicle-Wrong-Parking.png) 
 - Parking Lot Detection    
-![Parking-Lot-Detection](/assets/images/dspost/cv/Parking-Lot-Detection.png)   
+![Parking-Lot-Detection](../assets/images/dspost/cv/Parking-Lot-Detection.png)   
    
 ### Computer Vision In Healthcare   
 - Tumor Detection Application    
 - Medical Imaging Application    
 - Cancer Detection Application    
-![Medical-Imaing-x-ray-chest](/assets/images/dspost/cv/Medical-Imaing-x-ray-chest.jpg)   
+![Medical-Imaing-x-ray-chest](../assets/images/dspost/cv/Medical-Imaing-x-ray-chest.jpg)   
 - Medical Training Application    
 - Combating Covid-19 Application    
 - Health Monitoring Application    
@@ -193,7 +193,7 @@ Computer vision can be used as follows.
    
 ### Logistics   
 - Traceability and tracking of objects Application    
-![Tracking-People-and-Vehicles](/assets/images/dspost/cv/Tracking-People-and-Vehicles.jpg)  
+![Tracking-People-and-Vehicles](../assets/images/dspost/cv/Tracking-People-and-Vehicles.jpg)  
 - Volumetric properties of goods Application    
 - Inspection and quality control of goods Application    
 - Equipment condition monitoring Application    
@@ -205,11 +205,11 @@ Computer vision can be used as follows.
 - Automated handling systems Application    
 - Visual documentation and Risk management   
 - Tracking Warehouse Movements    
-![Video-analytics-Warehouse](/assets/images/dspost/cv/Video-analytics-Warehouse.jpg)
+![Video-analytics-Warehouse](../assets/images/dspost/cv/Video-analytics-Warehouse.jpg)
 
 
 ### Construction 
-![Construction](/assets/images/dspost/cv/Construction.png)
+![Construction](../assets/images/dspost/cv/Construction.png)
 
 ## Conclusion
 Human vision is a very precious technology to navigate the world around us, communicate with others, and survive. Similarly, computer vision is an extremely powerful technology to communicate with humans, other machines, and robots. It can perform various tasks as mentioned above. State of the Art (SOTA) computer vision models like DALL-E started challenging human artists. Above mentioned applications are just the tip of the iceberg. You think about any task which you do with your eye-brain coordination and you can perform that with computer vision. In the future, you are going to see many more applications of this technology, and at the same time, this technology will be far superior with advanced algorithms, new hardware, and new application architectures.

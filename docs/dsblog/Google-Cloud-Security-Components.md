@@ -23,7 +23,7 @@ comments: true
 keywords: ["Google Cloud Platform", "Cloud Security", "IAM", "Identity Management", "Cloud Infrastructure", "Security Best Practices", "Access Control", "Security Architecture", "Cloud Permissions", "GCP Security", "Security Roles", "Cloud Governance", "Security Policies", "Cloud Authentication", "Security Components"]
 ---
 
-![Navigating Google Cloud Security](/assets/images/dspost/dsp6147-Google-Cloud-Security-Components.jpg)
+![Navigating Google Cloud Security](../assets/images/dspost/dsp6147-Google-Cloud-Security-Components.jpg)
 
 # Navigating Google Cloud Security
 

@@ -21,7 +21,7 @@ toc_sticky: true
 mathjax: "true"
 ---
 
-![ML Model Respository from Pinto0309](/assets/images/dspost/dsp6095-ML-Model-Repository-from-Pinto0309.jpg)
+![ML Model Respository from Pinto0309](../assets/images/dspost/dsp6095-ML-Model-Repository-from-Pinto0309.jpg)
 
 # ML Model Repository from Pinto0309
 

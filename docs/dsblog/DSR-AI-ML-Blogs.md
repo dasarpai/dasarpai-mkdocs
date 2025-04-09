@@ -24,7 +24,7 @@ toc_sticky: true
 mathjax: "true"
 ---
 
-![AI, ML, DL Blogs Sites](/assets/images/dsresources/dsr109-AI-ML-DL-Blogs-Sites.jpg)    
+![AI, ML, DL Blogs Sites](../assets/images/dsresources/dsr109-AI-ML-DL-Blogs-Sites.jpg)    
 
 # AI, ML, DL Blogs Sites   
    

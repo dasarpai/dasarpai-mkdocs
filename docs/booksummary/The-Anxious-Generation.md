@@ -1,36 +1,29 @@
 ---
-author: Hari Thapliyaal
-author_profile: true
-categories: null
-comments: true
-date: 2024-12-20
-excerpt: 'A summary of ''The Anxious Generation: How The Great Rewiring of Childhood
-  Is Causing an Epidemic of Mental Illness'' in 11 key points. '
-header:
-  teaser: ../assets/images/booksummary/7539-The-Anxious-Generation.jpg
-id: 7539
-keywords:
-- The Anxious Generation
-- Book Summary
-- Mental Health
-- Childhood
-- Anxiety
-- Depression
-layout: booksum-layout
 mathjax: true
+id: 7539
+title: "The Anxious Generation"
+date: 2024-12-20
 permalink: /booksummary/The-Anxious-Generation
-share: true
 tags:
-- The Anxious Generation
-- Book Summary
-- Mental Health
-- Childhood
-- Anxiety
-- Depression
-title: The Anxious Generation
+  - "The Anxious Generation"
+  - "Book Summary"
+  - "Mental Health"
+  - "Childhood"
+  - "Anxiety"
+  - "Depression"
+categories:
+header:
+  teaser: /assets/images/booksummary/7539-The-Anxious-Generation.jpg
+author: Hari Thapliyaal
+layout: booksum-layout
+excerpt: "A summary of 'The Anxious Generation: How The Great Rewiring of Childhood Is Causing an Epidemic of Mental Illness' in 11 key points. "
+author_profile: true
+share: true
 toc: false
-toc_levels: 3
 toc_sticky: false
+toc_levels: 3
+comments: true
+keywords: [The Anxious Generation, Book Summary, Mental Health, Childhood, Anxiety, Depression]
 ---
 
 ![The Anxious Generation](../assets/images/booksummary/7539-The-Anxious-Generation.jpg)

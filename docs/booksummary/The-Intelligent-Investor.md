@@ -1,35 +1,23 @@
----
-author: Hari Thapliyaal
-author_profile: true
-categories: null
-date: '2024-10-13T08:33:00+05:30'
-excerpt: null
-header:
-  teaser: ../assets/images/booksummary/7527-The-Intelligent-Investor.jpg
-id: 7527
-keywords:
-- Value Investing
-- Benjamin Graham
-- Intelligent Investor
-- Investment Guide
-- Stock Market
-- Risk Management
-- Diversification
-- Compounding Returns
-- Emotional Decision-Making
-- Long-term Growth
-- Margin of Safety
-- Speculation
-- Momentum Trading
-layout: booksum-layout
-permalink: /booksummary/The-Intelligent-Investor
-share: true
-tags:
-- Book Summary
-- Economics
-title: 'Book Summary: The Intelligent Investor'
----
+---    
+id: 7527    
+  
+title:  "Book Summary: The Intelligent Investor"       
 
+date: "2024-10-13T08:33:00+05:30"    
+permalink: /booksummary/The-Intelligent-Investor     
+tags:  [Book Summary, Economics]     
+    
+categories:    
+header:    
+   teaser: /assets/images/booksummary/7527-The-Intelligent-Investor.jpg    
+author: Hari Thapliyaal    
+layout: booksum-layout    
+excerpt:    
+author_profile: true    
+share: true    
+keywords: [Value Investing, Benjamin Graham, Intelligent Investor, Investment Guide, Stock Market, Risk Management, Diversification, Compounding Returns, Emotional Decision-Making, Long-term Growth, Margin of Safety, Speculation, Momentum Trading]
+---    
+    
 ![Book Summary: The-Intelligent-Investor](../assets/images/booksummary/7527-The-Intelligent-Investor.jpg) 
 
 # The Intelligent Investor
@@ -84,3 +72,4 @@ Published in 1949, "The Intelligent Investor" is a classic investment guide writ
 **Conclusion:**
 
 "The Intelligent Investor" is a timeless guide to value investing that remains relevant today. While it has faced criticisms and controversies, the book's core principles of long-term focus, risk management, and discipline have stood the test of time.
+

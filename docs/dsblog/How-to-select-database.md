@@ -33,7 +33,7 @@ keywords: ["database selection", "SQL vs NoSQL", "data architecture", "database 
 
 ---
 
-![Selecting Database for Project](/assets/images/dspost/dsp6154-Selecting-Database-for-Project.jpg)
+![Selecting Database for Project](../assets/images/dspost/dsp6154-Selecting-Database-for-Project.jpg)
 
 # Essential Database Selection Criteria for Modern Applications
 

@@ -28,7 +28,7 @@ comments: true
 keywords: ["Development Environment Setup", "Windows 11", "WSL2", "Docker", "Linux", "Github", "Dev Environment"]
 ---
 
-![Setting Development Environment with WSL2, Docker and Github](/assets/images/dspost/dsp6222-Setting-Up-a-Development-Environment-with-Windows-11-WSL2-and-Docker.jpg)
+![Setting Development Environment with WSL2, Docker and Github](../assets/images/dspost/dsp6222-Setting-Up-a-Development-Environment-with-Windows-11-WSL2-and-Docker.jpg)
 
 # Setting Development Environment with WSL2, Docker and Github
 
@@ -195,7 +195,7 @@ For additional details, refer to Microsoft's documentation:
 
 ## 7. Overall Solution Architecture Diagram
 Below is a diagram showing how Windows, WSL 2, Docker, and VS Code interact:
-![Develop-Env-with-Windows+WSL2+Docker](/assets/images/dspost/mermaid-code/dsp6222-Develop-Env-with-Windows+WSL2+Docker.jpg)
+![Develop-Env-with-Windows+WSL2+Docker](../assets/images/dspost/mermaid-code/dsp6222-Develop-Env-with-Windows+WSL2+Docker.jpg)
 
 
 ## 8. Conclusion

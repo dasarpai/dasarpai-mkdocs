@@ -21,7 +21,7 @@ toc_sticky: true
 mathjax: "true"
 ---
 
-![Distances in Machine Learning](/assets/images/dspost/dsp6093-Distances-in-Machine-Learning.jpg)
+![Distances in Machine Learning](../assets/images/dspost/dsp6093-Distances-in-Machine-Learning.jpg)
 
 # Distances in Machine Learning
 

@@ -27,7 +27,7 @@ comments: true
 keywords: ["Microprocessor and Microcontroller Basics", "Embedded Systems CPU", "I/O Peripherals in Microcontrollers", "Microcontroller Applications", "Automation and Control with Microcontrollers", "Integrated Computing Devices", "Microcontroller vs Microprocessor"]
 ---
 
-![](/assets/images/dspost/dsp6230-Basics-of-Microprocessor-and-Microcontroller.jpg)
+![](../assets/images/dspost/dsp6230-Basics-of-Microprocessor-and-Microcontroller.jpg)
 
 # The Basics of Microprocessor and Microcontroller
 

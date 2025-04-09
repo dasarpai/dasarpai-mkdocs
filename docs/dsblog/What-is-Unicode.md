@@ -21,7 +21,7 @@ toc_sticky: true
 mathjax: "true"
 ---
 
-![What is Unicode and how does it works?](/assets/images/dspost/dsp6114-what-is-unicode-and-how-does-it-works.jpg)
+![What is Unicode and how does it works?](../assets/images/dspost/dsp6114-what-is-unicode-and-how-does-it-works.jpg)
 
 # What is Unicode and how does it works?
 

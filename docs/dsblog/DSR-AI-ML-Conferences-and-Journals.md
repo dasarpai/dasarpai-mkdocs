@@ -23,7 +23,7 @@ toc_sticky: true
 mathjax: "true"
 ---
 
-![AI, ML, Deep Learning, NLP Conferences & Journals](/assets/images/dsresources/dsr108-AI-ML-Deep-Learning-NLP-Conferences-Journals.jpg)   
+![AI, ML, Deep Learning, NLP Conferences & Journals](../assets/images/dsresources/dsr108-AI-ML-Deep-Learning-NLP-Conferences-Journals.jpg)   
 
 # AI, ML, Deep Learning, NLP Conferences & Journals   
 

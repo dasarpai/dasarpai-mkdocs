@@ -22,7 +22,7 @@ mathjax: "true"
 comments: true
 ---
 
-![Programming-Resources](/assets/images/dspost/dsp6136-Programming-Resources.jpg)
+![Programming-Resources](../assets/images/dspost/dsp6136-Programming-Resources.jpg)
 
 # Programming Resources
 

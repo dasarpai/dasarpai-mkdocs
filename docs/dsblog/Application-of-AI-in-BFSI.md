@@ -31,7 +31,7 @@ mathjax: "true"
 keywords: [AI in banking, financial services automation, BFSI technology, fintech innovation, AI banking applications, financial risk management, insurance technology, digital banking solutions, AI financial services]
 ---
    
-![Application-of-AI-in-BFSI](/assets/images/dspost/dsp6048-Application-of-AI-in-BFSI.jpg)   
+![Application-of-AI-in-BFSI](../assets/images/dspost/dsp6048-Application-of-AI-in-BFSI.jpg)   
    
 # Application of AI in Banking, Finance, Security and Insurance (BFSI)   
    

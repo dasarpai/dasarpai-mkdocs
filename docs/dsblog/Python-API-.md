@@ -21,7 +21,7 @@ toc_sticky: true
 mathjax: "true"
 ---
 
-![Python APIs for Data](/assets/images/dspost/dsp6094-Python-APIs-for-Data.jpg)
+![Python APIs for Data](../assets/images/dspost/dsp6094-Python-APIs-for-Data.jpg)
 
 # Python APIs for Data
 

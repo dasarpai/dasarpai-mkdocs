@@ -23,7 +23,7 @@ comments: true
 keywords: [Ollama AI, On-device AI, Local LLM frameworks, AI model management, LangChain integration]
 ---
 
-![Exploring Ollama & LM Studio](/assets/images/dspost/dsp6143-Exploring-Ollama.jpg)
+![Exploring Ollama & LM Studio](../assets/images/dspost/dsp6143-Exploring-Ollama.jpg)
 
 # Exploring Ollama & LM Studio
 

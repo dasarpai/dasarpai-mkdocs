@@ -23,7 +23,7 @@ comments: true
 keywords: ["Linux distributions", "Best Linux distros", "Linux for edge devices", "Advantages of Linux", "Linux for vendors", "Open source operating system", "Linux security and stability", "Cost-effective Linux solutions", "Why choose Linux", "Linux community support"]
 ---
 
-![Understanding Linux Distributions](/assets/images/dspost/dsp6160-Exploring-Linux-Distributions.jpg)
+![Understanding Linux Distributions](../assets/images/dspost/dsp6160-Exploring-Linux-Distributions.jpg)
 
 # Understanding Linux Distributions
 

@@ -21,7 +21,7 @@ toc_sticky: true
 mathjax: "true"
 ---
 
-![Transformers Demystified A Step-by-Step Guide](/assets/images/dspost/dsp6113-transformers-demystified-a-step-by-step-guide.jpg)
+![Transformers Demystified A Step-by-Step Guide](../assets/images/dspost/dsp6113-transformers-demystified-a-step-by-step-guide.jpg)
 
 # Transformers Demystified A Step-by-Step Guide
 

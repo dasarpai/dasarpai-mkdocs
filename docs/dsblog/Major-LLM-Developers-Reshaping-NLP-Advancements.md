@@ -20,7 +20,7 @@ toc_sticky: true
 mathjax: "true"
 ---
 
-![Major LLM Developers Shaping the AI Landscape](/assets/images/dspost/dsp6075-Major-LLM-Developers-Reshaping-NLP-Advancements.jpg)  
+![Major LLM Developers Shaping the AI Landscape](../assets/images/dspost/dsp6075-Major-LLM-Developers-Reshaping-NLP-Advancements.jpg)  
 
 # Major LLM Developers Shaping the AI Landscape
 

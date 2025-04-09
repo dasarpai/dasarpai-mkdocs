@@ -1,20 +1,21 @@
----
-author: Hari Thapliyaal
-author_profile: true
-categories: null
-date: '2024-01-02T08:33:00+05:30'
-excerpt: null
-header:
-  teaser: ../assets/images/booksummary/7502-The-5-Elements-of-Effective-Thinking-by-Edward-Burger.jpg
-id: 7502
-layout: booksum-layout
-permalink: /booksummary/The-5-Elements-of-Effective-Thinking-by-Edward-Burger
-share: true
-tags:
-- Book Summary
-title: 'Book Summary: The 5 Elements of Effective Thinking by Edward Burger'
----
-
+---                            
+id: 7502                            
+                          
+title: "Book Summary: The 5 Elements of Effective Thinking by Edward Burger"                     
+date: "2024-01-02T08:33:00+05:30"                            
+permalink: /booksummary/The-5-Elements-of-Effective-Thinking-by-Edward-Burger                      
+tags: [Book Summary]                     
+                            
+categories:                            
+header:                            
+    teaser: /assets/images/booksummary/7502-The-5-Elements-of-Effective-Thinking-by-Edward-Burger.jpg                        
+author: Hari Thapliyaal                            
+layout: booksum-layout                            
+excerpt:                            
+author_profile: true                            
+share: true                            
+---                            
+                            
 ![The 5 Elements of Effective Thinking by Edward Burger](../assets/images/booksummary/7502-The-5-Elements-of-Effective-Thinking-by-Edward-Burger.jpg)                                 
    
 

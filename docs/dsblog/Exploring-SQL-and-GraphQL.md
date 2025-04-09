@@ -23,7 +23,7 @@ comments: true
 keywords: ["SQL commands", "GraphQL operations", "data querying", "GraphQL mutations", "SQL vs GraphQL", "database management", "API development", "SQL tutorial", "GraphQL tutorial", "data manipulation"]
 ---
 
-![Exploring SQL and GraphQL Commands](/assets/images/dspost/dsp6162-Exploring-SQL-and-GraphQL-Commands.jpg)
+![Exploring SQL and GraphQL Commands](../assets/images/dspost/dsp6162-Exploring-SQL-and-GraphQL-Commands.jpg)
 
 # Exploring SQL and GraphQL Commands
 

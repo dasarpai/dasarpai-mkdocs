@@ -31,7 +31,7 @@ toc_sticky: true
 mathjax: "true"
 --- 
 
-![Timeseries Interview Questions](/assets/images/dspost/dsp6023-Timeseries-Interview-Questions.jpg)   
+![Timeseries Interview Questions](../assets/images/dspost/dsp6023-Timeseries-Interview-Questions.jpg)   
 
 # Timeseries Interview Questions
 
@@ -204,7 +204,7 @@ PACF plots show the partial autocorrelation of a time series with itself at diff
 
 ACF and PACF plots are useful tools for understanding the autocorrelation structure of a time series, and they can help inform the choice of statistical models and forecasting methods. For example, if the ACF plot of a time series exhibits a strong decay at a particular lag value, an autoregressive model with a single lag (AR(1)) may be sufficient to model the time series. On the other hand, if the ACF plot exhibits a more complex pattern, a higher-order autoregressive model (such as AR(2) or AR(3)) may be needed.
 
-![acf-pacf curve](/assets/images/dspost/timeseries/lolipot-plot-acf-pacf.png)
+![acf-pacf curve](../assets/images/dspost/timeseries/lolipot-plot-acf-pacf.png)
 
 Estimating AR terms
 The lollipop plot that you see above is the ACF and PACF results. To estimate the amount of AR terms, you need to look at the PACF plot. First, ignore the value at lag 0. It will always show a perfect correlation, since we are estimating the correlation between today’s value with itself. Note that there is a blue area in the plot, representing the confidence interval. To estimate how much AR terms you should use, start counting how many “lollipop” are above or below the confidence interval before the next one enter the blue area.

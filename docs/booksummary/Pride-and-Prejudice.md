@@ -1,40 +1,28 @@
 ---
-author: Hari Thapliyaal
-author_profile: true
-categories: null
-comments: true
-date: 2025-03-07
-excerpt: Pride and Prejudice by Jane Austen is about self-growth, overcoming misunderstandings,
-  and finding love through respect and honesty. It’s a timeless story with valuable
-  life lessons!
-header:
-  teaser: ../assets/images/default/summaryblog.jpg
-id: 7547
-keywords:
-- Pride and Prejudice Lessons
-- Jane Austen
-- Self-Growth
-- Love
-- Personal Growth
-- Overcoming Misunderstandings
-- Respect
-- Honesty
-- Timeless Story
-- Valuable Life Lessons
-layout: booksum-layout
 mathjax: true
+id: 7547
+title: "Lessons from Pride and Prejudice by Jane Austen"
+date: 2025-03-07
 permalink: /booksummary/Pride-and-Prejudice
-share: true
 tags:
-- Pride and Prejudice
-- Jane Austen
-- Self-Growth
-- Love
-- Personal Growth
-title: Lessons from Pride and Prejudice by Jane Austen
+  - "Pride and Prejudice"
+  - "Jane Austen"
+  - "Self-Growth"
+  - "Love"
+  - "Personal Growth"
+categories:
+header:
+  teaser: /assets/images/default/summaryblog.jpg
+author: Hari Thapliyaal
+layout: booksum-layout
+excerpt: "Pride and Prejudice by Jane Austen is about self-growth, overcoming misunderstandings, and finding love through respect and honesty. It’s a timeless story with valuable life lessons!"
+author_profile: true
+share: true
 toc: true
-toc_levels: 3
 toc_sticky: false
+toc_levels: 3
+comments: true
+keywords: [Pride and Prejudice Lessons, Jane Austen, Self-Growth, Love, Personal Growth, Overcoming Misunderstandings, Respect, Honesty, Timeless Story, Valuable Life Lessons]
 ---
 
 ![Summary Blog](../assets/images/default/summaryblog.jpg)

@@ -28,7 +28,7 @@ comments: true
 keywords: ["ollama models location on WSL2", "ollama path on windows 11", "ollama local path on windows 11", "ollama model location on local machine", "ollama location on windows 11", "ollama path on windows 11", "ollama local location on windows 11"]
 ---
 
-![Exploring the Location of Ollama Models on Local Machine](/assets/images/dspost/dsp6220-Exploring-the-Local-Location-of-Ollama-Models-on-wsl2.jpg)
+![Exploring the Location of Ollama Models on Local Machine](../assets/images/dspost/dsp6220-Exploring-the-Local-Location-of-Ollama-Models-on-wsl2.jpg)
 
 # Exploring the Location of Ollama Models on Local Machine 
 

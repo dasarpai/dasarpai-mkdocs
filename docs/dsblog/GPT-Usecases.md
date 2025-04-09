@@ -21,7 +21,7 @@ mathjax: true
 --- 
 
    
-![GPT Usecases](/assets/images/dspost/dsp6020-GPT-Usecases.jpg)   
+![GPT Usecases](../assets/images/dspost/dsp6020-GPT-Usecases.jpg)   
 
 # What is GPT?   
 
@@ -33,32 +33,32 @@ Apart from the GPT transformer, there are many other transformers but most of th
    
 GPT can perform many kinds of tasks, you can test them at [Beta testing site](https://beta.openai.com). At this point in time, this site is working on GPT3 so all these tasks are performed using GPT3. When GPT4 will be released officially, then these features or maybe more features with better results can be processed.
  
-![Growth-of-GPT](/assets/images/dspost/gpt/Growth-of-GPT.png)
+![Growth-of-GPT](../assets/images/dspost/gpt/Growth-of-GPT.png)
 **Growth of GPT**
 
 # Major Tasks of NLP 
 The **Major Tasks of NLP** from GPT are grouped into the following 7 categories. Each category has many specific tasks. Each task has hundreds of applications in your area of business interest.
 
 ## Question Answering with GPT3 & GPT4
-![openAI-Answers](/assets/images/dspost/gpt/openAI-Answers.png)
+![openAI-Answers](../assets/images/dspost/gpt/openAI-Answers.png)
 
 ## Classification Tasks with GPT3 & GPT4
-![openAI-Classification](/assets/images/dspost/gpt/openAI-Classification.png)
+![openAI-Classification](../assets/images/dspost/gpt/openAI-Classification.png)
 
 ## Coding Tasks with with GPT3 & GPT4
-![openAI-Code](/assets/images/dspost/gpt/openAI-Code.png)
+![openAI-Code](../assets/images/dspost/gpt/openAI-Code.png)
 
 ## Conversations Tasks with GPT3 & GPT4
-![openAI-Conversation](/assets/images/dspost/gpt/openAI-Conversation.png)
+![openAI-Conversation](../assets/images/dspost/gpt/openAI-Conversation.png)
 
 ## Generations Tasks with GPT3 & GPT4
-![OpenAI-Generation](/assets/images/dspost/gpt/OpenAI-Generation.jpg)
+![OpenAI-Generation](../assets/images/dspost/gpt/OpenAI-Generation.jpg)
 
 ## Transformation Tasks with GPT3 & GPT4
-![OpenAI-Transformation](/assets/images/dspost/gpt/OpenAI-Transformation.png)
+![OpenAI-Transformation](../assets/images/dspost/gpt/OpenAI-Transformation.png)
 
 ## Translation Tasks with GPT3 & GPT4
-![OpenAI-Translation](/assets/images/dspost/gpt/OpenAI-Translation.png)
+![OpenAI-Translation](../assets/images/dspost/gpt/OpenAI-Translation.png)
 
 ## Conclusion
 Transformers are the revolutionary architecture in NLP. GPT is the most revolutionary among all the transformer architectures because it is a general-purpose transformer and it can be used by any industry to fine-tune and solve domain-specific problems. AI, NLP, and the Large Language model have come to stay here. In the time to come we will see hundreds of products around GPT, they will either consume GPT service or fine-tune GPT model for their own domain-specific work. Technocrats are bringing forward disrupting technologies, and business people, politicians, and bureaucrats need to harness this technology for human wellbeing. Rather than making these technologies enemies of humans can we make them the friend of humans? Can we deliver better quality with new technology? Can we remove inefficiencies in our business and personal life? Can we transfer boring and tiring task to machines, so that humanity has more time to observe life, and think about something which is deeper and more meaningful for him or her?

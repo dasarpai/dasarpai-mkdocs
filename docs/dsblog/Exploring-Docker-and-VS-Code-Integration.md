@@ -33,7 +33,7 @@ keywords: ["Docker integration", "VS Code containers", "development environments
 
 ---
 
-![Exploring Docker and VS Code Integration](/assets/images/dspost/dsp6151-Exploring-Docker-and-VS-Code-Integration.jpg)
+![Exploring Docker and VS Code Integration](../assets/images/dspost/dsp6151-Exploring-Docker-and-VS-Code-Integration.jpg)
 
 
 # Exploring Docker and VS Code Integration

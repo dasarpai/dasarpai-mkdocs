@@ -24,7 +24,7 @@ keywords: ["AI", "ML", "Oracle Cloud", "Artificial Intelligence", "Machine Learn
 
 ---
 
-![AI/ML with Oracle Cloud](/assets/images/dspost/dsp6166-AI-ML-With-Oracle-Cloud.jpg)
+![AI/ML with Oracle Cloud](../assets/images/dspost/dsp6166-AI-ML-With-Oracle-Cloud.jpg)
 
 
 # AI/ML with Oracle Cloud

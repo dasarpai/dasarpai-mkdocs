@@ -1,20 +1,21 @@
----
-author: Hari Thapliyaal
-author_profile: true
-categories: null
-date: '2024-03-09T08:33:00+05:30'
-excerpt: null
-header:
-  teaser: ../assets/images/booksummary/7509-The-4-Disciplines-of-Execution-by-Chris-McChesney.jpg
-id: 7509
-layout: booksum-layout
-permalink: /booksummary/The-4-Disciplines-of-Execution-by-Chris-McChesney
-share: true
-tags:
-- Book Summary
-title: 'Book Summary: The 4 Disciplines of Execution by Chris McChesney'
----
-
+---                            
+id: 7509                            
+                          
+title: "Book Summary: The 4 Disciplines of Execution by Chris McChesney"                      
+date: "2024-03-09T08:33:00+05:30"                            
+permalink: /booksummary/The-4-Disciplines-of-Execution-by-Chris-McChesney                      
+tags: [Book Summary]                     
+                            
+categories:                            
+header:                            
+    teaser: /assets/images/booksummary/7509-The-4-Disciplines-of-Execution-by-Chris-McChesney.jpg                         
+author: Hari Thapliyaal                            
+layout: booksum-layout                            
+excerpt:                            
+author_profile: true                            
+share: true                            
+---                            
+                            
 ![The 4 Disciplines of Execution by Chris McChesney](../assets/images/booksummary/7509-The-4-Disciplines-of-Execution-by-Chris-McChesney.jpg)    
 
 # The 4 Disciplines of Execution
@@ -33,3 +34,6 @@ Here are 10 key lessons from the book:
 8. Address challenges promptly and effectively. Don't let obstacles derail progress. Identify challenges early, analyze the root causes, and implement solutions promptly.
 9. Celebrate successes and recognize contributions. Acknowledge and celebrate achievements along the way. Recognize the contributions of individuals and teams to maintain motivation.
 10. Foster a culture of accountability. Create an environment where everyone feels responsible for their actions and contributions. Encourage open communication and feedback.
+
+
+   

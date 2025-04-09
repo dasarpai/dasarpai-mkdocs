@@ -22,7 +22,7 @@ mathjax: "true"
 comments: true
 ---
 
-![LLM-Architecture-and-Training](/assets/images/dspost/dsp6129-LLM-Architecture-and-Training.jpg)
+![LLM-Architecture-and-Training](../assets/images/dspost/dsp6129-LLM-Architecture-and-Training.jpg)
 
 # **Understanding LLM Architectures and Model Training**
 

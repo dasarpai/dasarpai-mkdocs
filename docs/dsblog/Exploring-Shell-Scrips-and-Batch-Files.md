@@ -28,7 +28,7 @@ comments: true
 keywords: ["shell scripting", "batch files", "windows scripting", "powershell scripting", "ubuntu scripting", "scripting for beginners"]
 ---
 
-![Exploring Shell Scripting and Batch Files](/assets/images/dspost/dsp6221-Exploring-Shell-Scripting-and-Batch-Files.jpg)
+![Exploring Shell Scripting and Batch Files](../assets/images/dspost/dsp6221-Exploring-Shell-Scripting-and-Batch-Files.jpg)
 
 # Exploring Shell Scripting and Batch Files
 

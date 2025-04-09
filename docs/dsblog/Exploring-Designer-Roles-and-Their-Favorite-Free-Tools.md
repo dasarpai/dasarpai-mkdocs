@@ -36,7 +36,7 @@ keywords:
   - "Free Design Resources"
 ---
 
-![Exploring Designer Roles and Their Favorite Free Tools](/assets/images/dspost/dsp6250-exploring-designer-roles.jpg)
+![Exploring Designer Roles and Their Favorite Free Tools](../assets/images/dspost/dsp6250-exploring-designer-roles.jpg)
 
 # Exploring Designer Roles and Their Favorite Free Tools
 

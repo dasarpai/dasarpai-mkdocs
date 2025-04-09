@@ -23,7 +23,7 @@ toc_sticky: true
 mathjax: true
 ---
 
-![Best YouTube Channels to Learn Data Science](/assets/images/dsresources/dsr107-Best-YouTube-Channels-to-Learn-Data-Science.jpg)   
+![Best YouTube Channels to Learn Data Science](../assets/images/dsresources/dsr107-Best-YouTube-Channels-to-Learn-Data-Science.jpg)   
     
 # Best YouTube Channels to Learn Data Science    
    
@@ -38,7 +38,7 @@ Disclaimer: I am not associated with any of these channels. But based on my lear
 
 
 
-![ML YouTube Channels](/assets/images/dsresources/dsr107-ML-YouTubeChannels.jpg)
+![ML YouTube Channels](../assets/images/dsresources/dsr107-ML-YouTubeChannels.jpg)
 
 ## Data Science/AI Channels
 

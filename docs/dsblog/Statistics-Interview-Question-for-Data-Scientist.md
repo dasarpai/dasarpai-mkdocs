@@ -32,7 +32,7 @@ mathjax: "true"
 ---
 
    
-![Statistics Interview Question for Data Scientist](/assets/images/dspost/dsp6025-Statistics-Interview-Question-for-Data-Scientist.jpg)   
+![Statistics Interview Question for Data Scientist](../assets/images/dspost/dsp6025-Statistics-Interview-Question-for-Data-Scientist.jpg)   
 
 # Statistics Interview Question for Data Scientist   
 
@@ -84,7 +84,7 @@ An observation, on the other hand, **refers to a single measurement or data poin
 
 In summary, a sample is a subset of a population, which is chosen to represent the population, while an observation is a single data point or measurement collected from an individual within the sample. A sample is used to make inferences about the population, whereas observations are used to make inferences about the sample.
 
-![observation sample population](/assets/images/dspost/statistics/observation-sample-population.png)
+![observation sample population](../assets/images/dspost/statistics/observation-sample-population.png)
 
 ## What is the difference between statistics and census?
 
@@ -269,7 +269,7 @@ $$\sigma^2 = \frac{\sum_{i=1}^{n} (x_i - \mu)^2}{n}$$
 Variance of the sample dataset is calculated as follows.
 $$\sigma^2 = \frac{\sum_{i=1}^{n} (x_i - \mu)^2}{n-1}$$
 
-![Variance-Calculation](/assets/images/dspost/statistics/Variance-Calculation.jpg)
+![Variance-Calculation](../assets/images/dspost/statistics/Variance-Calculation.jpg)
 
 ## Are correlation and regression different or same thing?
 
@@ -318,7 +318,7 @@ $$\gamma(k) = Cov(X_t, X_{t+k})$$
 
 Standard Deviation (SD) is a measure of spread or dispersion around the mean. It is also called Sigma and written as $$\sigma$$. It quantifies the amount of variation or dispersion of a set of data values.  For any data column larger the value of means more the spread. The standard deviation is the square root of the variance. Larger value indicates a more flatten normal distribution.
 
-![Three Normal Distributions](/assets/images/dspost/statistics/threenormaldistributions.png)
+![Three Normal Distributions](../assets/images/dspost/statistics/threenormaldistributions.png)
 
 **The formula for the “sample standard deviation”, denoted by "s," is:**
 
@@ -411,7 +411,7 @@ z-score (Standard Deviations)	| p-value (Probability)	| Confidence level
 < -1.96 or > +1.96 | < 0.05 | 95%
 < -2.58 or > +2.58 | < 0.01 | 99%
 
-![Distribution-Significance](/assets/images/dspost/statistics/Distribution-Significance.png)
+![Distribution-Significance](../assets/images/dspost/statistics/Distribution-Significance.png)
 
 If the mean salary in our dataset is 75,000 and SD is 5000 then what is the probability that the salary of a randomly chosen employee is >90,000
 
@@ -442,7 +442,7 @@ $$T(Y) = ln(Y) \qquad  (\forall \lambda=0)$$
 ## What is skewness?
 Skewness measures the lack of symmetry in a data distribution. It indicates that there are significant differences between the mean, the mode, and the median of data. If you want to use skewed data for modeling or analysis purposes then you need to transform this into a normal distribution. The curve below is left skewed.
 
-![Skewed Distribution](/assets/images/dspost/statistics/skewed-distribution.jpg)
+![Skewed Distribution](../assets/images/dspost/statistics/skewed-distribution.jpg)
 
 $$skewness = \frac{\sum_{i=i}^{n}{({x_i - \bar{x}}})^3}{(N-1)*\sigma^3}$$
 
@@ -523,17 +523,17 @@ This all is done by exploring another concept called probability density.
 
 Let's assume our dataset has 10,000 applicants and their age is between 18 to 60 years. You can plot a histogram and this histogram represents the distribution of age of the applicants. The entire area of this histogram is referred to as 1, in our case 10,000 people's age is represented by this area and it is 1. This is the total density of this curve. The X-axis of this curve will have age and the Y- axis will have a number of people.
 
-![Distributions](/assets/images/dspost/statistics/Distributions.jpg)
+![Distributions](../assets/images/dspost/statistics/Distributions.jpg)
 **Shapes of Various Distributions**
 
-![Normal Distribution](/assets/images/dspost/statistics/Normal-Distribution.jpg)
+![Normal Distribution](../assets/images/dspost/statistics/Normal-Distribution.jpg)
 
 
 ## What is uniform distribution?
 
 Suppose in our dataset, if the number of people in each age group of 10 years like 18-28, 28-38, 38-48, etc we have an equal number of people then it is a uniform distribution..
 
-![Uniform Distribution](/assets/images/dspost/statistics/Uniform-Distribution.jpg)
+![Uniform Distribution](../assets/images/dspost/statistics/Uniform-Distribution.jpg)
 
 ## What is a normal distribution? What is the use of this?
 
@@ -553,7 +553,7 @@ $$\varphi(x) = \frac{1}{ \sqrt(2\pi\sigma^2)}*e^\frac{ -(x-\mu)^2}{2\sigma^2}$$
 Examples : 
 The height of people, the weight of people, IQ scores, blood pressure levels, grades on a test, marks on a sports field, finger lengths, frequency of letters in a language, errors in a manufacturing process, and the time it takes for a web page to load
 
-![Distribution-Boxplot](/assets/images/dspost/statistics/Distribution-Boxplot.png)
+![Distribution-Boxplot](../assets/images/dspost/statistics/Distribution-Boxplot.png)
 Source: [Wikipedia](https://en.wikipedia.org/wiki/Probability_density_function)
 
 
@@ -588,7 +588,7 @@ You can get the P value, the probability of success from 500 days of data. Let's
 
 $$pr(success=10 \,times)= 100C_{10}\frac{1}{.05}^{10}(1-.95)^{100-10} =  .0.0167$$
 
-![Dice Histogram](/assets/images/dspost/statistics/diceHistogram.jpg)
+![Dice Histogram](../assets/images/dspost/statistics/diceHistogram.jpg)
 
 ## Can you give example of exponential distribution
 
@@ -612,7 +612,7 @@ $$pr(success=10 \,times)= 100C_{10}\frac{1}{.05}^{10}(1-.95)^{100-10} =  .0.0167
 - Number of time compression and the size of a computer file after compression
 - Distance and the intensity of light from a star.
 
-![exponential-distribution](/assets/images/dspost/statistics/exponential-distribution.webp)
+![exponential-distribution](../assets/images/dspost/statistics/exponential-distribution.webp)
 **Exponential Distribution**
 
 
@@ -811,7 +811,7 @@ If you want to know 99 percentile then 500*99/100 = 495th record. Let's say the 
 ## What are applications of long-tailed distribution?
 Long-tailed distribution is when on the ends the shape of the normal distribution curve becomes almost parallel to the x-axis (asymptotic). It can help you outlier detection.
 
-![long-tailed-distribution](/assets/images/dspost/statistics/long-tailed-distribution.png)
+![long-tailed-distribution](../assets/images/dspost/statistics/long-tailed-distribution.png)
 
 Consider the following example.    
 - What is that range of working time when people are making 95% of mistakes? when the number of defects is almost zero you will get an asymptotic line, 5%. Depending on your data, You may get two side long tail or right side long tail. Now you can bring your number of working within the range where defects are least.
@@ -822,7 +822,7 @@ Consider the following example.
 
 If you sort the salary data of 1000 employees in ascending order, then the salary information of the 250th person is 25th (Q1) percentile. Salary information of the 500th person is 50th (Q2) percentile. Salary information of the 750th person is 75th (Q3) percentile. The difference between Q3 and Q1 salary is called IQR (Interquartile Range). If you add 1.5*IQR with Q3 you will get a salary, say 1.8 Lakh. Any salary more than this is considered a right side outlier. If you subtract 1.5*IQR from Q1 then you will get a number, say 40K. Any salary less than this will be considered as a left side outlier.
 
-![Outlier Detection](/assets/images/dspost/statistics/outliers.png)
+![Outlier Detection](../assets/images/dspost/statistics/outliers.png)
 
 ## What are the applications of outlier detection?
 - Fraud detection in financial transactions
@@ -868,7 +868,7 @@ According to Central Limit Theorem
   where \bar{x} is sample mean, s is sample SD
 
 
-![central-limit-theorem-distribution](/assets/images/dspost/statistics/central-limit-theorem-distribution.png)   
+![central-limit-theorem-distribution](../assets/images/dspost/statistics/central-limit-theorem-distribution.png)   
 
 
 ## Can you explain what is the distribution in statistics, what purpose they serve?

@@ -31,7 +31,7 @@ toc_sticky: true
 mathjax: "true"
 ---
 
-![Azure Cloud Service Catalog:](/assets/images/dspost/dsp6062-Azure-Cloud-Service-Catalog.jpg)    
+![Azure Cloud Service Catalog:](../assets/images/dspost/dsp6062-Azure-Cloud-Service-Catalog.jpg)    
    
 # Unlocking the Power of Azure     
 **Exploring 300+ Cloud Services and Their Purposes**   

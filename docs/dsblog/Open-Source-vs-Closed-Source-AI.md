@@ -22,7 +22,7 @@ comments: true
 keywords: ["Open Source AI", "Closed Source AI", "AI Development", "AI Infrastructure", "Model Deployment", "AI Transparency", "AI Democratization", "AI Ethics", "AI Costs", "AI Technology"]
 ---
 
-![Open-Source-vs-Closed-Source-AI](/assets/images/dspost/dsp6134-Open-Source-vs-Closed-Source-AI.jpg)
+![Open-Source-vs-Closed-Source-AI](../assets/images/dspost/dsp6134-Open-Source-vs-Closed-Source-AI.jpg)
 
 # Open Source AI vs Closed Source AI 
 

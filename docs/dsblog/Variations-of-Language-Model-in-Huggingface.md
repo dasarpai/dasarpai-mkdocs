@@ -22,7 +22,7 @@ comments: true
 keywords: ["Language Models", "Hugging Face", "GPT Models", "Model Variations", "NLP", "Machine Learning", "Model Architecture", "Model Adaptation", "AI Development", "Deep Learning"]
 ---
 
-![Variations-of-LanguageModel](/assets/images/dspost/dsp6138-Variations-of-Language-Model-in-Huggingface.jpg)
+![Variations-of-LanguageModel](../assets/images/dspost/dsp6138-Variations-of-Language-Model-in-Huggingface.jpg)
 
 # Variations of Language Model in Huggingface
 

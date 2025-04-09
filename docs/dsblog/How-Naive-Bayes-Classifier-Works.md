@@ -25,7 +25,7 @@ toc: true
 toc_sticky: true 
 mathjax: "true"
 ---
-![Naive Bayes](/assets/images/dspost/dsp6005-How-Naive-Bayes-Work-for-Recommendation.jpg)   
+![Naive Bayes](../assets/images/dspost/dsp6005-How-Naive-Bayes-Work-for-Recommendation.jpg)   
    
 # How Naive Bayes Classifier Works?   
    

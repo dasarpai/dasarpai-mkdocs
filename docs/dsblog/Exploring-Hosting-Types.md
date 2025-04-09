@@ -38,7 +38,7 @@ keywords:
   - "Dedicated Hosting"
 ---
 
-![Exploring Hosting Types](/assets/images/dspost/dsp6249-exploring-hosting-types.jpg)
+![Exploring Hosting Types](../assets/images/dspost/dsp6249-exploring-hosting-types.jpg)
 
 # Exploring Hosting Types 
 

@@ -25,7 +25,7 @@ comments: true
 keywords: ["Understanding Convolutional Neural Networks", "How CNN Works", "Working of Convolutional Neural Networks", "How CNN is used in AI", "Convolutional Neural Networks in AI", "How CNN is used in Deep Learning", "Working of Convolutional Neural Networks in Deep Learning"]
 ---
 
-![Understanding the Working of CNN](/assets/images/dspost/dsp6213-Understanding-Working-of-CNN.jpg)
+![Understanding the Working of CNN](../assets/images/dspost/dsp6213-Understanding-Working-of-CNN.jpg)
 
 # Understanding the Working of CNN
 In this article, we aim to delve deeper into the working of CNNs. This article is intended for readers who have a basic understanding of CNNs and have computation-related questions. If you have any other questions about CNNs, feel free to ask in the comments.

@@ -1,30 +1,26 @@
 ---
-author: Hari Thapliyaal
-author_profile: true
-categories: null
-comments: true
-date: 2025-01-01
-excerpt: Jeff Hinton, introduces several key concepts in his talk, primarily focusing
-  on the implications of artificial intelligence (AI) and its evolving capabilities.
-header:
-  teaser: ../assets/images/booksummary/7545-Geff-Hilton-Talk-Will-Digital-Intelligence-Replace-Biological-Intelligence.jpg
-id: 7545
-keywords:
-- Geff Hilton Talk
-- Digital Intelligence
-- AI
-layout: booksum-layout
 mathjax: true
+id: 7545
+title: "Geff Hilton Talk: Will Digital Intelligence Replace Biological Intelligence?"
+date: 2025-01-01
 permalink: /booksummary/Geff-Hilton-Talk-Will-Digital-Intelligence-Replace-Biological-Intelligence
-share: true
 tags:
-- Talk
-- Geff Hilton
-- Digital Intelligence
-title: 'Geff Hilton Talk: Will Digital Intelligence Replace Biological Intelligence?'
+  - "Talk"
+  - "Geff Hilton"
+  - "Digital Intelligence"
+categories:
+header:
+  teaser: /assets/images/booksummary/7545-Geff-Hilton-Talk-Will-Digital-Intelligence-Replace-Biological-Intelligence.jpg
+author: Hari Thapliyaal
+layout: booksum-layout
+excerpt: "Jeff Hinton, introduces several key concepts in his talk, primarily focusing on the implications of artificial intelligence (AI) and its evolving capabilities."
+author_profile: true
+share: true
 toc: true
-toc_levels: 3
 toc_sticky: false
+toc_levels: 3
+comments: true
+keywords: [Geff Hilton Talk, Digital Intelligence, AI]
 ---
 
 ![Geff Hilton Talk: Will Digital Intelligence Replace Biological Intelligence](../assets/images/booksummary/7545-Geff-Hilton-Talk-Will-Digital-Intelligence-Replace-Biological-Intelligence.jpg)

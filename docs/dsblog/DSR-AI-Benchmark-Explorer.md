@@ -37,7 +37,7 @@ keywords:
   - "AI Model Development"
 ---
 
-![AI Benchmark Explorer](/assets/images/dspost/dsp6255-dsr-aibenchmark-explorer.jpg)
+![AI Benchmark Explorer](../assets/images/dspost/dsp6255-dsr-aibenchmark-explorer.jpg)
 
 ## **Overview of AI Benchmark Explorer Tool**
 

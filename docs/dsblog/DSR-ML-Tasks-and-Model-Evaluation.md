@@ -22,7 +22,7 @@ toc: true
 toc_sticky: true 
 mathjax: "true"
 ---
-![Deep Learning Tasks and Models](/assets/images/dsresources/dsr114-ml-tasks-and-model-evaluation.jpg)    
+![Deep Learning Tasks and Models](../assets/images/dsresources/dsr114-ml-tasks-and-model-evaluation.jpg)    
     
 # Machine Learning Tasks and Model Evaluation   
    

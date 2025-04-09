@@ -28,7 +28,7 @@ comments: true
 keywords: ["AnythingLLM", "personalized language models", "knowledge databases", "Retrieval-Augmented Generation", "RAG", "BERT", "embedding models"]
 ---
 
-![Exploring AnythingLLM ](/assets/images/dspost/dsp6179-exploring-anythingllm.jpg)
+![Exploring AnythingLLM ](../assets/images/dspost/dsp6179-exploring-anythingllm.jpg)
 # Exploring AnythingLLM 
 
 

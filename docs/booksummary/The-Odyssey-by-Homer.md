@@ -1,40 +1,27 @@
 ---
-author: Hari Thapliyaal
-author_profile: true
-categories: null
-comments: true
-date: 2025-03-10
-excerpt: Book summary and analysis of The Odyssey by Homer, an epic poem from ancient
-  Greece that explores human resilience, wisdom, and the longing for home.
-header:
-  teaser: ../assets/images/default/summaryblog.jpg
-id: 7550
-keywords:
-- The Odyssey
-- Homer
-- Greek Literature
-- Epic Poem
-- Ancient Greece
-- Odysseus
-- Trojan War
-- Ithaca
-- Poseidon
-- Athena
-- Telemachus
-- Penelope
-layout: booksum-layout
 mathjax: true
+id: 7550
+title: "The Odyssey by Homer Book Summary and Analysis"
+date: 2025-03-10
 permalink: /booksummary/The-Odyssey-by-Homer
-share: true
 tags:
-- The Odyssey
-- Homer
-- Greek Literature
-- Epic Poem
-- Ancient Greece
-title: The Odyssey by Homer Book Summary and Analysis
+  - "The Odyssey"
+  - "Homer"
+  - "Greek Literature"
+  - "Epic Poem"
+  - "Ancient Greece"
+categories:
+header:
+  teaser: /assets/images/default/summaryblog.jpg
+author: Hari Thapliyaal
+layout: booksum-layout
+excerpt: "Book summary and analysis of The Odyssey by Homer, an epic poem from ancient Greece that explores human resilience, wisdom, and the longing for home."
+author_profile: true
+share: true
 toc: true
 toc_sticky: false
+comments: true
+keywords: [The Odyssey, Homer, Greek Literature, Epic Poem, Ancient Greece, Odysseus, Trojan War, Ithaca, Poseidon, Athena, Telemachus, Penelope]
 ---
 
 ![Summary Blog](../assets/images/default/summaryblog.jpg)

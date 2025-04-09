@@ -36,7 +36,7 @@ keywords:
   - "Video Processing"
 ---
 
-![Audio Video Processing Concepts](/assets/images/dspost/dsp6252-audio-video-processing-concepts.jpg)
+![Audio Video Processing Concepts](../assets/images/dspost/dsp6252-audio-video-processing-concepts.jpg)
 
 # Foundational Concepts of Audio and Video Processing
 

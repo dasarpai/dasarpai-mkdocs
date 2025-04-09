@@ -29,7 +29,7 @@ comments: true
 keywords: ["Reasoning Models AI", "Human-Like Intelligence AI", "AI Problem Solving Methods", "AI Model Reasoning Techniques", "Proprietary Models AI", "Open Source Models AI", "AI Model Deployment and Integration"]
 ---
 
-![](/assets/images/dspost/dsp6229-Exploring-Reasoning-Models.jpg)
+![](../assets/images/dspost/dsp6229-Exploring-Reasoning-Models.jpg)
 
 # Exploring Reasoning Models in AI Marketplace - Feb'2025
 

@@ -27,7 +27,7 @@ comments: true
 keywords: ["gpu architecture for artificial intelligence", "nvidia gpu for machine learning", "gpu deep learning applications", "gpu in ai research", "gpu for computer vision", "gpu for natural language processing", "gpu for robotics"]
 ---
 
-![Exploring Graphics Processing Units (GPUs)](/assets/images/dspost/dsp6188-Exploring-GPUs.jpg)
+![Exploring Graphics Processing Units (GPUs)](../assets/images/dspost/dsp6188-Exploring-GPUs.jpg)
 
 # Exploring Graphics Processing Units (GPUs)
  

@@ -21,7 +21,7 @@ toc_sticky: true
 mathjax: "true"
 ---
 
-![Compressing Large Language Model](/assets/images/dspost/dsp6099-Compressing-LLM.jpg)
+![Compressing Large Language Model](../assets/images/dspost/dsp6099-Compressing-LLM.jpg)
 
 # Compressing Large Language Model
 

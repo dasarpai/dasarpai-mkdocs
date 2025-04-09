@@ -21,7 +21,7 @@ toc_sticky: true
 mathjax: "true"
 ---
 
-![AI Product and Services from Google, Azure and AWS](/assets/images/dspost/dsp6078-AI-Product-and-Services-from-Google-Azure-and-AWS.jpg)
+![AI Product and Services from Google, Azure and AWS](../assets/images/dspost/dsp6078-AI-Product-and-Services-from-Google-Azure-and-AWS.jpg)
 
 # AI Product and Services from Google, Azure and AWS
 

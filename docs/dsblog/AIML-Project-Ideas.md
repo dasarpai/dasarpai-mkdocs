@@ -26,7 +26,7 @@ comments: true
 keywords: ["Best AI Project Ideas", "AI Project Ideas for Students", "AI Project Ideas for Research", "AI Project Ideas for Business", "AI Project Ideas for Professionals", "AI Project Ideas for Beginners", "AI Project Ideas for Innovation"]
 ---
 
-![AI Project Ideas](/assets/images/dspost/dsp6205-AI-Project-Ideas.jpg)
+![AI Project Ideas](../assets/images/dspost/dsp6205-AI-Project-Ideas.jpg)
 
 # AI Project Ideas
 

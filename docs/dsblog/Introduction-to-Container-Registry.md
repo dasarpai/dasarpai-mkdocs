@@ -24,7 +24,7 @@ keywords: ["Kubernetes", "Docker", "container orchestration", "container managem
 
 ---
 
-![Introduction to Container Registry](/assets/images/dspost/dsp6167-Introduction-to-Container-Registry.jpg)
+![Introduction to Container Registry](../assets/images/dspost/dsp6167-Introduction-to-Container-Registry.jpg)
 
 # Introduction to Container Registry
 

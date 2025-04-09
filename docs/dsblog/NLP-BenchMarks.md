@@ -22,7 +22,7 @@ mathjax: "true"
 comments: true
 ---
 
-![NLP-BenchMarks](/assets/images/dspost/dsp6120-NLP-BenchMarks.jpg)
+![NLP-BenchMarks](../assets/images/dspost/dsp6120-NLP-BenchMarks.jpg)
 
 # NLP BenchMarks
 

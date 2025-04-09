@@ -22,7 +22,7 @@ mathjax: "true"
 comments: true
 ---
 
-![Why to Finetune LLM?](/assets/images/dspost/dsp6115-why-to-finetune-llm.jpg)
+![Why to Finetune LLM?](../assets/images/dspost/dsp6115-why-to-finetune-llm.jpg)
 
 # Finetuning, Fewshot Learning, Why and How?
 

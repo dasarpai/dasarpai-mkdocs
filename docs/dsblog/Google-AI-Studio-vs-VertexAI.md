@@ -27,7 +27,7 @@ comments: true
 keywords: ["Google AI Studio", "Vertex AI", "AI Platform", "MLOps", "Cloud AI", "AutoML", "Explainability"]
 ---
 
-![Google AI Studio vs Vertex AI](/assets/images/dspost/dsp6183-Google-AI-Studio-vs-VertexAI.jpg)
+![Google AI Studio vs Vertex AI](../assets/images/dspost/dsp6183-Google-AI-Studio-vs-VertexAI.jpg)
 
 # Google AI Studio vs Vertex AI
 The difference between **Vertex AI** and **Google AI Studio** lies in their scope, functionality, and target audiences within Google's suite of AI tools.

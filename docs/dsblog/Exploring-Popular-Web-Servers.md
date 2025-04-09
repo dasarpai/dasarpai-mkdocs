@@ -23,7 +23,7 @@ comments: true
 keywords: ["Web Server", "Web Development", "Apache", "Nginx", "Lighttpd", "IIS", "Web Server Comparison", "Server Architecture", "HTTP Server", "Web Hosting", "Server Performance", "Server Security", "Enterprise Web Servers", "Web Infrastructure"]
 ---
 
-![Exploring Popular Web Server](/assets/images/dspost/dsp6176-Exploring-Popular-Web-Server.jpg)
+![Exploring Popular Web Server](../assets/images/dspost/dsp6176-Exploring-Popular-Web-Server.jpg)
 
 # Exploring Popular Web Server
 

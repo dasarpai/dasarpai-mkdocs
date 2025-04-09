@@ -21,7 +21,7 @@ toc_sticky: true
 mathjax: "true"
 ---
 
-![Embedding with FastText](/assets/images/dspost/dsp6073-Embedding-with-FastText.jpg)   
+![Embedding with FastText](../assets/images/dspost/dsp6073-Embedding-with-FastText.jpg)   
 
 # Embedding with FastText
 

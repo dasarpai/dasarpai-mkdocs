@@ -23,7 +23,7 @@ mathjax: "true"
 comments: true
 ---
 
-![GenAI Capabilities from AWS, Azure, and Google Cloud](/assets/images/dspost/dsp6144-GenAI-Capabilities-from-AWS+GCP+Azure.jpg)
+![GenAI Capabilities from AWS, Azure, and Google Cloud](../assets/images/dspost/dsp6144-GenAI-Capabilities-from-AWS+GCP+Azure.jpg)
 
 # The Battle for AI Supremacy: GenAI Capabilities from AWS, Azure, and Google Cloud
 

@@ -21,7 +21,7 @@ toc_sticky: true
 mathjax: "true"
 ---
 
-![What is Pinecone](/assets/images/dspost/dsp6097-What-is-Pinecone.jpg)
+![What is Pinecone](../assets/images/dspost/dsp6097-What-is-Pinecone.jpg)
 
 ## What is pinecone?
 Pinecone is a managed vector database that provides vector search (or “similarity search”) for developers with a straightforward API and usage-based pricing. It’s free to try. [Introduction to Vector Search for Developers](https://www.pinecone.io/learn/vector-search-basics/).

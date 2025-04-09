@@ -34,7 +34,7 @@ keywords: machine learning concepts, model evaluation, cross validation, hyperpa
 
 ---
 
-![Exploring Docker and VS Code Integration](/assets/images/dspost/dsp6152-Machine-Learning-Key-Concepts.jpg)
+![Exploring Docker and VS Code Integration](../assets/images/dspost/dsp6152-Machine-Learning-Key-Concepts.jpg)
 
 
 # Machine Learning Key Concepts

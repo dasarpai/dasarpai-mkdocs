@@ -25,7 +25,7 @@ keywords: ["Git commands",  "Git workflow",  "GitHub Actions",  "GitHub Packages
 
 ---
 
-![Mastering Git: Comprehensive Guide to Git Commands](/assets/images/dspost/dsp6155-Comprehensive-Guide-to-Git-Commands.jpg)
+![Mastering Git: Comprehensive Guide to Git Commands](../assets/images/dspost/dsp6155-Comprehensive-Guide-to-Git-Commands.jpg)
 
 # Comprehensive Guide to Git Commands
 

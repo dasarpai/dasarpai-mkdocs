@@ -22,7 +22,7 @@ mathjax: "true"
 comments: true
 ---
 
-![Understanding-LLM-GAN-Transformers](/assets/images/dspost/dsp6127-Understanding-LLM-GAN-and-Transformers.jpg)
+![Understanding-LLM-GAN-Transformers](../assets/images/dspost/dsp6127-Understanding-LLM-GAN-and-Transformers.jpg)
 
 # Understanding LLM, GAN and Transformers
 

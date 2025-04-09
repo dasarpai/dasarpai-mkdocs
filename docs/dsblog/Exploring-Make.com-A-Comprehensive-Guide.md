@@ -25,7 +25,7 @@ comments: true
 keywords: ["make.com automation tool", "best automation software", "microsoft power automate alternative", "integromat vs zapier", "n8n automation workflow", "mulesoft vs talend", "jitterbit vs dell boomi"]
 ---
 
-![Exploring Make.com - A Comprehensive Guide to Automation and Its Alternatives](/assets/images/dspost/dsp6200-Exploring-Make-com-A-Comprehensive-Guide.jpg)
+![Exploring Make.com - A Comprehensive Guide to Automation and Its Alternatives](../assets/images/dspost/dsp6200-Exploring-Make-com-A-Comprehensive-Guide.jpg)
 
 # Exploring Make.com - A Comprehensive Guide to Automation and Its Alternatives
 

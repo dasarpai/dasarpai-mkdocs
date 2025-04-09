@@ -31,7 +31,7 @@ toc_sticky: true
 mathjax: true
 ---
 
-![Data Science Cheatsheets](/assets/images/dsresources/dsr103-Data-Science-Cheatsheets.jpg)   
+![Data Science Cheatsheets](../assets/images/dsresources/dsr103-Data-Science-Cheatsheets.jpg)   
 
 # Data Science Cheatsheets   
 

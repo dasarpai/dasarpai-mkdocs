@@ -23,7 +23,7 @@ toc_sticky: true
 mathjax: "true"
 ---
 
-![My Favorite Chrome Extensions](/assets/images/dsresources/dsr111-My-Favorite-Chrome-Extensions.jpg)   
+![My Favorite Chrome Extensions](../assets/images/dsresources/dsr111-My-Favorite-Chrome-Extensions.jpg)   
     
 # My Favorite Chrome Extensions   
    

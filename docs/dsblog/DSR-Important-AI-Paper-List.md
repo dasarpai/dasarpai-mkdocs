@@ -22,7 +22,7 @@ toc_sticky: true
 mathjax: "true"
 ---
 
-![Important AI Paper List](/assets/images/dspost/dsp6090-rps-Important-AI-Paper-List.jpg)
+![Important AI Paper List](../assets/images/dspost/dsp6090-rps-Important-AI-Paper-List.jpg)
 
 # Important AI Paper List
 

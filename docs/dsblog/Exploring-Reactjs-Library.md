@@ -35,7 +35,7 @@ keywords:
   - "UI Components in React"
 ---
 
-![React Logo](/assets/images/dspost/dsp6241-Exploring-Reactjs-Library.jpg)
+![React Logo](../assets/images/dspost/dsp6241-Exploring-Reactjs-Library.jpg)
 
 ## Why this another article around React?
 

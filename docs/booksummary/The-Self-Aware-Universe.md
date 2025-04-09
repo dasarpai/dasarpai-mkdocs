@@ -1,22 +1,22 @@
----
-author: Hari Thapliyaal
-author_profile: true
-categories: null
-date: '2024-08-24T08:33:00+05:30'
-excerpt: null
-header:
-  teaser: ../assets/images/booksummary/7521-The-Self-Aware-Universe.jpg
-id: 7521
-layout: booksum-layout
-permalink: /booksummary/The-Self-Aware-Universe
-share: true
-tags:
-- Book Summary
-- Science
-- Spirituality
-title: 'Book Summary: The Self Aware Universe'
----
+---    
+id: 7521    
+  
+title:  "Book Summary: The Self Aware Universe"       
 
+date: "2024-08-24T08:33:00+05:30"    
+permalink: /booksummary/The-Self-Aware-Universe     
+tags:  [Book Summary, Science, Spirituality]     
+    
+categories:    
+header:    
+    teaser: /assets/images/booksummary/7521-The-Self-Aware-Universe.jpg    
+author: Hari Thapliyaal    
+layout: booksum-layout    
+excerpt:    
+author_profile: true    
+share: true    
+---    
+    
 ![Book Summary: The-Self-Aware-Universe](../assets/images/booksummary/7521-The-Self-Aware-Universe.jpg)   
 
 # The Self Aware Universe
@@ -44,3 +44,4 @@ Here is the list of key ideas from this book are as below. Whether you are athei
 7. **Transformative Potential**: Goswami believes that recognizing the primacy of consciousness can lead to personal and societal transformation, fostering a more holistic view of life.
 
 This book challenges conventional scientific thinking and offers a new perspective on the nature of reality, emphasizing the interconnectedness of consciousness and the material world.
+

@@ -35,7 +35,7 @@ keywords:
   - "Machine Learning"
 ---
 
-![Quantum Physics with Deeper Questions](/assets/images/dspost/dsp6253-quantum-physics-with-deeper-questions.jpg)
+![Quantum Physics with Deeper Questions](../assets/images/dspost/dsp6253-quantum-physics-with-deeper-questions.jpg)
 
 # Quantum Physics with Deeper Questions with ChatGPT
 

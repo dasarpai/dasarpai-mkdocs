@@ -31,7 +31,7 @@ toc_sticky: true
 mathjax: "true"
 ---
    
-![Types of Technologies](/assets/images/dspost/dsp6052-Types-of-Technologies.jpg)   
+![Types of Technologies](../assets/images/dspost/dsp6052-Types-of-Technologies.jpg)   
    
 # How Many Types of Technologies?   
     

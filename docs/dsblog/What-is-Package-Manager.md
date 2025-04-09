@@ -23,7 +23,7 @@ mathjax: "true"
 comments: true
 ---
 
-![What-is-Package-Manager](/assets/images/dspost/dsp6141-What-is-Package-Manager.jpg)
+![What-is-Package-Manager](../assets/images/dspost/dsp6141-What-is-Package-Manager.jpg)
 
 # Question: What is Package Manager?
 
@@ -172,7 +172,7 @@ Here are examples of how to use `.rpm` and `.deb` files to install software dire
 Using `.deb` and `.rpm` files allows you to install software directly, much like using `.exe` files in Windows, but you often need to handle dependencies to ensure everything works correctly.
 
 ## Summary of Commands from Popular Package Managers
-![](/assets/images/dspost/dsp6141-Package_Managers-Commands.jpg)
+![](../assets/images/dspost/dsp6141-Package_Managers-Commands.jpg)
 
 ## Useful Links
 - [Linux's Package Manager Tools](https://medium.com/@ashfaq.sayeem/linuxs-package-manager-tool-fa5c69886143)

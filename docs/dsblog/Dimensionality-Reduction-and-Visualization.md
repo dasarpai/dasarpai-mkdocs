@@ -22,7 +22,7 @@ mathjax: "true"
 comments: true
 ---
 
-![Dimensionality-Reduction-and-Visualization](/assets/images/dspost/dsp6126-Dimensionality-Reduction-and-Visualization.jpg)
+![Dimensionality-Reduction-and-Visualization](../assets/images/dspost/dsp6126-Dimensionality-Reduction-and-Visualization.jpg)
 
 # Dimensionality Reduction and Visualization
 

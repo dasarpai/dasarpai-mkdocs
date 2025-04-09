@@ -21,7 +21,7 @@ toc_sticky: true
 mathjax: "true"
 ---
 
-![Sorting Algorithm A Summary](/assets/images/dspost/dsp6071-Sorting-Algorithm-A-Summary.jpg)   
+![Sorting Algorithm A Summary](../assets/images/dspost/dsp6071-Sorting-Algorithm-A-Summary.jpg)   
 
 # Sorting Algorithm A Summary
 ## Introduction

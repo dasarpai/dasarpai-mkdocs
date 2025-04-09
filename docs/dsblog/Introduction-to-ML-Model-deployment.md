@@ -21,7 +21,7 @@ toc_sticky: true
 mathjax: "true"
 ---
 
-![Introduction to AI Model Deployement](/assets/images/dspost/dsp6077-Introduction-to-ML-Model-deployment.jpg)  
+![Introduction to AI Model Deployement](../assets/images/dspost/dsp6077-Introduction-to-ML-Model-deployment.jpg)  
 
 # Introduction to AI Model deployment
 

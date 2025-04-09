@@ -21,7 +21,7 @@ toc_sticky: true
 mathjax: "true"
 ---
 
-![Basics of Astrology](/assets/images/dspost/dsp6108-Basics-of-Astrology.jpg)     
+![Basics of Astrology](../assets/images/dspost/dsp6108-Basics-of-Astrology.jpg)     
     
 # Basics of Jyotish    
 ## Introduction
@@ -173,7 +173,7 @@ In astrology we have 9 planets, which are different from above.
 - Horscope can be prepared for anything which is created by human or nature. It can be human, building, city, nation, political party, animals etc, anything can have horoscope.
 - To create a horoscope on a paper, we create 12 boxes (houses) as below
 
-![12-Houes-of-Horoscope](/assets/images/dspost/dsp6108-12-Houes-of-Horoscope.jpg)
+![12-Houes-of-Horoscope](../assets/images/dspost/dsp6108-12-Houes-of-Horoscope.jpg)
 
 - Each house represent some aspect of the life as following.
 	1. First House (Ascendant/Rising): Self-image, personality, appearance.
@@ -194,7 +194,7 @@ In astrology we have 9 planets, which are different from above.
 	- As per the lagna 12 Rashi will sit in different house (above 12 boxes)
 	- For a simple example: In a below diagram, if you see 5 is written in the place of 1 (House 1), it means Leo (Zodiac 5th sign) is at the time of birth. then every number will shift by 5. In anticlockwise manner you have write other number 6,7, etc in 2,4, etc boxes/houses. In that case it would look like below. This information come from the Planet and Nakshastra position at the time of birth.
 
-	![12-Houes-of-Horoscope](/assets/images/dspost/dsp6108-12-Rashi-in-Horoscope.jpg)
+	![12-Houes-of-Horoscope](../assets/images/dspost/dsp6108-12-Rashi-in-Horoscope.jpg)
 
 - Once the above horsope is in place then you can combine following to predict any specific aspect of the life.
 	- For example you want to check finance then we should look into house number 2.

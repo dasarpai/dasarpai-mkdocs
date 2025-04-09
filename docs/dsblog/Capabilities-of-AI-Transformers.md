@@ -21,7 +21,7 @@ toc_sticky: true
 mathjax: "true"
 ---
 
-![Capabilities of AI Transformers](/assets/images/dspost/dsp6067-Capabilities-of-AI-Transformers.jpg)   
+![Capabilities of AI Transformers](../assets/images/dspost/dsp6067-Capabilities-of-AI-Transformers.jpg)   
 
 # Capabilities of AI Transformers
 

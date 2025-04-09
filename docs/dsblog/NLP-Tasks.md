@@ -21,7 +21,7 @@ toc_sticky: true
 mathjax: "true"
 ---
 
-![NLP Tasks](/assets/images/dspost/dsp6085-NLP-Tasks.jpg)
+![NLP Tasks](../assets/images/dspost/dsp6085-NLP-Tasks.jpg)
 
 # NLP Tasks 
 

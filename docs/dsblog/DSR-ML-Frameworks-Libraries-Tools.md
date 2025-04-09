@@ -25,7 +25,7 @@ excerpt: "A comprehensive overview of popular machine learning frameworks, libra
 keywords: [machine learning, frameworks, libraries, tools, data science, AI]
 ---
 
-![Machine Learning Framework, Library, Tools](/assets/images/dsresources/dsr113-Machine-Learning-Framework-Library-Tools.jpg)   
+![Machine Learning Framework, Library, Tools](../assets/images/dsresources/dsr113-Machine-Learning-Framework-Library-Tools.jpg)   
 
 # Machine Learning Framework, Library, Tools
 

@@ -23,7 +23,7 @@ toc_sticky: true
 mathjax: "true"
 ---
 
-![My Daily Tools](/assets/images/dsresources/dsr112-My-Daily-Tools.jpg)
+![My Daily Tools](../assets/images/dsresources/dsr112-My-Daily-Tools.jpg)
    
 # My Daily Tools    
    

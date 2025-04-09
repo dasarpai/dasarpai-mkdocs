@@ -29,7 +29,7 @@ toc_sticky: true
 mathjax: true
 ---
 
-![High School Maths for Data Science](/assets/images/dsresources/dsr106-High-School-Maths-for-Data-Science.jpg)   
+![High School Maths for Data Science](../assets/images/dsresources/dsr106-High-School-Maths-for-Data-Science.jpg)   
     
 # High School Maths for Data Science   
    

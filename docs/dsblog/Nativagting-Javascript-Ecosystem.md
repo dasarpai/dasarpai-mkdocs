@@ -24,7 +24,7 @@ keywords: ["javascript ecosystem", "javascript libraries", "node.js", "npm", "ya
 
 ---
 
-![Navigating the JavaScript Ecosystem](/assets/images/dspost/dsp6170-Navigating-the-JavaScript-Ecosystem.jpg)
+![Navigating the JavaScript Ecosystem](../assets/images/dspost/dsp6170-Navigating-the-JavaScript-Ecosystem.jpg)
 
 # Navigating the JavaScript Ecosystem: npm, Yarn, unpkg, and More
 This article is trying to answer following questions.

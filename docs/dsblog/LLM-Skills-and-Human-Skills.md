@@ -22,7 +22,7 @@ mathjax: "true"
 comments: true
 ---
 
-![LLM-Skills-and-Human-Skills](/assets/images/dspost/dsp6130-LLM-Skills-and-Human-Skills.jpg)
+![LLM-Skills-and-Human-Skills](../assets/images/dspost/dsp6130-LLM-Skills-and-Human-Skills.jpg)
 
 # LLM Skills and Human Skills
 

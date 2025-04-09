@@ -23,7 +23,7 @@ comments: true
 keywords: ["Firebase integration", "Python Firebase", "Firebase Admin SDK", "Firebase for Python", "LLM and Firebase", "Firebase Authentication", "Firestore Python integration", "Firebase Cloud Storage", "Cloud Messaging Python", "Firebase Cloud Functions", "Firebase REST API", "Real-time database integration"]
 ---
 
-![Exploring Firebase](/assets/images/dspost/dsp6159-Exploring-Firebase.jpg)
+![Exploring Firebase](../assets/images/dspost/dsp6159-Exploring-Firebase.jpg)
 
 # Exploring Firebase
 

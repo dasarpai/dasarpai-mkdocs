@@ -21,7 +21,7 @@ toc_sticky: true
 mathjax: "true"
 ---
 
-![ML Model Development Framework](/assets/images/dspost/dsp6096-ML-Model-Development-Framework.jpg)
+![ML Model Development Framework](../assets/images/dspost/dsp6096-ML-Model-Development-Framework.jpg)
 
 # ML Model Development Framework & Model Repositories
 

@@ -31,7 +31,7 @@ toc_sticky: true
 mathjax: "true"
 ---
 
-![Google Cloud Service Catalog](/assets/images/dspost/dsp6061-Google-Cloud-Service-Catalog.jpg)    
+![Google Cloud Service Catalog](../assets/images/dspost/dsp6061-Google-Cloud-Service-Catalog.jpg)    
    
 # Google Cloud Service Catalog    
 **A Comprehensive Overview of 250+ Google Cloud Services**   

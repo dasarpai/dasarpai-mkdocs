@@ -1,20 +1,21 @@
----
-author: Hari Thapliyaal
-author_profile: true
-categories: null
-date: '2024-02-05T08:33:00+05:30'
-excerpt: null
-header:
-  teaser: ../assets/images/booksummary/7505-Finish-What-You-Start-by-Peter-Hollis.jpg
-id: 7505
-layout: booksum-layout
-permalink: /booksummary/Finish-What-You-Start-by-Peter-Hollis
-share: true
-tags:
-- Book Summary
-title: 'Book Summary: Finish What You Start by Peter Hollis'
----
-
+---                            
+id: 7505                            
+                          
+title: "Book Summary: Finish What You Start by Peter Hollis"                     
+date: "2024-02-05T08:33:00+05:30"                            
+permalink: /booksummary/Finish-What-You-Start-by-Peter-Hollis                      
+tags: [Book Summary]                     
+                            
+categories:                            
+header:                            
+    teaser: /assets/images/booksummary/7505-Finish-What-You-Start-by-Peter-Hollis.jpg                         
+author: Hari Thapliyaal                            
+layout: booksum-layout                            
+excerpt:                            
+author_profile: true                            
+share: true                            
+---                            
+                            
 ![Finish What You Start by Peter Hollis](../assets/images/booksummary/7505-Finish-What-You-Start-by-Peter-Hollis.jpg)                                 
    
 # Finish What You Start
