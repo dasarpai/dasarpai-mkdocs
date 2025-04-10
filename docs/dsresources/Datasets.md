@@ -1,0 +1,22 @@
+---
+id: 115    
+title: "Datasets"
+permalink: /dsresources/datasets
+date: 2021-07-15
+tags: [DS Resources, Data Science Datasets] 
+categories: 
+header:
+    teaser:  ../assets/images/dsresources/dsr115-Datasets.jpg
+author: Hari Thapliyaal   
+
+excerpt:   
+author_profile: true   
+share: true   
+toc: true   
+toc_sticky: true 
+---
+![Datasets](../assets/images/dsresources/dsr115-Datasets.jpg)    
+   
+# Machine Learning Datasets   
+   
+I am sorry, this page has moved to different location. [Click me to go there](/dsblog/datasets)
