@@ -19,12 +19,14 @@
 # IN THE SOFTWARE.
 
 # Project information
-site_name: Material for MkDocs
-site_url: https://squidfunk.github.io/mkdocs-material/
+# site_name: Material for MkDocs
+# site_url: https://squidfunk.github.io/mkdocs-material/
+# site_description: >-
+#   Write your documentation in Markdown and create a professional static site in
+#   minutes – searchable, customizable, in 60+ languages, for all devices
+site_name: DasarpAI
 site_author: Dr. Hari Thapliyaal
-site_description: >-
-  Write your documentation in Markdown and create a professional static site in
-  minutes – searchable, customizable, in 60+ languages, for all devices
+
 
 # Repository
 repo_name: dasarpai/dasrapai-mkdocs
@@ -176,25 +178,20 @@ not_in_nav: |
 
 # Page tree
 nav:
-  - Home: index.md
-  - "About Me": "pages/aboutme.md"
-  - "Data Science Blog": "dsblog/index.md"
-  - "Project Management Blog": "pmblog/index.md"
-  - "Book Summaries": "booksummary/index.md"
-
-  - Home: index.md
-  - "About Me": "pages/aboutme.md"
-  - "DS/AI Courses/Services" : "dscourses/index.md"   
-  - "Project/Work Catalog" : 
-      - "pages/project-index-page.md"
-      - "Business Domain" : "pages/summary-of-al-ml-projects.md" 
-      - "Technology Stack" : "pages/summary-of-my-technology-stacks.md"
-      - "Project Management" : "pages/summary-of-management-projects.md"
-  - "PM Courses/Services" : "management/index.md"
-  - "Clients" : "pages/clients.md"
-  - "Testimonial" : "pages/testimonials.md"
-  - "Publications" : "pages/publications-home.md"
-  - "History Corpus" : "pages/corpus-home.md"
+  - Home: 
+    - index.md
+    - "About Me": "pages/aboutme.md"
+    - "DS/AI Courses/Services" : "dscourses/index.md"   
+    - "Project/Work Catalog" : 
+        - "pages/project-index-page.md"
+        - "Business Domain" : "pages/summary-of-al-ml-projects.md" 
+        - "Technology Stack" : "pages/summary-of-my-technology-stacks.md"
+        - "Project Management" : "pages/summary-of-management-projects.md"
+    - "PM Courses/Services" : "management/index.md"
+    - "Clients" : "pages/clients.md"
+    - "Testimonial" : "pages/testimonials.md"
+    - "Publications" : "pages/publications-home.md"
+    - "History Corpus" : "pages/corpus-home.md"
   - "Data Science" : 
       - "Data Science Blog" : "dsblog/index.md"
       - "DS Resources" : "dsresources/index.md"       

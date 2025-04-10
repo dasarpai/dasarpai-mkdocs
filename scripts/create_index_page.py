@@ -80,7 +80,18 @@ def generate_index(blog, index_content):
     index_file = input_dir / "index.md"
     
     # Skip the index.md file itself
-    files = [f for f in input_dir.glob('*.md') if f.name != 'index.md']
+    # files = [f for f in input_dir.glob('*.md') if f.name != 'index.md']
+    # files = sorted([f for f in input_dir.glob('*.md') if f.name != 'index.md'], key=lambda x: x.name.lower())
+
+    files = sorted(
+        [f for f in input_dir.glob('*.md') if f.name != 'index.md'],
+        key=lambda x: (
+            x.name[:10] if x.name[:4].isdigit() and x.name[4] == '-' and x.name[7] == '-' 
+            else '0000-00-00',  # Files without date prefix will be sorted last
+            x.name.lower()
+        ),
+        reverse=True
+    )
 
     # Collect all article  data first
     index_summaries = []
@@ -130,6 +141,7 @@ def generate_index(blog, index_content):
         # First column
         article = index_summaries[i]
         index_content_lines.extend([
+            "\n",
             f"- ![{article['title']}]({article['image_path']}){{ width=\"200\" }}",
             "",
             f"    ### [{article['title']}]({article['filename']})",
@@ -144,6 +156,7 @@ def generate_index(blog, index_content):
         if i + 1 < len(index_summaries):
             article = index_summaries[i + 1]
             index_content_lines.extend([
+                "\n",
                 f"- ![{article['title']}]({article['image_path']}){{ width=\"200\" }}",
                 "",
                 f"    ### [{article['title']}]({article['filename']})",
