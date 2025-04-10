@@ -37,7 +37,9 @@ def copy_files_without_date_prefix(input_dir, output_dir, blog_type=None):
     
     # Get list of files in input directory
     try:
-        files = os.listdir(actual_input_dir)
+        # Get list of files in input directory order by name
+
+        files = sorted(os.listdir(actual_input_dir),reverse=True)
     except FileNotFoundError:
         print(f"Error: Input directory '{actual_input_dir}' not found.")
         return
@@ -61,6 +63,16 @@ def copy_files_without_date_prefix(input_dir, output_dir, blog_type=None):
         
         # Copy the file
         shutil.copy2(input_path, output_path)
+
+        # Read the copied file and replace /assets/ with ../assets/
+        with open(output_path, 'r', encoding='utf-8') as f:
+            content = f.read()
+        content = content.replace('/assets/', '../assets/')
+
+        # Write the modified content back
+        with open(output_path, 'w', encoding='utf-8') as f:
+            f.write(content)
+            
         copied_count += 1
         
         # Add to name mapping

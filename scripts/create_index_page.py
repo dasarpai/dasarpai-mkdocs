@@ -79,26 +79,25 @@ def generate_index(blog, index_content):
     input_dir = Path("docs/" + blog)
     index_file = input_dir / "index.md"
     
-    # Skip the index.md file itself
-    # files = [f for f in input_dir.glob('*.md') if f.name != 'index.md']
-    # files = sorted([f for f in input_dir.glob('*.md') if f.name != 'index.md'], key=lambda x: x.name.lower())
+    # read file name from .namemap file 
+    namemap_file = input_dir / ".namemap"
+    with open(namemap_file, 'r', encoding='utf-8') as f:
+        namemap = f.read()
 
-    files = sorted(
-        [f for f in input_dir.glob('*.md') if f.name != 'index.md'],
-        key=lambda x: (
-            x.name[:10] if x.name[:4].isdigit() and x.name[4] == '-' and x.name[7] == '-' 
-            else '0000-00-00',  # Files without date prefix will be sorted last
-            x.name.lower()
-        ),
-        reverse=True
-    )
+    # for each line in .namemap file get the pair
+    namemap = namemap.split('\n')
+    
+    namemap = [line.split(':') for line in namemap]
+
+    namemap_dict = {line[0]: line[1] for line in namemap if len(line) == 2}
+    
 
     # Collect all article  data first
     index_summaries = []
     
-    for file_path in files:
+    for _, mkdcosfilename in namemap_dict.items():
         try:
-            filename = file_path.stem
+            file_path = input_dir.joinpath(mkdcosfilename.strip()) 
 
             frontmatter = extract_frontmatter(file_path)
             
@@ -108,7 +107,8 @@ def generate_index(blog, index_content):
                 continue
             
             # Get title with fallback
-            title = frontmatter.get('title', filename)
+            title = frontmatter.get('title', mkdcosfilename)
+            # print(file_path)
             
             # Get image path with error handling
             image_path = get_image_path(frontmatter, blog)
@@ -119,7 +119,7 @@ def generate_index(blog, index_content):
             # Store article summary data
             index_summaries.append({
                 'title': title,
-                'filename': filename,
+                'filename': file_path,
                 'image_path': image_path,
                 'excerpt': excerpt,
                 'read_time': read_time
@@ -174,7 +174,7 @@ def generate_index(blog, index_content):
     with open(index_file, 'w', encoding='utf-8') as f:
         f.write('\n'.join(index_content_lines))
 
-    print(f"Updated {index_file} with {len(files)} Articles")
+    print(f"Updated {index_file} with {len(index_summaries)} Articles")
 
 if __name__ == "__main__":
     # Define what index to create.
@@ -194,7 +194,6 @@ if __name__ == "__main__":
             else:
                 # Default content if blog not found in JSON
                 index_content = f"# {blog.capitalize()}\n\nWelcome to {blog.capitalize()} page."
-            
             # Generate the index for this blog
             generate_index(blog, index_content)
         except Exception as e:
