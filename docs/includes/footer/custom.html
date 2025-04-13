@@ -1,0 +1,119 @@
+<!-- start custom footer snippets -->
+<div class="footer-row">
+
+  <div class="footer-col" style="flex: 25%;">
+    <h4>Important Links</h4>
+    <ul>
+      {% for item in site.data.navigation.importantlinks %}
+        <li><a href="{{ item.url | relative_url }}">{{ item.label | default: item.title }}</a></li>
+      {% endfor %}
+    </ul>
+  </div>
+
+  <div class="footer-col" style="flex: 25%;">
+    <h4>My Blogs</h4>
+    <ul>
+      {% for item in site.data.navigation.myblogs %}
+        <li><a href="{{ item.url | relative_url }}">{{ item.title }}</a></li>
+      {% endfor %}
+    </ul>
+  </div>
+
+  <div class="footer-col" style="flex: 25%;">
+        <h4>Resources</h4>
+        <ul>
+          {% for item in site.data.navigation.allresources %}
+            <li><a href="{{ item.url | relative_url }}">{{ item.label | default: item.title }}</a></li>
+          {% endfor %}
+        </ul>
+  </div>
+
+  <div class="footer-col" style="flex: 25%;">
+    <h4>Project Management</h4>
+    <ul>
+      {% for item in site.data.navigation.projectmanagement %}
+        <li><a href="{{ item.url | relative_url }}">{{ item.title }}</a></li>
+      {% endfor %}
+    </ul>
+  </div>
+  
+  <div class="footer-col" style="flex: 25%;">
+    <h4>Wisdom in Awareness</h4>
+    <ul>
+      {% for item in site.data.navigation.wia %}
+        <li><a href="{{ item.url | relative_url }}">{{ item.label | default: item.title }}</a></li>
+      {% endfor %}
+    </ul>
+</div>
+
+
+<div class="footer-col" style="flex: 25%;">
+  <h4>Samskrut Yatra</h4>
+  <ul>
+    {% for item in site.data.navigation.samskrutyatra %}
+      <li><a href="{{ item.url | relative_url }}">{{ item.label | default: item.title }}</a></li>
+    {% endfor %}
+  </ul>
+</div>
+
+
+
+  <div class="footer-col" style="flex: 25%;">
+    <h4>Gallery</h4>
+    <ul>
+      {% for item in site.data.navigation.mygallary %}
+        <li><a href="{{ item.url | relative_url }}">{{ item.title }}</a></li>
+      {% endfor %}
+    </ul>
+  </div>
+
+</div>
+
+<style>
+.page__footer-custom {
+  margin-bottom: 2em;
+  color: #fff;
+}
+
+.footer-row {
+  display: flex;
+  flex-wrap: wrap;
+  margin: 0 -15px;
+}
+
+.footer-col {
+  padding: 0 15px;
+}
+
+.footer-col h4 {
+  color: #fff;
+  margin-bottom: 1em;
+}
+
+.footer-col ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.footer-col ul li {
+  margin-bottom: 0.5em;
+}
+
+.footer-col ul li a {
+  color: #fff;
+  text-decoration: none;
+}
+
+.footer-col ul li a:hover {
+  text-decoration: underline;
+}
+
+@media screen and (max-width: 767px) {
+  .footer-col {
+    flex: 100%;
+    margin-bottom: 2em;
+  }
+}
+</style>
+<!-- end custom footer snippets -->

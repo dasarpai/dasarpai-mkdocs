@@ -1,0 +1,18 @@
+title: Pmbok6
+arrange:
+  - planning-process-group
+  - monitoring-and-controlling-process-group
+  - executing-process-group
+  - work-performance-information
+  - work-performance-data
+  - project-stakeholder-management
+  - project-schedule-management
+  - project-risk-management
+  - project-quality-management
+  - project-management-information-system
+  - project-integration-management
+  - procurement-documentation
+  - procurement-documentation-updates
+  - decision-making
+  - agreements
+  - variance-analysis

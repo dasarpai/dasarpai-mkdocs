@@ -1,0 +1,28 @@
+---
+id: 504    
+title: "PMI Schedule Management Professional Course"
+toc: true
+toc_sticky: true
+
+
+permalink: /management/pmi-sp
+date: 2020-08-05
+categories:
+
+tags: 
+  - 'PMI SP Courses'
+
+header:
+  teaser: ../assets/images/pmlogy/pmc504-pmi-sp.jpg
+
+author_profile: true
+last_modified_at: 2020-08-05T15:46:43-04:00
+mathjax: "true"
+share: true
+---
+
+![PMI SP](../assets/images/pmlogy/pmc504-pmi-sp.jpg)
+
+# PMI SP
+
+You can request about this course by writing to me hari.prasad@vedavit-ps.com 

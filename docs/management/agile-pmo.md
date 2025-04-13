@@ -1,0 +1,33 @@
+---
+id: 522    
+title: "Agile PMO"
+toc: true
+toc_sticky: true
+
+
+permalink:  /management/agile-pmo
+date: 2020-08-13
+categories:
+
+tags: 
+  - Project Consulting
+
+header:
+  teaser:  ../assets/images/pmlogy/pmc522-agile-pmo.jpg 
+
+author_profile: true
+last_modified_at: 2020-08-13T15:46:43-04:00
+mathjax: "true"
+share: true
+---
+
+![Agile Pmo](../assets/images/pmlogy/pmc522-agile-pmo.jpg)
+
+
+# Agile Adaptation
+
+Different stakeholders have different expectations from Agile Project Management. Which benefits me and I need not to pay any price for it is our typical definition of agile. We forget to understand that agile is not chaos. Agile project management enables the ability to respond to the change. Change may happen due to any reason but development team, product owner & manager all together are responsible to manage the change. It is not easy for any organization to adapt this huge change in the work culture. Going away from regular full-blown big bang planning, micro-management of resource, heroism, anti-team appraisal systems, age-old proven complex processes, organization bureaucracy etc is not a joke at all.
+
+Any organization serious for agile adaption must understand the training to staff is first step not the last step. You should involve agile coach in this transformation journey.
+
+I help you in this rough and full of tide journey to sail through successfully.

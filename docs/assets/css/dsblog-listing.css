@@ -1,0 +1,105 @@
+.dsblog-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 2rem;
+  margin: 2rem 0;
+}
+
+@media (max-width: 1200px) {
+  .dsblog-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+@media (max-width: 768px) {
+  .dsblog-grid {
+    grid-template-columns: 1fr;
+  }
+}
+
+.dsblog-card {
+  display: flex;
+  flex-direction: column;
+  border-radius: 8px;
+  overflow: hidden;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  background-color: #fff;
+  height: 100%;
+}
+
+.dsblog-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.15);
+}
+
+.dsblog-thumbnail {
+  height: 200px;
+  overflow: hidden;
+}
+
+.dsblog-thumbnail img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  transition: transform 0.5s ease;
+}
+
+.dsblog-card:hover .dsblog-thumbnail img {
+  transform: scale(1.05);
+}
+
+.dsblog-content {
+  padding: 1.5rem;
+  display: flex;
+  flex-direction: column;
+  flex-grow: 1;
+}
+
+.dsblog-content h3 {
+  margin-top: 0;
+  margin-bottom: 0.75rem;
+  font-size: 1.25rem;
+  line-height: 1.4;
+  color: #333;
+}
+
+.dsblog-meta {
+  display: flex;
+  align-items: center;
+  margin-bottom: 1rem;
+  font-size: 0.875rem;
+  color: #666;
+}
+
+.dsblog-reading-time {
+  display: flex;
+  align-items: center;
+}
+
+.dsblog-reading-time::before {
+  content: "⏱️";
+  margin-right: 0.25rem;
+}
+
+.dsblog-excerpt {
+  margin-bottom: 1.5rem;
+  color: #555;
+  line-height: 1.6;
+  flex-grow: 1;
+}
+
+.dsblog-read-more {
+  align-self: flex-start;
+  padding: 0.5rem 1rem;
+  background-color: #2196f3;
+  color: white;
+  text-decoration: none;
+  border-radius: 4px;
+  font-weight: 500;
+  transition: background-color 0.3s ease;
+}
+
+.dsblog-read-more:hover {
+  background-color: #0d8aee;
+}

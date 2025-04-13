@@ -1,0 +1,29 @@
+---
+id: 528    
+title: "PMI RMP Course"
+toc: true
+toc_sticky: true
+
+permalink:  /management/pmi-rmp
+date: 2020-08-04
+categories:
+
+tags: 
+  - 'PMI RMP Courses'
+
+header:
+  teaser: ../assets/images/pmlogy/pmc528-pmi-rmp.jpg
+
+author_profile: true
+last_modified_at: 2020-08-04T15:46:43-04:00
+mathjax: "true"
+share: true
+---
+
+![PMI RMP](../assets/images/pmlogy/pmc528-pmi-rmp.jpg)
+
+# PMI Risk Management Professional 
+
+**PMI RMP Course**
+You can request about this course by writing to me hari.prasad@vedavit-ps.com 
+
