@@ -1,5 +1,31 @@
 /* Custom styles for blog pages */
 
+/* Social share */
+.social-share {
+  margin-top: 2em;
+  padding: 1em 0;
+  font-size: 0.95em;
+  border-top: 1px solid #ddd;
+}
+
+.author-bio {
+  display: flex;
+  gap: 1em;
+  margin-top: 2em;
+  padding: 0.5em;
+  background: #f9f9f905;
+  border-left: 4px solid #0078e7;
+  align-items: center;
+}
+
+.author-bio img {
+  border-radius: 50%;
+  height: 80px;
+  width: 80px;
+  object-fit: cover;
+}
+
+
 /* Grid layout for blog posts */
 .grid-container {
   display: grid;
