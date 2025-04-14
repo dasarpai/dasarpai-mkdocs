@@ -5,7 +5,7 @@ toc: true
 toc_sticky: true
 
 
-permalink:  /management/fpa
+permalink: /management/fpa
 date: 2020-08-01
 categories:
 tags: [Software Project Management]

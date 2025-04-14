@@ -1,4 +1,4 @@
----    
+---
 id: 4032    
 mathjax: true    
 title: 'Purush Suktam  - पुरुषसूक्त'    
@@ -11,16 +11,15 @@ tags: [Suktam]
 categories:    
     
 header:    
-   teaser: ../assets/images/samskrut/durga.jpg    
+   teaser: ../assets/images/samskrut/Durga.jpg    
     
 author: 'Hari Thapliyaal'    
     
-excerpt:    
+excerpt: "अथ पुरुषसूक्तम् ॥ ॐ तच्छं॒ योरावृ॑णीमहे । गा॒तुं य॒ज्ञाय॑ । गा॒तुं य॒ज्ञप॑तये । दैवी᳚ स्व॒स्तिर॑स्तु नः । स्व॒स्तिर्मानु॑षेभ्यः । ऊ॒र्ध्वं जि॑गातु भेष॒जम् । शन्नो॑ अस्तु द्वि॒पदे᳚ । शं चतु॑ष्पदे । ॐ शान्तिः॒ शान्तिः॒ शान्तिः॑ । हरिः ॐ । ॐ स॒हस्र॑शीर्षा॒"
     
 share: true    
----    
-    
-![](../assets/images/samskrut/durga.jpg)    
+---
+![](../assets/images/samskrut/Durga.jpg)    
     
 # पुरुषसूक्त    
 ## Purush Suktam    

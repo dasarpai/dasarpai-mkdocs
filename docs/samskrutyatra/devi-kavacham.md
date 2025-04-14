@@ -1,4 +1,4 @@
----    
+---
 id: 4027    
 mathjax: true    
 title: 'Devi Kavacham - देवीकवचम्'    
@@ -11,16 +11,15 @@ tags: [Devi, Durga Saptashati]
 categories:    
     
 header:    
-   teaser: ../assets/images/samskrut/durga.jpg    
+   teaser: ../assets/images/samskrut/Durga.jpg    
     
 author: 'Hari Thapliyaal'    
     
-excerpt:    
+excerpt: "॥ अथ देव्याः कवचम् ॥ ॐ अस्य श्री चण्डीकवचस्य ॥ ब्रह्मा ऋषिः । अनुष्टुप् छन्दः । चामुण्डा देवता । अङ्गन्यासोक्तमातरो बीजम् । दिग्बन्ध देवतास्तत्त्वम् । श्रीजगदम्बाप्रीत्यर्थे सप्तशती पाठाङ्गत्वेन जपे विनियोगः ॥ ॥ ॐ नमश्चण्डिकायै ॥ मार्कण्डेय उवाच । ॐ यद्गुह्यं"
     
 share: true    
----    
-    
-![](../assets/images/samskrut/durga.jpg)    
+---
+![](../assets/images/samskrut/Durga.jpg)    
     
 # देवीकवचम्    
 ## Devi Kavacham    

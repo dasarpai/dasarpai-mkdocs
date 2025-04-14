@@ -1,4 +1,4 @@
----    
+---
 id: 4058    
 mathjax: true    
 title: 'Shiv Tandava Stotram - शिवतांडवस्तोत्रं'    
@@ -15,11 +15,10 @@ header:
     
 author: 'Hari Thapliyaal'    
     
-excerpt:    
+excerpt: "जटाटवीगलज्जल प्रवाहपावितस्थले गलेऽवलम्ब्य लम्बितां भुजंगतुंगमालिकाम्‌। डमड्डमड्डमड्डमनिनादवड्डमर्वयं चकार चण्डताण्डवं तनोतु नः शिवः शिवम"
     
 share: true    
----    
-    
+---
 ![](../assets/images/samskrut/Shiva.jpg)    
     
 # शिवतांडवस्तोत्रं     

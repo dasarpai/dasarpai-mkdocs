@@ -6,13 +6,13 @@
 
 
 
-- ![Guyagita - गुहगीता](../assets/images/samskrut/upanishad.jpg){ width="200" }
+- ![Guyagita - गुहगीता](../assets/images/samskrut/Upanishad.jpg){ width="200" }
 
     ### [Guyagita - गुहगीता](guha-geeta.md)
     
     **Read time:** 48 min
     
-    EXCERPT Not Found
+    अथ प्रथमोऽध्यायः मनोविकारः विप्रा ऊचुः- सूतपुत्र महाप्राज्ञ कथकोऽसि दयाकर । गुहगीतां च नो वक्तुं त्वमेवार्हसि चानघ ॥ १.१॥ सूत उवाच- कुतुकी गुहगीतायाः 
 
 
 - ![Hanuman Sahsranamavali - हनुमान सहस्त्रनामावली](../assets/images/samskrut/Hanumanji.jpg){ width="200" }
@@ -21,7 +21,7 @@
     
     **Read time:** 66 min
     
-    EXCERPT Not Found
+    1. हनुमान्: – विशाल और टेढी ठुड्डी वाले । 2. श्रीप्रद: – शोभा प्रदन करने वाले । 3. वायुपुत्र: – वायु के पुत्र 4. रुद्र: – जो रुद्र के अवतार हैं (हनुमा
     
 </div>
 
@@ -35,10 +35,10 @@
     
     **Read time:** 90 min
     
-    EXCERPT Not Found
+    माता पार्वती के यह प्रश्न पूछने पर की ” ईश्वर कौन है” और “क्या है ?” भगवन शंकर उन्हें सीधे उत्तर न देके निम्नलिखित विधियां बताते है, जोकि ११२ है। किसी
 
 
-- ![Lalitasahasranamam with Meaning - ललितासहस्रनामं](../assets/images/samskrut/durga.jpg){ width="200" }
+- ![Lalitasahasranamam with Meaning - ललितासहस्रनामं](../assets/images/samskrut/Durga.jpg){ width="200" }
 
     ### [Lalitasahasranamam with Meaning - ललितासहस्रनामं](lalitasaharanam-with-meaning.md)
     
@@ -58,16 +58,16 @@
     
     **Read time:** 7 min
     
-    EXCERPT Not Found
+    Song of Sanyasi by Swami Vivekananda उत्तिष्ठ स्वरः तस्य संगीतं यस्य जन्मः दूरे अभवत् यस्य संसारमलं न स्पर्शं शक्नोति गिरिं कंदरां एवं सघनवनस्य वंजरभू
 
 
-- ![Bhajan without Text](../assets/images/samskrut/durga.jpg){ width="200" }
+- ![Bhajan without Text](../assets/images/samskrut/Durga.jpg){ width="200" }
 
     ### [Bhajan without Text](bhajan-without-text.md)
     
     **Read time:** 5 min
     
-    EXCERPT Not Found
+    Multiple Bhajans without Text
     
 </div>
 
@@ -81,7 +81,7 @@
     
     **Read time:** 5 min
     
-    EXCERPT Not Found
+    चाणक्य इति आसीत् सः चन्द्रगुप्तमौर्यस्य मंत्री आसीत् एकः चोरः आसीत् सः चिन्तवान चाणक्य समीपे बहु धनं अस्ति सः चाणक्यस्य धनं चौर्यार्थं तस्य गृहे गतवान
 
 
 - ![संस्कृत प्रश्नोत्तर भाग-1](../assets/images/samskrut/SanskritYatra-Story.jpg){ width="200" }
@@ -90,7 +90,7 @@
     
     **Read time:** 5 min
     
-    EXCERPT Not Found
+    यदि भवतः गृहे विवाह कार्यं अस्ति तर्हि किं किं कार्यं करोति अहं मित्रं निमंत्रणं प्रेस्यामि आपणात् बहु बहु पदार्थं आनायति भवान् किमर्थं संस्कृतं पठति 
     
 </div>
 
@@ -104,7 +104,7 @@
     
     **Read time:** 5 min
     
-    EXCERPT Not Found
+    एकः महाराज: आसीत् । एका कर्मकरी आसीत्। सा प्रतिदिने महराजस्य प्रकोष्ठं स्वच्छं करोति। सा प्रतिदिने पुष्पै सुगन्धै कृते प्रकोष्ठं स्वच्छं करोति। राजा प
 
 
 - ![मदनमोहन मालवीय: (लघुकथा:)](../assets/images/samskrut/SanskritYatra-Story.jpg){ width="200" }
@@ -113,7 +113,7 @@
     
     **Read time:** 5 min
     
-    EXCERPT Not Found
+    मदनमोहन मालवीय: (लघुकथा:) अद्यतन कथा एकः महानव्यक्तेः जीवनआधारितं अस्ति। तस्य नामः मदनमोहनमालवीयःअस्ति। तस्य जीवने एक रोचक घटना घटिता। सः बनारस हिन्दु
     
 </div>
 
@@ -127,7 +127,7 @@
     
     **Read time:** 5 min
     
-    EXCERPT Not Found
+    एकः ग्रामं अस्ति। ग्रामे एकः भिक्षु वसति। सः प्रतिदिनं भिक्षाटनं करोति। किं वदति। भवती भिक्षां देही। ग्रामं महिलायाः प्रतिदिनं वस्त्रं भोजनं पणकं दद्म
 
 
 - ![Work of Rajiv Dixit](../assets/images/samskrut/BharatMata.jpg){ width="200" }
@@ -136,7 +136,7 @@
     
     **Read time:** 8 min
     
-    EXCERPT Not Found
+    ![Rajiv Dixit](../assets/images/wiapost/Rajiv_Dixit.jpg) This list highlights the major contributions of Rajiv Dixit Ji, a renowned orator and scholar
     
 </div>
 
@@ -150,16 +150,16 @@
     
     **Read time:** 5 min
     
-    EXCERPT Not Found
+    जरा इन पर विचार करें यदि मातृनवमी थी, तो मदर्स डे क्यों लाया गया ? यदि कौमुदी महोत्सव था, तो वेलेंटाइन डे क्यों लाया गया ? यदि गुरुपूर्णिमा थी, तो टीच
 
 
-- ![Gayatri Sahasranama - श्री गायत्री सहस्रनामस्तोत्रं](../assets/images/samskrut/durga.jpg){ width="200" }
+- ![Gayatri Sahasranama - श्री गायत्री सहस्रनामस्तोत्रं](../assets/images/samskrut/Durga.jpg){ width="200" }
 
     ### [Gayatri Sahasranama - श्री गायत्री सहस्रनामस्तोत्रं](gayatri-sahasranama.md)
     
     **Read time:** 26 min
     
-    EXCERPT Not Found
+    Gayatri Sahasranama श्री गायत्री सहस्रनामस्तोत्रं देवी भागवतांतर्गत नारद उवाच – भगवन्-सर्वधर्मज्ञ, सर्व शास्त्र विशारद । श्रुति-स्मृति-पुराणानां, रहस्
     
 </div>
 
@@ -173,7 +173,7 @@
     
     **Read time:** 5 min
     
-    EXCERPT Not Found
+    कश्चन निर्धनः विद्वान् चलन् प्रतिवेशि राज्यं प्राप्तवान्। संयोगेन तस्मिन् दिने तत्र हस्तिपटबन्धनसमारोहः निरुह्यते स्म। तत्र कस्यचन हस्तिनः तुण्डायां म
 
 
 - ![Upnishadic Prarthana - उपनिषदिय प्रार्थना](../assets/images/samskrut/Upanishad.jpg){ width="200" }
@@ -196,7 +196,7 @@
     
     **Read time:** 60 min
     
-    EXCERPT Not Found
+    शान्तं शाश्वतमप्रमेयमनघं निर्वाणशान्तिप्रदं ब्रह्माशम्भुफणीन्द्रसेव्यमनिशं वेदान्तवेद्यं विभुम्‌। रामाख्यं जगदीश्वरं सुरगुरुं मायामनुष्यं हरिं वन्देऽह
 
 
 - ![NamamishMisan - नमामीशमीसान निर्वाणरूपं](../assets/images/samskrut/Rudra.jpg){ width="200" }
@@ -219,7 +219,7 @@
     
     **Read time:** 5 min
     
-    EXCERPT Not Found
+    माहेश्वर सूत्र ## Maheshwara Sutrani Maheshwar Sutrani is the foundation of Panini’s Astha-Adhyayi. It has 14 sutras, they are mentioned below. I have
 
 
 - ![Hanuman Ashtakam - संकटमोचन हनुमानाष्टकम्](../assets/images/samskrut/Hanumanji.jpg){ width="200" }
@@ -228,7 +228,7 @@
     
     **Read time:** 5 min
     
-    EXCERPT Not Found
+    Hanuman Ashtakam बाल समय रबि भक्षि लियो तब, तीनहुँ लोक भयो अँधियारो । ताहि सों त्रास भयो जग को, यह संकट काहु सों जात न टारो ॥ देवन आन करि बिनती तब, छा
     
 </div>
 
@@ -251,7 +251,7 @@
     
     **Read time:** 5 min
     
-    EXCERPT Not Found
+    Namaste Sada Vatsale नमस्ते सदा वत्सले मातृभूमे त्वया हिन्दुभूमे सुखं वर्धितोऽहम् । महामङ्गले पुण्यभूमे त्वदर्थे पतत्वेष कायो नमस्ते नमस्ते ।।१।। प्रभ
     
 </div>
 
@@ -259,7 +259,7 @@
 
 
 
-- ![Devi SidhaKunjiKa Stotram - सिद्धकुञ्जिकास्तोत्रम्](../assets/images/samskrut/durga.jpg){ width="200" }
+- ![Devi SidhaKunjiKa Stotram - सिद्धकुञ्जिकास्तोत्रम्](../assets/images/samskrut/Durga.jpg){ width="200" }
 
     ### [Devi SidhaKunjiKa Stotram - सिद्धकुञ्जिकास्तोत्रम्](devi-sidhakunjika-stotram.md)
     
@@ -268,13 +268,13 @@
     EXCERPT Not Found
 
 
-- ![Durga DwaTrimShan NamaMaalaa - अथ दुर्गाद्वात्रिंशन्नाममाला](../assets/images/samskrut/durga.jpg){ width="200" }
+- ![Durga DwaTrimShan NamaMaalaa - अथ दुर्गाद्वात्रिंशन्नाममाला](../assets/images/samskrut/Durga.jpg){ width="200" }
 
     ### [Durga DwaTrimShan NamaMaalaa - अथ दुर्गाद्वात्रिंशन्नाममाला](durga-dwatrimshan-namamaalaa.md)
     
     **Read time:** 5 min
     
-    EXCERPT Not Found
+    Durga DwaTrimShan NamaMaalaa दुर्गा दुर्गार्तिशमनी दुर्गापद्विनिवारिणी। दुर्गमच्छेदिनी दुर्गसाधिनी दुर्गनाशिनी॥ दुर्गतोद्धारिणी दुर्गनिहन्त्री दुर्गमा
     
 </div>
 
@@ -282,22 +282,22 @@
 
 
 
-- ![Shri Durga Manas Puja - श्रीदुर्गामानस-पूजा](../assets/images/samskrut/durga.jpg){ width="200" }
+- ![Shri Durga Manas Puja - श्रीदुर्गामानस-पूजा](../assets/images/samskrut/Durga.jpg){ width="200" }
 
     ### [Shri Durga Manas Puja - श्रीदुर्गामानस-पूजा](shri-durga-manas-puja.md)
     
     **Read time:** 6 min
     
-    EXCERPT Not Found
+    Shri Durga Manas Puja उद्यच्चन्दनकुङ्कुमारुण पयोधाराभिराप्लावितां नानानर्घ्यमणिप्रवालघटितां दत्तां गृहाणाम्बिके। आमृष्टां सुरसुन्दरीभिरभितो हस्ताम्बुज
 
 
-- ![Devi Vaikrutikam Rahashyam - वैकृतिकं रहस्यम्](../assets/images/samskrut/durga.jpg){ width="200" }
+- ![Devi Vaikrutikam Rahashyam - वैकृतिकं रहस्यम्](../assets/images/samskrut/Durga.jpg){ width="200" }
 
     ### [Devi Vaikrutikam Rahashyam - वैकृतिकं रहस्यम्](devi-vaikrutikam-rahashy.md)
     
     **Read time:** 6 min
     
-    EXCERPT Not Found
+    Devi Vaikrutikam Rahashyam ऋषिरुवाच ॐ त्रिगुणा तामसी देवी सात्त्विकी या त्रिधोदिता। सा शर्वा चण्डिका दुर्गा भद्रा भगवतीर्यते॥१॥ योगनिद्रा हरेरुक्ता मह
     
 </div>
 
@@ -305,22 +305,22 @@
 
 
 
-- ![Devi Murti Rahasyam - मूर्तिरहस्यम्](../assets/images/samskrut/durga.jpg){ width="200" }
+- ![Devi Murti Rahasyam - मूर्तिरहस्यम्](../assets/images/samskrut/Durga.jpg){ width="200" }
 
     ### [Devi Murti Rahasyam - मूर्तिरहस्यम्](devi-murti-rahasyam.md)
     
     **Read time:** 5 min
     
-    EXCERPT Not Found
+    Devi Murti Rahasyam ऋषिरुवाच ॐ नन्दा भगवती नाम या भविष्यति नन्दजा। स्तुता सा पूजिता भक्त्या वशीकुर्याज्जगत्त्रयम्॥१॥ कनकोत्तमकान्तिः सा सुकान्तिकनकाम्
 
 
-- ![Devi Prahanikam Rahasyam - प्राधानिकं रहस्यम्](../assets/images/samskrut/durga.jpg){ width="200" }
+- ![Devi Prahanikam Rahasyam - प्राधानिकं रहस्यम्](../assets/images/samskrut/Durga.jpg){ width="200" }
 
     ### [Devi Prahanikam Rahasyam - प्राधानिकं रहस्यम्](devi-praahanikam-rahasyam.md)
     
     **Read time:** 5 min
     
-    EXCERPT Not Found
+    Devi Praahanikam Rahasyam ॥विनियोगः॥ ॐ अस्य श्रीसप्तशतीरहस्यत्रयस्य नारायण ऋषिरनुष्टुप्छन्दः, महाकालीमहालक्ष्मीमहासरस्वत्यो देवता यथोक्तफलावाप्त्यर्थं
     
 </div>
 
@@ -328,22 +328,22 @@
 
 
 
-- ![Durga Saptashati Chapter 13 - श्रीदुर्गासप्तशती - त्रयोदशोऽध्यायः](../assets/images/samskrut/durga.jpg){ width="200" }
+- ![Durga Saptashati Chapter 13 - श्रीदुर्गासप्तशती - त्रयोदशोऽध्यायः](../assets/images/samskrut/Durga.jpg){ width="200" }
 
     ### [Durga Saptashati Chapter 13 - श्रीदुर्गासप्तशती - त्रयोदशोऽध्यायः](durga-saptashati-chapter13.md)
     
     **Read time:** 5 min
     
-    EXCERPT Not Found
+    Durga Saptashati Chapter13 ## सुरथ और वैश्य को देवी का वरदान ध्यानम् ॐ बालार्कमण्डलाभासां चतुर्बाहुं त्रिलोचनाम्। पाशाङ्‌कुशवराभीतीर्धारयन्तीं शिवां भ
 
 
-- ![Durga Saptashati Chapter 12 - श्रीदुर्गासप्तशती - द्वादशोऽध्यायः](../assets/images/samskrut/durga.jpg){ width="200" }
+- ![Durga Saptashati Chapter 12 - श्रीदुर्गासप्तशती - द्वादशोऽध्यायः](../assets/images/samskrut/Durga.jpg){ width="200" }
 
     ### [Durga Saptashati Chapter 12 - श्रीदुर्गासप्तशती - द्वादशोऽध्यायः](durga-saptashati-chapter12.md)
     
     **Read time:** 7 min
     
-    EXCERPT Not Found
+    Durga Saptashati Chapter12 ## देवी-चरित्रों के पाठ का माहात्म्य ॥ध्यानम्॥ ॐ विद्युद्दामसमप्रभां मृगपतिस्कन्धस्थितां भीषणां कन्याभिः करवालखेटविलसद्धस्त
     
 </div>
 
@@ -351,22 +351,22 @@
 
 
 
-- ![Durga Saptashati Chapter 11 - श्रीदुर्गासप्तशती -एकादशोऽध्यायः](../assets/images/samskrut/durga.jpg){ width="200" }
+- ![Durga Saptashati Chapter 11 - श्रीदुर्गासप्तशती -एकादशोऽध्यायः](../assets/images/samskrut/Durga.jpg){ width="200" }
 
     ### [Durga Saptashati Chapter 11 - श्रीदुर्गासप्तशती -एकादशोऽध्यायः](durga-saptashati-chapter11.md)
     
     **Read time:** 9 min
     
-    EXCERPT Not Found
+    Durga Saptashati Chapter 11 ## देवताओं द्वारा देवी की सतुति तथा देवी द्वारा देवताओं को वरदान ॥ध्यानम्॥ ॐ बालरविद्युतिमिन्दुकिरीटां तुङ्‌गकुचां नयनत्रय
 
 
-- ![Durga Saptashati Chapter 10 - श्रीदुर्गासप्तशती दशमोऽध्यायः शुम्भ वध](../assets/images/samskrut/durga.jpg){ width="200" }
+- ![Durga Saptashati Chapter 10 - श्रीदुर्गासप्तशती दशमोऽध्यायः शुम्भ वध](../assets/images/samskrut/Durga.jpg){ width="200" }
 
     ### [Durga Saptashati Chapter 10 - श्रीदुर्गासप्तशती दशमोऽध्यायः शुम्भ वध](durga-saptashati-chapter10.md)
     
     **Read time:** 5 min
     
-    EXCERPT Not Found
+    Durga Saptashati Chapter10 ## शुम्भ वध ध्यानम् ॐ उत्तप्तहेमरुचिरां रविचन्द्रवह्नि- नेत्रां धनुश्शरयुताङ्‌कुशपाशशूलम्। रम्यैर्भुजैश्‍च दधतीं शिवशक्तिरू
     
 </div>
 
@@ -374,22 +374,22 @@
 
 
 
-- ![Durga Saptashati Chapter 9 - श्रीदुर्गासप्तशती - नवमोऽध्यायः](../assets/images/samskrut/durga.jpg){ width="200" }
+- ![Durga Saptashati Chapter 9 - श्रीदुर्गासप्तशती - नवमोऽध्यायः](../assets/images/samskrut/Durga.jpg){ width="200" }
 
     ### [Durga Saptashati Chapter 9 - श्रीदुर्गासप्तशती - नवमोऽध्यायः](durga-saptashati-chapter9.md)
     
     **Read time:** 7 min
     
-    EXCERPT Not Found
+    Durga Saptashati Chapter9 ## निशुम्भ-वध ॥ध्यानम्॥ ॐ बन्धूककाञ्चननिभं रुचिराक्षमालां पाशाङ्कुशौ च वरदां निजबाहुदण्डैः। बिभ्राणमिन्दुशकलाभरणं त्रिनेत्र-
 
 
-- ![Durga Saptashati Chapter 8 - श्रीदुर्गासप्तशती - अष्टमोऽध्यायः](../assets/images/samskrut/durga.jpg){ width="200" }
+- ![Durga Saptashati Chapter 8 - श्रीदुर्गासप्तशती - अष्टमोऽध्यायः](../assets/images/samskrut/Durga.jpg){ width="200" }
 
     ### [Durga Saptashati Chapter 8 - श्रीदुर्गासप्तशती - अष्टमोऽध्यायः](durga-saptashati-chapter8.md)
     
     **Read time:** 10 min
     
-    EXCERPT Not Found
+    Durga Saptashati Chapter8 ## रक्तबीज-वध ध्यानम् ॐ अरुणां करुणातरङ्‌गिताक्षीं धृतपाशाङ्‌कुशबाणचापहस्ताम्। अणिमादिभिरावृतां मयूखै- रहमित्येव विभावये भवा
     
 </div>
 
@@ -397,22 +397,22 @@
 
 
 
-- ![Durga Saptashati Chapter 7 - श्रीदुर्गासप्तशती - सप्तमोऽध्यायः](../assets/images/samskrut/durga.jpg){ width="200" }
+- ![Durga Saptashati Chapter 7 - श्रीदुर्गासप्तशती - सप्तमोऽध्यायः](../assets/images/samskrut/Durga.jpg){ width="200" }
 
     ### [Durga Saptashati Chapter 7 - श्रीदुर्गासप्तशती - सप्तमोऽध्यायः](durga-saptashati-chapter7.md)
     
     **Read time:** 5 min
     
-    EXCERPT Not Found
+    Durga Saptashati Chapter7 ## चण्ड और मुण्डका वध ध्यानम् ॐ ध्यायेयं रत्‍नपीठे शुककलपठितं शृण्वतीं श्यामलाङ्‌गीं न्यस्तैकाङ्‌घ्रिं सरोजे शशिशकलधरां वल्ल
 
 
-- ![Durga Saptashati Chapter 6 - श्रीदुर्गासप्तशती - षष्ठोऽध्यायः](../assets/images/samskrut/durga.jpg){ width="200" }
+- ![Durga Saptashati Chapter 6 - श्रीदुर्गासप्तशती - षष्ठोऽध्यायः](../assets/images/samskrut/Durga.jpg){ width="200" }
 
     ### [Durga Saptashati Chapter 6 - श्रीदुर्गासप्तशती - षष्ठोऽध्यायः](durga-saptashati-chapter6.md)
     
     **Read time:** 5 min
     
-    EXCERPT Not Found
+    Durga Saptashati Chapter6 ## धूम्रलोचन-वध ॥ध्यानम्॥ ॐ नागाधीश्‍वरविष्टरां फणिफणोत्तंसोरुरत्‍नावली- भास्वद्देहलतां दिवाकरनिभां नेत्रत्रयोद्भासिताम्। मा
     
 </div>
 
@@ -420,22 +420,22 @@
 
 
 
-- ![Durga Saptashati Chapter 5 - श्रीदुर्गासप्तशती - पञ्चमोऽध्यायः](../assets/images/samskrut/durga.jpg){ width="200" }
+- ![Durga Saptashati Chapter 5 - श्रीदुर्गासप्तशती - पञ्चमोऽध्यायः](../assets/images/samskrut/Durga.jpg){ width="200" }
 
     ### [Durga Saptashati Chapter 5 - श्रीदुर्गासप्तशती - पञ्चमोऽध्यायः](durga-saptashati-chapter5.md)
     
     **Read time:** 14 min
     
-    EXCERPT Not Found
+    Durga Saptashati Chapter5 ## देवताओं द्वारा देवी की स्तुति, चण्ड-मुण्डके मुख से अम्बिका के रूप की प्रशंसा सुनकर शुम्भ का उनके पास दूत भेजना और दूत का 
 
 
-- ![Durga Saptashati Chapter 4 - श्रीदुर्गासप्तशती - चतुर्थोऽध्यायः](../assets/images/samskrut/durga.jpg){ width="200" }
+- ![Durga Saptashati Chapter 4 - श्रीदुर्गासप्तशती - चतुर्थोऽध्यायः](../assets/images/samskrut/Durga.jpg){ width="200" }
 
     ### [Durga Saptashati Chapter 4 - श्रीदुर्गासप्तशती - चतुर्थोऽध्यायः](durga-saptashati-chapter4.md)
     
     **Read time:** 9 min
     
-    EXCERPT Not Found
+    Durga Saptashati Chapter4 ## इन्द्रादि देवताओं द्वारा देवी की स्तुति ध्यानम् ॐ कालाभ्राभां कटाक्षैररिकुलभयदां मौलिबद्धेन्दुरेखां शड्‌खं चक्रं कृपाणं त
     
 </div>
 
@@ -443,22 +443,22 @@
 
 
 
-- ![Durga Saptashati Chapter 3 - श्रीदुर्गासप्तशती - तृतीयोऽध्यायः](../assets/images/samskrut/durga.jpg){ width="200" }
+- ![Durga Saptashati Chapter 3 - श्रीदुर्गासप्तशती - तृतीयोऽध्यायः](../assets/images/samskrut/Durga.jpg){ width="200" }
 
     ### [Durga Saptashati Chapter 3 - श्रीदुर्गासप्तशती - तृतीयोऽध्यायः](durga-saptashati-chapter3.md)
     
     **Read time:** 7 min
     
-    EXCERPT Not Found
+    Durga Saptashati Chapter3 ## सेनापतियोंसहित महिषासुर का वध ॥ध्यानम्॥ ॐ उद्यद्भानुसहस्रकान्तिमरुणक्षौमां शिरोमालिकां रक्तालिप्तपयोधरां जपवटीं विद्यामभी
 
 
-- ![Durga Saptashati Chapter 2 - श्रीदुर्गासप्तशती - द्वितीयोऽध्यायः](../assets/images/samskrut/durga.jpg){ width="200" }
+- ![Durga Saptashati Chapter 2 - श्रीदुर्गासप्तशती - द्वितीयोऽध्यायः](../assets/images/samskrut/Durga.jpg){ width="200" }
 
     ### [Durga Saptashati Chapter 2 - श्रीदुर्गासप्तशती - द्वितीयोऽध्यायः](durga-saptashati-chapter2.md)
     
     **Read time:** 12 min
     
-    EXCERPT Not Found
+    Durga Saptashati Chapter2 ## देवताओं के तेज से देवी का प्रादुर्भाव और महिषासुर की सेना का वध ॥विनियोगः॥ ॐ मध्यमचरित्रस्य विष्णुर्ऋषिः, महालक्ष्मीर्देव
     
 </div>
 
@@ -466,13 +466,13 @@
 
 
 
-- ![Durga Saptashati Chapter 1 - श्रीदुर्गासप्तशती - प्रथमोऽध्यायः](../assets/images/samskrut/durga.jpg){ width="200" }
+- ![Durga Saptashati Chapter 1 - श्रीदुर्गासप्तशती - प्रथमोऽध्यायः](../assets/images/samskrut/Durga.jpg){ width="200" }
 
     ### [Durga Saptashati Chapter 1 - श्रीदुर्गासप्तशती - प्रथमोऽध्यायः](durga-saptashati-chapter1.md)
     
     **Read time:** 14 min
     
-    EXCERPT Not Found
+    Durga Saptashati Chapter1 ## मेधा ऋषि का राजा सुरथ और समाधि को भगवती की महिमा बताते हुए मधु-कैटभ-वध का प्रसंग सुनाना ॥विनियोगः॥ ॐ प्रथमचरित्रस्य ब्रह्
 
 
 - ![Song of Sanyasi  - सन्यासी का गीत](../assets/images/samskrut/Sri-Ramakrishna.jpg){ width="200" }
@@ -481,7 +481,7 @@
     
     **Read time:** 10 min
     
-    EXCERPT Not Found
+    Song of Sanyasi by Swami Vivekananda जगाओ स्वर! उस गीत के जो जन्मा दूर कहीं है,वहां जहां सांसारिक मल पहुंच न सके, गिरि कंदरा और वनों की बंजर भूमिपर, ज
     
 </div>
 
@@ -495,7 +495,7 @@
     
     **Read time:** 5 min
     
-    EXCERPT Not Found
+    Kakbushandi (Crow Sage) says to Bainteya (King of birds) that at the time of Coronation of Rama in Ayodhya Vedas came in the form of birds and recited
 
 
 - ![Shvetashvatara Upanishad - श्वेताश्वतरोपनिषत्](../assets/images/samskrut/Upanishad.jpg){ width="200" }
@@ -504,7 +504,7 @@
     
     **Read time:** 24 min
     
-    EXCERPT Not Found
+    Shvetashvatara Upanishad ॐ सहनाववतु । सह नौ भुनक्तु । सह वीर्यं करवावहै । तेजस्वि नावधीतमस्तु । मा विद्विषावहै ॥ ॐ शान्तिः शान्तिः शान्तिः ॥ श्वेताश्व
     
 </div>
 
@@ -518,7 +518,7 @@
     
     **Read time:** 16 min
     
-    EXCERPT Not Found
+    Mundakoupnishad ॐ भद्रं कर्णेभिः श्रुणुयाम देवा भद्रं पश्येमाक्षभिर्यजत्राः । स्थिरैरङ्गैस्तुष्टुवाꣳसस्तनूभिर्व्यशेम देवहितं यदायुः । स्वस्ति न इन्द्र
 
 
 - ![Chandogyopnishad 8 - छान्दोग्योपनिषत् अष्टमोऽध्यायः](../assets/images/samskrut/Upanishad.jpg){ width="200" }
@@ -527,7 +527,7 @@
     
     **Read time:** 23 min
     
-    EXCERPT Not Found
+    Chandogyopnishad 8 अथ यदिदमस्मिन्ब्रह्मपुरे दहरं पुण्डरीकं वेश्म दहरोऽस्मिन्नन्तराकाशस्तस्मिन्यदन्तस्तदन्वेष्टव्यं तद्वाव विजिज्ञासितव्यमिति ॥ ८.१.१॥ 
     
 </div>
 
@@ -541,7 +541,7 @@
     
     **Read time:** 23 min
     
-    EXCERPT Not Found
+    Chandogyopnishad 7 अधीहि भगव इति होपससाद सनत्कुमारं नारदस्तꣳ होवाच यद्वेत्थ तेन मोपसीद ततस्त ऊर्ध्वं वक्ष्यामीति स होवाच ॥ ७.१.१॥ ऋग्वेदं भगवोऽध्येमि 
 
 
 - ![Chandogyopnishad 6 - छान्दोग्योपनिषत् षष्ठोऽध्यायः](../assets/images/samskrut/Upanishad.jpg){ width="200" }
@@ -550,7 +550,7 @@
     
     **Read time:** 19 min
     
-    EXCERPT Not Found
+    Chandogyopnishad 6 श्वेतकेतुर्हारुणेय आस तꣳ ह पितोवाच श्वेतकेतो वस ब्रह्मचर्यं न वै सोम्यास्मत्कुलीनोऽननूच्य ब्रह्मबन्धुरिव भवतीति ॥ ६.१.१॥ स ह द्वादश
     
 </div>
 
@@ -564,7 +564,7 @@
     
     **Read time:** 26 min
     
-    EXCERPT Not Found
+    Chandogyopnishad 5 यो ह वै ज्येष्ठं च श्रेष्ठं च वेद ज्येष्ठश्च ह वै श्रेष्ठश्च भवति प्राणो वाव ज्येष्ठश्च श्रेष्ठश्च ॥ ५.१.१॥ यो ह वै वसिष्ठं वेद वसि
 
 
 - ![Chandogyopnishad 4 - छान्दोग्योपनिषत् चतुर्थोऽध्यायः](../assets/images/samskrut/Upanishad.jpg){ width="200" }
@@ -573,7 +573,7 @@
     
     **Read time:** 22 min
     
-    EXCERPT Not Found
+    Chandogyopnishad 4 जानश्रुतिर्ह पौत्रायणः श्रद्धादेयो बहुदायी बहुपाक्य आस स ह सर्वत आवसथान्मापयांचक्रे सर्वत एव मेऽन्नमत्स्यन्तीति ॥ ४.१.१॥ अथ हꣳसा नि
     
 </div>
 
@@ -587,7 +587,7 @@
     
     **Read time:** 22 min
     
-    EXCERPT Not Found
+    Chandogyopnishad 3 असौ वा आदित्यो देवमधु तस्य द्यौरेव तिरश्चीनवꣳशोऽन्तरिक्षमपूपो मरीचयः पुत्राः ॥ ३.१.१॥ तस्य ये प्राञ्चो रश्मयस्ता एवास्य प्राच्यो मध
 
 
 - ![Chandogyopnishad 2 - छान्दोग्योपनिषत् द्वितीयोऽध्यायः](../assets/images/samskrut/Upanishad.jpg){ width="200" }
@@ -596,7 +596,7 @@
     
     **Read time:** 20 min
     
-    EXCERPT Not Found
+    Chandogyopnishad 2 समस्तस्य खलु साम्न उपासनꣳ साधु यत्खलु साधु तत्सामेत्याचक्षते यदसाधु तदसामेति ॥ २.१.१॥ तदुताप्याहुः साम्नैनमुपागादिति साधुनैनमुपागाद
     
 </div>
 
@@ -610,7 +610,7 @@
     
     **Read time:** 25 min
     
-    EXCERPT Not Found
+    Chandogyopnishad 1 ॥ अथ छान्दोग्योपनिषत् ॥ ॐ आप्यायन्तु ममाङ्गानि वाक्प्राणश्च्क्षुः श्रोत्रमथो बलमिन्द्रियाणि च सर्वाणि । सर्वं ब्रह्मौपनिषदं माहं ब्
 
 
 - ![Mandukyopnishad  - माण्डूक्योपनिषत्](../assets/images/samskrut/Upanishad.jpg){ width="200" }
@@ -679,7 +679,7 @@
     
     **Read time:** 6 min
     
-    EXCERPT Not Found
+    ॥ बालकाण्डम् Baala-Kaannddam ॥ शुद्धब्रह्मपरात्पर राम् ॥१॥ कालात्मकपरमेश्वर राम् ॥२॥ शेषतल्पसुखनिद्रित राम् ॥३॥ ब्रह्माद्यामरप्रार्थित राम् ॥४॥ चण्डकि
 
 
 - ![Gunasagar Nirguna Paramesha - गुणसागर निर्गुण परमेशा](../assets/images/samskrut/Sri-Ramakrishna.jpg){ width="200" }
@@ -688,7 +688,7 @@
     
     **Read time:** 5 min
     
-    EXCERPT Not Found
+    I will add text very soon.
     
 </div>
 
@@ -696,13 +696,13 @@
 
 
 
-- ![Shrisuktam - श्रीसूक्तम्](../assets/images/samskrut/durga.jpg){ width="200" }
+- ![Shrisuktam - श्रीसूक्तम्](../assets/images/samskrut/Durga.jpg){ width="200" }
 
     ### [Shrisuktam - श्रीसूक्तम्](shrisuktam.md)
     
     **Read time:** 5 min
     
-    EXCERPT Not Found
+    Shrisuktam ॐ हिर॑ण्यवर्णां॒ हरि॑णीं सु॒वर्ण॑रज॒तस्र॑जाम् । च॒न्द्रां हि॒रण्म॑यीं ल॒क्ष्मीं जात॑वेदो म॒ आव॑ह ॥ तां म॒ आव॑ह॒ जात॑वेदो ल॒क्ष्मीमन॑पगा॒मिन
 
 
 - ![Navgruhsuktam - नवग्रहसूक्तम्](../assets/images/samskrut/SanskritYatra-Sloka.jpg){ width="200" }
@@ -711,7 +711,7 @@
     
     **Read time:** 7 min
     
-    EXCERPT Not Found
+    Navgruhsuktam ॐ शुक्लाम्बरधरं विष्णुं शशिवर्णं चतुर्भुजम्। प्रसन्नवदनम् ध्यायेत्सर्व विघ्नोपशान्तये॥ ॐ भूः ॐ भुवः॑ ॐ सुवः॑ ॐ महः॑ ॐ जनः ॐ तपः॑ ॐ स॒त्य
     
 </div>
 
@@ -725,7 +725,7 @@
     
     **Read time:** 5 min
     
-    EXCERPT Not Found
+    Narayanopnishad ॐ स॒ह ना॑ववतु । स॒ह नौ॑ भुनक्तु । स॒ह वी॒र्यं॑ करवावहै । ते॒ज॒स्विना॒वधी॑तमस्तु॒ मा वि॑द्विषा॒वहै᳚ ॥ ॐ शान्तिः॒ शान्तिः॒ शान्तिः॑ ॥ ॐ 
 
 
 - ![शिव जयजयकार स्तोत्रं - शिव जयजयकार स्तोत्रं](../assets/images/samskrut/Shiva.jpg){ width="200" }
@@ -794,7 +794,7 @@
     
     **Read time:** 7 min
     
-    EXCERPT Not Found
+    Kenopnishad ॐ आप्यायन्तु ममाङ्गानि वाक्प्राणश्चक्षुः श्रोत्रमथो बलमिन्द्रियाणि च सर्वाणि । सर्वं ब्रह्मौपनिषदं माऽहं ब्रह्म निराकुर्यां मा मा ब्रह्म न
 
 
 - ![Jai Raam Rama Ramanam Samanam - जय राम रमा रमनं समनं](../assets/images/samskrut/RamcharaitMaanas.jpg){ width="200" }
@@ -820,13 +820,13 @@
     जय जय सुरनायक जन सुखदायक प्रनतपाल भगवंता।  गो द्विज हितकारी जय असुरारी सिधुंसुता प्रिय कंता।।
 
 
-- ![Durgati Naashini Durge - दुर्गतिनाशिनी दुर्गे](../assets/images/samskrut/durga.jpg){ width="200" }
+- ![Durgati Naashini Durge - दुर्गतिनाशिनी दुर्गे](../assets/images/samskrut/Durga.jpg){ width="200" }
 
     ### [Durgati Naashini Durge - दुर्गतिनाशिनी दुर्गे](durgatinaashinidurge.md)
     
     **Read time:** 5 min
     
-    EXCERPT Not Found
+    जय दुर्गतिनाशिनी दुर्गे, माँ ज्ञान- भक्ति का वर दे ।। मम अँधियारे जीवन को, स्वर्णिम प्रकाश से भर दे ।। रिपुओं ने मुझको घेरा, बस मिल जाये आश्रय तेरा, न
     
 </div>
 
@@ -834,13 +834,13 @@
 
 
 
-- ![Rigvediya DeviSuktam - देवीसूक्तम्](../assets/images/samskrut/durga.jpg){ width="200" }
+- ![Rigvediya DeviSuktam - देवीसूक्तम्](../assets/images/samskrut/Durga.jpg){ width="200" }
 
     ### [Rigvediya DeviSuktam - देवीसूक्तम्](devi-suktam-saswara.md)
     
     **Read time:** 5 min
     
-    EXCERPT Not Found
+    ॥विनियोगः॥ ॐ अहमित्यष्टर्चस्य सूक्तस्य वागाम्भृणी ऋषिः, सच्चित्सुखात्मकः सर्वगतः परमात्मा देवता, द्वितीयाया ॠचो जगती, शिष्टानां त्रिष्टुप् छन्दः, देवी
 
 
 - ![AdityaHrudyam Stotram - आदित्यहृदयम् स्त्रोत्रं](../assets/images/samskrut/GayatriDevata.jpg){ width="200" }
@@ -857,13 +857,13 @@
 
 
 
-- ![Sankat Mochan HanumanAshtakam  - संकटमोचन हनुमानाष्टक](../assets/images/samskrut/HanumanJi.jpg){ width="200" }
+- ![Sankat Mochan HanumanAshtakam  - संकटमोचन हनुमानाष्टक](../assets/images/samskrut/Hanumanji.jpg){ width="200" }
 
     ### [Sankat Mochan HanumanAshtakam  - संकटमोचन हनुमानाष्टक](sankat-mochan-hanumanasht.md)
     
     **Read time:** 5 min
     
-    EXCERPT Not Found
+    Sankat Mochan HanumanAshtakam गोस्वामी तुलसीदास कृत बाल समय रबि भक्षि लियो तब, तीनहुँ लोक भयो अँधियारो । ताहि सों त्रास भयो जग को, यह संकट काहु सों जा
 
 
 - ![Lakshmi Nrusimha Karavalamba Stotram - लक्ष्मीनृसिंह करावलम्ब स्तोत्र](../assets/images/samskrut/LakshmiNrushimhan.jpg){ width="200" }
@@ -886,7 +886,7 @@
     
     **Read time:** 19 min
     
-    EXCERPT Not Found
+    Kabirdaas Dohe In Indian Bhakti tradition Kabirdaas holds a very unique position. Because of his efforts to unify the Hindu & Muslim community he is r
 
 
 - ![Hanuman Chalisa - हनुमान चालीसा](../assets/images/samskrut/Hanumanji.jpg){ width="200" }
@@ -903,7 +903,7 @@
 
 
 
-- ![Guru Stotram  - गुरु स्तोत्रम्](../assets/images/samskrut/durga.jpg){ width="200" }
+- ![Guru Stotram  - गुरु स्तोत्रम्](../assets/images/samskrut/Durga.jpg){ width="200" }
 
     ### [Guru Stotram  - गुरु स्तोत्रम्](guru-stotram.md)
     
@@ -912,7 +912,7 @@
     गुरुर्ब्रह्मा गुरुर्विष्णुर्गुरुर्देवो महेश्वरः ।   गुरुरेव परं ब्रह्म तस्मै श्रीगुरवे नमः ॥
 
 
-- ![Devi Kshama Prarthana - क्षमा-प्रार्थना](../assets/images/samskrut/durga.jpg){ width="200" }
+- ![Devi Kshama Prarthana - क्षमा-प्रार्थना](../assets/images/samskrut/Durga.jpg){ width="200" }
 
     ### [Devi Kshama Prarthana - क्षमा-प्रार्थना](devi-kshama-prarthana.md)
     
@@ -926,13 +926,13 @@
 
 
 
-- ![Bhavani Ashtakam - भवान्यष्टकम्](../assets/images/samskrut/durga.jpg){ width="200" }
+- ![Bhavani Ashtakam - भवान्यष्टकम्](../assets/images/samskrut/Durga.jpg){ width="200" }
 
     ### [Bhavani Ashtakam - भवान्यष्टकम्](bhavani-ashtakam.md)
     
     **Read time:** 5 min
     
-    EXCERPT Not Found
+    न तातो न माता न बन्धुर्न दाता न पुत्रो न पुत्री न भृत्यो न भर्ता । न जाया न विद्या न वृत्तिर्ममैव गतिस्त्वं गतिस्त्वं त्वमेका भवानि ॥१॥ भवाब्धावपारे म
 
 
 - ![Aitreyopnishad - ऐतरेयोपनिषत्](../assets/images/samskrut/Upanishad.jpg){ width="200" }
@@ -941,7 +941,7 @@
     
     **Read time:** 11 min
     
-    EXCERPT Not Found
+    Aitreyopnishad वाङ् मे मनसि प्रतिष्ठिता मनो मे वाचि प्रतिष्ठितमाविरावीर्म एधि ॥ वेदस्य म आणीस्थः श्रुतं मे मा प्रहासीरनेनाधीतेनाहोरात्रान् संदधाम्यृतं
     
 </div>
 
@@ -955,7 +955,7 @@
     
     **Read time:** 14 min
     
-    EXCERPT Not Found
+    Bhagwat Gita Chapter 18 ## अथाष्टादशोऽध्यायः । मोक्षसंन्यासयोगः अर्जुन उवाच । संन्यासस्य महाबाहो तत्त्वमिच्छामि वेदितुम् । त्यागस्य च हृषीकेश पृथक्केश
 
 
 - ![Bhagwat Gita Chapter 17 - श्रीमद्भगवद्गीता सप्तदशोऽध्यायः - श्रद्धात्रयविभागयोगः](../assets/images/samskrut/BhagwatGita.jpg){ width="200" }
@@ -964,7 +964,7 @@
     
     **Read time:** 5 min
     
-    EXCERPT Not Found
+    Bhagwat Gita Chapter 17 अथ सप्तदशोऽध्यायः । श्रद्धात्रयविभागयोगः अर्जुन उवाच । ये शास्त्रविधिमुत्सृज्य यजन्ते श्रद्धयान्विताः । तेषां निष्ठा तु का कृष
     
 </div>
 
@@ -978,7 +978,7 @@
     
     **Read time:** 5 min
     
-    EXCERPT Not Found
+    Bhagwat Gita Chapter 16 अथ षोडशोऽध्यायः । दैवासुरसम्पद्विभागयोगः श्रीभगवानुवाच । अभयं सत्त्वसंशुद्धिर्ज्ञानयोगव्यवस्थितिः । दानं दमश्च यज्ञश्च स्वाध्य
 
 
 - ![Bhagwat Gita Chapter 15 - श्रीमद्भगवद्गीता पञ्चदशोऽध्यायः - पुरुषोत्तमयोगः](../assets/images/samskrut/BhagwatGita.jpg){ width="200" }
@@ -987,7 +987,7 @@
     
     **Read time:** 5 min
     
-    EXCERPT Not Found
+    Bhagwat Gita Chapter 15 अथ पञ्चदशोऽध्यायः । पुरुषोत्तमयोगः श्रीभगवानुवाच । ऊर्ध्वमूलमधःशाखमश्वत्थं प्राहुरव्ययम् । छन्दांसि यस्य पर्णानि यस्तं वेद स व
     
 </div>
 
@@ -1001,7 +1001,7 @@
     
     **Read time:** 5 min
     
-    EXCERPT Not Found
+    Bhagwat Gita Chapter 14 अथ चतुर्दशोऽध्यायः । गुणत्रयविभागयोगः श्रीभगवानुवाच । परं भूयः प्रवक्ष्यामि ज्ञानानां ज्ञानमुत्तमम् । यज्ज्ञात्वा मुनयः सर्वे 
 
 
 - ![Bhagwat Gita Chapter 13 - श्रीमद्भगवद्गीता त्रयोदशोऽध्यायः - क्षेत्रक्षेत्रज्ञविभागयोगः](../assets/images/samskrut/BhagwatGita.jpg){ width="200" }
@@ -1010,7 +1010,7 @@
     
     **Read time:** 6 min
     
-    EXCERPT Not Found
+    Bhagwat Gita Chapter 13 अथ त्रयोदशोऽध्यायः । क्षेत्रक्षेत्रज्ञविभागयोगः अर्जुन उवाच । प्रकृतिं पुरुषं चैव क्षेत्रं क्षेत्रज्ञमेव च । एतद्वेदितुमिच्छाम
     
 </div>
 
@@ -1024,7 +1024,7 @@
     
     **Read time:** 5 min
     
-    EXCERPT Not Found
+    Bhagwat Gita Chapter 12 अथ द्वादशोऽध्यायः । भक्तियोगः अर्जुन उवाच । एवं सततयुक्ता ये भक्तास्त्वां पर्युपासते । ये चाप्यक्षरमव्यक्तं तेषां के योगवित्तम
 
 
 - ![Bhagwat Gita Chapter 11 - श्रीमद्भगवद्गीता एकादशोऽध्यायः - विश्वरूपदर्शनयोगः](../assets/images/samskrut/BhagwatGita.jpg){ width="200" }
@@ -1033,7 +1033,7 @@
     
     **Read time:** 12 min
     
-    EXCERPT Not Found
+    Bhagwat Gita Chapter 11 अथैकादशोऽध्यायः । विश्वरूपदर्शनयोगः अर्जुन उवाच । मदनुग्रहाय परमं गुह्यमध्यात्मसंज्ञितम् । यत्त्वयोक्तं वचस्तेन मोहोऽयं विगतो 
     
 </div>
 
@@ -1047,7 +1047,7 @@
     
     **Read time:** 7 min
     
-    EXCERPT Not Found
+    Bhagwat Gita Chapter 10 अथ दशमोऽध्यायः । विभूतियोगः श्रीभगवानुवाच । भूय एव महाबाहो शृणु मे परमं वचः । यत्तेऽहं प्रीयमाणाय वक्ष्यामि हितकाम्यया ॥ १०-१॥
 
 
 - ![Bhagwat Gita Chapter 9 - श्रीमद्भगवद्गीता नवमोऽध्यायः - राजविद्याराजगुह्ययोगः](../assets/images/samskrut/BhagwatGita.jpg){ width="200" }
@@ -1056,7 +1056,7 @@
     
     **Read time:** 6 min
     
-    EXCERPT Not Found
+    Bhagwat Gita Chapter 9 अथ नवमोऽध्यायः । राजविद्याराजगुह्ययोगः श्रीभगवानुवाच । इदं तु ते गुह्यतमं प्रवक्ष्याम्यनसूयवे । ज्ञानं विज्ञानसहितं यज्ज्ञात्वा
     
 </div>
 
@@ -1070,7 +1070,7 @@
     
     **Read time:** 5 min
     
-    EXCERPT Not Found
+    Bhagwat Gita Chapter 8 अथ अष्टमोऽध्यायः । अक्षरब्रह्मयोगः अर्जुन उवाच । किं तद् ब्रह्म किमध्यात्मं किं कर्म पुरुषोत्तम । अधिभूतं च किं प्रोक्तमधिदैवं 
 
 
 - ![Bhagwat Gita Chapter 7 - श्रीमद्भगवद्गीता सप्तमोऽध्यायः - ज्ञानविज्ञानयोगः](../assets/images/samskrut/BhagwatGita.jpg){ width="200" }
@@ -1079,7 +1079,7 @@
     
     **Read time:** 5 min
     
-    EXCERPT Not Found
+    Bhagwat Gita Chapter 7 अथ सप्तमोऽध्यायः । ज्ञानविज्ञानयोगः श्रीभगवानुवाच । मय्यासक्तमनाः पार्थ योगं युञ्जन्मदाश्रयः । असंशयं समग्रं मां यथा ज्ञास्यसि 
     
 </div>
 
@@ -1093,7 +1093,7 @@
     
     **Read time:** 8 min
     
-    EXCERPT Not Found
+    Bhagwat Gita Chapter 6 अथ षष्ठोऽध्यायः । ध्यानयोगः श्रीभगवानुवाच । अनाश्रितः कर्मफलं कार्यं कर्म करोति यः । स संन्यासी च योगी च न निरग्निर्न चाक्रियः 
 
 
 - ![Bhagwat Gita Chapter 5 - श्रीमद्भगवद्गीता पञ्चमोऽध्यायः - संन्यासयोगः](../assets/images/samskrut/BhagwatGita.jpg){ width="200" }
@@ -1102,7 +1102,7 @@
     
     **Read time:** 5 min
     
-    EXCERPT Not Found
+    Bhagwat Gita Chapter 5 अथ पञ्चमोऽध्यायः । संन्यासयोगः अर्जुन उवाच । संन्यासं कर्मणां कृष्ण पुनर्योगं च शंससि । यच्छ्रेय एतयोरेकं तन्मे ब्रूहि सुनिश्चि
     
 </div>
 
@@ -1116,7 +1116,7 @@
     
     **Read time:** 7 min
     
-    EXCERPT Not Found
+    Bhagwat Gita Chapter 4 अथ चतुर्थोऽध्यायः । ज्ञानकर्मसंन्यासयोगः श्रीभगवानुवाच । इमं विवस्वते योगं प्रोक्तवानहमव्ययम् । विवस्वान्मनवे प्राह मनुरिक्ष्वा
 
 
 - ![Bhagwat Gita Chapter 3 - श्रीमद्भगवद्गीता तृतीयोऽध्यायः](../assets/images/samskrut/BhagwatGita.jpg){ width="200" }
@@ -1125,7 +1125,7 @@
     
     **Read time:** 8 min
     
-    EXCERPT Not Found
+    Bhagwat Gita Chapter 3 अथ तृतीयोऽध्यायः । कर्मयोगः अर्जुन उवाच । ज्यायसी चेत्कर्मणस्ते मता बुद्धिर्जनार्दन । तत्किं कर्मणि घोरे मां नियोजयसि केशव ॥ ३-
     
 </div>
 
@@ -1139,7 +1139,7 @@
     
     **Read time:** 13 min
     
-    EXCERPT Not Found
+    Bhagwat Gita Chapter 2 सञ्जय उवाच । तं तथा कृपयाविष्टमश्रुपूर्णाकुलेक्षणम् । विषीदन्तमिदं वाक्यमुवाच मधुसूदनः ॥ २-१॥ श्रीभगवानुवाच । कुतस्त्वा कश्मलमि
 
 
 - ![Bhagwat Gita Chapter 1 - श्रीमद्भगवद्गीता प्रथमोऽध्यायः](../assets/images/samskrut/BhagwatGita.jpg){ width="200" }
@@ -1148,7 +1148,7 @@
     
     **Read time:** 8 min
     
-    EXCERPT Not Found
+    Bhagwat Gita Chapter 1 ॐ श्री परमात्मने नमः ॥ अथ श्रीमद्भगवद्गीता ॥ अथ प्रथमोऽध्यायः । अर्जुनविषादयोगः धृतराष्ट्र उवाच । धर्मक्षेत्रे कुरुक्षेत्रे समव
     
 </div>
 
@@ -1162,7 +1162,7 @@
     
     **Read time:** 9 min
     
-    EXCERPT Not Found
+    Yaagyavalkyopnishad संन्यासज्ञानसम्पन्ना यान्ति यद्वैष्णवं पदम् । तद्वै पदं ब्रह्मतत्त्वं रामचन्द्रपदं भजे ॥ ॐ पूर्णमदः पूर्णमिदं पूर्णात्पूर्णमुदच्यत
 
 
 - ![Thirukkural Summary in Hindi](../assets/images/samskrut/Thiruvalluvar.jpg){ width="200" }
@@ -1171,7 +1171,7 @@
     
     **Read time:** 5 min
     
-    EXCERPT Not Found
+    TirukKural Summary - Part 2 अध्याय 001 to 010 1. ईश्वर- स्तुति 2. वर्षा- महत्व 3. संन्यासी- महिमा 4. धर्म पर आग्रह 5. गार्हस्थ्य 6. सहधर्मिणो 7. संतान
     
 </div>
 
@@ -1185,7 +1185,7 @@
     
     **Read time:** 5 min
     
-    EXCERPT Not Found
+    Nirvanopnishad ऋग्वेदीय संन्यासोपनिषत् निर्वाणोपनिषद्वेद्यं निर्वाणानन्दतुन्दिलम् । त्रैपदानन्दसाम्राज्यं स्वमात्रमिति चिन्तयेत् ॥ ॐ वाङ्मे मनसि प्रति
 
 
 - ![Lingastakam Stotra - लिंगाष्टकमं स्तोत्र](../assets/images/samskrut/Shiva.jpg){ width="200" }
@@ -1202,13 +1202,13 @@
 
 
 
-- ![Kanakdhara Stotram - कनकधारा स्तोत्रं](../assets/images/samskrut/durga.jpg){ width="200" }
+- ![Kanakdhara Stotram - कनकधारा स्तोत्रं](../assets/images/samskrut/Durga.jpg){ width="200" }
 
     ### [Kanakdhara Stotram - कनकधारा स्तोत्रं](kanakdhara-stotram.md)
     
     **Read time:** 5 min
     
-    EXCERPT Not Found
+    Kanakdhara Stotram अंग हरे: पुलकभूषणमाश्रयन्ती भृंगांगनेव मुकुलाभरणं तमालम । अंगीकृताखिल विभूतिरपांगलीला मांगल्यदाsस्तु मम मंगलदेवताया: ।।1।। मुग्धा म
 
 
 - ![AmrutBindu Upanishad  - अमृतबिन्दुपनिषत्](../assets/images/samskrut/Upanishad.jpg){ width="200" }
@@ -1217,7 +1217,7 @@
     
     **Read time:** 5 min
     
-    EXCERPT Not Found
+    AmrutBindu Upanishad ॐ सह नाववतु सह नौ भुनक्तु सह वीर्यं करवावहै । तेजस्विनावधीतमस्तु मा विद्विषावहै ॥ ॐ शान्तिः शान्तिः शान्तिः । हरिः ॐ ॥ मनो हि द्व
     
 </div>
 
@@ -1240,7 +1240,7 @@
     
     **Read time:** 8 min
     
-    EXCERPT Not Found
+    Aatmopnishad यत्र नात्मप्रपञ्चोऽयमपह्नवपदं गतः । प्रतियोगिविनिर्मुक्तः परमात्मावशिष्यते ॥ ॐ भद्रं कर्णेभिः श्रुणुयाम देवाः । भद्रं पश्येमाक्षभिर्यजत्र
     
 </div>
 
@@ -1254,7 +1254,7 @@
     
     **Read time:** 37 min
     
-    EXCERPT Not Found
+    Vishnu SahasraNaam There are 5 versions of VishnuSahasraNaamStotram. They differ in their Dhyana Stotram, FalaStuti, or in the Main body of verses. * 
 
 
 - ![Vipasana Dohe- Dharma  - मन](../assets/images/samskrut/Vipasana.jpg){ width="200" }
@@ -1303,7 +1303,7 @@
     ॐ वन्दे देव उमापतिं सुरगुरुं, वन्दे जगत्कारणम् ।      वन्दे पन्नगभूषणं मृगधरं, वन्दे पशूनां पतिम् ॥ 
 
 
-- ![DurgaSuktam - अथ दुर्गासूक्तम्](../assets/images/samskrut/durga.jpg){ width="200" }
+- ![DurgaSuktam - अथ दुर्गासूक्तम्](../assets/images/samskrut/Durga.jpg){ width="200" }
 
     ### [DurgaSuktam - अथ दुर्गासूक्तम्](durgasuktam.md)
     
@@ -1323,7 +1323,7 @@
     
     **Read time:** 5 min
     
-    EXCERPT Not Found
+    ShrihanumatSuktam श्रीमन्तो सर्वलक्षणसम्पन्नो जयप्रदः सर्वाभरणभूषित उदारो महोन्नतोष्ट्रारूढः केसरीप्रियनन्न्दनो वायुतनूजो यथेच्छं पम्पातीरविहारी गन्धम
 
 
 - ![Shiv Tandava Stotram - शिवतांडवस्तोत्रं](../assets/images/samskrut/Shiva.jpg){ width="200" }
@@ -1332,7 +1332,7 @@
     
     **Read time:** 5 min
     
-    EXCERPT Not Found
+    जटाटवीगलज्जल प्रवाहपावितस्थले गलेऽवलम्ब्य लम्बितां भुजंगतुंगमालिकाम्‌। डमड्डमड्डमड्डमनिनादवड्डमर्वयं चकार चण्डताण्डवं तनोतु नः शिवः शिवम
     
 </div>
 
@@ -1392,7 +1392,7 @@
     
     **Read time:** 5 min
     
-    EXCERPT Not Found
+    नागेन्द्रहाराय त्रिलोचनाय, भस्माङ्गरागाय महेश्वराय । नित्याय शुद्धाय दिगम्बराय, तस्मै न काराय नमः शिवाय ॥१॥ मन्दाकिनी सलिलचन्दन चर्चिताय, नन्दीश्वर प्
 
 
 - ![Shivmaanaspooja - शिवमानसपूजा](../assets/images/samskrut/Shiva.jpg){ width="200" }
@@ -1461,7 +1461,7 @@
     
     **Read time:** 5 min
     
-    EXCERPT Not Found
+    VishnuSuktam ॐ विष्णो॒र्नुकं॑ वी॒र्या॑णि॒ प्रवो॑चं॒ यः पार्थि॑वानि विम॒मे रजाग्ं॑सि॒ यो अस्क॑भाय॒दुत्त॑रग्ं स॒धस्थं॑ विचक्रमा॒णस्त्रे॒धोरु॑गा॒यो विष्ण
 
 
 - ![Shri Kaal Bhairav Ashtakam - श्री काल भैरव अष्टकम्‌](../assets/images/samskrut/Shiva.jpg){ width="200" }
@@ -1470,7 +1470,7 @@
     
     **Read time:** 5 min
     
-    EXCERPT Not Found
+    देवराज सेव्यमान पावनाङ्घ्रि पङ्कजं व्यालयज्ञ सूत्रमिन्दु शेखरं कृपाकरम्‌ । नारदादि योगिबृन्द वन्दितं दिगम्बरं काशिकापुराधिनाथ कालभेरवं भजे ॥ 1 ॥ भानुक
     
 </div>
 
@@ -1484,7 +1484,7 @@
     
     **Read time:** 5 min
     
-    EXCERPT Not Found
+    Mangalacharan ॥ ॐ श्री गुरुभ्यो नमः हरिः ॐ ॥ शुक्लाम्बरधरं विष्णुं शशिवर्णं चतुर्भुजम् । प्रसन्नवदनं ध्यायेत् सर्वविघ्नोपशान्तये ॥ १॥ अगजानन पद्मार्कं
 
 
 - ![Thirukkural in Hindi Chapter 6-10 - तिरुक्कूरळ](../assets/images/samskrut/Thiruvalluvar.jpg){ width="200" }
@@ -1516,7 +1516,7 @@
     
     **Read time:** 12 min
     
-    EXCERPT Not Found
+    Taitriya Upnishad Sheeksha Valli ॐ श्री गुरुभ्यो नमः । ह॒रिः॒ ॐ । ॐ शं नो॑ मि॒त्रः शं वरु॑णः । शं नो॑ भवत्वर्य॒मा । शं न॒ इन्द्रो॒ बृह॒स्पतिः॑ । शं नो
     
 </div>
 
@@ -1530,7 +1530,7 @@
     
     **Read time:** 11 min
     
-    EXCERPT Not Found
+    Taitriya Upnishad Brahmananda Valli ॐ स॒ह ना॑ववतु । स॒ह नौ॑ भुनक्तु । स॒ह वी॒र्यं॑ करवावहै । ते॒ज॒स्विना॒वधी॑तमस्तु॒ मा वि॑द्विषा॒वहै᳚ । ॐ शान्तिः॒ शा
 
 
 - ![Taitriya Upnishad Bhrugu Valli  - तैत्तिरीयोपनिषत् सस्वरा - तृतीया भृगुवल्ली](../assets/images/samskrut/Upanishad.jpg){ width="200" }
@@ -1539,7 +1539,7 @@
     
     **Read time:** 9 min
     
-    EXCERPT Not Found
+    Taitriya Upnishad Bhrugu Valli ॐ स॒ह ना॑ववतु । स॒ह नौ॑ भुनक्तु । स॒ह वी॒र्यं॑ करवावहै । ते॒ज॒स्विना॒वधी॑तमस्तु॒ मा वि॑द्विषा॒वहै᳚ । ॐ शान्तिः॒ शान्तिः
     
 </div>
 
@@ -1553,7 +1553,7 @@
     
     **Read time:** 5 min
     
-    EXCERPT Not Found
+    मनोबुद्ध्यहंकारचित्तानि नाहं न च श्रोत्रजिह्वे न च घ्राणनेत्रे । न च व्योमभूमिः न तेजो न वायुः चिदानंदरूपः शिवोऽहं शिवोऽहम्
 
 
 - ![TaitriyaUpanishad BrahmanandaMimamsa - तैत्तिरीयोपनिषत् ब्रह्मानन्दमीमांसा](../assets/images/samskrut/Upanishad.jpg){ width="200" }
@@ -1570,13 +1570,13 @@
 
 
 
-- ![भूसूक्तम्  - भूसूक्तम्](../assets/images/samskrut/durga.jpg){ width="200" }
+- ![भूसूक्तम्  - भूसूक्तम्](../assets/images/samskrut/Durga.jpg){ width="200" }
 
     ### [भूसूक्तम्  - भूसूक्तम्](bhoosuktam.md)
     
     **Read time:** 5 min
     
-    EXCERPT Not Found
+    Bhoosuktam ॐ भूमि॑र्भू॒म्ना द्यौर्व॑रि॒णाऽन्तरि॑क्षं महि॒त्वा । उ॒पस्थे॑ ते देव्यदिते॒ऽग्निम॑न्ना॒द-म॒न्नाद्या॒याद॑धे ॥ आऽयङ्गौः पृश्नि॑रक्रमी॒ दस॑नन्
 
 
 - ![Bhava Sagara Tarana Karana He - भवसागर तारण कारण हे](../assets/images/samskrut/Sri-Ramakrishna.jpg){ width="200" }
@@ -1585,7 +1585,7 @@
     
     **Read time:** 5 min
     
-    EXCERPT Not Found
+    भवसागर तारण कारण हे । रविनन्दन बन्धन खण्डन हे ॥ शरणागत किंकर भीत मने । गुरुदेव दया करो दीनजने ॥१॥ हृदिकन्दर तामस भास्कर हे । तुमि विष्णु प्रजापति शंकर
     
 </div>
 
@@ -1599,7 +1599,7 @@
     
     **Read time:** 5 min
     
-    EXCERPT Not Found
+    श्रीविद्ये शिववामभागनिलये श्रीराजराजार्चिते श्रीनाथादिगुरुस्वरूपविभवे चिन्तामणीपीठिके । श्रीवाणीगिरिजानुताङ्घ्रिकमले श्रीशांभवि श्रीशिवे मध्याह्ने मलय
 
 
 - ![Thirukkural in Hindi Chapter 1 to 5 - तिरुक्कूरळ](../assets/images/samskrut/Thiruvalluvar.jpg){ width="200" }
@@ -1608,7 +1608,7 @@
     
     **Read time:** 9 min
     
-    EXCERPT Not Found
+    There are at least 19 translations of the Kural in Hindi. The first translation was probably that of Khenand Rakat, published in 1924. The University 
     
 </div>
 
@@ -1616,22 +1616,22 @@
 
 
 
-- ![Tantroktam DeviSuktam - तन्त्रोक्तं देविसूक्तम्](../assets/images/samskrut/durga.jpg){ width="200" }
+- ![Tantroktam DeviSuktam - तन्त्रोक्तं देविसूक्तम्](../assets/images/samskrut/Durga.jpg){ width="200" }
 
     ### [Tantroktam DeviSuktam - तन्त्रोक्तं देविसूक्तम्](tantroktam-devisuktam.md)
     
     **Read time:** 5 min
     
-    EXCERPT Not Found
+    Tantroktam DeviSuktam नमो देव्यै महादेव्यै शिवायै सततं नमः । नमः प्रकृत्यै भद्रायै नियताः प्रणताः स्म ताम् ॥१॥ रौद्रायै नमो नित्यायै गौर्यै धात्र्यै न
 
 
-- ![Purush Suktam  - पुरुषसूक्त](../assets/images/samskrut/durga.jpg){ width="200" }
+- ![Purush Suktam  - पुरुषसूक्त](../assets/images/samskrut/Durga.jpg){ width="200" }
 
     ### [Purush Suktam  - पुरुषसूक्त](purush-suktam.md)
     
     **Read time:** 6 min
     
-    EXCERPT Not Found
+    अथ पुरुषसूक्तम् ॥ ॐ तच्छं॒ योरावृ॑णीमहे । गा॒तुं य॒ज्ञाय॑ । गा॒तुं य॒ज्ञप॑तये । दैवी᳚ स्व॒स्तिर॑स्तु नः । स्व॒स्तिर्मानु॑षेभ्यः । ऊ॒र्ध्वं जि॑गातु भेष
     
 </div>
 
@@ -1645,7 +1645,7 @@
     
     **Read time:** 5 min
     
-    EXCERPT Not Found
+    सहस्रशीर्षं देवं विश्वाक्षं विश्वशम्भुवम् । विश्वं नारायणं देवं अक्षरं परमं पदम् । विश्वतः परमान्नित्यं विश्वं नारायणग्ं हरिम् । विश्वं एवेदं पुरुषस्त
 
 
 - ![Vaak Suktam - वाक्सूक्तम्](../assets/images/samskrut/Vipasana.jpg){ width="200" }
@@ -1654,7 +1654,7 @@
     
     **Read time:** 5 min
     
-    EXCERPT Not Found
+    Vaak Suktam ॐ दे॒वीं वाच॑मजनयन्त दे॒वाः । तां वि॒श्वरू॑पाः प॒शवो॑ वदन्ति । सा नो॑ म॒न्द्रेष॒मूर्जं॒ दुहा॑ना । धे॒नुर्वाग॒स्मानुप॒सुष्टु॒तैतु॑ । यद्वाग
     
 </div>
 
@@ -1668,7 +1668,7 @@
     
     **Read time:** 5 min
     
-    EXCERPT Not Found
+    भवसागर-तारण-कारण हे । रविनन्दन-बन्धन-खण्डन हे ।। शरणागत किंकर भीत मने । गुरुदेव दया करो दीनजने ।१। हृदिकन्दर-तामस-भास्कर हे । तुमि विष्णु प्रजापति शंक
 
 
 - ![Shri Ganga Stotram - श्री गंगा स्तोत्रम](../assets/images/samskrut/Ganga.jpg){ width="200" }
@@ -1677,7 +1677,7 @@
     
     **Read time:** 5 min
     
-    EXCERPT Not Found
+    देवि सुरेश्वरि भगति गंगे त्रिभुवनतारिणि तरलतरंगे । शंकरमौलिविहारिणि विमले मम मतिरास्तां तव पदकमले ।।1।। भागीरथि सुखदायिनि मातस्तव जलमहिमा निगमे ख्यात:
     
 </div>
 
@@ -1685,22 +1685,22 @@
 
 
 
-- ![Devi Kavacham - देवीकवचम्](../assets/images/samskrut/durga.jpg){ width="200" }
+- ![Devi Kavacham - देवीकवचम्](../assets/images/samskrut/Durga.jpg){ width="200" }
 
     ### [Devi Kavacham - देवीकवचम्](devi-kavacham.md)
     
     **Read time:** 9 min
     
-    EXCERPT Not Found
+    ॥ अथ देव्याः कवचम् ॥ ॐ अस्य श्री चण्डीकवचस्य ॥ ब्रह्मा ऋषिः । अनुष्टुप् छन्दः । चामुण्डा देवता । अङ्गन्यासोक्तमातरो बीजम् । दिग्बन्ध देवतास्तत्त्वम् ।
 
 
-- ![Devi Aparaadh Kshamapan Stotram - देवी अपराध क्षमापन स्तोत्रं](../assets/images/samskrut/durga.jpg){ width="200" }
+- ![Devi Aparaadh Kshamapan Stotram - देवी अपराध क्षमापन स्तोत्रं](../assets/images/samskrut/Durga.jpg){ width="200" }
 
     ### [Devi Aparaadh Kshamapan Stotram - देवी अपराध क्षमापन स्तोत्रं](devi-aparaadh-kshamapan-stotram.md)
     
     **Read time:** 5 min
     
-    EXCERPT Not Found
+    न मन्त्रं नो यन्त्रं तदापि च न जाने स्तुतिमहो न चाह्वानं ध्यानं तदापि च न जाने स्तुतिकथाः । न जाने मुद्रास्ते तदापि च न जाने विलपनं
     
 </div>
 
@@ -1714,7 +1714,7 @@
     
     **Read time:** 5 min
     
-    EXCERPT Not Found
+    Ekatmaka Stotram ॐ सच्चिदानंदरूपाय नमोस्तु परमात्मने ज्योतिर्मयस्वरूपाय विश्वमांगल्यमूर्तये || १ || प्रकृतिः पंचभूतानि ग्रहा लोकाः स्वरास्तथा दिशः काल
 
 
 - ![GanpatyaTharvShirshopnishad   - गणपत्यथर्वशीर्षोपनिषत्](../assets/images/samskrut/GaneshJi.jpg){ width="200" }
@@ -1723,7 +1723,7 @@
     
     **Read time:** 6 min
     
-    EXCERPT Not Found
+    GanpatyaTharvShirshopnishad ॐ भ॒द्रं कर्णे॑भिः श‍ृणु॒याम॑ देवाः । भ॒द्रं प॑श्येमा॒क्षभि॒र्यज॑त्राः । स्थि॒रैरङ्गै᳚स्तुष्टु॒वाग्ं स॑स्त॒नूभिः॑ । व्यशे॑
     
 </div>
 
@@ -1737,7 +1737,7 @@
     
     **Read time:** 5 min
     
-    EXCERPT Not Found
+    Pavmaan Suktam ॐ ॥ हिर॑ण्यवर्णाः॒ शुच॑यः पाव॒का यासु॑ जा॒तः क॒श्यपो॒ यास्विन्द्रः॑ । अ॒ग्निं या गर्भं॑ दधि॒रे विरू॑पा॒स्ता न॒ आप॒श्शग्ग् स्यो॒ना भ॑वन्
 
 
 - ![Bhagya Shuktam- भाग्य सूक्तम्](../assets/images/samskrut/Upanishad.jpg){ width="200" }
@@ -1746,7 +1746,7 @@
     
     **Read time:** 5 min
     
-    EXCERPT Not Found
+    Bhagya Shuktam ॐ प्रा॒तर॒ग्निं प्रा॒तरिन्द्रग्ं॑ हवामहे प्रा॒तर्मि॒त्रा वरु॑णा प्रा॒तर॒श्विना᳚ । प्रा॒तर्भगं॑ पू॒षणं॒ ब्रह्म॑ण॒स्पतिं॑ प्रा॒तः सोम॑मु॒
     
 </div>
 
@@ -1754,7 +1754,7 @@
 
 
 
-- ![Mahishasur Mardini - महिषासुरमर्दिनि](../assets/images/samskrut/durga.jpg){ width="200" }
+- ![Mahishasur Mardini - महिषासुरमर्दिनि](../assets/images/samskrut/Durga.jpg){ width="200" }
 
     ### [Mahishasur Mardini - महिषासुरमर्दिनि](mahishasur-mardini.md)
     
@@ -1777,7 +1777,7 @@
 
 
 
-- ![Annapurna Stotram - अन्नपूर्णा स्तोत्रम्](../assets/images/samskrut/durga.jpg){ width="200" }
+- ![Annapurna Stotram - अन्नपूर्णा स्तोत्रम्](../assets/images/samskrut/Durga.jpg){ width="200" }
 
     ### [Annapurna Stotram - अन्नपूर्णा स्तोत्रम्](annapurna-stotram.md)
     
@@ -1792,7 +1792,7 @@
     
     **Read time:** 5 min
     
-    EXCERPT Not Found
+    Aayshman Suktam यो ब्रह्मा ब्रह्मण उ॑ज्जहा॒र प्रा॒णैः शि॒रः कृत्तिवासाः᳚ पिना॒की । ईशानो देवः स न आयु॑र्दधा॒तु॒ तस्मै जुहोमि हविषा॑ घृते॒न ॥ १ ॥ विभ्र
     
 </div>
 
@@ -1809,7 +1809,7 @@
     शुद्धस्फटिकसंकाशं त्रिनेत्रं पञ्चवक्त्रकम् ।   गङ्गाधरं दशभुजं सर्वाभरणभूषितम् ॥  नीलग्रीवं शशाङ्काङ्कं नागयज्ञोपवीतिनम् ।    व्याघ्रचर्मोत्तरीयं च वर
 
 
-- ![Lalita Sahasranamam  - ललितासहस्रनामं](../assets/images/samskrut/durga.jpg){ width="200" }
+- ![Lalita Sahasranamam  - ललितासहस्रनामं](../assets/images/samskrut/Durga.jpg){ width="200" }
 
     ### [Lalita Sahasranamam  - ललितासहस्रनामं](lalita-sahasranamam.md)
     
@@ -1838,7 +1838,7 @@
     
     **Read time:** 11 min
     
-    EXCERPT Not Found
+    Chamak Prashana अग्ना॑विष्णू स॒जोष॑से॒मा व॑र्धन्तु वां॒ गिरः॑ । द्यु॒म्नैर्वाजे॑भि॒राग॑तम् । वाज॑श्च मे प्रस॒वश्च॑ मे॒ प्रय॑तिश्च मे॒ प्रसि॑तिश्च मे ध
     
 </div>
 
@@ -1869,13 +1869,13 @@
 
 
 
-- ![Rigvedoktam Devisuktam - ऋग्वेदोक्तं देवीसूक्तम्](../assets/images/samskrut/durga.jpg){ width="200" }
+- ![Rigvedoktam Devisuktam - ऋग्वेदोक्तं देवीसूक्तम्](../assets/images/samskrut/Durga.jpg){ width="200" }
 
     ### [Rigvedoktam Devisuktam - ऋग्वेदोक्तं देवीसूक्तम्](rigvedoktam-devisuktam.md)
     
     **Read time:** 5 min
     
-    EXCERPT Not Found
+    ॐ अहमित्यष्टर्चस्य सूक्तस्य वागाम्भृणी ऋषिः, सच्चित्सुखात्मकः सर्वगतः परमात्मा देवता, द्वितीयाया ॠचो जगती, शिष्टानां त्रिष्टुप् छन्दः, देवीमाहात्म्यपा
 
 
 - ![Mantrapushpam - मन्त्रपुष्पं](../assets/images/samskrut/Vishnu.jpg){ width="200" }
@@ -1884,7 +1884,7 @@
     
     **Read time:** 5 min
     
-    EXCERPT Not Found
+    Mantra Pushpam ॐ यो॑ऽपां पुष्पं॒ वेद॑। पुष्प॑वान् प्र॒जावा᳚न् पशु॒मान् भ॑वति । च॒न्द्रमा॒ वा अ॒पां पुष्पम्᳚। पुष्प॑वान् प्र॒जावा᳚न् पशु॒मान् भ॑वति । य
     
 </div>
 
@@ -1898,7 +1898,7 @@
     
     **Read time:** 5 min
     
-    EXCERPT Not Found
+    Yaksha Prashna यक्षप्रश्ना: पाण्डवानां वनवाससमय:| एकदा एक: ब्राह्मण: तेषां समीपम् आगत्य एकं हरिणं ग्रहीतुं साह्हायं याचयति। तस्य हवनीयसामग्री: हरिणेन 
 
 
 - ![Vikatkavi - विकटकविः](../assets/images/samskrut/SanskritYatra-Subhashitam.jpg){ width="200" }
@@ -1907,7 +1907,7 @@
     
     **Read time:** 5 min
     
-    EXCERPT Not Found
+    लेखिका — लावण्या मर्ला पूर्वं भारतदेशे आन्ध्रप्रदेशे तेनालिरामनाम्ना एकः बालकः वसति स्म । सः प्रज्ञाशाली, परन्तु कुलहीनः, दरिद्रः, इति कारणतः कोऽपि तं
     
 </div>
 
@@ -1921,7 +1921,7 @@
     
     **Read time:** 32 min
     
-    EXCERPT Not Found
+    तृष्णादूषणम् । चूडोत्तंसितचन्द्रचारुकलिकाचञ्चच्छिखाभास्वरो लीलादग्धविलोलकामशलभः श्रेयोदशाग्रे स्फुरन् । स्फुरन् अन्तःस्फूर्जदपारमोहतिमिरप्राग्भारमुच्च
 
 
 - ![Gitanjali - गीतांजली](../assets/images/samskrut/MySamskrutYatra-min.jpg){ width="200" }
@@ -1930,7 +1930,7 @@
     
     **Read time:** 5 min
     
-    EXCERPT Not Found
+    Geetanjali यत्र मनः भयरहितमस्ति शिरः च उन्नतमस्ति यत्र ज्ञानम् मुक्तम् प्रवहति यत्र सङ्कीर्ण-प्राकारैह् सम्सारः भग्नः न अभवत् यत्र पदानि ह्इदयगाम्भिर्
     
 </div>
 
@@ -1953,7 +1953,7 @@
     
     **Read time:** 5 min
     
-    EXCERPT Not Found
+    Sanskrit Subhashitam PART1 उद्यमेनैव सिध्यन्ति कार्याणि न मनोरथैः । न हि सुप्तस्य सिंहस्य प्रविशन्ति मुखे मृगाः ।। Meaning: Success in life can be ach
     
 </div>
 
@@ -1967,7 +1967,7 @@
     
     **Read time:** 5 min
     
-    EXCERPT Not Found
+    To remember list of 10 cardinal Upnishad ईशकेनकठप्रश्नमुण्डमाण्डूक्यतित्तिरि । एतरेयं च छान्दोग्यं बृहदारण्यकं तथा ।। 1-ईश 2-केन 3-कठ 4-प्रश्न 5-मुण्ड
 
 
 - ![Nasadiya Sukta - नासदीय सूक्तं](../assets/images/samskrut/Upanishad.jpg){ width="200" }
@@ -1976,7 +1976,7 @@
     
     **Read time:** 5 min
     
-    EXCERPT Not Found
+    Nasadiya Sukta ### Nasadiya Sukta from RigVeda In English we can call it Hymn of Creation. This is part of 10th mandala of the Rigveda (10:129). It is
     
 </div>
 
@@ -1990,7 +1990,7 @@
     
     **Read time:** 5 min
     
-    EXCERPT Not Found
+    [Movie on Samkaracharya](https://www.dropbox.com/s/dwisvcrq9h4lbj1/Adi%20Shankarachary%20-%20Hindi%20full.mp4?dl=0)
 
 
 - ![मनुष्यस्य शरीरस्य महत्वं](../assets/images/samskrut/SanskritYatra-Story.jpg){ width="200" }
@@ -1999,7 +1999,7 @@
     
     **Read time:** 5 min
     
-    EXCERPT Not Found
+    मनुष्यस्य शरीरस्य महत्वं ### यावत् जीवामः तावदेव मनुष्यस्य शरीरस्य महत्वं भवति पूर्वम् एकः महान् राजा आसीत्! सः बहु धर्मिष्ठः आसीत्! एकदा सः मन्त्रिणा
     
 </div>
 
@@ -2013,5 +2013,5 @@
     
     **Read time:** 22 min
     
-    EXCERPT Not Found
+    OSHO Talks on Tao Upanishad it has 127 episodes
 </div>

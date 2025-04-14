@@ -1,27 +1,118 @@
-{#-
-  This file was automatically generated - do not edit
--#}
 {% extends "base.html" %}
+
+{# Head: Inject meta tags, keywords, OpenGraph, Twitter cards, custom CSS #}
 {% block extrahead %}
-  <link rel="stylesheet" href="{{ 'assets/stylesheets/custom.7c86dd97.min.css' | url }}">
+  {{ super() }}
+
+  {# SEO Meta from Frontmatter #}
+  {% if page and page.meta %}
+    <meta name="author" content="{{ page.meta.author | default(config.site_author) }}">
+    <meta name="description" content="{{ page.meta.excerpt | default(page.meta.title) }}">
+    <meta name="keywords" content="{{ page.meta.keywords | join(', ') }}">
+
+    {# OpenGraph tags #}
+    <meta property="og:type" content="article">
+    <meta property="og:locale" content="en_US">
+    <meta property="og:site_name" content="DasarpAI">
+    <meta property="og:title" content="{{ page.meta.title | default('Article Title') }}">
+    <meta property="og:description" content="{{ page.meta.excerpt | default(page.meta.title) }}">
+    <meta property="og:url" content="{{ page.canonical_url }}">
+
+    {% if page.meta.header and page.meta.header.teaser %}
+      <meta property="og:image" content="{{ page.meta.header.teaser | url }}">
+      <meta property="og:image:width" content="1200">
+      <meta property="og:image:height" content="630">
+    {% endif %}
+
+    {# Twitter Card #}
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:site" content="@dasarpai">
+    <meta name="twitter:title" content="{{ page.meta.title | default('Article Title') }}">
+    <meta name="twitter:description" content="{{ page.meta.excerpt | default(page.meta.title) }}">
+
+    {% if page.meta.header and page.meta.header.teaser %}
+      <meta name="twitter:image" content="{{ page.meta.header.teaser | url }}">
+    {% endif %}
+
+    <link rel="canonical" href="{{ page.canonical_url }}">
+    <link rel="stylesheet" href="{{ 'assets/stylesheets/custom.css' | url }}">
+  {% endif %}
 {% endblock %}
+
+{# Announcement Block #}
 {% block announce %}
-  For updates follow <strong>@squidfunk</strong> on
-  <a rel="me" href="https://fosstodon.org/@squidfunk">
+  For updates follow <strong>@harithapliyal</strong> on
+  <a rel="me" href="https://linkedin.com/in/harithapliyal">
     <span class="twemoji mastodon">
       {% include ".icons/fontawesome/brands/mastodon.svg" %}
     </span>
     <strong>Fosstodon</strong>
   </a>
   and
-  <a href="https://x.com/squidfunk">
+  <a href="https://x.com/dasarpai">
     <span class="twemoji twitter">
       {% include ".icons/fontawesome/brands/twitter.svg" %}
     </span>
     <strong>Twitter</strong>
   </a>
 {% endblock %}
+
+{# Custom Scripts #}
 {% block scripts %}
   {{ super() }}
-  <script src="{{ 'assets/javascripts/custom.9e5da760.min.js' | url }}"></script>
+  <script src="{{ 'assets/javascripts/custom.js' | url }}"></script>
+{% endblock %}
+
+{# Content Block with Author Bio, Share Buttons, and Comments #}
+{% block content %}
+  <article class="md-content__inner md-typeset">
+
+    {# 🖼️ Thumbnail Before Content #}
+
+
+    {{ page.content }}
+
+    {# 👤 Author Bio #}
+    {% if page and page.meta and page.meta.author_profile %}
+      <div class="author-bio" style="margin-top: 2rem; display: flex; gap: 1rem;">
+        <img src="{{ 'assets/images/myphotos/Profilephoto1.jpg' | url }}" alt="{{ page.meta.author | default(config.site_author) }}" style="border-radius: 50%; width: 80px; height: 80px;">
+        <div>
+          <strong>{{ config.site_author }}</strong><br>
+          <small>{{ config.site_author_shortbio }}</small>
+        </div>
+      </div>
+    {% endif %}
+
+    {# 🔗 Share Buttons #}
+    {% if page and page.meta and page.meta.share %}
+      <div class="share-buttons" style="margin-top: 2rem;">
+        <strong>Share this article:</strong><br>
+        <a href="https://twitter.com/intent/tweet?text={{ page.meta.title | urlencode }}&url={{ page.canonical_url | urlencode }}" target="_blank">Twitter</a> |
+        <a href="https://www.facebook.com/sharer/sharer.php?u={{ page.canonical_url | urlencode }}" target="_blank">Facebook</a> |
+        <a href="https://www.linkedin.com/shareArticle?mini=true&url={{ page.canonical_url | urlencode }}" target="_blank">LinkedIn</a>
+      </div>
+    {% endif %}
+
+    {# 💬 Giscus Comment Box #}
+    {% if page and page.meta and page.meta.comments %}
+      <div id="comments" style="margin-top: 3rem;">
+        <script src="https://giscus.app/client.js"
+                data-repo="dasarpai/dasarpai-comments"
+                data-repo-id="R_kgDOOGVFpA"
+                data-category="General"
+                data-category-id="DIC_kwDOOGVFpM4CnzHR"
+                data-mapping="pathname"
+                data-strict="0"
+                data-reactions-enabled="1"
+                data-emit-metadata="0"
+                data-input-position="bottom"
+                data-theme="light"
+                data-lang="en"
+                crossorigin="anonymous"
+                async>
+        </script>
+      </div>
+    {% endif %}
+
+  </article>
 {% endblock %}

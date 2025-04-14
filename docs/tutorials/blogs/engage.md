@@ -96,7 +96,7 @@ necessary links and define the icons to use.
       social:
         - icon: fontawesome/brands/mastodon
           name: squidfunk on Mastodon
-          link: https://fosstodon.org/@squidfunk
+          link: https://linkedin.com/in/harithapliyal
     ```
 
     For the `icon`, you can choose any valid path to an icon bundled with the

@@ -1,4 +1,4 @@
----    
+---
 id: 4091    
 mathjax: true    
 title: 'Rigvediya DeviSuktam - देवीसूक्तम्'    
@@ -11,16 +11,15 @@ tags: [Devi]
 categories:    
     
 header:    
-   teaser: ../assets/images/samskrut/durga.jpg    
+   teaser: ../assets/images/samskrut/Durga.jpg    
     
 author: 'Hari Thapliyaal'    
     
-excerpt:    
+excerpt: "॥विनियोगः॥ ॐ अहमित्यष्टर्चस्य सूक्तस्य वागाम्भृणी ऋषिः, सच्चित्सुखात्मकः सर्वगतः परमात्मा देवता, द्वितीयाया ॠचो जगती, शिष्टानां त्रिष्टुप् छन्दः, देवीमाहात्म्यपाठे विनियोगः।* ॥ध्यानम्॥ ॐ सिंहस्था शशिशेखरा मरकतप्रख्यैश्‍चतुर्भिर्भुजैः शङ्खं चक्रधनुःशरांश्‍च दधती नेत्रैस्त्रिभिः शोभिता। आमुक्ताङ्गदहारकङ्कणरणत्काञ्चीरणन्नूपुरा दुर्गा दुर्गतिहारिणी भवतु नो रत्‍‌नोल्लसत्कुण्डला॥* ॥ अथ देवीसूक्तम् ॥ ॐ अ॒हं"
     
 share: true    
----    
-    
-![](../assets/images/samskrut/durga.jpg)    
+---
+![](../assets/images/samskrut/Durga.jpg)    
     
 # देवीसूक्तम्     
 ## ऋग्वेदान्तर्गतम् - Saswara    

@@ -11,7 +11,7 @@ tags: [Devi, Chanting]
 categories: [Chanting]
     
 header:    
-   teaser: ../assets/images/samskrut/durga.jpg    
+   teaser: ../assets/images/samskrut/Durga.jpg    
     
 author: 'Hari Thapliyaal'    
     
@@ -20,7 +20,7 @@ excerpt: "अपराधसहस्त्राणि क्रियन्त
 share: true    
 ---    
     
-![](../assets/images/samskrut/durga.jpg)    
+![](../assets/images/samskrut/Durga.jpg)    
     
 # क्षमा-प्रार्थना    
 ## Devi Kshama Prarthana    

@@ -11,7 +11,7 @@ tags: [Devi, Chanting, Stotram]
 categories: [Chanting]  
     
 header:    
-   teaser: ../assets/images/samskrut/durga.jpg    
+   teaser: ../assets/images/samskrut/Durga.jpg    
     
 author: 'Hari Thapliyaal'    
     
@@ -20,7 +20,7 @@ excerpt: "नित्यानन्दकरी वराभयकरी स�
 share: true    
 ---    
     
-![](../assets/images/samskrut/durga.jpg)    
+![](../assets/images/samskrut/Durga.jpg)    
      
     
 <audio controls>

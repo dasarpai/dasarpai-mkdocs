@@ -11,7 +11,7 @@ tags: [Devi, Chanting]
 categories: [Chanting]
     
 header:    
-   teaser: ../assets/images/samskrut/durga.jpg    
+   teaser: ../assets/images/samskrut/Durga.jpg    
     
 author: 'Hari Thapliyaal'    
     
@@ -20,7 +20,7 @@ excerpt:  "अयि गिरिनन्दिनि नन्दितमे�
 share: true    
 ---    
     
-![](../assets/images/samskrut/durga.jpg)    
+![](../assets/images/samskrut/Durga.jpg)    
     
 # महिषासुरमर्दिनि    
 ## Mahishasur Mardini     

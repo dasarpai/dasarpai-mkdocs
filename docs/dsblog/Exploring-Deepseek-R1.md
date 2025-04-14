@@ -63,15 +63,13 @@ This step-by-step approach is not limited to math. Whether it’s debugging a pi
 
 Here’s a simple diagram to illustrate the flow:
 
-<!-- {% include mermaid.html %} -->
+{% include mermaid.html %}
 <div class="mermaid">
-```mermaid
 flowchart TD
     A[Problem Understanding] --> B[Breaking It Down]
     B --> C[Executing Calculations]
     C --> D[Verification]
     D --> E[Solution]
-```
 </div>
 
 ---

@@ -15,11 +15,10 @@ header:
 
 author: 'Hari Thapliyaal'
 
-excerpt:
+excerpt: "I will add text very soon."
 
 share: true
 ---
-
 ![](../assets/images/samskrut/Sri-Ramakrishna.jpg)
 
 #  गुणसागर निर्गुण परमेशा 

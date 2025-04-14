@@ -8,9 +8,9 @@ header:
   teaser: ../assets/images/pmblog/1037-pmbok-general.jpg
 
 tags:
-    - 'Agile Terms'
+   'Agile Terms'
 categories:
-  - pmblog
+   pmblog
 ---
 
 ## What is a Technical Spike?

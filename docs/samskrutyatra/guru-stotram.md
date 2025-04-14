@@ -11,7 +11,7 @@ tags: [Devi, Stotram, Guru, Chanting]
 categories: [Chanting]
     
 header:    
-   teaser: ../assets/images/samskrut/durga.jpg    
+   teaser: ../assets/images/samskrut/Durga.jpg    
     
 author: 'Hari Thapliyaal'    
     
@@ -20,7 +20,7 @@ excerpt: "गुरुर्ब्रह्मा गुरुर्विष्
 share: true    
 ---    
     
-![](../assets/images/samskrut/durga.jpg)    
+![](../assets/images/samskrut/Durga.jpg)    
     
 # गुरु स्तोत्रम्     
 ## Guru Stotram    

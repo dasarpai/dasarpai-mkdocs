@@ -5,7 +5,7 @@ toc: true
 toc_sticky: true
 
 
-permalink:  /management/pmo-setup
+permalink: /management/pmo-setup
 date: 2020-08-12
 categories:
 

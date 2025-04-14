@@ -5,7 +5,7 @@ toc: true
 toc_sticky: true
 
 
-permalink:  /management/fpm
+permalink: /management/fpm
 date: 2020-08-01
 categories:
 tags: [Project Management]

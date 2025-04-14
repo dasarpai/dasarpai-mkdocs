@@ -5,7 +5,7 @@ toc: true
 toc_sticky: true
 
 
-permalink:  /management/cmmi-consulting
+permalink: /management/cmmi-consulting
 date: 2020-08-01
 categories:
   - Blog

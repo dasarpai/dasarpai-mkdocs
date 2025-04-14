@@ -184,7 +184,7 @@ if __name__ == "__main__":
             "samskrutyatra", "wiaposts"]
     
     # Load collection intro content
-    blogs = ["quotations"]
+    # blogs = ["samskrutyatra"]
     COLLECTION_INTRO_FILE = Path("scripts/0-collection_intro.json")
     collection_intro = load_collection_intro(COLLECTION_INTRO_FILE)
     

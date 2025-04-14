@@ -26,7 +26,7 @@ share: true
 ## Upnishadic Prarthana    
     
 <audio controls>
-  <source src="https://raw.githubusercontent.com/dasarpai/DAI-mp3/main/dasarpai-mp3/004-UpanishadicPrarthana.m4a" type="audio/m4a">
+  <source src="https://raw.githubusercontent.com/dasarpai/DAI-mp3/main/dasarpai-mp3/004-UpanishadicPrarthana.mp3" type="audio/mp3">
   Your browser does not support the audio element.
 </audio>     
     

@@ -1,4 +1,4 @@
----    
+---
 id: 4100    
 mathjax: true    
 title: 'शिव जयजयकार स्तोत्रं - शिव जयजयकार स्तोत्रं'    
@@ -15,11 +15,10 @@ header:
     
 author: 'Hari Thapliyaal'    
     
-excerpt:    
+excerpt: ""
     
 share: true    
----    
-    
+---
 ![](../assets/images/samskrut/Shiva.jpg)    
     
 # शिव जयजयकार स्तोत्रं    

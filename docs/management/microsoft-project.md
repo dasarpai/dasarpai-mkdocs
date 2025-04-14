@@ -5,7 +5,7 @@ toc: true
 toc_sticky: true
 
 
-permalink:  /management/microsoft-project
+permalink: /management/microsoft-project
 date: 2020-08-08
 categories:
 

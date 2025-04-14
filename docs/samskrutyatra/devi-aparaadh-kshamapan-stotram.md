@@ -1,4 +1,4 @@
----    
+---
 id: 4026    
 mathjax: true    
 title: 'Devi Aparaadh Kshamapan Stotram - देवी अपराध क्षमापन स्तोत्रं'    
@@ -11,16 +11,15 @@ tags: [Devi, Durga Saptashati, Stotram]
 categories:    
     
 header:    
-   teaser: ../assets/images/samskrut/durga.jpg    
+   teaser: ../assets/images/samskrut/Durga.jpg    
     
 author: 'Hari Thapliyaal'    
     
-excerpt:    
+excerpt: "न मन्त्रं नो यन्त्रं तदापि च न जाने स्तुतिमहो न चाह्वानं ध्यानं तदापि च न जाने स्तुतिकथाः । न जाने मुद्रास्ते तदापि च न जाने विलपनं"
     
 share: true    
----    
-    
-![](../assets/images/samskrut/durga.jpg)    
+---
+![](../assets/images/samskrut/Durga.jpg)    
     
 # देवी अपराध क्षमापन स्तोत्रं    
 ## Devi Aparaadh Kshamapan Stotram    

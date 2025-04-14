@@ -13,9 +13,9 @@
     EXCERPT Not Found
 
 
-- ![Wisdom in Awareness - My Journey](../assets/images/pages/default.jpg){ width="200" }
+- ![Wisdom in Awareness Tag - Posts](../assets/images/pages/default.jpg){ width="200" }
 
-    ### [Wisdom in Awareness - My Journey](wia-home.md)
+    ### [Wisdom in Awareness Tag - Posts](wia-tags.md)
     
     **Read time:** 5 min
     
@@ -25,6 +25,15 @@
 
 <div class="grid cards" markdown>
 
+
+
+- ![Wisdom in Awareness - My Journey](../assets/images/pages/default.jpg){ width="200" }
+
+    ### [Wisdom in Awareness - My Journey](wia-home.md)
+    
+    **Read time:** 5 min
+    
+    EXCERPT Not Found
 
 
 - ![Wisdom in Awareness Blog](../assets/images/banners/wia-thumbnail.jpg){ width="200" }
@@ -34,6 +43,11 @@
     **Read time:** 5 min
     
     EXCERPT Not Found
+    
+</div>
+
+<div class="grid cards" markdown>
+
 
 
 - ![This is Experiment Page](../assets/images/pages/default.jpg){ width="200" }
@@ -43,11 +57,6 @@
     **Read time:** 5 min
     
     EXCERPT Not Found
-    
-</div>
-
-<div class="grid cards" markdown>
-
 
 
 - ![Testimonials : What My Customers/Learners Says](../assets/images/banners/Customer-feedback-thumnail.jpg){ width="200" }
@@ -57,11 +66,25 @@
     **Read time:** 14 min
     
     Image : Gallery
+    
+</div>
+
+<div class="grid cards" markdown>
+
 
 
 - ![Terms and Privacy Policy](../assets/images/pages/default.jpg){ width="200" }
 
     ### [Terms and Privacy Policy](terms.md)
+    
+    **Read time:** 5 min
+    
+    EXCERPT Not Found
+
+
+- ![Terms of Service](../assets/images/pages/default.jpg){ width="200" }
+
+    ### [Terms of Service](terms-of-service.md)
     
     **Read time:** 5 min
     
@@ -73,9 +96,9 @@
 
 
 
-- ![Terms of Service](../assets/images/pages/default.jpg){ width="200" }
+- ![Posts by Tag](../assets/images/pages/default.jpg){ width="200" }
 
-    ### [Terms of Service](terms-of-service.md)
+    ### [Posts by Tag](tag-archive.md)
     
     **Read time:** 5 min
     
@@ -151,9 +174,9 @@
     EXCERPT Not Found
 
 
-- ![Samskrut Yatra Blog](../assets/images/pages/default.jpg){ width="200" }
+- ![Samskrut Yatra Topics](../assets/images/pages/default.jpg){ width="200" }
 
-    ### [Samskrut Yatra Blog](samskrut-home.md)
+    ### [Samskrut Yatra Topics](samskrut-tags.md)
     
     **Read time:** 5 min
     
@@ -165,6 +188,15 @@
 
 
 
+- ![Samskrut Yatra Blog](../assets/images/pages/default.jpg){ width="200" }
+
+    ### [Samskrut Yatra Blog](samskrut-home.md)
+    
+    **Read time:** 5 min
+    
+    EXCERPT Not Found
+
+
 - ![WIA Quotations](../assets/images/banners/wia-thumbnail.jpg){ width="200" }
 
     ### [WIA Quotations](quotations.md)
@@ -172,6 +204,20 @@
     **Read time:** 5 min
     
     These Quotations come from my reflection from the surface of lake called life. Great teachers like Mahatama Buddha, Lao Tzu, Adi Shankara, Ramakrushna
+    
+</div>
+
+<div class="grid cards" markdown>
+
+
+
+- ![Wisdom in Awareness Quotations - Topics](../assets/images/pages/default.jpg){ width="200" }
+
+    ### [Wisdom in Awareness Quotations - Topics](quotations-tags.md)
+    
+    **Read time:** 5 min
+    
+    These Qutations come from my reflection from the surface of lake called life. Great teachers like Mahatama Buddha, Lao Tzu, Adi Shankara, Ramakrushna 
 
 
 - ![Books and Publications](../assets/images/banners/Publication-thumbnail.jpg){ width="200" }
@@ -266,9 +312,9 @@
     EXCERPT Not Found
 
 
-- ![PMLOGY - My Journey](../assets/images/pages/default.jpg){ width="200" }
+- ![PMLOGY Tag - Posts](../assets/images/pages/default.jpg){ width="200" }
 
-    ### [PMLOGY - My Journey](pmlogy-home.md)
+    ### [PMLOGY Tag - Posts](pmlogy-tags.md)
     
     **Read time:** 5 min
     
@@ -278,6 +324,15 @@
 
 <div class="grid cards" markdown>
 
+
+
+- ![PMLOGY - My Journey](../assets/images/pages/default.jpg){ width="200" }
+
+    ### [PMLOGY - My Journey](pmlogy-home.md)
+    
+    **Read time:** 5 min
+    
+    EXCERPT Not Found
 
 
 - ![Project Management Blog](../assets/images/banners/PM-thumbnail.jpg){ width="200" }
@@ -287,6 +342,11 @@
     **Read time:** 5 min
     
     EXCERPT Not Found
+    
+</div>
+
+<div class="grid cards" markdown>
+
 
 
 - ![PMI Templates](../assets/images/pages/default.jpg){ width="200" }
@@ -296,11 +356,6 @@
     **Read time:** 5 min
     
     EXCERPT Not Found
-    
-</div>
-
-<div class="grid cards" markdown>
-
 
 
 - ![Project Management Glossary](../assets/images/pages/default.jpg){ width="200" }
@@ -310,11 +365,25 @@
     **Read time:** 76 min
     
     EXCERPT Not Found
+    
+</div>
+
+<div class="grid cards" markdown>
+
 
 
 - ![PMBOK Explorer Hindi](../assets/images/banners/pm-hindi-thumbnail.jpg){ width="200" }
 
     ### [PMBOK Explorer Hindi](pmbok6hi.md)
+    
+    **Read time:** 5 min
+    
+    EXCERPT Not Found
+
+
+- ![PMBOK6 Hindi Topics](../assets/images/pages/default.jpg){ width="200" }
+
+    ### [PMBOK6 Hindi Topics](pmbok6hi-tags.md)
     
     **Read time:** 5 min
     
@@ -349,6 +418,15 @@
 
 
 
+- ![PMBOK6 Topics](../assets/images/pages/default.jpg){ width="200" }
+
+    ### [PMBOK6 Topics](pmbok6-tags.md)
+    
+    **Read time:** 5 min
+    
+    EXCERPT Not Found
+
+
 - ![PMBOK 6 Processes](../assets/images/pages/default.jpg){ width="200" }
 
     ### [PMBOK 6 Processes](pmbok6-summary.md)
@@ -356,6 +434,11 @@
     **Read time:** 5 min
     
     EXCERPT Not Found
+    
+</div>
+
+<div class="grid cards" markdown>
+
 
 
 - ![AI and Business News Blog](../assets/images/banners/News-thumbnail.jpg){ width="200" }
@@ -365,11 +448,6 @@
     **Read time:** 5 min
     
     EXCERPT Not Found
-    
-</div>
-
-<div class="grid cards" markdown>
-
 
 
 - ![Microsoft Project Management Templates](../assets/images/pages/default.jpg){ width="200" }
@@ -379,11 +457,25 @@
     **Read time:** 5 min
     
     EXCERPT Not Found
+    
+</div>
+
+<div class="grid cards" markdown>
 
 
-- ![General Knowledge Blog](../assets/images/banners/General-Knowledge-thumbnail.jpg){ width="200" }
 
-    ### [General Knowledge Blog](gk-blog.md)
+- ![Project Management Courses and Consulting](../assets/images/banners/pm-courses-thumbnail.jpg){ width="200" }
+
+    ### [Project Management Courses and Consulting](management.md)
+    
+    **Read time:** 5 min
+    
+    EXCERPT Not Found
+
+
+- ![General Knowledge Tag - Posts](../assets/images/pages/default.jpg){ width="200" }
+
+    ### [General Knowledge Tag - Posts](gk-tags.md)
     
     **Read time:** 5 min
     
@@ -395,9 +487,32 @@
 
 
 
+- ![General Knowledge Blog](../assets/images/banners/General-Knowledge-thumbnail.jpg){ width="200" }
+
+    ### [General Knowledge Blog](gk-blog.md)
+    
+    **Read time:** 5 min
+    
+    EXCERPT Not Found
+
+
 - ![Data Science Lexicon](../assets/images/banners/DS-Lexicon-thumbnail.jpg){ width="200" }
 
     ### [Data Science Lexicon](dslexicon.md)
+    
+    **Read time:** 5 min
+    
+    EXCERPT Not Found
+    
+</div>
+
+<div class="grid cards" markdown>
+
+
+
+- ![Data Science Tag - Posts](../assets/images/pages/default.jpg){ width="200" }
+
+    ### [Data Science Tag - Posts](datascience-tags.md)
     
     **Read time:** 5 min
     
@@ -481,4 +596,17 @@
     
     EXCERPT Not Found
     
+</div>
+
+<div class="grid cards" markdown>
+
+
+
+- ![About Me](../assets/images/pages/default.jpg){ width="200" }
+
+    ### [About Me](aboutme.md)
+    
+    **Read time:** 5 min
+    
+    Image : Gallery
 </div>

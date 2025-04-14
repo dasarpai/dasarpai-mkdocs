@@ -5,7 +5,7 @@ toc: true
 toc_sticky: true
 
 
-permalink:  /management/agile-scrum
+permalink: /management/agile-scrum
 date: 2020-08-01
 categories:
 

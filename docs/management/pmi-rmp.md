@@ -4,7 +4,7 @@ title: "PMI RMP Course"
 toc: true
 toc_sticky: true
 
-permalink:  /management/pmi-rmp
+permalink: /management/pmi-rmp
 date: 2020-08-04
 categories:
 

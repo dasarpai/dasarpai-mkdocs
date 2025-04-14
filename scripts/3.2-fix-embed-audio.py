@@ -3,6 +3,7 @@ from pathlib import Path
 
 def process_audio_embeds():
     source_dir = Path("docs/samskrutyatra/chanting")
+    # source_dir = Path("D:\github-blog\dasarpai.github.io\_samskrutyatra")
     target_dir = Path("docs/samskrutyatra/chanting1")
     
     target_dir.mkdir(exist_ok=True)

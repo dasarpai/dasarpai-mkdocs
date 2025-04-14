@@ -11,7 +11,7 @@ tags: [Devi, Durga Saptashati, Chanting]
 categories: [Chanting]
     
 header:    
-   teaser: ../assets/images/samskrut/durga.jpg    
+   teaser: ../assets/images/samskrut/Durga.jpg    
     
 author: 'Hari Thapliyaal'    
     
@@ -20,7 +20,7 @@ excerpt: "ॐ जा॒तवे॑दसे सुनवाम॒ सोम॑ 
 share: true    
 ---    
     
-![](../assets/images/samskrut/durga.jpg)    
+![](../assets/images/samskrut/Durga.jpg)    
     
 # दुर्गासूक्तम्    
 ## DurgaSuktam    

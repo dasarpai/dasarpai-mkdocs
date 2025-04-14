@@ -1,8 +1,7 @@
 https://codepen.io/123unme/pen/BQwZzq
 
-<!-- {% include mermaid.html %} -->
+{% include mermaid.html %}
 <div class="mermaid">
-```mermaid
 sequenceDiagram
     participant User as User
     participant Frontend as Frontend
@@ -26,6 +25,4 @@ sequenceDiagram
     BookTicketService->>BookTicketService: Processes Booking (e.g., validates, reserves ticket)
     BookTicketService->>Frontend: Sends Booking Confirmation (Callback)
     Frontend->>User: Displays Booking Status (Success/Failure)
-```
-</div>
 	

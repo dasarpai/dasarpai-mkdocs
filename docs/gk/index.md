@@ -91,3 +91,141 @@
     EXCERPT Not Found
     
 </div>
+
+<div class="grid cards" markdown>
+
+
+
+- ![100 Most Powerful Women 2023](../assets/images/default/gkblog.jpg){ width="200" }
+
+    ### [100 Most Powerful Women 2023](100-Most-Powerful-Women-2023.md)
+    
+    **Read time:** 5 min
+    
+    EXCERPT Not Found
+
+
+- ![Why Government Jobs in India are not Attractive](../assets/images/default/gkblog.jpg){ width="200" }
+
+    ### [Why Government Jobs in India are not Attractive](Government-Jobs-in-India-are-not-Attractive.md)
+    
+    **Read time:** 5 min
+    
+    EXCERPT Not Found
+    
+</div>
+
+<div class="grid cards" markdown>
+
+
+
+- ![White-Paper-on-Indian-Economy](../assets/images/gk/7008-White-Paper-on-Indian-Economy.jpg){ width="200" }
+
+    ### [White-Paper-on-Indian-Economy](White-Paper-on-Economy-2004-14.md)
+    
+    **Read time:** 16 min
+    
+    EXCERPT Not Found
+
+
+- ![Vantage News Summary - 09-Feb-24](../assets/images/gk/7011-Vantage-News-Summary.jpg){ width="200" }
+
+    ### [Vantage News Summary - 09-Feb-24](Vantage_News_Summary-09-Feb-24.md)
+    
+    **Read time:** 9 min
+    
+    EXCERPT Not Found
+    
+</div>
+
+<div class="grid cards" markdown>
+
+
+
+- ![Vantage News Summary - 08-Feb-24](../assets/images/gk/7011-Vantage-News-Summary.jpg){ width="200" }
+
+    ### [Vantage News Summary - 08-Feb-24](Vantage_News_Summary-08-Feb-24.md)
+    
+    **Read time:** 5 min
+    
+    EXCERPT Not Found
+
+
+- ![What is Solstice and Equinox?](../assets/images/gk/7007-What-is-Solstice-and-Equinox.jpg){ width="200" }
+
+    ### [What is Solstice and Equinox?](Equinox-and-Solstice.md)
+    
+    **Read time:** 5 min
+    
+    EXCERPT Not Found
+    
+</div>
+
+<div class="grid cards" markdown>
+
+
+
+- ![Constitution of India - Summary](../assets/images/gk/7006-Constitution-of-India-Summary.jpg){ width="200" }
+
+    ### [Constitution of India - Summary](Indian-Constituion-Summary.md)
+    
+    **Read time:** 26 min
+    
+    EXCERPT Not Found
+
+
+- ![What is Philosophy?](../assets/images/gk/7005-What-is-Philosophy.jpg){ width="200" }
+
+    ### [What is Philosophy?](What-is-Philosophy.md)
+    
+    **Read time:** 8 min
+    
+    EXCERPT Not Found
+    
+</div>
+
+<div class="grid cards" markdown>
+
+
+
+- ![The Indian Constitution](../assets/images/gk/7004-The-Indian-Constitution.jpg){ width="200" }
+
+    ### [The Indian Constitution](Indian-Constitution.md)
+    
+    **Read time:** 60 min
+    
+    EXCERPT Not Found
+
+
+- ![Classical Literature](../assets/images/gk/7003-Classical-Literature.jpg){ width="200" }
+
+    ### [Classical Literature](Classical-Literature.md)
+    
+    **Read time:** 25 min
+    
+    EXCERPT Not Found
+    
+</div>
+
+<div class="grid cards" markdown>
+
+
+
+- ![Why Indians Are Corrupt - a Rebuttal](../assets/images/gk/7002-Why-Indians-Are-Corrupt.jpg){ width="200" }
+
+    ### [Why Indians Are Corrupt - a Rebuttal](Why-Indians-Are-Corrupt.md)
+    
+    **Read time:** 19 min
+    
+    EXCERPT Not Found
+
+
+- ![Types Of Gitas](../assets/images/gk/7001-Types-Of-Gitas.jpg){ width="200" }
+
+    ### [Types Of Gitas](Types-Of-Gitas.md)
+    
+    **Read time:** 10 min
+    
+    EXCERPT Not Found
+    
+</div>

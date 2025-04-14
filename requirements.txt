@@ -32,13 +32,13 @@
 # #### Jinja & Templating Dependencies
 # pip install Jinja2 PyYAML markdown
 
+# This is recreated by Dr. Hari Thapliyaal
+
 mkdocs-awesome-pages-plugin 
 mkdocs-blog-plugin 
 mkdocs-git-revision-date-localized-plugin 
 mkdocs-redirects 
 mkdocs-glightbox
-
-
 
 # # Requirements for core
 jinja2~=3.1

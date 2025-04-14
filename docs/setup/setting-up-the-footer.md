@@ -35,7 +35,7 @@ with:
 extra:
   social:
     - icon: fontawesome/brands/mastodon # (1)!
-      link: https://fosstodon.org/@squidfunk
+      link: https://linkedin.com/in/harithapliyal
 ```
 
 1.  Enter a few keywords to find the perfect icon using our [icon search] and
@@ -82,7 +82,7 @@ The following properties are available for each link:
         extra:
           social:
             - icon: fontawesome/brands/mastodon
-              link: https://fosstodon.org/@squidfunk
+              link: https://linkedin.com/in/harithapliyal
         ```
 
     === ":octicons-mail-16: Email"
@@ -104,7 +104,7 @@ The following properties are available for each link:
     extra:
       social:
         - icon: fontawesome/brands/mastodon
-          link: https://fosstodon.org/@squidfunk
+          link: https://linkedin.com/in/harithapliyal
           name: squidfunk on Fosstodon
     ```
 

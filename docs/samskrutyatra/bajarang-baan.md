@@ -7,7 +7,7 @@ date: 2021-01-11
 permalink: /samskrutyatra/bajarang-baan
 redirect_from: 
   - '/samskrut/bajarang-baan'
-tags: [Bhajan, Chanting]
+tags: [Bhajan, Hanumanji, Chanting]
 categories: [Chanting]
     
 header:    
@@ -26,7 +26,7 @@ share: true
 ## Bajarang Baan    
     
 <audio controls>
-  <source src="https://raw.githubusercontent.com/dasarpai/DAI-mp3/main/dasarpai-mp3/059-HanumanBaan.m4a" type="audio/m4a">
+  <source src="https://raw.githubusercontent.com/dasarpai/DAI-mp3/main/dasarpai-mp3/059-HanumanBaan.mp3" type="audio/mp3">
   Your browser does not support the audio element.
 </audio>     
     

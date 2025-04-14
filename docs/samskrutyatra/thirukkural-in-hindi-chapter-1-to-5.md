@@ -1,4 +1,4 @@
----    
+---
 id: 4034    
 mathjax: true    
 title: 'Thirukkural in Hindi Chapter 1 to 5 - तिरुक्कूरळ'    
@@ -15,11 +15,10 @@ header:
     
 author: 'Hari Thapliyaal'    
     
-excerpt:    
+excerpt: "There are at least 19 translations of the Kural in Hindi. The first translation was probably that of Khenand Rakat, published in 1924. The University of Madras came out with a translation by Sankar Raju Naidu in 1958. Hindi, being"
     
 share: true    
----    
-    
+---
 ![](../assets/images/samskrut/Thiruvalluvar.jpg)    
     
 # तिरुक्कूरळ - हिन्दी अनुवाद Chapter 1-5  

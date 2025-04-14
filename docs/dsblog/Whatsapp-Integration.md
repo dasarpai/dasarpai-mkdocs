@@ -511,9 +511,8 @@ Here’s the flow with an example:
 
 ### **Diagram for Clarity**
 
-<!-- {% include mermaid.html %} -->
+{% include mermaid.html %}
 <div class="mermaid">
-```mermaid
 graph TD
     U[User] --> A[WhatsApp Server]
     A --> B[Webhook URL]
@@ -532,7 +531,6 @@ graph TD
     style E fill:#ffccff,stroke:#333,stroke-width:2px,color:#000
     style F fill:#ccccff,stroke:#333,stroke-width:2px,color:#000
     style G fill:#ffcc99,stroke:#333,stroke-width:2px,color:#000
-```
 </div>
 
 ---

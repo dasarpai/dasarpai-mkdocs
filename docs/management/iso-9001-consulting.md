@@ -5,7 +5,7 @@ toc: true
 toc_sticky: true
 
 
-permalink:  /management/iso-9001-consulting
+permalink: /management/iso-9001-consulting
 date: 2020-08-01
 categories:
 

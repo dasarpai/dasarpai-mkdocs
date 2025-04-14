@@ -5,7 +5,7 @@ toc: true
 toc_sticky: true
 
 
-permalink:  /management/agile-pmo
+permalink: /management/agile-pmo
 date: 2020-08-13
 categories:
 

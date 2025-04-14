@@ -5,7 +5,7 @@ toc: true
 toc_sticky: true
 
 
-permalink: microsoft-enterprise-project-server-for-administrators
+permalink: /management/microsoft-enterprise-project-server-for-administrators
 date: 2020-08-08
 categories:
 

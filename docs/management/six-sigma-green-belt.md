@@ -5,7 +5,7 @@ toc: true
 toc_sticky: true
 
 
-permalink:  /management/six-sigma-green-belt
+permalink: /management/six-sigma-green-belt
 date: 2020-08-09
 categories:
 

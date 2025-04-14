@@ -123,7 +123,7 @@ def main():
     blogs = ["booksummary", "dsblog", "dscourses", "dsresources", "gallery", "gk", "management", "news", 
             "pages", "pmblog", "pmbok6", "pmbok6hi", "projects", "quotations", 
             "samskrutyatra", "wiaposts"]
-    blogs = ["quotations"]
+    # blogs = ["samskrutyatra"]
     for blog in blogs:
 
         blog_type = blog
