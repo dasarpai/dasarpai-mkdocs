@@ -19,8 +19,7 @@
 # IN THE SOFTWARE.
 
 
-pip install mkdocs-awesome-pages-plugin mkdocs-blog-plugin mkdocs-git-revision-date-localized-plugin mkdocs-redirects mkdocs-glightbox
-pip install mkdocs-minify-plugin
+# pip install mkdocs-awesome-pages-plugin mkdocs-blog-plugin mkdocs-git-revision-date-localized-plugin mkdocs-redirects mkdocs-glightbox
 
 # pip install mkdocs-macros-plugin       # For Jinja templating in Markdown
 # pip install mkdocs-minify-plugin       # To minify HTML output
@@ -33,13 +32,21 @@ pip install mkdocs-minify-plugin
 # #### Jinja & Templating Dependencies
 # pip install Jinja2 PyYAML markdown
 
+mkdocs-awesome-pages-plugin 
+mkdocs-blog-plugin 
+mkdocs-git-revision-date-localized-plugin 
+mkdocs-redirects 
+mkdocs-glightbox
+
+
+
 # # Requirements for core
-# jinja2~=3.1
-# markdown~=3.2
-# mkdocs~=1.6
-# mkdocs-material-extensions~=1.3
-# pygments~=2.16
-# pymdown-extensions~=10.2
+jinja2~=3.1
+markdown~=3.2
+mkdocs~=1.6
+mkdocs-material-extensions~=1.3
+pygments~=2.16
+pymdown-extensions~=10.2
 
 # Requirements for plugins
 babel~=2.10
@@ -80,3 +87,4 @@ requests==2.32.3
 six==1.17.0
 urllib3==2.3.0
 watchdog==6.0.0
+mkdocs-mermaid2-plugin
