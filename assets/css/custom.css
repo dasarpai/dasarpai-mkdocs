@@ -1,0 +1,529 @@
+/* Custom Navigation Styles */
+.masthead .visible-links,
+.masthead .dropdown-menu,
+.masthead .dropdown-submenu {
+    list-style-type: none !important;
+    list-style-image: none !important;
+    margin: 0 !important;
+    padding: 0 !important;
+}
+
+.masthead .visible-links li,
+.masthead .dropdown-menu li,
+.masthead .dropdown-submenu li {
+    list-style-type: none !important;
+    list-style-image: none !important;
+    margin: 0 !important;
+    padding: 0 !important;
+}
+
+.masthead__menu-item.has-dropdown {
+    position: relative !important;
+}
+
+.masthead .dropdown-toggle {
+    cursor: pointer;
+    padding: 0.5em 1em;
+    color: inherit;
+    text-decoration: none;
+    display: block;
+    position: relative;
+    white-space: nowrap;
+}
+
+.masthead .dropdown-arrow {
+    display: inline-block;
+    margin-left: 0.5em;
+    font-size: 0.7em;
+    transition: transform 0.2s ease;
+}
+
+.masthead .dropdown-toggle.active .dropdown-arrow {
+    transform: rotate(180deg);
+}
+
+.masthead .dropdown-menu,
+.masthead .dropdown-submenu {
+    display: none;
+    position: absolute;
+    background: #fff;
+    min-width: 200px;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.2);
+    border-radius: 4px;
+    z-index: 1000;
+}
+
+.masthead .dropdown-menu {
+    top: 100%;
+    left: 0;
+}
+
+.masthead .dropdown-submenu {
+    top: 0;
+    left: 100%;
+}
+
+.masthead .dropdown-menu li,
+.masthead .dropdown-submenu li {
+    position: relative;
+    margin: 0 !important;
+    padding: 0 !important;
+    display: block;
+    background: none !important;
+}
+
+.masthead .dropdown-menu li:before,
+.masthead .dropdown-submenu li:before {
+    display: none !important;
+}
+
+.masthead .dropdown-menu a,
+.masthead .dropdown-submenu a {
+    display: block !important;
+    padding: 0.7em 1em !important;
+    color: #333 !important;
+    text-decoration: none !important;
+    white-space: nowrap !important;
+    font-size: 0.9em !important;
+    background: none !important;
+}
+
+.masthead .dropdown-menu a:hover,
+.masthead .dropdown-submenu a:hover {
+    background-color: #f5f5f5 !important;
+    color: #000 !important;
+}
+
+/* Show dropdown when active */
+.masthead .masthead__menu-item.has-dropdown.active > .dropdown-menu,
+.masthead .dropdown-menu li.active > .dropdown-submenu {
+    display: block !important;
+}
+
+/* Ensure navigation container allows overflow */
+.masthead__menu {
+    overflow: visible !important;
+}
+
+.greedy-nav {
+    overflow: visible !important;
+    z-index: 1000;
+}
+
+/* Style for nested items */
+.masthead .dropdown-menu .dropdown-toggle {
+    padding-right: 2em !important;
+}
+
+/* Mobile styles */
+@media screen and (max-width: 768px) {
+    .masthead .dropdown-menu,
+    .masthead .dropdown-submenu {
+        position: static !important;
+        width: 100% !important;
+        box-shadow: none !important;
+        border-radius: 0 !important;
+        background-color: #f9f9f9 !important;
+    }
+    
+    .masthead .dropdown-menu {
+        padding-left: 1.5em !important;
+    }
+    
+    .masthead .dropdown-submenu {
+        padding-left: 1.5em !important;
+    }
+    
+    .masthead .dropdown-toggle {
+        width: 100% !important;
+        text-align: left !important;
+    }
+
+    .masthead .masthead__menu-item {
+        display: block !important;
+        width: 100% !important;
+    }
+}
+
+/* Fix for masthead menu items */
+.masthead .masthead__menu-item {
+    list-style: none !important;
+    list-style-type: none !important;
+    list-style-image: none !important;
+    margin: 0 !important;
+}
+
+.masthead .masthead__menu-item a {
+    text-decoration: none !important;
+}
+
+/* Ensure proper spacing in the navigation */
+.masthead .visible-links > li {
+    display: inline-block !important;
+    vertical-align: middle !important;
+}
+
+/* Adjust the main navigation items */
+.masthead .visible-links > li > a {
+    position: relative !important;
+    display: block !important;
+    padding: 1em !important;
+    color: inherit !important;
+}
+
+/* Additional overrides for list styles */
+.masthead ul,
+.masthead ul li,
+.masthead .visible-links,
+.masthead .visible-links li,
+.masthead .dropdown-menu,
+.masthead .dropdown-menu li,
+.masthead .dropdown-submenu,
+.masthead .dropdown-submenu li {
+    list-style: none !important;
+    list-style-type: none !important;
+    list-style-image: none !important;
+}
+
+/* Navigation Styles */
+.greedy-nav {
+    position: relative;
+    display: flex;
+    align-items: center;
+    background: #fff;
+}
+
+.greedy-nav .visible-links {
+    display: flex;
+    flex-wrap: nowrap;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+.greedy-nav .visible-links li {
+    position: relative;
+    list-style: none;
+}
+
+/* Remove default list styles */
+.greedy-nav ul,
+.greedy-nav li {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+/* Basic link styles */
+.greedy-nav a {
+    display: block;
+    padding: 1rem;
+    color: #494e52;
+    text-decoration: none;
+}
+
+/* Dropdown arrow */
+.dropdown-arrow {
+    display: inline-block;
+    margin-left: 0.5em;
+    transition: transform 0.3s ease;
+}
+
+/* Submenu styles */
+.submenu,
+.submenu-child {
+    display: none;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+/* Desktop submenu positioning */
+@media screen and (min-width: 769px) {
+    .submenu,
+    .submenu-child {
+        position: absolute;
+        background: #fff;
+        min-width: 200px;
+        box-shadow: 0 3px 5px rgba(0, 0, 0, 0.1);
+        z-index: 20;
+    }
+
+    .submenu {
+        top: 100%;
+        left: 0;
+    }
+
+    .submenu-child {
+        top: 0;
+        left: 100%;
+    }
+
+    .has-dropdown:hover > .submenu {
+        display: block;
+    }
+
+    .submenu li:hover > .submenu-child {
+        display: block;
+    }
+}
+
+/* Burger menu styles */
+.greedy-nav .hidden {
+    display: none;
+}
+
+.greedy-nav__toggle {
+    background-color: transparent;
+    border: 0;
+    padding: 0.5em;
+    cursor: pointer;
+}
+
+/* Mobile menu styles */
+@media screen and (max-width: 768px) {
+    .greedy-nav .visible-links {
+        display: none;
+        position: absolute;
+        top: 100%;
+        left: 0;
+        right: 0;
+        background: #fff;
+        box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+        flex-direction: column;
+        width: 100%;
+        z-index: 99;
+    }
+
+    .greedy-nav.show-links .visible-links {
+        display: flex;
+    }
+
+    .greedy-nav .visible-links li {
+        width: 100%;
+        border-top: 1px solid #f2f3f3;
+    }
+
+    /* Mobile submenu styles */
+    .submenu,
+    .submenu-child {
+        position: static;
+        width: 100%;
+        background: #f8f9fa;
+        box-shadow: none;
+        padding-left: 1.5em;
+    }
+
+    .submenu.show,
+    .submenu-child.show {
+        display: block;
+    }
+
+    /* Rotate arrow when submenu is open */
+    .menu-toggle.active .dropdown-arrow,
+    .submenu-toggle.active .dropdown-arrow {
+        transform: rotate(180deg);
+    }
+
+    /* Style for toggle buttons */
+    .menu-toggle,
+    .submenu-toggle {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        width: 100%;
+        padding: 1em;
+        background: transparent;
+        border: none;
+        cursor: pointer;
+    }
+}
+
+/* Animation for burger menu toggle */
+.navicon {
+    position: relative;
+    width: 1.5em;
+    height: 0.25em;
+    background: #494e52;
+    margin: auto;
+    transition: 0.3s;
+}
+
+.navicon:before,
+.navicon:after {
+    content: "";
+    position: absolute;
+    width: 1.5em;
+    height: 0.25em;
+    background: #494e52;
+    transition: 0.3s;
+}
+
+.navicon:before {
+    top: -0.5em;
+}
+
+.navicon:after {
+    bottom: -0.5em;
+}
+
+.greedy-nav__toggle.close .navicon {
+    background: transparent;
+}
+
+.greedy-nav__toggle.close .navicon:before {
+    transform: rotate(-45deg);
+    top: 0;
+}
+
+.greedy-nav__toggle.close .navicon:after {
+    transform: rotate(45deg);
+    bottom: 0;
+}
+
+
+
+/* Goto top button */
+
+/* assets/css/custom-nav.css */
+/* ... (Existing code for dropdowns can remain) ... */
+
+/* Go to top button */
+
+#pst-back-to-top {
+    background-color: #9c5ffd;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 30px;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    opacity: 1;
+    z-index: 1000;
+    transition: opacity 0.3s ease-in-out;
+    white-space: nowrap;
+
+    /* Horizontal centering styles */
+    bottom: 20px;
+    left: 50%; /* Position the left edge at 50% */
+    transform: translateX(-50%); /* Move the button to the left by half its width */
+
+    /* Specific width for desktop screens */
+    width: 100px; /* Set the width for desktop */
+    justify-content: center; /* to make content in center */
+}
+
+#pst-back-to-top:hover {
+    opacity: 0.8;
+}
+
+/*#pst-back-to-top svg {
+
+    width: 1em;
+    height: 1em;
+    fill: white;
+    display: block;
+}*/
+#pst-back-to-top i{
+  color: white;
+}
+
+/* change dropdown arrow color */
+.masthead .dropdown-arrow{
+  color: #fff;
+}
+
+/* Media query for smaller screens (mobile) */
+@media (max-width: 768px) {
+    #pst-back-to-top {
+        padding: 8px 16px;
+        bottom: 10px;
+        width: auto; /* Reset the width for mobile - adjust as needed*/
+        min-width: 60px;
+        font-size: 1.2em; /* Increase the icon size */
+    }
+}
+
+@media screen and (max-width: 768px) {
+    #pst-back-to-top {
+        width: auto; /* Set the width for mobile */
+    }
+}  
+  
+
+/* For side bar author */
+
+.author__urls-wrapper {
+    position: relative;
+    display: block;
+}
+
+.toggle-btn {
+    cursor: pointer;
+    display: inline-block !important;
+    padding: 8px 16px;
+    position: relative;
+    z-index: 101;
+    background-color: #333;
+    color: #fff;
+    border: 1px solid #444;
+    visibility: visible !important;
+    opacity: 1 !important;
+}
+
+.btn--inverse {
+    background-color: #333 !important;
+    color: #fff !important;
+}
+
+.social-icons {
+    list-style: none;
+    margin: 0;
+    padding: 10px;
+    background: #fff;
+    border: 1px solid #ddd;
+    position: absolute;
+    top: 100%;
+    left: 0;
+    z-index: 100;
+    display: none; /* Switched to display for Chrome compatibility */
+    opacity: 0;
+    transition: opacity 0.3s ease;
+    min-width: 200px;
+}
+
+.social-icons.visible {
+    display: block;
+    opacity: 1;
+}
+
+.social-icons li a {
+    display: block;
+    padding: 5px;
+    text-decoration: none;
+    color: #333;
+    cursor: pointer;
+}
+
+.social-icons li a:hover {
+    background-color: #f5f5f5;
+}
+
+@media (max-width: 768px) {
+    .author__urls-wrapper {
+        width: 100%;
+    }
+
+    .toggle-btn {
+        width: 100%;
+        box-sizing: border-box;
+        touch-action: manipulation;
+    }
+
+    .social-icons {
+        position: relative;
+        width: 100%;
+        left: 0;
+    }
+}
